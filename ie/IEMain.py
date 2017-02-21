@@ -1,12 +1,20 @@
-from IEAgents import *
+"""
+Entry point for the Information extraction component
+"""
 
-agents = []
-agents.append(CCIIEAgent.CCIIEAgent())
+__all__ = []
+__version__ = '0.1'
+__author__ = 'Tom Amon'
 
-def main():
+from ieagents import *
+
+def _main():
+	agents = []
+	agents.append(cci_ieagent.CCIIEAgent())
+	database = None
 
 	for agent in agents:
-		agent.refresh()
+		agent.refresh(database)
 
 if __name__ == "__main__":
-	main()
+	_main()
