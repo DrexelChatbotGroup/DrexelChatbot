@@ -9,9 +9,9 @@ __author__ = 'Tom Amon'
 import abc
 
 class IEAgent(object):
-	__metaclass__ = abc.ABCMeta
+    __metaclass__ = abc.ABCMeta
 
-	@abc.abstractmethod
-	def refresh(self, database):
-		"""refresh the database"""
-		return
+    @abc.abstractmethod
+    def refresh(self, database):
+        """refresh the database"""
+        return
