@@ -14,6 +14,6 @@ public class AppController {
 	
 	@RequestMapping("/chatbot")
 	public String index() {
-		return "index.html";
+		return "chat.html";
 	}
 }
