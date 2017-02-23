@@ -1,0 +1,86 @@
+Some of the important rules that I am copying from the Python code sytle guide.
+Full guide: https://www.python.org/dev/peps/pep-0008/
+
+If anyone has any other rules they would like to add, please do and then tell everyone
+
+
+
+Naming conventions: 
+Package names (folder names) should be all lowercase 
+
+Module names (file names) should be all lowercase, with underscores if need be
+
+Class names should use CapWords (camel case)
+
+Variables should use CapWords and short names
+
+Function names should be all lowercase, with underscores if need be
+
+
+
+Visibility:
+Use one leading underscore only for non-public methods and instance variables.
+(not really private though, its just convention)
+
+If your class is intended to be subclassed, and you have attributes that you 
+do not want subclasses to use, consider naming them with double leading 
+underscores and no trailing underscores. 
+
+Modules should explicitly declare the names in their public API using the __all__ attribute
+
+
+
+Blank lines:
+Surround top-level function and class definitions with two blank lines.
+
+Method definitions inside a class are surrounded by a single blank line.
+
+Extra blank lines may be used (sparingly) to separate groups of related 
+functions. Blank lines may be omitted between a bunch of related one-liners 
+(e.g. a set of dummy implementations).
+
+Use blank lines in functions, sparingly, to indicate logical sections.
+
+
+Doc Strings:
+Write docstrings for all public modules, functions, classes, and methods. 
+
+Docstrings are not necessary for non-public methods, but you should have a comment 
+that describes what the method does. This comment should appear after the def line.
+
+<Example>
+"""Return a foobang
+
+Optional plotz says to frobnicate the bizbaz first.
+"""
+</Example>
+
+
+
+Top of a file:
+You should have a doc string that explains the module, then set some "dunders", then do imports
+
+<Example>
+"""This is the example module.
+
+This module does stuff.
+"""
+
+__all__ = ['a', 'b', 'c']
+__version__ = '0.1'
+__author__ = 'Cardinal Biggles'
+
+import os
+import sys
+</Example>
+
+
+
+Misc:
+Spaces perferred over tabs for indentation
+
+Limit all lines to a maximum of 79 characters.
+
+For flowing long blocks of text with fewer structural restrictions (docstrings or comments), 
+the line length should be limited to 72 characters.
+
