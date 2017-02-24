@@ -1,4 +1,6 @@
 import re
+from chatbot.errors import BadQuestionException
+from chatbot.errors import BadAnswerException
 
 class GenericAnswerPopulation:
     def __init__(self, _genericAnswer, db):
@@ -33,6 +35,9 @@ class GenericAnswerPopulation:
         length = len(ans);
         for i in range(0,length):
             key = ans[i]
+            if not(key in dictionary):
+                print("[Error!!! when populating final answer]")
+                raise BadAnswerException()
             genericAnswer = genericAnswer.replace("(" + ans[i] + ")", dictionary[key])
         print("[final answer populated] " +  genericAnswer)
         return genericAnswer
@@ -48,6 +53,9 @@ class GenericAnswerPopulation:
         length = len(ans);
         for i in range(0,length):
             key = ans[i]
+            if not (key in dictionary):
+                print("[Error!!! when constructing query from generic query]")
+                raise BadQuestionException()
             query = query.replace("(" + ans[i] + ")", dictionary[key]);
         print("[query populated] " + query)
         return query
