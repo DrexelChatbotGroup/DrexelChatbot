@@ -1,6 +1,6 @@
 """
-Implementation of the IEAgent interface for the CCI faculty website 
-located here: http://drexel.edu/coas/faculty-research/faculty-directory/
+Implementation of the IEAgent interface for the College of Arts and Sciences
+faculty, located here: http://drexel.edu/coas/faculty-research/faculty-directory/
 
 Data is stored in an html table, with each person have a single row(tr).
 The data is stored in a complex way, with many nested div's and paragraphs.
@@ -18,7 +18,7 @@ Department
 
 """
 
-__all__ = ['CCIIEAgent']
+__all__ = ['CoasIEAgent']
 __version__ = '0.1'
 __author__ = 'Tom Amon'
 

@@ -1,6 +1,6 @@
 """
-Implementation of the IEAgent interface for the CCI faculty website 
-located here: http://drexel.edu/cci/contact/Faculty/
+Implementation of the IEAgent interface for the College of computing and
+infomatics faculty website, located here: http://drexel.edu/cci/contact/Faculty/
 
 Data is stored in an html table, with each person have a single row(tr).
 The data, very conviently, is all in their own div. So just going through 
@@ -15,7 +15,7 @@ Office
 
 """
 
-__all__ = ['CCIIEAgent']
+__all__ = ['CciIEAgent']
 __version__ = '0.1'
 __author__ = 'Tom Amon'
 
