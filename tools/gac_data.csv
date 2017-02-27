@@ -1,0 +1,42 @@
+Timestamp,Please enter a question,Potential generic question,Potential generic answer,ProfessorQuestion,InScope
+12/3/2016 12:03,When does winter break start?,When does $event start?,$event starts on $startdate.,no,yes
+12/3/2016 12:04,When does the DAC open?,When does $building open?,$building opens at $opentime.,no,yes
+12/3/2016 12:21,Where can I play squash?,Where can I play $sport?,$sport $environment is located in $building.,no,yes?
+12/3/2016 12:21,Tell me a joke.,Tell me a joke.,Okay! $joke.,no,no
+12/3/2016 12:27,How do you contact the Triangle?,How do you contact $organization?,$organization can be contacted at $contactinfo.,no,yes?
+12/3/2016 12:30,Where can I print in color?,Where can I $activity?,$activity can be performed in $buildinglist.,no,yes?
+1/15/2017 18:08,What is Rush's address?,What is $building address?,$building's address is $address.,no,yes
+1/15/2017 18:08,Where is Augenblick's office?,Where is $faculty's office?,$faculty's office is $room in $building,yes,yes
+1/15/2017 18:11,Where is Rush Building?,Where is $buliding building?,$building building is at $location.,no,yes
+1/19/2017 22:27,What is Professor Marcello Balduccinni's email address?,,,yes,yes
+1/19/2017 22:28,Where is Professor Marcello Balduccinni's office?,,,yes,yes
+1/19/2017 22:28,Who's office is at Rush 233C?,,,yes,yes
+1/19/2017 22:29,Where did Professor Marcello Balduccinni get his P.hd from?,,,yes,yes
+1/19/2017 22:29,Where did Marcello Balduccinni get his P.hd from?,,,yes,yes
+1/19/2017 22:30,Does Professor Marcello Balduccinni have a website?,,,yes,yes
+1/19/2017 22:30,Do you have Professor Marcello Balduccinni's website?,,,yes,yes
+1/19/2017 22:31,What professors do research in AI?,,,yes,no
+1/19/2017 22:33,What classes does Professor X teach?,,,yes,yes
+1/19/2017 22:33,Who is head of Computer Science Department?,,,yes,yes
+1/19/2017 22:33,Who is dean of Computer Science Department?,,,yes,yes
+1/19/2017 22:34,How many professors are there in CS department?,,,yes,yes
+1/19/2017 22:35,Can I get the address of Professor Marcello Balduccinni's office?,,,yes,yes
+1/24/2017 13:48,Who is Augenblick?,,,yes,yes
+1/24/2017 13:53,What classes does William Mongan teach?,,,yes,yes
+1/24/2017 13:53,What is David Augenblick's office?,,,yes,yes
+1/24/2017 13:53,Where is David Augenblicks' office?,,,yes,yes
+1/24/2017 13:53,Does Augenblick have a PhD,,,yes,yes
+1/24/2017 13:58,Does Mongan have a website?,,,yes,yes
+1/24/2017 13:57,Who is Dr. Exel?,,,yes,yes
+1/24/2017 13:58,What does Mongan look like?,,,yes,no
+1/24/2017 13:58,Show me Mongan's face.,,,yes,no
+1/24/2017 14:02,Why is Vokolos so nice?,,,yes,no
+1/25/2017 14:52,What is Mongan's area of research?,,,yes,yes
+1/25/2017 14:52,What does Mongan's face look like?,,,yes,no
+1/25/2017 14:52,What is Mongan's favorite color?,,,yes,no
+1/25/2017 15:11,What is the highest degree earned by Mongan?,,,yes,yes
+1/25/2017 15:11,Does Mongan like students using laptops in class?,,,yes,no
+1/29/2017 15:13,What is this quarter last date?,,,no,no
+1/29/2017 15:14,Who is the best professor in CS department?,,,yes,no
+1/29/2017 15:14,Which professors went to the same school?,,,yes,no
+1/29/2017 15:20,What class does Professor Moriety teach this quarter?,,,yes,no
