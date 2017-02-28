@@ -22,7 +22,7 @@ __author__ = 'Tom Amon'
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent
+from .ieagent import IEAgent, DatabaseRow
 
 
 class CciIEAgent(IEAgent):
@@ -48,7 +48,8 @@ class CciIEAgent(IEAgent):
             data = elems[i].select('div')
             data = list(map(lambda x: x.getText().strip(' \t\n\r'), data))
 
-            prof = _CciProfessor()
+            prof = DatabaseRow()
+
             prof.name = data[1]
             prof.title = data[2]
             prof.department = data[3]
@@ -62,26 +63,3 @@ class CciIEAgent(IEAgent):
     
         #TODO: Remove this when database in place
         database.close()
-
-
-class _CciProfessor():
-    name = ""
-    title = ""
-    department = ""
-    interests = ""
-    email = ""
-    phone = ""
-    office = ""
-
-    def store(self, database):
-        #TODO: Repalce will calls to store info in database
-        database.write("Name: %s\n" % self.name)
-        database.write("Title:  %s\n" % self.title)
-        database.write("Department:  %s\n" % self.department)
-        database.write("Interests:  %s\n" % self.interests)
-        database.write("Email:  %s\n" % self.email)
-        database.write("Phone:  %s\n" % self.phone)
-        database.write("Office:  %s\n" % self.office)
-        database.write("\n\n")
-
-

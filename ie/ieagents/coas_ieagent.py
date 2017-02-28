@@ -25,7 +25,7 @@ __author__ = 'Tom Amon'
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent
+from .ieagent import IEAgent, DatabaseRow
 
 
 class CoasIEAgent(IEAgent):
@@ -59,7 +59,8 @@ class CoasIEAgent(IEAgent):
             location_text = div_fcontact.contents[3].getText()
             location_list = location_text.split("\n")
 
-            prof = _CoasProfessor()
+            prof = DatabaseRow()
+
             if image is not None:
                 prof.picture = "http://drexel.edu" + image['src'].strip(' \t\n\r')
             prof.name = h2_fname_list[0].strip(' \t\n\r')
@@ -75,28 +76,3 @@ class CoasIEAgent(IEAgent):
     
         #TODO: Remove this when database in place
         database.close()
-
-
-class _CoasProfessor():
-    picture = ""
-    name = ""
-    degree = ""
-    title = ""
-    office = ""
-    email = ""
-    phone = ""
-    department = ""
-
-    def store(self, database):
-        #TODO: Repalce will calls to store info in database
-        database.write("Picture: %s\n" % self.picture)
-        database.write("Name: %s\n" % self.name)
-        database.write("Degree: %s\n" % self.degree)
-        database.write("Title:  %s\n" % self.title)
-        database.write("Office:  %s\n" % self.office)
-        database.write("Email:  %s\n" % self.email)
-        database.write("Phone:  %s\n" % self.phone)
-        database.write("Department:  %s\n" % self.department)
-        database.write("\n\n")
-
-
