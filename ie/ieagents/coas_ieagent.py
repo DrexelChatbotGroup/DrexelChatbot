@@ -70,7 +70,7 @@ class CoasIEAgent(IEAgent):
             prof.office = location_list[0]
             prof.email = location_list[1]
             prof.phone = location_list[2]
-            prof.department = data.find_all('td')[1].getText()
+            prof.department = data.find_all('td')[1].next_element
             
             prof.store(database)
     

@@ -1,7 +1,7 @@
 Name: Lloyd Ackert
 Property: 
 Title:  Associate Teaching Professor of History
-Department: Department of HistoryCenter for Science, Technology and Society
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -69,7 +69,7 @@ Interests:  215.571.4453
 Name: Peter Amato
 Property: 
 Title:  Director, Programs in Philosophy; Teaching Professor of Philosophy
-Department: Department of English and PhilosophyCenter for Science, Technology and Society
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
@@ -613,7 +613,7 @@ Interests:  (215) 895-6789
 Name: Robert Brulle
 Property: 
 Title:  Professor of Sociology and Environmental Science; Associate Professor of Public Health (School of PH)
-Department: Department of SociologyCenter for Science, Technology and Society
+Department: Department of Sociology
 Address: 
 Room: 
 Start time: 
@@ -783,7 +783,7 @@ Interests:  215.895.6111
 Name: George Ciccariello-Maher
 Property: 
 Title:  Associate Professor
-Department: Department of PoliticsDepartment of Global Studies and Modern Languages
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -919,7 +919,7 @@ Interests:  215.895.2668
 Name: Rose Corrigan
 Property: 
 Title:  Associate Professor
-Department: Department of PoliticsDepartment of Global Studies and Modern Languages
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -1089,7 +1089,7 @@ Interests:  215.895.6150
 Name: Richardson Dilworth
 Property: 
 Title:  Interim Department Head, Department of Politics; Director, Center for Public Policy; Professor
-Department: Department of PoliticsCenter for Public Policy
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -1157,7 +1157,7 @@ Interests:  215.895.6860
 Name: Robert D'Ovidio
 Property: 
 Title:  Associate Dean for Humanities and Social Science Research and Graduate Education; Associate Professor of Criminology and Justice Studies
-Department: Department of Criminology and Justice StudiesCenter for Science, Technology and Society
+Department: Department of Criminology and Justice Studies
 Address: 
 Room: 
 Start time: 
@@ -1242,7 +1242,7 @@ Interests:  215.895.6281
 Name: Mary Ebeling
 Property: 
 Title:  Director, Women's and Gender Studies; Associate Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media
-Department: Department of Global Studies and Modern LanguagesCenter for Science, Technology and SocietyDepartment of Sociology
+Department: Department of Global Studies and Modern Languages
 Address: 
 Room: 
 Start time: 
@@ -1633,7 +1633,7 @@ Interests:  215.571.4534
 Name: Marilyn Gaye Piety
 Property: 
 Title:  Professor of Philosophy
-Department: Department of English and PhilosophyDepartment of Global Studies and Modern Languages
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
@@ -1769,7 +1769,7 @@ Interests:
 Name: David Goldberg
 Property: 
 Title:  Associate Dean for Research & Graduate Education, Associate Department Head for Undergraduate Studies; Professor
-Department: Department of PhysicsAstrophysics
+Department: Department of Physics
 Address: 
 Room: 
 Start time: 
@@ -2279,7 +2279,7 @@ Interests:  215.895.2725
 Name: Christian Hunold
 Property: 
 Title:  Associate Professor
-Department: Department of PoliticsDepartment of Global Studies and Modern LanguagesCenter for Science, Technology and SocietyCenter for Public Policy
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -2330,7 +2330,7 @@ Interests:  215.895.0490
 Name: Gabriella Ibieta
 Property: 
 Title:  Associate Professor of English
-Department: Department of English and PhilosophyDepartment of Global Studies and Modern Languages
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
@@ -2483,7 +2483,7 @@ Interests:
 Name: Kelly Joyce
 Property: 
 Title:  Director, Center for Science, Technology & Society; Professor of Sociology
-Department: Center for Science, Technology and SocietyDepartment of Sociology
+Department: Center for Science, Technology and Society
 Address: 
 Room: 
 Start time: 
@@ -2619,7 +2619,7 @@ Interests:  215.895.6747
 Name: Alison Kenner
 Property: 
 Title:  Assistant Professor
-Department: Department of PoliticsCenter for Science, Technology and Society
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -2755,7 +2755,7 @@ Interests:  215.895.2433
 Name: Scott Knowles
 Property: 
 Title:  Interim Department Head; Associate Professor
-Department: Department of HistoryCenter for Science, Technology and Society
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -2772,7 +2772,7 @@ Interests:  215.895.2496
 Name: Emmanuel Koku
 Property: 
 Title:  Associate Professor of Communication; Graduate Faculty Member, Communication, Culture & Media
-Department: Department of SociologyDepartment of Global Studies and Modern Languages
+Department: Department of Sociology
 Address: 
 Room: 
 Start time: 
@@ -3248,7 +3248,7 @@ Interests:  215.405.5069
 Name: Brent Luvaas
 Property: 
 Title:  Associate Professor of Anthropology; Graduate Faculty Member, Communication, Culture & Media
-Department: Department of AnthropologyCenter for Science, Technology and Society
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -3486,7 +3486,7 @@ Interests:  215.895.2703
 Name: Stephen L.W. McMillan
 Property: 
 Title:  Department Head; Professor
-Department: Department of PhysicsAstrophysics
+Department: Department of Physics
 Address: 
 Room: 
 Start time: 
@@ -3554,7 +3554,7 @@ Interests:  (215) 895-6854
 Name: Usha Menon
 Property: 
 Title:  Professor of Anthropology
-Department: Department of AnthropologyDepartment of Global Studies and Modern Languages
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -3758,7 +3758,7 @@ Interests:  215.895.2668
 Name: Julie Mostov
 Property: 
 Title:  Vice Provost for Global Initiatives
-Department: Department of PoliticsDepartment of Global Studies and Modern Languages
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -3928,7 +3928,7 @@ Interests:  215.895.2440
 Name: Michael O'Connor
 Property: 
 Title:  Associate Professor, Department of Biodiversity, Earth & Environmental Science
-Department: Department of Biodiversity, Earth and Environmental ScienceDepartment of Biology
+Department: Department of Biodiversity, Earth and Environmental Science
 Address: 
 Room: 
 Start time: 
@@ -3962,7 +3962,7 @@ Interests:  215.895.6241
 Name: Sean O'Donnell
 Property: 
 Title:  Associate Department Head, Department of Biodiversity, Earth & Environmental Science; Professor
-Department: Department of Biodiversity, Earth and Environmental ScienceDepartment of Biology
+Department: Department of Biodiversity, Earth and Environmental Science
 Address: 
 Room: 
 Start time: 
@@ -3979,7 +3979,7 @@ Interests:  215.571.4177
 Name: Joel Oestreich
 Property: 
 Title:  Director, Global Studies Major; Associate Professor
-Department: Department of Global Studies and Modern LanguagesDepartment of Politics
+Department: Department of Global Studies and Modern Languages
 Address: 
 Room: 
 Start time: 
@@ -4081,7 +4081,7 @@ Interests:  215.299.1188
 Name: Gwen Ottinger
 Property: 
 Title:  Associate Professor
-Department: Department of PoliticsCenter for Science, Technology and Society
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -4115,7 +4115,7 @@ Interests:  215.895.2621
 Name: Flavia Padovani
 Property: 
 Title:  Assistant Professor of Philosophy
-Department: Department of English and PhilosophyCenter for Science, Technology and Society
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
@@ -4149,7 +4149,7 @@ Interests:  215.895.1957
 Name: Rakhmiel Peltz
 Property: 
 Title:  Director, Judaic Studies Program; Professor of Sociolinguistics; Graduate Faculty Member, Communication, Culture & Media
-Department: Department of AnthropologyDepartment of Global Studies and Modern Languages
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -4319,7 +4319,7 @@ Interests:  215.895.2404
 Name: Abioseh Porter
 Property: 
 Title:  Professor of English; Editor, JALA, Journal of the African Literature Association
-Department: Department of English and PhilosophyDepartment of Global Studies and Modern Languages
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
@@ -4353,7 +4353,7 @@ Interests:  215.405.5068
 Name: Robert Powell
 Property: 
 Title:  Assistant Teaching Professor of Anthropology
-Department: Department of AnthropologyDepartment of Global Studies and Modern Languages
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -4421,7 +4421,7 @@ Interests:  215.571.3769
 Name: Rachel Reynolds
 Property: 
 Title:  Associate Professor of Anthropology; Graduate Faculty Member, Communication, Culture & Media
-Department: Department of AnthropologyDepartment of Global Studies and Modern Languages
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -4710,7 +4710,7 @@ Interests:
 Name: Jacob Russell
 Property: 
 Title:  Associate Professor
-Department: Department of BiologyDepartment of Biodiversity, Earth and Environmental Science
+Department: Department of Biology
 Address: 
 Room: 
 Start time: 
@@ -4829,7 +4829,7 @@ Interests:  215.895.6885
 Name: Tiago Saraiva
 Property: 
 Title:  Assistant Professor
-Department: Department of HistoryCenter for Science, Technology and Society
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -4982,7 +4982,7 @@ Interests:  215.895.2268
 Name: Jonathan Seitz
 Property: 
 Title:  Director of Undergraduate Studies; Associate Teaching Professor of History
-Department: Department of HistoryCenter for Science, Technology and Society
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -5016,7 +5016,7 @@ Interests:
 Name: Mimi Sheller
 Property: 
 Title:  Director, Center for Mobilities Research and Policy; Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media
-Department: Center for Mobilities, Research and PolicyDepartment of SociologyCenter for Science, Technology and Society
+Department: Center for Mobilities, Research and Policy
 Address: 
 Room: 
 Start time: 
@@ -5067,7 +5067,7 @@ Interests:  215.571.4335
 Name: Wesley Shumar
 Property: 
 Title:  Department Head, Anthropology; Professor; Graduate Faculty Member, Communication, Culture & Media
-Department: Department of AnthropologyDepartment of Global Studies and Modern Languages
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -5135,7 +5135,7 @@ Interests:  215.895.6484
 Name: Chloe Silverman
 Property: 
 Title:  Associate Professor
-Department: Department of PoliticsCenter for Science, Technology and Society
+Department: Department of Politics
 Address: 
 Room: 
 Start time: 
@@ -5186,7 +5186,7 @@ Interests:  215.553.7170
 Name: Amy Slaton
 Property: 
 Title:  Professor
-Department: Department of HistoryCenter for Science, Technology and Society
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -5237,7 +5237,7 @@ Interests:
 Name: Andrew Smith
 Property: 
 Title:  Associate Professor
-Department: Department of English and PhilosophyCenter for Science, Technology and Society
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
@@ -5577,7 +5577,7 @@ Interests:  215.895.2465
 Name: Judith Storniolo
 Property: 
 Title:  Teaching Professor of Anthropology
-Department: Department of AnthropologyDepartment of Global Studies and Modern Languages
+Department: Department of Anthropology
 Address: 
 Room: 
 Start time: 
@@ -5730,7 +5730,7 @@ Interests:  215.895.6956
 Name: Kristene Unsworth
 Property: 
 Title:  Assistant Professor, College of Computing and Informatics
-Department: Center for Science, Technology and SocietyCenter for Public Policy
+Department: Center for Science, Technology and Society
 Address: 
 Room: 
 Start time: 
@@ -6070,7 +6070,7 @@ Interests:  215.895.6828
 Name: Ezra Wood
 Property: 
 Title:  Associate Professor
-Department: College of Arts and SciencesDepartment of Chemistry
+Department: College of Arts and Sciences
 Address: 
 Room: 
 Start time: 
@@ -6155,7 +6155,7 @@ Interests:  215.895.2668
 Name: Alden Young
 Property: 
 Title:  Director of Africana Studies; Assistant Professor
-Department: Department of HistoryDepartment of Global Studies and Modern Languages
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -6206,7 +6206,7 @@ Interests:  215.895.2722
 Name: Michael Yudell
 Property: 
 Title:  Associate Professor, School of Public Health; Affiliated Faculty, Department of History
-Department: Department of HistoryCenter for Science, Technology and Society
+Department: Department of History
 Address: 
 Room: 
 Start time: 
@@ -6223,7 +6223,7 @@ Interests:  215.762.6515
 Name: Jennifer Yusin
 Property: 
 Title:  Associate Professor of English
-Department: Department of English and PhilosophyDepartment of Global Studies and Modern Languages
+Department: Department of English and Philosophy
 Address: 
 Room: 
 Start time: 
