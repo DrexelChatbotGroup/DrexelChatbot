@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 import abc
 from .ieagent import IEAgent, DatabaseRow
 
-
+    
 class CciIEAgent(IEAgent):
 
     _link = "http://drexel.edu/cci/contact/Faculty/"
@@ -46,7 +46,7 @@ class CciIEAgent(IEAgent):
         elems = soup.select('tr')
         for i in range(1, len(elems)):
             data = elems[i].select('div')
-            data = list(map(lambda x: x.getText().strip(' \t\n\r'), data))
+            data = list(map(lambda x: x.getText(), data))
 
             prof = DatabaseRow()
 
@@ -55,11 +55,13 @@ class CciIEAgent(IEAgent):
             prof.department = data[3]
             prof.interests = data[4].split(':')[1]
             prof.email = data[5].split(":")[1]
-            if data[6]:
+            if not data[6].isspace():
                 prof.phone = data[6].split(":")[1]
-            if data[7]:
+            if not data[7].isspace():
                 prof.office = data[7].split(":")[1]
+
             prof.store(database)
     
         #TODO: Remove this when database in place
         database.close()
+

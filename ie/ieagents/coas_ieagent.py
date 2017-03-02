@@ -62,15 +62,15 @@ class CoasIEAgent(IEAgent):
             prof = DatabaseRow()
 
             if image is not None:
-                prof.picture = "http://drexel.edu" + image['src'].strip(' \t\n\r')
-            prof.name = h2_fname_list[0].strip(' \t\n\r')
+                prof.picture = "http://drexel.edu" + image['src']
+            prof.name = h2_fname_list[0]
             if len(h2_fname_list) > 1:
-                prof.degree = h2_fname_list[1].strip(' \t\n\r')
-            prof.title = div_fcontact.contents[1].getText().strip(' \t\n\r')
-            prof.office = location_list[0].strip(' \t\n\r')
-            prof.email = location_list[1].strip(' \t\n\r')
-            prof.phone = location_list[2].strip(' \t\n\r')
-            prof.department = data.find_all('td')[1].getText().strip(' \t\n\r')
+                prof.degree = h2_fname_list[1]
+            prof.title = div_fcontact.contents[1].getText()
+            prof.office = location_list[0]
+            prof.email = location_list[1]
+            prof.phone = location_list[2]
+            prof.department = data.find_all('td')[1].getText()
             
             prof.store(database)
     
