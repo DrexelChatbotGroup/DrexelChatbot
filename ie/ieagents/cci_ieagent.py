@@ -58,7 +58,7 @@ class CciIEAgent(IEAgent):
             if not data[6].isspace():
                 prof.phone = data[6].split(":")[1]
             if not data[7].isspace():
-                prof.office = data[7].split(":")[1]
+                prof.room = data[7].split(":")[1]
 
             prof.store(database)
     
