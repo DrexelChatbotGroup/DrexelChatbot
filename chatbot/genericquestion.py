@@ -1,3 +1,3 @@
 class GenericQuestion(object):
-	paddedQuestion = ""
-	repList = {}
+	paddedquestion = ""
+	rep_list = {}

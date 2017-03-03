@@ -5,7 +5,8 @@ from .chatbot.postag import NLTKPOSTag
 class TestGqcMethods(unittest.TestCase):
 
 	def test_getpostag(self):
-		tag_list = getpostag("sample question")
+		postag = NLTKPOSTag()
+		tag_list = postag.getpostag("sample question")
 		self.assertEqual(tag_list[0][1], 'JJ')
 		self.assertEqual(tag_list[0][0], 'sample')
 		self.assertEqual(tag_list[1][1], 'NN')

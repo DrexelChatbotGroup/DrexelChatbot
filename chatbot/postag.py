@@ -1,13 +1,15 @@
 import abc
+import nltk
 
-class POSTag(object, metaclass = abc.ABCMeta):
+class POSTag(object):
+	__metaclass__ = abc.ABCMeta
+
 	@abc.abstractmethod
 	def getpostag(self, question):
-		raise NotImplementedError('getPOSTag() method not implemented')
+		return
 
 class NLTKPOSTag(POSTag):
-	import nltk
 	def getpostag(self, question):
-		tokens = word_tokenize(question)
-		tagged = pos_tag(tokens)
+		tokens = nltk.word_tokenize(question)
+		tagged = nltk.pos_tag(tokens)
 		return tagged
