@@ -12,6 +12,7 @@ def _main():
     agents = []
     agents.append(cci_ieagent.CciIEAgent())
     agents.append(coas_ieagent.CoasIEAgent())
+    agents.append(lebow_ieagent.LebowIEAgent())
     database = None
 
     for agent in agents:

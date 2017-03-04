@@ -12,7 +12,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Lloyd2010.ashx?h=150&la=en&w=122&hash=97C5A48C939136B0709BC266A1D8129E49286730
 Publications:  
 Phone:  215.895.0993
-Interests:  215.895.0993
+Interests:  
 
 
 Name: Anthony W. Addison
@@ -29,7 +29,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/AAddisonicon.ashx?h=150&la=en&w=125&hash=B65D5232466D86929AFEA132B2D9261F78D60F91
 Publications:  
 Phone:  215.895.2646
-Interests:  215.895.2646
+Interests:  
 
 
 Name: Stacey Ake
@@ -46,7 +46,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Ake.ashx?h=150&la=en&w=125&hash=208559F21143888F2CA984200D0E153D387074D1
 Publications:  
 Phone:  215.895.6819
-Interests:  215.895.6819
+Interests:  
 
 
 Name: Michael Akins
@@ -63,7 +63,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/akins_michael.ashx?h=150&la=en&w=125&hash=577331E95B65551F3F08490426A88821FEF4BEB0
 Publications:  
 Phone:  215.571.4453
-Interests:  215.571.4453
+Interests:  
 
 
 Name: Peter Amato
@@ -80,7 +80,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/amato.ashx?h=150&la=en&w=125&hash=172C30C00D0D2014E98827D55C319F96AE7843D6
 Publications:  
 Phone:  215.895.1353
-Interests:  215.895.1353
+Interests:  
 
 
 Name: David M. Ambrose
@@ -97,7 +97,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/david-ambrose.ashx?h=150&la=en&w=125&hash=4638B64C8262FBF3192A38F39526DB0BA11336E2
 Publications:  
 Phone:  215.895.6247
-Interests:  215.895.6247
+Interests:  
 
 
 Name: Shivanthi Anandan
@@ -114,7 +114,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/anandan-shivanthi.ashx?h=150&la=en&w=125&hash=A65DAE8E4E1F09333D2AD76BEA90EFA08C9E2629
 Publications:  
 Phone:  215.895.2631
-Interests:  215.895.2631
+Interests:  
 
 
 Name: Alexey Aprelev
@@ -131,7 +131,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/aprelev-alexey.ashx?h=150&la=en&w=125&hash=9A60E8CB58CFB3B2291334D9C1AE91DD9CD10B65
 Publications:  
 Phone:  215.895.2716
-Interests:  215.895.2716
+Interests:  
 
 
 Name: Jason S. Aran
@@ -148,7 +148,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jason-aran.ashx?h=150&la=en&w=125&hash=D50723A6526F42AD700F44D77A6E1A6734F91A56
 Publications:  
 Phone:  215.571.3585
-Interests:  215.571.3585
+Interests:  
 
 
 Name: Loren Argabright
@@ -182,7 +182,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ArmonJan.ashx?h=150&la=en&w=125&hash=5B14954D56D90F22A75C051C84CD32E462C39309
 Publications:  
 Phone:  215.895.1961
-Interests:  215.895.1961
+Interests:  
 
 
 Name: Valarie Arms
@@ -199,7 +199,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/arms.ashx?h=150&la=en&w=125&hash=1EF534EB506D7A32327F06862CC48A5329183CCB
 Publications:  
 Phone:  215.895.2444
-Interests:  215.895.2444
+Interests:  
 
 
 Name: Richard Astro
@@ -233,7 +233,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ayoub_phillip_web.ashx?h=150&la=en&w=125&hash=CD27BE0386489C210427FEDB06F2F5BDF20263AA
 Publications:  
 Phone:  215.895.2495
-Interests:  215.895.2495
+Interests:  
 
 
 Name: Jesse Ballenger
@@ -267,7 +267,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Scottbarclay.ashx?h=149&la=en&w=125&hash=120E06D68296B307CEB4B613F1F8E82F750B4434
 Publications:  
 Phone:  215.895.2464
-Interests:  215.895.2464
+Interests:  
 
 
 Name: Susan Bell
@@ -284,7 +284,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bell-susan.ashx?h=150&la=en&w=125&hash=44DF1A458EA25E114B66E74BC91432D2A5294BBC
 Publications:  
 Phone:  215.571.3266
-Interests:  215.571.3266
+Interests:  
 
 
 Name: Joseph Bentz
@@ -301,7 +301,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bentz_joseph.ashx?h=150&la=en&w=125&hash=9709210292973D6B1685D966054686EA707D96F6
 Publications:  
 Phone:  215.895.1513
-Interests:  215.895.1513
+Interests:  
 
 
 Name: Donald Bersoff
@@ -318,7 +318,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bersoff_donald.ashx?h=150&la=en&w=125&hash=EE194A11CCCC91D8B0D03199F1EB288495A1151B
 Publications:  
 Phone:  215.571.4819
-Interests:  215.571.4819
+Interests:  
 
 
 Name: John Bethea
@@ -335,7 +335,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bethea_john.ashx?h=150&la=en&w=125&hash=02563EBF76E9F8853D60B1F99381A519D97E6184
 Publications:  
 Phone:  215.895.2624
-Interests:  215.895.2624
+Interests:  
 
 
 Name: Debjani Bhattacharyya
@@ -352,7 +352,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bhattacharyya_debjani.ashx?h=150&la=en&w=125&hash=02850CB234AC9B72DF34872351CBCFAD27A20A24
 Publications:  
 Phone:  215.895.0992
-Interests:  215.895.0992
+Interests:  
 
 
 Name: Walter F. Bien
@@ -369,7 +369,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bien.ashx?h=150&la=en&w=125&hash=9ACB981D38E6E9CC7C8013171B04BD5179E3B5CD
 Publications:  
 Phone:  215.895.2266
-Interests:  215.895.2266
+Interests:  
 
 
 Name: Kenneth Bingham
@@ -386,7 +386,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bingham.ashx?h=150&la=en&w=125&hash=DC230387D8A9801377E6D67EB9461865234B1B56
 Publications:  
 Phone:  215.895.1961
-Interests:  215.895.1961
+Interests:  
 
 
 Name: Ronald Bishop
@@ -403,7 +403,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Bishop_Ronald_02.ashx?h=150&la=en&w=125&hash=6815335E452965A5783F3586AD57FBE9AB993D53
 Publications:  
 Phone:  215.895.1823
-Interests:  215.895.1823
+Interests:  
 
 
 Name: Carolyn Bitzer
@@ -420,7 +420,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bitzer_carolyn.ashx?h=150&la=en&w=125&hash=38BDF40CF092DED919215176AF4BA3729BAF6541
 Publications:  
 Phone:  215.895.1863
-Interests:  215.895.1863
+Interests:  
 
 
 Name: Jonah Blasiak
@@ -437,7 +437,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jonah-blasiak.ashx?h=150&la=en&w=125&hash=CCE1D1CB0A0BBC9D9CED551DB662C9E131458A22
 Publications:  
 Phone:  215.895.6217
-Interests:  215.895.6217
+Interests:  
 
 
 Name: Joan Blumberg
@@ -454,7 +454,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Blumberg_Joan.ashx?h=150&la=en&w=125&hash=D498AFB8D602495548224AD1F81CC65E23FB3BD3
 Publications:  
 Phone:  215.895.6351
-Interests:  215.895.6351
+Interests:  
 
 
 Name: Cathy Bolton
@@ -471,7 +471,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bolton_cathy.ashx?h=150&la=en&w=125&hash=DBBA3B9390ABD675B8F229F1350E161984ABA2DF
 Publications:  
 Phone:  215.571.3928
-Interests:  215.571.3928
+Interests:  
 
 
 Name: Valerie Booth
@@ -488,7 +488,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/booth.ashx?h=150&la=en&w=125&hash=44170114ADED92E3D1A6A7B9E2E6B61A1A10B30A
 Publications:  
 Phone:  215.895.2583
-Interests:  215.895.2583
+Interests:  
 
 
 Name: Shyamalendu Bose
@@ -505,7 +505,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/shyamalendu_bose.ashx?h=166&la=en&w=125&hash=A6D9AE24AA63CFC8EFA90DA1017014A608028867
 Publications:  
 Phone:  215.895.2718
-Interests:  215.895.2718
+Interests:  
 
 
 Name: Robert P. Boyer
@@ -522,7 +522,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/robert-boyer.ashx?h=150&la=en&w=125&hash=0134E1510BE8F8459583712469C84C1B7F7D18CF
 Publications:  
 Phone:  215.895.1854
-Interests:  215.895.1854
+Interests:  
 
 
 Name: Hon. Brendan Boyle
@@ -556,7 +556,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/bracchi-ricard-valerie.ashx?h=150&la=en&w=125&hash=F3321337D01252981B153357DDB3171CF647DA20
 Publications:  
 Phone:  215.571.3785
-Interests:  215.571.3785
+Interests:  
 
 
 Name: Raymond Brebach
@@ -573,7 +573,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/brebach3.ashx?h=150&la=en&w=125&hash=FCDB355E5CFB8864DB7F67008C84BCA3E36F34DA
 Publications:  
 Phone:  215.895.2446
-Interests:  215.895.2446
+Interests:  
 
 
 Name: Eric Brewe
@@ -590,7 +590,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/brewe-eric.ashx?h=150&la=en&w=125&hash=8784223913EC026C36B176430E86DB9A2974441F
 Publications:  
 Phone:  215.895.2779
-Interests:  215.895.2779
+Interests:  
 
 
 Name: Eric Dorn Brose
@@ -607,7 +607,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Brosepic.ashx?h=150&la=en&w=123&hash=340630B673BF49B56931F73C24BBC38217B441BF
 Publications:  
 Phone:  (215) 895-6789
-Interests:  (215) 895-6789
+Interests:  
 
 
 Name: Robert Brulle
@@ -624,7 +624,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/brulle_robert.ashx?h=150&la=en&w=125&hash=DD3A2E194BB20BBF7073CE77C922B44E9E1E80AA
 Publications:  
 Phone:  215.895.2294
-Interests:  215.895.2294
+Interests:  
 
 
 Name: Robert Busby
@@ -658,7 +658,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/butryn_meghan.ashx?h=150&la=en&w=125&hash=D7014F562093FDA651D246E996B6D7723BCB4AEA
 Publications:  
 Phone:  215.553.7108
-Interests:  215.553.7108
+Interests:  
 
 
 Name: Zoltán Búzás
@@ -675,7 +675,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Buzas_Zoltan.ashx?h=139&la=en&w=125&hash=5C844F0A8AE0F418B5E3DFC1E118CD3242563EC9
 Publications:  
 Phone:  215.895.2477
-Interests:  215.895.2477
+Interests:  
 
 
 Name: André Carrington
@@ -692,7 +692,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/carrington.ashx?h=150&la=en&w=125&hash=DC3FE8E99D0A8D50A8D7248501BFC5A035F72667
 Publications:  
 Phone:  215.571.4344
-Interests:  215.571.4344
+Interests:  
 
 
 Name: Jacques Catudal
@@ -709,7 +709,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.2719
-Interests:  215.895.2719
+Interests:  
 
 
 Name: Anne Cecil
@@ -726,7 +726,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/cecil_anne_web.ashx?h=150&la=en&w=125&hash=909A6584C4C086A4B8EE5AC25F5309B1F0C256AF
 Publications:  
 Phone:  215.895.0361
-Interests:  215.895.0361
+Interests:  
 
 
 Name: Dorothy Charbonnier
@@ -743,7 +743,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/charbonnier_dorothy.ashx?h=150&la=en&w=125&hash=0DD94EBCBCA2315AE7F3CB8C558034B6BFB3C338
 Publications:  
 Phone:  215.571.4407
-Interests:  215.571.4407
+Interests:  
 
 
 Name: Don F. Charles
@@ -760,7 +760,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/charles_don_02.ashx?h=150&la=en&w=125&hash=3F420270E32F9A4EE4E937173936FE389C20B743
 Publications:  
 Phone:  215.299.1090
-Interests:  215.299.1090
+Interests:  
 
 
 Name: Douglas Chute
@@ -777,7 +777,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/chute_douglas.ashx?h=150&la=en&w=125&hash=F063F1EFE144C3B749436EA60DF9C85084307992
 Publications:  
 Phone:  215.895.6111
-Interests:  215.895.6111
+Interests:  
 
 
 Name: George Ciccariello-Maher
@@ -794,7 +794,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ciccariello_maher.ashx?h=150&la=en&w=125&hash=4FB89BAF27C2D476C1E39EE9EBAEEB9303DF1B73
 Publications:  
 Phone:  215.895.1017
-Interests:  215.895.1017
+Interests:  
 
 
 Name: Patrick Clarke
@@ -811,7 +811,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/patrick-clarke.ashx?h=150&la=en&w=125&hash=E47E432C9EAA4C23DCDDE323A272F645734E46CB
 Publications:  
 Phone:  215.571.3584
-Interests:  215.571.3584
+Interests:  
 
 
 Name: Rebecca Clothey
@@ -828,7 +828,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Rebecca Clothey.ashx?h=150&la=en&w=125&hash=60866DD5552B04FA7967B04C3C73F047231603B2
 Publications:  
 Phone:  215.895.5931
-Interests:  215.895.5931
+Interests:  
 
 
 Name: Jessica Cohen
@@ -845,7 +845,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/cohen-jessica.ashx?h=150&la=en&w=125&hash=6323D8AF1067EF8F23FB3518374331B347329F5F
 Publications:  
 Phone:  215.895.0482
-Interests:  215.895.0482
+Interests:  
 
 
 Name: Paula Marantz Cohen
@@ -862,7 +862,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/cohen.ashx?h=150&la=en&w=125&hash=1CDF47FC4A18431788FBA6F64A000D3A778D8023
 Publications:  
 Phone:  215.895.1266
-Interests:  215.895.1266
+Interests:  
 
 
 Name: Ilker Colak
@@ -879,7 +879,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ilker-cola.ashx?h=180&la=en&w=150&hash=FA794584B5525FF5BEA77C5B8CC9EFBD2AAA0CEE
 Publications:  
 Phone:  215.895.6264
-Interests:  215.895.6264
+Interests:  
 
 
 Name: Carol Collier
@@ -913,7 +913,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/john-coppola.ashx?h=150&la=en&w=125&hash=A2C48BF0E58B730D780BF6BA0C88648387E884FA
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Rose Corrigan
@@ -930,7 +930,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Rose2010.ashx?h=150&la=en&w=125&hash=F8B2064A3CEAF19F1FA3C62881C1FD6B6A243249
 Publications:  
 Phone:  215.571.4736
-Interests:  215.571.4736
+Interests:  
 
 
 Name: Karen Cristiano
@@ -947,7 +947,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/cristiano_karen.ashx?h=150&la=en&w=125&hash=217613AB4BBC0CD8247333583768CD48A378F907
 Publications:  
 Phone:  215.895.2374
-Interests:  215.895.2374
+Interests:  
 
 
 Name: Jason Cross
@@ -964,7 +964,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jason-cross.ashx?h=150&la=en&w=125&hash=0F75F84D680134D4D13CD7716348E90E6AB8CE19
 Publications:  
 Phone:  215.895.2641
-Interests:  215.895.2641
+Interests:  
 
 
 Name: Luis Cruz Cruz
@@ -981,7 +981,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/luis_cruz_cruz.ashx?h=166&la=en&w=125&hash=218F58181266AE3DBEDA1DB3CB4FEE61133E5C06
 Publications:  
 Phone:  215.895.2739
-Interests:  215.895.2739
+Interests:  
 
 
 Name: Ted Daeschler
@@ -998,7 +998,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/daeschler_ted_web.ashx?h=150&la=en&w=125&hash=18E3F326239EBFA806499A308802178AF80C0C83
 Publications:  
 Phone:  215.299.1133
-Interests:  215.299.1133
+Interests:  
 
 
 Name: Brian P. Daly
@@ -1015,7 +1015,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/daly_brian.ashx?h=150&la=en&w=125&hash=480C91BCEB7FDB70B7C7B2C4A797BF0D80BAC927
 Publications:  
 Phone:  215.571.4252
-Interests:  215.571.4252
+Interests:  
 
 
 Name: Peter DeCarlo
@@ -1032,7 +1032,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas/news/thumbs/2014/DeCarlo.ashx?h=179&la=en&w=125&hash=D287033F8BFFB9DD0261C640A1BD125D3DEF07E8
 Publications:  
 Phone:  215.895.2345
-Interests:  215.895.2345
+Interests:  
 
 
 Name: David DeMatteo
@@ -1049,7 +1049,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dematteo_david.ashx?h=150&la=en&w=125&hash=3ECFAAD797E04787D658D081BCAB43108812C044
 Publications:  
 Phone:  215.553.7107
-Interests:  215.553.7107
+Interests:  
 
 
 Name: Albert DiBartolomeo
@@ -1066,7 +1066,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dibartolomeo.ashx?h=150&la=en&w=125&hash=C62FE4792291649269B781995B7A534E67533242
 Publications:  
 Phone:  215.895.1301
-Interests:  215.895.1301
+Interests:  
 
 
 Name: Ashley Dickinson
@@ -1083,7 +1083,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/dickinson-ashley.ashx?h=150&la=en&w=125&hash=FAA63BC5839D97F371835130C8F479AEBA278914
 Publications:  
 Phone:  215.895.6150
-Interests:  215.895.6150
+Interests:  
 
 
 Name: Richardson Dilworth
@@ -1100,7 +1100,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dilworth_richard-02.ashx?h=174&la=en&w=145&hash=B4A3EB527DEB3622DB91A7E78F11B456DF9A06AD
 Publications:  
 Phone:  215.895.2471
-Interests:  215.895.2471
+Interests:  
 
 
 Name: Lisa DiMaio
@@ -1134,7 +1134,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dinardo.ashx?h=150&la=en&w=125&hash=71FF2AFB6D62EB255558ADAFC63E55A266E155BE
 Publications:  
 Phone:  215.895.2510
-Interests:  215.895.2510
+Interests:  
 
 
 Name: Michelle Dolinski
@@ -1151,7 +1151,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dolinski-michelle.ashx?h=150&la=en&w=125&hash=8158A870DE3FB1CAB2C5512245F57E7888B30C25
 Publications:  
 Phone:  215.895.6860
-Interests:  215.895.6860
+Interests:  
 
 
 Name: Robert D'Ovidio
@@ -1168,7 +1168,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/COAS/staff/dovidio-robert2.ashx?h=150&la=en&w=125&hash=E273A36471198A77BC0EBA17D0D6B9AA5463406E
 Publications:  
 Phone:  215.895.1803
-Interests:  215.895.1803
+Interests:  
 
 
 Name: Dan Driscoll
@@ -1185,7 +1185,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/driscoll.ashx?h=150&la=en&w=125&hash=DB5BE3411E174DCAA12FA3F42BB62BE881F87C07
 Publications:  
 Phone:  215.571.3793
-Interests:  215.571.3793
+Interests:  
 
 
 Name: Daniel Duran
@@ -1202,7 +1202,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Duran.ashx?h=150&la=en&w=125&hash=7885954A985341619A2BB743C30E27D4189B1CAD
 Publications:  
 Phone:  215.895.6441
-Interests:  215.895.6441
+Interests:  
 
 
 Name: Laura Duwel
@@ -1219,7 +1219,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/duwel.ashx?h=150&la=en&w=125&hash=DDDB5CFA5EA31D5B55F0D1257488EEBCAB4BB47A
 Publications:  
 Phone:  215.895.2636
-Interests:  215.895.2636
+Interests:  
 
 
 Name: Brenda Dyer
@@ -1236,7 +1236,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dyer_brenda.ashx?h=150&la=en&w=125&hash=958B6D8649F55FB166E1A7F8D50A1CD9FCFA4A98
 Publications:  
 Phone:  215.895.6281
-Interests:  215.895.6281
+Interests:  
 
 
 Name: Mary Ebeling
@@ -1253,7 +1253,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ebeling_mary.ashx?h=150&la=en&w=125&hash=08B31D2C145FA045A3A3BF8E19FF579B335099DC
 Publications:  
 Phone:  215.895.6145
-Interests:  215.895.6145
+Interests:  
 
 
 Name: Felice Elefant
@@ -1270,7 +1270,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/elefant.ashx?h=150&la=en&w=125&hash=31CDE87D32F1BE8D3E95160FAC075DCD751DD7F5
 Publications:  
 Phone:  215.895.0220
-Interests:  215.895.0220
+Interests:  
 
 
 Name: Anne Erickson
@@ -1287,7 +1287,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.6833
-Interests:  215.895.6833
+Interests:  
 
 
 Name: Nomi Eve
@@ -1321,7 +1321,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/fafarman.ashx?h=128&la=en&w=117&hash=9E27CEAD4A80D239A58A6B8D8B3C8F2D6B07DE11
 Publications:  
 Phone:  215.895.5818
-Interests:  215.895.5818
+Interests:  
 
 
 Name: Daryl L. Falco
@@ -1338,7 +1338,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/daryl-falco.ashx?h=150&la=en&w=125&hash=295240594189660781E2096711D7317E80C629F5
 Publications:  
 Phone:  215.571.3585
-Interests:  215.571.3585
+Interests:  
 
 
 Name: Raymond J. Favocci
@@ -1355,7 +1355,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/raymond-favocci.ashx?h=150&la=en&w=125&hash=9775F84F74987A0FE5FFA1143009D837067CBDC8
 Publications:  
 Phone:  215.895.2851
-Interests:  215.895.2851
+Interests:  
 
 
 Name: Frank Ferrone
@@ -1372,7 +1372,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ferrone.ashx?h=150&la=en&w=125&hash=21E3D318FCA4D5EF9AF4246DF46AF8B14B4CD01F
 Publications:  
 Phone:  215.895.2778
-Interests:  215.895.2778
+Interests:  
 
 
 Name: Ewaugh Fields
@@ -1406,7 +1406,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/finegandirectory.ashx?h=150&la=en&w=125&hash=6438D3B51168BCA27582BEF5851AD3B2159FA711
 Publications:  
 Phone:  215.895.1961
-Interests:  215.895.1961
+Interests:  
 
 
 Name: Leonard Finegold
@@ -1423,7 +1423,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/leonard_finegold.ashx?h=166&la=en&w=125&hash=46E58376CA41AEB397D1068B3544EB648D60F2AC
 Publications:  
 Phone:  215.895.2740
-Interests:  215.895.2740
+Interests:  
 
 
 Name: Alexis Finger
@@ -1440,7 +1440,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/finger.ashx?h=150&la=en&w=125&hash=0F0148546D1795D26F59AC0DB9ABE30543CD80B7
 Publications:  
 Phone:  215.895.6818
-Interests:  215.895.6818
+Interests:  
 
 
 Name: Roman Fischer
@@ -1457,7 +1457,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/fischer-roman.ashx?h=150&la=en&w=125&hash=002162DFB05928B78F4B87BD7BF34248775CB786
 Publications:  
 Phone:  215.571.3785
-Interests:  215.571.3785
+Interests:  
 
 
 Name: Fraser Fleming
@@ -1474,7 +1474,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/fleming-fraser.ashx?h=150&la=en&w=125&hash=C74C77440D927C772B2B857A6C5DF5804796524C
 Publications:  
 Phone:  215.895.2644
-Interests:  215.895.2644
+Interests:  
 
 
 Name: Joe P. Foley
@@ -1491,7 +1491,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/foley-joe.ashx?h=150&la=en&w=125&hash=EA612D36026F9BA7CB8B70C0F97E42B3FFC048CC
 Publications:  
 Phone:  215.895.6218
-Interests:  215.895.6218
+Interests:  
 
 
 Name: Evan Forman
@@ -1508,7 +1508,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/forman_evan.ashx?h=150&la=en&w=125&hash=334A4C3B18639181269A79BCE62B31A9E121D9F0
 Publications:  
 Phone:  215.553.7113
-Interests:  215.553.7113
+Interests:  
 
 
 Name: Richard Forney
@@ -1525,7 +1525,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Forney_Richard.ashx?h=150&la=en&w=125&hash=51E45D8444083A21DCF90ABAAE86F8194344E744
 Publications:  
 Phone:  215.571.4334
-Interests:  215.571.4334
+Interests:  
 
 
 Name: Valerie Fox
@@ -1542,7 +1542,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/fox.ashx?h=150&la=en&w=125&hash=AD73A8192CB3A9C20F97069A7AECD64087CDF50E
 Publications:  
 Phone:  215.895.4364
-Interests:  215.895.4364
+Interests:  
 
 
 Name: Alexander Friedlander
@@ -1559,7 +1559,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/friedlander_alexander.ashx?h=150&la=en&w=125&hash=0EE70C86C52675EAFC201CE1B9F2DA4EB5291F6F
 Publications:  
 Phone:  215.895.2602
-Interests:  215.895.2602
+Interests:  
 
 
 Name: Edward Fristrom
@@ -1576,7 +1576,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/fristrom.ashx?h=150&la=en&w=125&hash=C9D8EA03FD6DAADADD6322EF4CB68069B54B26C0
 Publications:  
 Phone:  215.895.1824
-Interests:  215.895.1824
+Interests:  
 
 
 Name: David Fryer
@@ -1593,7 +1593,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.1408
-Interests:  215.895.1408
+Interests:  
 
 
 Name: Jennifer L. Gallo
@@ -1610,7 +1610,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/gallojenniferjpg.ashx?h=150&la=en&w=125&hash=38B706DB5417B58673ED12C5E57BF35C509817F3
 Publications:  
 Phone:  215.895.2805
-Interests:  215.895.2805
+Interests:  
 
 
 Name: Denise Garcia
@@ -1627,7 +1627,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/denise_garcia_small.ashx?h=150&la=en&w=125&hash=213CADC32206F58F99CB882F0E8F7D3163ED13D7
 Publications:  
 Phone:  215.571.4534
-Interests:  215.571.4534
+Interests:  
 
 
 Name: Marilyn Gaye Piety
@@ -1644,7 +1644,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/piety.ashx?h=150&la=en&w=125&hash=82AEC3AED6094B2B950194CA94E495E4FA3E27C3
 Publications:  
 Phone:  215.895.2879
-Interests:  215.895.2879
+Interests:  
 
 
 Name: Jon Gelhaus
@@ -1661,7 +1661,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/gelhaus_jon.ashx?h=150&la=en&w=125&hash=4DEB4D7823F9CAE4F594D5CBBC36FE2D4FBDCD36
 Publications:  
 Phone:  215.299.1141
-Interests:  215.299.1141
+Interests:  
 
 
 Name: Pamela Geller
@@ -1678,7 +1678,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/geller_pamela.ashx?h=150&la=en&w=125&hash=F2707E63DE1D716647C057A5D7E06D23D6F3CF82
 Publications:  
 Phone:  215.553.7117
-Interests:  215.553.7117
+Interests:  
 
 
 Name: Maureen Gibney
@@ -1695,7 +1695,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/gibney_maureen.ashx?h=150&la=en&w=125&hash=ACD03F1CFEC19E54D2B87DE7D228B3788530B589
 Publications:  
 Phone:  215.895.6104
-Interests:  215.895.6104
+Interests:  
 
 
 Name: Tali Gidalevitz
@@ -1712,7 +1712,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Gidalevitz.ashx?h=150&la=en&w=125&hash=A0FEC2DBFAC210EEA24EDF9B422649D11B118B3B
 Publications:  
 Phone:  215.571.4219
-Interests:  215.571.4219
+Interests:  
 
 
 Name: Harold D. Gilman
@@ -1729,7 +1729,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/harold-gilman.ashx?h=150&la=en&w=125&hash=421CA7A5C8DF5BCDE0499D76BF2179FE50DEA68E
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Robert Gilmore
@@ -1746,7 +1746,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/robert_gilmore.ashx?h=166&la=en&w=125&hash=B2214A19FDB8FF7BB15E52EAF650AEBA252A197D
 Publications:  
 Phone:  215.895.2779
-Interests:  215.895.2779
+Interests:  
 
 
 Name: William Goh
@@ -1780,7 +1780,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/goldberg_dave.ashx?h=150&la=en&w=125&hash=5D87FA53B1EBA5E6771EF723751BC631CB2B06A8
 Publications:  
 Phone:  215.895.2715
-Interests:  215.895.2715
+Interests:  
 
 
 Name: Naomi E. Goldstein
@@ -1797,7 +1797,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/naomi-goldstein.ashx?h=150&la=en&w=125&hash=84AF34E57E2724AA1CD3DC5719F6D2B893E0E47D
 Publications:  
 Phone:  215.571.4299
-Interests:  215.571.4299
+Interests:  
 
 
 Name: Mary Katherine Gonder
@@ -1814,7 +1814,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/gonder_mary.ashx?h=150&la=en&w=125&hash=9DBD977631BF793EA1DDC9FF375273F7024A8F82
 Publications:  
 Phone:  215.571.4638
-Interests:  215.571.4638
+Interests:  
 
 
 Name: Cecilie Goodrich
@@ -1831,7 +1831,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/goodrich.ashx?h=150&la=en&w=125&hash=8D9CF8FB39C68EBBD1FF06351C399FDB2710563A
 Publications:  
 Phone:  215.895.2626
-Interests:  215.895.2626
+Interests:  
 
 
 Name: June K. Gordon
@@ -1848,7 +1848,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/no-photo-available.ashx?h=150&la=en&w=125&hash=04B0E5393FBA75D76C47C9A9BEC4172E5BCE76B5
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Erin Graham
@@ -1865,7 +1865,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ErinGraham.ashx?h=150&la=en&w=123&hash=1B582A7484B4F4496DAB33563B603D36FEA408AD
 Publications:  
 Phone:  215.571.4448
-Interests:  215.571.4448
+Interests:  
 
 
 Name: Pavel Grinfeld
@@ -1882,7 +1882,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/pavel-grinfeld.ashx?h=150&la=en&w=125&hash=F4DADFC9C7B1F80270DE69747A9FECFCFD4B8B80
 Publications:  
 Phone:  215.895.1291
-Interests:  215.895.1291
+Interests:  
 
 
 Name: Anatolii Grinshpan
@@ -1899,7 +1899,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/anatolii-grinshpan.ashx?h=150&la=en&w=125&hash=84FBA409A73798383DFEADE7ADB4DA8F884BA99C
 Publications:  
 Phone:  215.895.4979
-Interests:  215.895.4979
+Interests:  
 
 
 Name: Patricia Grosse
@@ -1916,7 +1916,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/grosse-patricia.ashx?h=150&la=en&w=125&hash=A941C1A1DD535F65A03C7FEBF7025E63756CAFAA
 Publications:  
 Phone:  215.895.2431
-Interests:  215.895.2431
+Interests:  
 
 
 Name: Yixin Guo
@@ -1933,7 +1933,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/yixin-guo.ashx?h=150&la=en&w=125&hash=455F971AA3646C650D99022A0D4959038897BE66
 Publications:  
 Phone:  215.895.2581
-Interests:  215.895.2581
+Interests:  
 
 
 Name: Susan Gurney
@@ -1950,7 +1950,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Gurney.ashx?h=150&la=en&w=125&hash=C01859924CD6B0D24C8A76C23FEE9859829A1299
 Publications:  
 Phone:  215.895.5802
-Interests:  215.895.5802
+Interests:  
 
 
 Name: Julia Hagemann May
@@ -1967,7 +1967,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hagemann-may.ashx?h=150&la=en&w=125&hash=8129B2C362FF356294A70DA064F5B50765B9E102
 Publications:  
 Phone:  215.895.5804
-Interests:  215.895.5804
+Interests:  
 
 
 Name: Ernest Hakanen
@@ -1984,7 +1984,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Hakanen_Ernest.ashx?h=150&la=en&w=125&hash=8596600EDC5E018F79F362295D7635F53A50A4F3
 Publications:  
 Phone:  215.895.1354
-Interests:  215.895.1354
+Interests:  
 
 
 Name: Keunah Han
@@ -2001,7 +2001,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Han-Keunah.ashx?h=150&la=en&w=125&hash=95596C047321DFBA153101903DF5D481E8D4B68F
 Publications:  
 Phone:  215.895.6819
-Interests:  215.895.6819
+Interests:  
 
 
 Name: Nathan Hanna
@@ -2018,7 +2018,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hanna.ashx?h=150&la=en&w=125&hash=D4F56BAF00F9185FB6362C59DD66F7428BFDFAC3
 Publications:  
 Phone:  215.895.6124
-Interests:  215.895.6124
+Interests:  
 
 
 Name: Richard Haracz
@@ -2035,7 +2035,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/richard_haracz.ashx?h=166&la=en&w=125&hash=EFBF695BE6466D281DFF95D34774C2029A5BD5F1
 Publications:  
 Phone:  215.895.2043
-Interests:  215.895.2043
+Interests:  
 
 
 Name: Maher Harb
@@ -2052,7 +2052,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/harb-maher.ashx?h=150&la=en&w=125&hash=C5393D083E38AECC500F1890E7F52216BD7D7430
 Publications:  
 Phone:  215.895.1985
-Interests:  215.895.1985
+Interests:  
 
 
 Name: Kirk Heilbrun
@@ -2069,7 +2069,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/heilbrun_kirk.ashx?h=150&la=en&w=125&hash=D9D56B40A7FDA97EBCFE23FC7A150D0995D79155
 Publications:  
 Phone:  215.553.7109
-Interests:  215.553.7109
+Interests:  
 
 
 Name: Claire Herbert
@@ -2086,7 +2086,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/herbert-claire.ashx?h=150&la=en&w=125&hash=7940B50DF973C1C75DB47050766362DC244A4F45
 Publications:  
 Phone:  215.895.3265
-Interests:  215.895.3265
+Interests:  
 
 
 Name: James Herbert
@@ -2103,7 +2103,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/herbert_james_02.ashx?h=150&la=en&w=125&hash=BD1DF32E80D8FFC6DAA590F8E4E3A961A9794D65
 Publications:  
 Phone:  215.895.2285
-Interests:  215.895.2285
+Interests:  
 
 
 Name: Thomas Hewett
@@ -2120,7 +2120,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hewett_thomas.ashx?h=150&la=en&w=125&hash=9BB88C4B6E36D30F4BE362C165086BD98B74F429
 Publications:  
 Phone:  215.895.2461
-Interests:  215.895.2461
+Interests:  
 
 
 Name: R. Andrew Hicks
@@ -2137,7 +2137,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/andrew-hicks.ashx?h=150&la=en&w=125&hash=9F74B180F5C58A533025D1C3FBE852F58AF9DC4D
 Publications:  
 Phone:  215.895.2681
-Interests:  215.895.2681
+Interests:  
 
 
 Name: Cassandra Hirsch
@@ -2154,7 +2154,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hirsch.ashx?h=150&la=en&w=125&hash=F506CE2BD1D49CE722CEE466079CE1B04B42E9C3
 Publications:  
 Phone:  (215) 571-4528
-Interests:  (215) 571-4528
+Interests:  
 
 
 Name: Pawel Hitczenko
@@ -2171,7 +2171,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/pawel-hitczenko.ashx?h=150&la=en&w=125&hash=50E2C7AAEB8880888587996541C5F0D73BBA7C74
 Publications:  
 Phone:  215.895.2622
-Interests:  215.895.2622
+Interests:  
 
 
 Name: Barbara Hoekje
@@ -2188,7 +2188,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hoekje_barbara.ashx?h=150&la=en&w=125&hash=3187368A16945059CCE765BCB16EAEA75027DBC3
 Publications:  
 Phone:  215.571.3569
-Interests:  215.571.3569
+Interests:  
 
 
 Name: Lee Hoffman
@@ -2205,7 +2205,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Lee Hoffman.ashx?h=150&la=en&w=125&hash=4ADCCAFD1B9E55D307886AEF39C9AE6BDCE5E59D
 Publications:  
 Phone:  215.895.1784
-Interests:  215.895.1784
+Interests:  
 
 
 Name: Amelia Hoover Green
@@ -2222,7 +2222,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Amelia HG.ashx?h=150&la=en&w=123&hash=D706D6491E077492EE02469DB675714EA8821C06
 Publications:  
 Phone:  215.571.4447
-Interests:  215.571.4447
+Interests:  
 
 
 Name: Barbara Hornum
@@ -2239,7 +2239,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Hornum_Barbara.ashx?h=150&la=en&w=125&hash=B8205AD1DC9FCE06A733A12C9065DBD026CC5DE9
 Publications:  
 Phone:  215.895.4904
-Interests:  215.895.4904
+Interests:  
 
 
 Name: Richard Horwitz
@@ -2256,7 +2256,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/horwitz_richard_web.ashx?h=150&la=en&w=125&hash=30AEB210B0264247F0408FA901163CF9924459CF
 Publications:  
 Phone:  215.299.1092
-Interests:  215.299.1092
+Interests:  
 
 
 Name: Frederick House
@@ -2273,7 +2273,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/frederick_house.ashx?h=166&la=en&w=125&hash=3FB55BF8DC0E579889CB4A014C0CA6FEE80EFF56
 Publications:  
 Phone:  215.895.2725
-Interests:  215.895.2725
+Interests:  
 
 
 Name: Christian Hunold
@@ -2290,7 +2290,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Hunoldpic.ashx?h=150&la=en&w=125&hash=FB2BE412E1156991924FB141FF4397C379A92FB7
 Publications:  
 Phone:  215.895.6089
-Interests:  215.895.6089
+Interests:  
 
 
 Name: Meshagae Hunte-Brown
@@ -2307,7 +2307,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hunte-brown.ashx?h=150&la=en&w=125&hash=19AC6262893A59C87D6FAB6198661AA53894BADE
 Publications:  
 Phone:  215.895.2064
-Interests:  215.895.2064
+Interests:  
 
 
 Name: Jordan Hyatt
@@ -2324,7 +2324,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/hyatt-jordon.ashx?h=150&la=en&w=125&hash=04739145DCA536955A87AA77C0EF525B89FC14BC
 Publications:  
 Phone:  215.895.0490
-Interests:  215.895.0490
+Interests:  
 
 
 Name: Gabriella Ibieta
@@ -2341,7 +2341,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ibieta-gabriella.ashx?h=150&la=en&w=125&hash=E6F37B219F30749AC9EB93E8A958E8CFAEFBD5D5
 Publications:  
 Phone:  215.895.6959
-Interests:  215.895.6959
+Interests:  
 
 
 Name: Monica Ilies
@@ -2358,7 +2358,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Monica Ilies.ashx?h=150&la=en&w=125&hash=A84E2255E75AF3B218623445BD21558C50FA3926
 Publications:  
 Phone:  215.895.2642
-Interests:  215.895.2642
+Interests:  
 
 
 Name: Robert Immordino
@@ -2375,7 +2375,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/robert-immordino.ashx?h=150&la=en&w=125&hash=2390B816FD829FD1FE66C3A3208ECCE8D8DE2450
 Publications:  
 Phone:  215.895.6830
-Interests:  215.895.6830
+Interests:  
 
 
 Name: Henry Israeli
@@ -2392,7 +2392,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/henryisraeli.ashx?h=150&la=en&w=125&hash=5DD5A684B2F80939DCB2F5EFCFF974D41EE3F0B2
 Publications:  
 Phone:  (215) 571-4364
-Interests:  (215) 571-4364
+Interests:  
 
 
 Name: Kirk Jalbert
@@ -2426,7 +2426,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Frank Ji.ashx?h=150&la=en&w=125&hash=3265B708306146F5B5C74AE32C0479547207E261
 Publications:  
 Phone:  215.895.2562 Lab Phone: 215.571.3648
-Interests:  215.895.2562 Lab Phone: 215.571.3648
+Interests:  
 
 
 Name: Jiu Jiang
@@ -2443,7 +2443,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jiang_jiu.ashx?h=150&la=en&w=125&hash=695746427D2858150F54F20F0684A3400914B82B
 Publications:  
 Phone:  215.895.0548
-Interests:  215.895.0548
+Interests:  
 
 
 Name: Lallen Johnson
@@ -2460,7 +2460,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Johnson_Lallen.ashx?h=150&la=en&w=125&hash=8398AED1641E08C8E19367B2932B428B4D701055
 Publications:  
 Phone:  215.895.0277
-Interests:  215.895.0277
+Interests:  
 
 
 Name: Timothy Jones
@@ -2494,7 +2494,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/joyce_kelly_062813.ashx?h=150&la=en&w=125&hash=B5347341EDE9651B567AC50C88673F33CA4715C1
 Publications:  
 Phone:  215.571.4449
-Interests:  215.571.4449
+Interests:  
 
 
 Name: Adrienne Juarascio
@@ -2511,7 +2511,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/juarascio_adrienne.ashx?h=150&la=en&w=125&hash=44622E626EDD0D5E15534B40F0C1A4A70AB5B6E2
 Publications:  
 Phone:  (215) 553-7154
-Interests:  (215) 553-7154
+Interests:  
 
 
 Name: Karen Kabnick
@@ -2528,7 +2528,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kabnick.ashx?h=150&la=en&w=125&hash=E5549C4E06586A633F74ECF93A1F570D0ADE1C1F
 Publications:  
 Phone:  215.895.6695
-Interests:  215.895.6695
+Interests:  
 
 
 Name: Dmitry Kaliuzhnyi-Verbovetskyi
@@ -2545,7 +2545,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dmitry-kaliuzhnyi-verbovetskyi.ashx?h=150&la=en&w=125&hash=AFB26BBF3D4AB2C715AEFE16F28306FD748A1A1F
 Publications:  
 Phone:  215.895.6798
-Interests:  215.895.6798
+Interests:  
 
 
 Name: Robert J. Kane
@@ -2562,7 +2562,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Kane_Robert.ashx?h=150&la=en&w=125&hash=044735222BFAA5514AD583E0EAA8AB696B1F00D9
 Publications:  
 Phone:  215.895.2571
-Interests:  215.895.2571
+Interests:  
 
 
 Name: Goran Karapetrov
@@ -2579,7 +2579,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/goran_karapetrov.ashx?h=150&la=en&w=125&hash=6C25969B3E8490A0419CC97C8B50A71D3C0F6C13
 Publications:  
 Phone:  215.571.4090
-Interests:  215.571.4090
+Interests:  
 
 
 Name: Kirsten Kaschock
@@ -2596,7 +2596,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kaschock.ashx?h=150&la=en&w=125&hash=67B18B1F1D7ED7F2A0394E2A01F8C541CBF75B78
 Publications:  
 Phone:  215.895.2441
-Interests:  215.895.2441
+Interests:  
 
 
 Name: Frank Kelley
@@ -2613,7 +2613,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Kelley_Frank.ashx?h=150&la=en&w=125&hash=C74D28D7397A8BF83F323915AC51AC04D72F7808
 Publications:  
 Phone:  215.895.6747
-Interests:  215.895.6747
+Interests:  
 
 
 Name: Alison Kenner
@@ -2630,7 +2630,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Kenner_Alison.ashx?h=150&la=en&w=125&hash=5279BD93DAE6DCBB002C3D0D5E91ECFCBCA7DD7D
 Publications:  
 Phone:  215.895.1040
-Interests:  215.895.1040
+Interests:  
 
 
 Name: Boris L. Kheyfets
@@ -2647,7 +2647,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/boris-kheyfets.ashx?h=150&la=en&w=125&hash=2BAEE3EE01C9B59B8F1870F06AE75542886CC169
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Michael Khoo
@@ -2664,7 +2664,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/khoo_michael.ashx?h=150&la=en&w=125&hash=512BE08E8010A8431D512DC30A024A915AD87DA9
 Publications:  
 Phone:  215.895.1230
-Interests:  215.895.1230
+Interests:  
 
 
 Name: Susan Kilham
@@ -2681,7 +2681,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kilham.ashx?h=150&la=en&w=125&hash=9F4F2B6DA9DB233A2E117942164D2D7EABC56D2B
 Publications:  
 Phone:  215.895.2628
-Interests:  215.895.2628
+Interests:  
 
 
 Name: Marlin Killen
@@ -2698,7 +2698,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/killen_marlin.ashx?h=150&la=en&w=125&hash=5C7167706F128EBC4E3D1CCC5683A517A8E35C80
 Publications:  
 Phone:  215.895.1068
-Interests:  215.895.1068
+Interests:  
 
 
 Name: Daniel King
@@ -2715,7 +2715,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/DanKing.ashx?h=150&la=en&w=125&hash=90F1ECE2B79ACE5474C4E163E511659793CD73D8
 Publications:  
 Phone:  215.895.0571
-Interests:  215.895.0571
+Interests:  
 
 
 Name: Daniel Kleier
@@ -2732,7 +2732,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/chemistry/Faculty Pictures/kleier-daniel.ashx?h=180&la=en&w=150&hash=DD5CD305AD815171385D7DF3CB54A53F1128CCD0
 Publications:  
 Phone:  215.895.1861
-Interests:  215.895.1861
+Interests:  
 
 
 Name: Adam Knowles
@@ -2749,7 +2749,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Knowles.ashx?h=150&la=en&w=125&hash=7032B920450F8DC08233D54077C3EF566725CAD6
 Publications:  
 Phone:  215.895.2433
-Interests:  215.895.2433
+Interests:  
 
 
 Name: Scott Knowles
@@ -2766,7 +2766,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Knowles_Scott.ashx?h=150&la=en&w=130&hash=1E35EC7CE31A3336B7D1F7E046CC3C0BAD61A048
 Publications:  
 Phone:  215.895.2496
-Interests:  215.895.2496
+Interests:  
 
 
 Name: Emmanuel Koku
@@ -2783,7 +2783,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Koku_Emmanuel.ashx?h=150&la=en&w=125&hash=F0205622A2E7184A8C55403339D7B480D1D1298D
 Publications:  
 Phone:  215.895.6144
-Interests:  215.895.6144
+Interests:  
 
 
 Name: Miriam Kotzin
@@ -2800,7 +2800,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/miriamkotzin.ashx?h=150&la=en&w=125&hash=BE1E7D3EC31F9CAC87D8B0F049C497487B9DCC43
 Publications:  
 Phone:  215.895.2445
-Interests:  215.895.2445
+Interests:  
 
 
 Name: Elana M. Koublanova
@@ -2817,7 +2817,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/elena-koublanova.ashx?h=150&la=en&w=125&hash=6C48F5BC0781136F0D396FD76E70E5AE9D6DEE65
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: John Kounios
@@ -2834,7 +2834,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kounios_john.ashx?h=150&la=en&w=125&hash=3EB763761A627DC8A8C594D314AD4581F74F57C6
 Publications:  
 Phone:  215.553.7105
-Interests:  215.553.7105
+Interests:  
 
 
 Name: Hiromi Koyama
@@ -2851,7 +2851,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/koyama-hiromi.ashx?h=180&la=en&w=150&hash=606162A695011949A46EEFAA331029F222AD0EE6
 Publications:  
 Phone:  215.895.6368
-Interests:  215.895.6368
+Interests:  
 
 
 Name: Rachael Kratzer
@@ -2868,7 +2868,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kratzer-rachael.ashx?h=150&la=en&w=125&hash=C25D2A4B0A4B7B2B5D0C0A20F93BF7D39757632A
 Publications:  
 Phone:  215.895.6669
-Interests:  215.895.6669
+Interests:  
 
 
 Name: Danielle Kreeger
@@ -2885,7 +2885,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kreeger.ashx?h=150&la=en&w=125&hash=0C02EDFEEB175D32979030C4C7D9286A5789F83F
 Publications:  
 Phone:  215.895.1270
-Interests:  215.895.1270
+Interests:  
 
 
 Name: Stefanie A. Kroll
@@ -2902,7 +2902,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kroll-stephanie-02.ashx?h=180&la=en&w=150&hash=73F7064AD4C1C33E0F711424451994C57E2F47B0
 Publications:  
 Phone:  215.299.1106
-Interests:  215.299.1106
+Interests:  
 
 
 Name: Sharon Ku
@@ -2919,7 +2919,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Ku_Sharon.ashx?h=150&la=en&w=125&hash=6D5025D075A7AE45B7C659A1C3F3F0461835BA10
 Publications:  
 Phone:  215.895.0327
-Interests:  215.895.0327
+Interests:  
 
 
 Name: Naoko Kurahashi Neilson
@@ -2936,7 +2936,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kurahashi-neilson-naoko.ashx?h=150&la=en&w=125&hash=F7F59ABEA5414123684280D81ABA5A3B0F54411E
 Publications:  
 Phone:  215.895.2725
-Interests:  215.895.2725
+Interests:  
 
 
 Name: Marie J. Kurz
@@ -2953,7 +2953,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kurz-marie.ashx?h=150&la=en&w=125&hash=76D1E713B78FBC5BF6964F950215061CDD50AA6C
 Publications:  
 Phone:  215.299.1018
-Interests:  215.299.1018
+Interests:  
 
 
 Name: David Kutzik
@@ -2970,7 +2970,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kutzik_david.ashx?h=150&la=en&w=125&hash=7A6975F8F5A6E72F9AFC1C880F4A14717D6B2857
 Publications:  
 Phone:  215.895.2309
-Interests:  215.895.2309
+Interests:  
 
 
 Name: Jake Lahne
@@ -3004,7 +3004,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/laincz-christopher.ashx?h=150&la=en&w=125&hash=83D4B4C27FD75A29EAF443B21684907CA94EDCCA
 Publications:  
 Phone:  215.895.2503
-Interests:  215.895.2503
+Interests:  
 
 
 Name: Leo W. Lampone
@@ -3021,7 +3021,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/leo-lampone.ashx?h=150&la=en&w=125&hash=39B77C00FAF63F90B76926379B5F8F78047F2B4E
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Charles E. Lane
@@ -3038,7 +3038,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/charles_lane.ashx?h=166&la=en&w=125&hash=5CA99E93E53B4CB61C124F611EFF0C8ED00D4FCE
 Publications:  
 Phone:  215.895.1545
-Interests:  215.895.1545
+Interests:  
 
 
 Name: Donald Larson
@@ -3055,7 +3055,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/donald_larson.ashx?h=166&la=en&w=125&hash=2C4E112AEF9A4A850E4E212C53AAC54CF87F02B7
 Publications:  
 Phone:  215.895.2724
-Interests:  215.895.2724
+Interests:  
 
 
 Name: Hwan Yong Lee
@@ -3072,7 +3072,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hwan-yong-lee.ashx?h=150&la=en&w=125&hash=9E9A72FCF5998ED628D7A10CD160BEEA1DAB54D7
 Publications:  
 Phone:  215.571.3583
-Interests:  215.571.3583
+Interests:  
 
 
 Name: Hyunmin Lee
@@ -3106,7 +3106,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/nancy_raitano.ashx?h=150&la=en&w=125&hash=1956064DA86EC58B3FB86021AE569C9AD6D62B45
 Publications:  
 Phone:  215.895.2937
-Interests:  215.895.2937
+Interests:  
 
 
 Name: Teck Kah Lim
@@ -3123,7 +3123,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/tech_kah_lim.ashx?h=166&la=en&w=125&hash=2864BF4D4AC4B91050D3C4F2D4B54790194B0240
 Publications:  
 Phone:  215.895.2717
-Interests:  215.895.2717
+Interests:  
 
 
 Name: Joy Little
@@ -3140,7 +3140,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/little_joy.ashx?h=150&la=en&w=125&hash=88EFA9C1296615A68FFD0F2F0E1B4C6561C6C866
 Publications:  
 Phone:  215.571.4588
-Interests:  215.571.4588
+Interests:  
 
 
 Name: Tatyana Livshultz
@@ -3157,7 +3157,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/livshultz_tatyana_web.ashx?h=150&la=en&w=125&hash=ABF110E8026B6E870984F783BF4E979ECCD0CD67
 Publications:  
 Phone:  215.299.1051
-Interests:  215.299.1051
+Interests:  
 
 
 Name: Robert Loudon
@@ -3174,7 +3174,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/loudon_robert.ashx?h=150&la=en&w=125&hash=FA1BA32AE7DA52679FA01EC4E570445FB2B95D9E
 Publications:  
 Phone:  215.895.6936
-Interests:  215.895.6936
+Interests:  
 
 
 Name: Amanda Lough
@@ -3191,7 +3191,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/lough-amanda.ashx?h=150&la=en&w=125&hash=DB9B3EA2EC8F65A466995CEDB22CC746600482A9
 Publications:  
 Phone:  215.895.6456
-Interests:  215.895.6456
+Interests:  
 
 
 Name: Christina Love
@@ -3208,7 +3208,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Love_Christina.ashx?h=150&la=en&w=125&hash=BFCDB05C04C5E0D70F693E347F99D582DE1E4569
 Publications:  
 Phone:  215.571.3699
-Interests:  215.571.3699
+Interests:  
 
 
 Name: Michael Lowe
@@ -3225,7 +3225,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/lowe_michael.ashx?h=150&la=en&w=125&hash=D58A6EB427E4A272E3CAA44560BD18F22D6EA90D
 Publications:  
 Phone:  215.553.7116
-Interests:  215.553.7116
+Interests:  
 
 
 Name: John G. Lundberg
@@ -3242,7 +3242,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/lundberg_john_web.ashx?h=150&la=en&w=125&hash=E27FEA8546764CEC733A9D7666E2888CC9809071
 Publications:  
 Phone:  215.405.5069
-Interests:  215.405.5069
+Interests:  
 
 
 Name: Brent Luvaas
@@ -3259,7 +3259,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Luvaas_Brent.ashx?h=150&la=en&w=125&hash=419E587A855C8C88E5BEBF9BBD66A8A556650E20
 Publications:  
 Phone:  215.571.3660
-Interests:  215.571.3660
+Interests:  
 
 
 Name: Joanna Lyskowicz
@@ -3276,7 +3276,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/lyskowicz_joanna.ashx?h=150&la=en&w=125&hash=314B9BFE70CAB3990B23843E4F1092E0B93ADB89
 Publications:  
 Phone:  215.895.2894
-Interests:  215.895.2894
+Interests:  
 
 
 Name: Susan Magee
@@ -3293,7 +3293,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/magee-sarah.ashx?h=150&la=en&w=125&hash=51074E9170B57736DB1353C67A9457B4F836BEAB
 Publications:  
 Phone:  215.571.3550
-Interests:  215.571.3550
+Interests:  
 
 
 Name: Stephen Mandell
@@ -3310,7 +3310,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.1822
-Interests:  215.895.1822
+Interests:  
 
 
 Name: Daniel Marenda
@@ -3327,7 +3327,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/marenda_dan.ashx?h=150&la=en&w=125&hash=AB29BD84C00E2A842D72CF7590A922F400D6C36B
 Publications:  
 Phone:  215.895.2526
-Interests:  215.895.2526
+Interests:  
 
 
 Name: Ilana Margolis
@@ -3361,7 +3361,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/martinez-solorio-dionicio.ashx?h=150&la=en&w=125&hash=F5EF4F270D9AE79C99E90D8AADA57CE997D37CAC
 Publications:  
 Phone:  215.895.3561
-Interests:  215.895.3561
+Interests:  
 
 
 Name: Maria de la luz Matus-Mendoza
@@ -3378,7 +3378,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Matus-Mendoza_Mariadelaluz.ashx?h=150&la=en&w=125&hash=5813444767EAFB88B55005C2F8FB36DC73573CA3
 Publications:  
 Phone:  215.895.2171
-Interests:  215.895.2171
+Interests:  
 
 
 Name: Jordan McClain
@@ -3395,7 +3395,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/McClain_Jordan.ashx?h=150&la=en&w=125&hash=3430A48CA4AA3C367B09903CD28BB1875E4A4397
 Publications:  
 Phone:  215.571.4332
-Interests:  215.571.4332
+Interests:  
 
 
 Name: Craig McClure
@@ -3412,7 +3412,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/chemistry/Faculty Pictures/craig-mcclure.ashx?h=150&la=en&w=125&hash=B9A49C69A04B0791D10C5DA5D7166643F2576025
 Publications:  
 Phone:  215.571.3197
-Interests:  215.571.3197
+Interests:  
 
 
 Name: Richard McCourt
@@ -3429,7 +3429,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/bees/faculty/mccourt-richard.ashx?h=180&la=en&w=150&hash=3E60786FD9EFDBF8463AC7558FAD8E2F06D260C5
 Publications:  
 Phone:  215.299.1139
-Interests:  215.299.1139
+Interests:  
 
 
 Name: James McCray
@@ -3446,7 +3446,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/james_mccray.ashx?h=166&la=en&w=125&hash=601398E0E880B46807E6BDD258A88601F8E57958
 Publications:  
 Phone:  215.895.6868
-Interests:  215.895.6868
+Interests:  
 
 
 Name: Elizabeth McGhee Hassrick
@@ -3463,7 +3463,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hassrick-elizabeth-mcghee.ashx?h=180&la=en&w=150&hash=991997405958F5A989CB6B939A76E37198CB13C0
 Publications:  
 Phone:  215.571.3216
-Interests:  215.571.3216
+Interests:  
 
 
 Name: Deirdre McMahon
@@ -3480,7 +3480,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2703
-Interests:  215.895.2703
+Interests:  
 
 
 Name: Stephen L.W. McMillan
@@ -3497,7 +3497,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/mcmillan-stephen.ashx?h=150&la=en&w=125&hash=72A55B9DB2981CD0481646A34F7D7857EEA00347
 Publications:  
 Phone:  215.895.2709
-Interests:  215.895.2709
+Interests:  
 
 
 Name: Georgi S. Medvedev
@@ -3514,7 +3514,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/georgi-medvedev.ashx?h=150&la=en&w=125&hash=2DEC63BD49002A1EB53ECA5AFBF8EC0C48475B83
 Publications:  
 Phone:  215.895.6612
-Interests:  215.895.6612
+Interests:  
 
 
 Name: Carol Mele
@@ -3531,7 +3531,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/mele.ashx?h=150&la=en&w=125&hash=01D29BFEF0AF5BE228A34CC948F8C4876B49DC44
 Publications:  
 Phone:  215.895.6833
-Interests:  215.895.6833
+Interests:  
 
 
 Name: Marianallet Mendez-Rivera
@@ -3548,7 +3548,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  (215) 895-6854
-Interests:  (215) 895-6854
+Interests:  
 
 
 Name: Usha Menon
@@ -3565,7 +3565,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/menon_usha.ashx?h=150&la=en&w=125&hash=770AFD0E9A61CFA6538EB035DA7BFA2F3D94D46B
 Publications:  
 Phone:  215.895.1023
-Interests:  215.895.1023
+Interests:  
 
 
 Name: Harriet Levin Millan
@@ -3582,7 +3582,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/millan.ashx?h=150&la=en&w=125&hash=2613F6FC79C3C0192D5AF7D33842CFD40AD7E8BA
 Publications:  
 Phone:  215.895.6485
-Interests:  215.895.6485
+Interests:  
 
 
 Name: Jonson Miller
@@ -3599,7 +3599,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/miller-jonson.ashx?h=180&la=en&w=150&hash=FF61D25EED9107233679D27F39F758F6964D07E1
 Publications:  
 Phone:  215.895.0994
-Interests:  215.895.0994
+Interests:  
 
 
 Name: Rogelio Miñana
@@ -3616,7 +3616,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/minana-rogelio.ashx?h=150&la=en&w=125&hash=2135BD051EE994F32950126871166F17F4D42340
 Publications:  
 Phone:  215.571.3194
-Interests:  215.571.3194
+Interests:  
 
 
 Name: Charles Mode
@@ -3650,7 +3650,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Franco Montalto.ashx?h=150&la=en&w=125&hash=C542943BE67C7EF1B31013AEE283395027AC7DC6
 Publications:  
 Phone:  215.895.1385
-Interests:  215.895.1385
+Interests:  
 
 
 Name: Danette Morrison
@@ -3667,7 +3667,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/morrison-danette.ashx?h=150&la=en&w=125&hash=739E4A26C1D8A2A9521BB53D38DFBF80D65FBCAD
 Publications:  
 Phone:  215.571.4308
-Interests:  215.571.4308
+Interests:  
 
 
 Name: Eric Morschhauser
@@ -3684,7 +3684,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/morschhauser_eric.ashx?h=150&la=en&w=125&hash=88D06D8CC1C67C7A4B59CDC963A030AAB166E822
 Publications:  
 Phone:  215.895.4216
-Interests:  215.895.4216
+Interests:  
 
 
 Name: Jennifer Morse
@@ -3701,7 +3701,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jennifer-morse.ashx?h=150&la=en&w=125&hash=0BEE54E9DDFFAB2889B1185FDEFD1279404ADFBE
 Publications:  
 Phone:  215.571.4101
-Interests:  215.571.4101
+Interests:  
 
 
 Name: Kevin M. Moseby
@@ -3718,7 +3718,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kevin-moseby.ashx?h=150&la=en&w=125&hash=40B6CBB87E0E64F86443312A258787E43D07CC5B
 Publications:  
 Phone:  215.571.3267
-Interests:  215.571.3267
+Interests:  
 
 
 Name: Jill Moses
@@ -3735,7 +3735,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Jill Moses.ashx?h=150&la=en&w=125&hash=35DDC2F9DC303BDA8F763F3C9C339C38C0838FB2
 Publications:  
 Phone:  (215) 571-4528
-Interests:  (215) 571-4528
+Interests:  
 
 
 Name: Shari Moskow
@@ -3752,7 +3752,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/math/faculty/shari-moskow.ashx?h=150&la=en&w=125&hash=682B83ACB00A5082C8FD111D1C314CF24577B7F7
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Julie Mostov
@@ -3769,7 +3769,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/mostov.ashx?h=150&la=en&w=125&hash=E981B2A0CB4D387B1CD4A505049D25A432524535
 Publications:  
 Phone:  215.895.6793
-Interests:  215.895.6793
+Interests:  
 
 
 Name: Marna Mozeff
@@ -3786,7 +3786,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/marna-mozeff.ashx?h=150&la=en&w=125&hash=3C9D014823217051A20F071126F12AA718A5AB87
 Publications:  
 Phone:  215.895.6691
-Interests:  215.895.6691
+Interests:  
 
 
 Name: Stephen Mullin
@@ -3820,7 +3820,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas/staff/Murasko_redhat_web.ashx?h=150&la=en&w=125&hash=06859710746C72BDF6F11C79D5BC5A5B5DBB1C3F
 Publications:  
 Phone:  215.895.1892
-Interests:  215.895.1892
+Interests:  
 
 
 Name: Russell Neilson
@@ -3837,7 +3837,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/neilson_russell.ashx?h=167&la=en&w=125&hash=CD5B08A795586A659F76E342F326D67D367372D5
 Publications:  
 Phone:  215.895.2729
-Interests:  215.895.2729
+Interests:  
 
 
 Name: Arthur M. Nezu
@@ -3854,7 +3854,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/nezu_arthur.ashx?h=150&la=en&w=125&hash=E0D502765115A6CE32CE19E13898D23B80162FE0
 Publications:  
 Phone:  215.629.6275 (cell)
-Interests:  215.629.6275 (cell)
+Interests:  
 
 
 Name: Christine Maguth Nezu
@@ -3871,7 +3871,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/nezu_christine.ashx?h=150&la=en&w=125&hash=934E5410807E856C4EC7A5F26E35DF54EC3952F6
 Publications:  
 Phone:  215.553.7112
-Interests:  215.553.7112
+Interests:  
 
 
 Name: Christopher Nielson
@@ -3888,7 +3888,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/nielson.ashx?h=150&la=en&w=125&hash=4D2D856D0C8BE2FA9F4B0667628542AEB75D4E51
 Publications:  
 Phone:  215.895.6994
-Interests:  215.895.6994
+Interests:  
 
 
 Name: Alexander Nikolaev
@@ -3905,7 +3905,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/nikolaev_alex.ashx?h=150&la=en&w=125&hash=2BB0A6A692DD2EF281F2A4FCCB45B942D92B0410
 Publications:  
 Phone:  215.895.1907
-Interests:  215.895.1907
+Interests:  
 
 
 Name: Karen Nulton
@@ -3922,7 +3922,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/nulton.ashx?h=150&la=en&w=125&hash=FD8C1A7C677E2B54ABDCE37D02C542548ABE503B
 Publications:  
 Phone:  215.895.2440
-Interests:  215.895.2440
+Interests:  
 
 
 Name: Michael O'Connor
@@ -3939,7 +3939,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/oconnor.ashx?h=150&la=en&w=125&hash=45C99D7582BC0776D467A621621E465414A490E3
 Publications:  
 Phone:  215.895.2637
-Interests:  215.895.2637
+Interests:  
 
 
 Name: Oksana P. Odintsova
@@ -3956,7 +3956,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/oksana-odintsova.ashx?h=150&la=en&w=125&hash=A5B7DEEEADE15D8E5F85ED1DE93A3271D0AA30C9
 Publications:  
 Phone:  215.895.6241
-Interests:  215.895.6241
+Interests:  
 
 
 Name: Sean O'Donnell
@@ -3973,7 +3973,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/odonnell-sean-061115.ashx?h=150&la=en&w=125&hash=0ED5CD4D38EC601BF4D3C244170CF2A155E284D4
 Publications:  
 Phone:  215.571.4177
-Interests:  215.571.4177
+Interests:  
 
 
 Name: Joel Oestreich
@@ -3990,7 +3990,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Oestreichpic.ashx?h=150&la=en&w=125&hash=DF4FB32047F88730A2A2F32101390023EB2DC3B6
 Publications:  
 Phone:  215.895.6794
-Interests:  215.895.6794
+Interests:  
 
 
 Name: Sunmi Oh
@@ -4007,7 +4007,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/oh-sunmi.ashx?h=180&la=en&w=150&hash=7E7ED7569B103FDCB89D08FBCA2E211BACAA4F77
 Publications:  
 Phone:  215.895.6399
-Interests:  215.895.6399
+Interests:  
 
 
 Name: Jason Orne
@@ -4024,7 +4024,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/orne-jason.ashx?h=150&la=en&w=125&hash=2DE15CD02C6684BCFA6EEB460F6AC278C641B0FC
 Publications:  
 Phone:  215.571.4349
-Interests:  215.571.4349
+Interests:  
 
 
 Name: Elva Orozco Mendoza
@@ -4041,7 +4041,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ElvaOrozco.ashx?h=150&la=en&w=125&hash=99138EE68E7BECE10BC3071DBA3BD9FB23664ECB
 Publications:  
 Phone:  215-571-3686
-Interests:  215-571-3686
+Interests:  
 
 
 Name: Karol Osipowicz
@@ -4058,7 +4058,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/osipowicz_karol.ashx?h=150&la=en&w=125&hash=359DD2A5997732302BB646A6A17BC01580A3D782
 Publications:  
 Phone:  215.571.4406
-Interests:  215.571.4406
+Interests:  
 
 
 Name: Daniel Otte
@@ -4075,7 +4075,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Otte_Daniel.ashx?h=150&la=en&w=125&hash=1CEF8294FA657894622840FDC7226874E9469E1F
 Publications:  
 Phone:  215.299.1188
-Interests:  215.299.1188
+Interests:  
 
 
 Name: Gwen Ottinger
@@ -4109,7 +4109,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kevinOwens.ashx?h=150&la=en&w=125&hash=79CD546E95BA4B521670FA2DC7530656D8B5FD8D
 Publications:  
 Phone:  215.895.2621
-Interests:  215.895.2621
+Interests:  
 
 
 Name: Flavia Padovani
@@ -4126,7 +4126,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/padovani.ashx?h=150&la=en&w=125&hash=D9A8057BCA37067A116BDE0B7D6CACADFCF76E5B
 Publications:  
 Phone:  215.895.2433
-Interests:  215.895.2433
+Interests:  
 
 
 Name: Dimitrios Papadopoulos
@@ -4143,7 +4143,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dimitrios-papadopoulos.ashx?h=150&la=en&w=125&hash=455EA6D5B0DA1C4C27FD94932A30C1F273D4CACA
 Publications:  
 Phone:  215.895.1957
-Interests:  215.895.1957
+Interests:  
 
 
 Name: Rakhmiel Peltz
@@ -4160,7 +4160,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Peltz_Rakhmiel.ashx?h=150&la=en&w=125&hash=B7F00ACEE3859B192E07011827666B16A6F2CD06
 Publications:  
 Phone:  215.895.1499
-Interests:  215.895.1499
+Interests:  
 
 
 Name: Lynn S. Penn
@@ -4177,7 +4177,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/LynnSPenn.ashx?h=150&la=en&w=125&hash=0D4764DFA73DE3FB195B60444F1AEEA2DF46EE66
 Publications:  
 Phone:  215.895.4970
-Interests:  215.895.4970
+Interests:  
 
 
 Name: Joel Pereira
@@ -4194,7 +4194,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/joel-pereira.ashx?h=180&la=en&w=150&hash=58209774FB0E98E65835420A34774E51A11758B3
 Publications:  
 Phone:  215.571.3686
-Interests:  215.571.3686
+Interests:  
 
 
 Name: Ronald K. Perline
@@ -4211,7 +4211,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ronald-perline.ashx?h=150&la=en&w=125&hash=8AEC9FFF6E17F6A07E5E83C683C374A8A422F0EA
 Publications:  
 Phone:  215.895.6623
-Interests:  215.895.6623
+Interests:  
 
 
 Name: Marci A. Perlstadt
@@ -4228,7 +4228,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/marci-perlstadt.ashx?h=150&la=en&w=125&hash=F9EC4ED11160A6EED73EB6AA0D92CC007C3081EC
 Publications:  
 Phone:  215.895.0224
-Interests:  215.895.0224
+Interests:  
 
 
 Name: Margene Petersen
@@ -4262,7 +4262,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Petrie_Ryan.ashx?h=150&la=en&w=125&hash=6B2CCF5502628B7D623C184A8B6EC38EF34C5F67
 Publications:  
 Phone:  215.895.1476
-Interests:  215.895.1476
+Interests:  
 
 
 Name: Brianna Pezzato
@@ -4296,7 +4296,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/joshua-plencner.ashx?h=150&la=en&w=125&hash=1EE44553E6EC4FCC7CB188A35D394725C47D435F
 Publications:  
 Phone:  215.571.3515
-Interests:  215.571.3515
+Interests:  
 
 
 Name: Douglas Porpora
@@ -4313,7 +4313,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/porpora_doug.ashx?h=150&la=en&w=125&hash=DFBA0A2D7DEF405FE0A1A2E132FF9103D9277BA7
 Publications:  
 Phone:  215.895.2404
-Interests:  215.895.2404
+Interests:  
 
 
 Name: Abioseh Porter
@@ -4330,7 +4330,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/porter.ashx?h=150&la=en&w=125&hash=4C8B866C2472B7D2AA796B9EBE431AD557917BF8
 Publications:  
 Phone:  215.895.2448
-Interests:  215.895.2448
+Interests:  
 
 
 Name: Marina Potapova
@@ -4347,7 +4347,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/potapova_marina_web.ashx?h=150&la=en&w=125&hash=8E115C32B15C27752ACC1B3DA334749AB22545F7
 Publications:  
 Phone:  215.405.5068
-Interests:  215.405.5068
+Interests:  
 
 
 Name: Robert Powell
@@ -4364,7 +4364,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/powell_robert.ashx?h=150&la=en&w=125&hash=499982439E159760828AA684F58ED3B1379FD82B
 Publications:  
 Phone:  215.895.6146
-Interests:  215.895.6146
+Interests:  
 
 
 Name: Anna Pun
@@ -4381,7 +4381,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/anna-pun.ashx?h=180&la=en&w=150&hash=54F1DEEBB9FB75BC4648BEA9C99A7AA1A14619EE
 Publications:  
 Phone:  215.571.3584
-Interests:  215.571.3584
+Interests:  
 
 
 Name: Jun Qiao
@@ -4398,7 +4398,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.6350
-Interests:  215.895.6350
+Interests:  
 
 
 Name: Amber Reed
@@ -4415,7 +4415,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/reed-amber.ashx?h=150&la=en&w=125&hash=C2A0B56D72C59E48E2C6E3C4009E09E52CA884CE
 Publications:  
 Phone:  215.571.3769
-Interests:  215.571.3769
+Interests:  
 
 
 Name: Rachel Reynolds
@@ -4432,7 +4432,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/reynolds_rachel.ashx?h=150&la=en&w=125&hash=30E8B7CDE7203CFB6279AB514193FE9271D75562
 Publications:  
 Phone:  215.895.0498
-Interests:  215.895.0498
+Interests:  
 
 
 Name: Jerome Ricard
@@ -4449,7 +4449,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/ricard_jerome.ashx?h=150&la=en&w=125&hash=4B51B3C41F1BDF25AEC3A2273D7ABBD7257300D4
 Publications:  
 Phone:  215.571.3785
-Interests:  215.571.3785
+Interests:  
 
 
 Name: Gordon T. Richards
@@ -4466,7 +4466,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/richards-gordon.ashx?h=150&la=en&w=125&hash=30E7771A18B0A6878724F2833F6B016842594794
 Publications:  
 Phone:  215.895.2713
-Interests:  215.895.2713
+Interests:  
 
 
 Name: Cyndi Rickards
@@ -4483,7 +4483,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/rickards-cyndi.ashx?h=150&la=en&w=125&hash=1A16934E7475B2946A48FCFEC1895934204E47D4
 Publications:  
 Phone:  215.571.3734
-Interests:  215.571.3734
+Interests:  
 
 
 Name: Adam C. Rickert
@@ -4500,7 +4500,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/adam-rickert.ashx?h=150&la=en&w=125&hash=E18A061910A56BEC76F6D874FCE538AC3326825C
 Publications:  
 Phone:  215.895.1949
-Interests:  215.895.1949
+Interests:  
 
 
 Name: Donald Riggs
@@ -4517,7 +4517,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/riggs.ashx?h=150&la=en&w=125&hash=588664A143FA9FD90709397B8953416D274E9A8B
 Publications:  
 Phone:  215.895.2441
-Interests:  215.895.2441
+Interests:  
 
 
 Name: Jody A. Roberts
@@ -4534,7 +4534,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/roberts_jody_a.ashx?h=150&la=en&w=125&hash=B693F2998A9BFF4BDDC200ED97341584883B888E
 Publications:  
 Phone:  215.873.8281
-Interests:  215.873.8281
+Interests:  
 
 
 Name: Diana Robins
@@ -4551,7 +4551,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/robins_diana.ashx?h=150&la=en&w=125&hash=B96BB242CA79C905E2CA14ACED14E1DF3810ED97
 Publications:  
 Phone:  215.571.3439
-Interests:  215.571.3439
+Interests:  
 
 
 Name: Gabriel de Avilez Rocha
@@ -4568,7 +4568,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/rocha-gabriel.ashx?h=150&la=en&w=125&hash=C4109FFF2CE044C8F2CAACE5F075AB03A5A65BE6
 Publications:  
 Phone:  215.895.2468
-Interests:  215.895.2468
+Interests:  
 
 
 Name: Donna Rondolone
@@ -4585,7 +4585,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.6854
-Interests:  215.895.6854
+Interests:  
 
 
 Name: Chris Rorres
@@ -4636,7 +4636,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.6391
-Interests:  215.895.6391
+Interests:  
 
 
 Name: Gary Rosenberg
@@ -4653,7 +4653,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/RosenbergGary.ashx?h=150&la=en&w=125&hash=CB9F77D8C57CCD28705CC94A34C95A206663D9CA
 Publications:  
 Phone:  215.299.1033
-Interests:  215.299.1033
+Interests:  
 
 
 Name: William Rosenberg
@@ -4670,7 +4670,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/BIll Rosenberg Drexel Web Photo.ashx?h=150&la=en&w=125&hash=6400A7FA1A21F30412303CE1AE2669735A24CD77
 Publications:  
 Phone:  215.895.1302
-Interests:  215.895.1302
+Interests:  
 
 
 Name: John Rossi
@@ -4687,12 +4687,12 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/RossiJohn.ashx?h=150&la=en&w=125&hash=E81E70C817026806A280B4FC4C45B09F2334A868
 Publications:  
 Phone:  215.762.4652
-Interests:  215.762.4652
+Interests:  
 
 
 Name: Patricia Henry Russell
 Property: 
-Title:  Teaching Professor Emerita Emeritus
+Title:  Adjunct Instructor; Teaching Professor Emerita Emeritus
 Department: Department of Mathematics
 Address: 
 Room: 
@@ -4721,7 +4721,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/russell_jacob.ashx?h=150&la=en&w=125&hash=3B55729427B5D9D31D5492BC7B3BFB5AB645B083
 Publications:  
 Phone:  215.895.1643
-Interests:  215.895.1643
+Interests:  
 
 
 Name: Susan Rutkowsky
@@ -4738,7 +4738,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/chemistry/Faculty Pictures/rutkowsky-susan.ashx?h=180&la=en&w=150&hash=B7B9C5A87A3F1EA642388A0D1968FF3E532DC055
 Publications:  
 Phone:  215.895.1509
-Interests:  215.895.1509
+Interests:  
 
 
 Name: Rosemary Rys
@@ -4755,7 +4755,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Rys_Rosemary.ashx?h=150&la=en&w=125&hash=CC94AFFEB953B88A9559B44B7F190A69663B65D4
 Publications:  
 Phone:  215.571.4333
-Interests:  215.571.4333
+Interests:  
 
 
 Name: Doreen Alvarez Saar
@@ -4772,7 +4772,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.6913
-Interests:  215.895.6913
+Interests:  
 
 
 Name: Jacqueline Sadashige
@@ -4806,7 +4806,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sandapen.ashx?h=150&la=en&w=125&hash=46FDE2F164B62F039A1D91C2D2A7A51E5D2AEDE9
 Publications:  
 Phone:  215.895.5888
-Interests:  215.895.5888
+Interests:  
 
 
 Name: Nianli Sang
@@ -4823,7 +4823,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sang.ashx?h=150&la=en&w=125&hash=A7E32120B33A2EDDD9F6FE6278C9267DF8643B80
 Publications:  
 Phone:  215.895.6885
-Interests:  215.895.6885
+Interests:  
 
 
 Name: Tiago Saraiva
@@ -4840,7 +4840,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Tiago.ashx?h=150&la=en&w=125&hash=A3CCBC2F49F8ABDA9D980F2F1B4CD6056BE6821B
 Publications:  
 Phone:  215.895.6870
-Interests:  215.895.6870
+Interests:  
 
 
 Name: Aleister Saunders
@@ -4857,7 +4857,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/saunders_aleister.ashx?h=150&la=en&w=125&hash=AF6113D28379ED3D690DF7B576C09CA1BE374012
 Publications:  
 Phone:  215.895.6772
-Interests:  215.895.6772
+Interests:  
 
 
 Name: Ludo Scheffer
@@ -4874,7 +4874,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/scheffer_ludo.ashx?h=150&la=en&w=125&hash=5E4B5A61710117498C603AD844369EA6253F5FC2
 Publications:  
 Phone:  215.895.6140
-Interests:  215.895.6140
+Interests:  
 
 
 Name: Eric Scheidly
@@ -4908,7 +4908,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/SchlichtingArtur_Simone.ashx?h=150&la=en&w=125&hash=BEBF3E006F51AE7DF2A6E104A0347903469A0B9E
 Publications:  
 Phone:  215.895.2443
-Interests:  215.895.2443
+Interests:  
 
 
 Name: Eric J. Schmutz
@@ -4925,7 +4925,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/eric-schmutz.ashx?h=150&la=en&w=125&hash=F7DAD90A82D9D608E1FD4F82AFB1F8262D8700FB
 Publications:  
 Phone:  215.895.1948
-Interests:  215.895.1948
+Interests:  
 
 
 Name: Maria T. Schultheis
@@ -4942,7 +4942,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/schultheis_maria.ashx?h=150&la=en&w=125&hash=E7F615A5AB043A08BBAA4C9FA89AC7297F475B27
 Publications:  
 Phone:  215.895.6105
-Interests:  215.895.6105
+Interests:  
 
 
 Name: Jennifer Schwartz
@@ -4959,7 +4959,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/schwartz_jennifer.ashx?h=150&la=en&w=125&hash=A2732D820E6573459DEFC05593B844E450658E34
 Publications:  
 Phone:  215.553.7127
-Interests:  215.553.7127
+Interests:  
 
 
 Name: Reinhard Schweitzer-Stenner
@@ -4976,7 +4976,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/RSStenner.ashx?h=150&la=en&w=125&hash=2933C1598F1BAC9D28DAAB5845ADE742CBA83EA8
 Publications:  
 Phone:  215.895.2268
-Interests:  215.895.2268
+Interests:  
 
 
 Name: Jonathan Seitz
@@ -4993,7 +4993,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/seitz-jonathan.ashx?h=150&la=en&w=125&hash=7F6C27FC0D802E0393D05881B9FB65F0642452CE
 Publications:  
 Phone:  215.895.0996
-Interests:  215.895.0996
+Interests:  
 
 
 Name: Nicholas Shapiro
@@ -5027,7 +5027,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sheller_mimi.ashx?h=150&la=en&w=125&hash=4CFB0F6364E452401B28A4B7DE7FF30F9FA33F0B
 Publications:  
 Phone:  215.571.3652
-Interests:  215.571.3652
+Interests:  
 
 
 Name: Li Sheng
@@ -5044,7 +5044,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/li-sheng.ashx?h=150&la=en&w=125&hash=E292065DC02A606AD856929C776E4529BE272FE1
 Publications:  
 Phone:  215.895.6613
-Interests:  215.895.6613
+Interests:  
 
 
 Name: Natsumi Shor
@@ -5061,7 +5061,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Shor_Natsumi.ashx?h=150&la=en&w=125&hash=57E51C3D1112DED1A2DF8D4B346DC4750D4D55A4
 Publications:  
 Phone:  215.571.4335
-Interests:  215.571.4335
+Interests:  
 
 
 Name: Wesley Shumar
@@ -5078,7 +5078,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/shumar_wesley.ashx?h=150&la=en&w=125&hash=CCC3C209B7DA3A83A5C53F3D2D88C91928D13104
 Publications:  
 Phone:  215.895.2060
-Interests:  215.895.2060
+Interests:  
 
 
 Name: Myrna Shure
@@ -5095,7 +5095,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/shure_myrna.ashx?h=150&la=en&w=125&hash=8B95320370B536411773C0E955855547A8C7B05F
 Publications:  
 Phone:  215.553.7120
-Interests:  215.553.7120
+Interests:  
 
 
 Name: Diane Sicotte
@@ -5112,7 +5112,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sicotte_diane.ashx?h=150&la=en&w=125&hash=18FF80138C530AAD2C652657467D5DFBD9F938E4
 Publications:  
 Phone:  215.895.2264
-Interests:  215.895.2264
+Interests:  
 
 
 Name: Fred Siegel
@@ -5129,7 +5129,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/fredsiegeldirectory.ashx?h=150&la=en&w=125&hash=3EC585DD88F3CEEFBE852623BF4AEA3D4FE19C1E
 Publications:  
 Phone:  215.895.6484
-Interests:  215.895.6484
+Interests:  
 
 
 Name: Chloe Silverman
@@ -5163,7 +5163,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/gideon-simpson.ashx?h=150&la=en&w=125&hash=194F874E781D72C85BFACB87F4CA5053D600AEEC
 Publications:  
 Phone:  215.895.1849
-Interests:  215.895.1849
+Interests:  
 
 
 Name: Chris Sims
@@ -5180,7 +5180,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sims_chris.ashx?h=150&la=en&w=125&hash=57CDEE50A047637431915BD7F07D23F526F4F313
 Publications:  
 Phone:  215.553.7170
-Interests:  215.553.7170
+Interests:  
 
 
 Name: Amy Slaton
@@ -5197,7 +5197,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Amy Office.ashx?h=150&la=en&w=125&hash=89DB111B956DE8D541ABC31CEFDFB21BD0ED24AB
 Publications:  
 Phone:  215.895.2061
-Interests:  215.895.2061
+Interests:  
 
 
 Name: Julia Sluzenski
@@ -5214,7 +5214,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sluzenski_julia.ashx?h=150&la=en&w=125&hash=6E4992CEFB0E26E01ADB4390304B3C9B3B443AB7
 Publications:  
 Phone:  215.571.4309
-Interests:  215.571.4309
+Interests:  
 
 
 Name: Ron Smith
@@ -5248,7 +5248,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/smithandrew.ashx?h=150&la=en&w=125&hash=041EEE86C103524290A71F703E24A20D09837C18
 Publications:  
 Phone:  215.895.2434
-Interests:  215.895.2434
+Interests:  
 
 
 Name: Kevin Smith
@@ -5265,7 +5265,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/smith_kevin.ashx?h=150&la=en&w=125&hash=348DA476D33A4928CF43D58E102DE889E9D21AB3
 Publications:  
 Phone:  215.571.3469
-Interests:  215.571.3469
+Interests:  
 
 
 Name: Karl Sohlberg
@@ -5282,7 +5282,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sohlberg-karl.ashx?h=150&la=en&w=125&hash=F43E0F6B03EF7FA5A93CE4CE6DF5D8E96716FBA7
 Publications:  
 Phone:  215.895.2653
-Interests:  215.895.2653
+Interests:  
 
 
 Name: Jian Song
@@ -5299,7 +5299,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jian-song.ashx?h=180&la=en&w=150&hash=687E182BEB838D867835B5975FDFFD4AFB53465C
 Publications:  
 Phone:  215.895.6264
-Interests:  215.895.6264
+Interests:  
 
 
 Name: Xiaoming Song
@@ -5316,7 +5316,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/xiaoming-song.ashx?h=150&la=en&w=125&hash=419BE3FE630A79A9B4C536BA2C2427FBC6A24FDB
 Publications:  
 Phone:  215.895.6998
-Interests:  215.895.6998
+Interests:  
 
 
 Name: Lawrence Souder
@@ -5333,7 +5333,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Souder_Lawrence.ashx?h=150&la=en&w=125&hash=2FC7E9B606E630F0099832A8957B7AF7B34AD0FB
 Publications:  
 Phone:  215.895.2730
-Interests:  215.895.2730
+Interests:  
 
 
 Name: Jonathan E. Spanier
@@ -5350,7 +5350,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/JonSpanier.ashx?h=160&la=en&w=125&hash=39AF8BC338E8AC0A8D1EFDB8B263202DABD0DD82
 Publications:  
 Phone:  215.895.2301
-Interests:  215.895.2301
+Interests:  
 
 
 Name: Mary V. Spiers
@@ -5367,7 +5367,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/spiers_mary.ashx?h=150&la=en&w=125&hash=DD7E13B147EBF44D5062F917DFC002435D4759C7
 Publications:  
 Phone:  215.895.1722
-Interests:  215.895.1722
+Interests:  
 
 
 Name: Elias Spiliotis
@@ -5384,7 +5384,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/spiliotis.ashx?h=150&la=en&w=125&hash=1902C4A57A63B5E7A019F2059B1A6165ACB1CFAB
 Publications:  
 Phone:  215.571.3552
-Interests:  215.571.3552
+Interests:  
 
 
 Name: James Spotila
@@ -5401,7 +5401,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/spotilla.ashx?h=150&la=en&w=125&hash=73E7EE5DAD746C4E055734D1CBD19BC25B0D7585
 Publications:  
 Phone:  215.895.2627
-Interests:  215.895.2627
+Interests:  
 
 
 Name: Jennifer Stanford
@@ -5418,7 +5418,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/stanford_jen.ashx?h=150&la=en&w=125&hash=4B31C776C99F51C5080189C7BCC9FB4AA346BCEE
 Publications:  
 Phone:  215.895.6180
-Interests:  215.895.6180
+Interests:  
 
 
 Name: Kathryn Steen
@@ -5435,7 +5435,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.6615
-Interests:  215.895.6615
+Interests:  
 
 
 Name: Allan Stegeman
@@ -5452,7 +5452,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Stegeman_Allan.ashx?h=150&la=en&w=125&hash=8069F6C1E63FBF3F1B5ABFA4655849CC7E50F538
 Publications:  
 Phone:  215.895.2734
-Interests:  215.895.2734
+Interests:  
 
 
 Name: Mark Stehr
@@ -5469,7 +5469,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.0554
-Interests:  215.895.0554
+Interests:  
 
 
 Name: Scott Stein
@@ -5486,7 +5486,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/stein.ashx?h=150&la=en&w=125&hash=8F0530705598B749716A88D07200F48D99FC077F
 Publications:  
 Phone:  215.895.1301
-Interests:  215.895.1301
+Interests:  
 
 
 Name: Susan Stein
@@ -5503,7 +5503,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Stein_Sue.ashx?h=150&la=en&w=125&hash=457684A982D3A648DD48AFCCD341D6549C98DD7C
 Publications:  
 Phone:  215.571.4510
-Interests:  215.571.4510
+Interests:  
 
 
 Name: Jerry Steinberg
@@ -5537,7 +5537,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/richard_steinberg.ashx?h=166&la=en&w=125&hash=926FC7D6A16C8BA9320494050837C11A85509AD6
 Publications:  
 Phone:  215.895.2727
-Interests:  215.895.2727
+Interests:  
 
 
 Name: Jeanne M. Steuber
@@ -5554,7 +5554,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jeanne-steuber.ashx?h=150&la=en&w=125&hash=CEF4DA7F73E3A4AB64458DFD26B2D54F0B552616
 Publications:  
 Phone:  215.895.1957
-Interests:  215.895.1957
+Interests:  
 
 
 Name: Donald F. Stevens
@@ -5571,7 +5571,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Stevenspic.ashx?h=189&la=en&w=125&hash=D07D9883A3C25A6E91E79214470A2A6108EAD927
 Publications:  
 Phone:  215.895.2465
-Interests:  215.895.2465
+Interests:  
 
 
 Name: Judith Storniolo
@@ -5588,7 +5588,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/storniolo_judith.ashx?h=150&la=en&w=125&hash=7A8F1DF0A82D8C5C04EDE1F2FF20AFC01CCADEC2
 Publications:  
 Phone:  215.895.2186
-Interests:  215.895.2186
+Interests:  
 
 
 Name: Kenneth P. Swartz
@@ -5605,7 +5605,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/kenneth-swartz.ashx?h=150&la=en&w=125&hash=E1D5888ABEED025A7B2B000B1C33663369BEA979
 Publications:  
 Phone:  215.895.6675
-Interests:  215.895.6675
+Interests:  
 
 
 Name: Jose Tapia
@@ -5622,7 +5622,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/tapia_jose_web.ashx?h=150&la=en&w=125&hash=415C8A69AE49047C11D73C81039ED847F9C3726F
 Publications:  
 Phone:  215.895.6762
-Interests:  215.895.6762
+Interests:  
 
 
 Name: Scott Tattar
@@ -5639,7 +5639,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/tattar-scott.ashx?h=150&la=en&w=125&hash=26E705E83B6F0D61209B986AEBD50405BE69F045
 Publications:  
 Phone:  215.571.3611
-Interests:  215.571.3611
+Interests:  
 
 
 Name: Elizabeth Thorpe
@@ -5656,7 +5656,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/thorpe.ashx?h=150&la=en&w=125&hash=DF83448B4551D3C7231F8257FE6B023D7D502145
 Publications:  
 Phone:  215.895.6391
-Interests:  215.895.6391
+Interests:  
 
 
 Name: Eva Thury
@@ -5673,7 +5673,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Thury.ashx?h=150&la=en&w=125&hash=BBCC0BD124ED2A4202D40ED9FFE84286E0EF4582
 Publications:  
 Phone:  215.895.1711
-Interests:  215.895.1711
+Interests:  
 
 
 Name: Monica Togna
@@ -5690,7 +5690,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/monica_togna_01.ashx?h=150&la=en&w=125&hash=17C9F1C176DC081015FDB0007A5541EAFEF6B7DC
 Publications:  
 Phone:  215.895.2684
-Interests:  215.895.2684
+Interests:  
 
 
 Name: Ambassador (Ret.) Joseph M. Torsella
@@ -5724,7 +5724,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/som_tyagi.ashx?h=166&la=en&w=125&hash=18A15603478D06AB01FAB32D9C5913D3486EDFA4
 Publications:  
 Phone:  215.895.6956
-Interests:  215.895.6956
+Interests:  
 
 
 Name: Kristene Unsworth
@@ -5741,7 +5741,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/unsworth_kristene.ashx?h=150&la=en&w=125&hash=355DCA4AC1D7FB1E594FCCA020D99E9948A66520
 Publications:  
 Phone:  215.895.6016
-Interests:  215.895.6016
+Interests:  
 
 
 Name: Brigita Urbanc
@@ -5758,7 +5758,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/brigita_urbanc.ashx?h=166&la=en&w=125&hash=B172ABEF3FD3035FCE732A64CDCC95D2DB189539
 Publications:  
 Phone:  215.895.2726
-Interests:  215.895.2726
+Interests:  
 
 
 Name: Michel Vallières
@@ -5775,7 +5775,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/michel_vallires.ashx?h=150&la=en&w=125&hash=9A860BD229CD3D9C051B828C342B713528549C6A
 Publications:  
 Phone:  215.895.2714
-Interests:  215.895.2714
+Interests:  
 
 
 Name: Loÿc Vanderkluysen
@@ -5792,7 +5792,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/loyc_vanderkluysen.ashx?h=150&la=en&w=125&hash=9BD543CF5C6BB05E3BAE8C658D33A0303452D836
 Publications:  
 Phone:  215.571.4673
-Interests:  215.571.4673
+Interests:  
 
 
 Name: David Velinsky
@@ -5809,7 +5809,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/velinsky_david_web.ashx?h=150&la=en&w=125&hash=999A92B81BFD7D4E3FBFD2DA1AC46A901FE69879
 Publications:  
 Phone:  215.299.1147
-Interests:  215.299.1147
+Interests:  
 
 
 Name: Michael S. Vogeley
@@ -5826,7 +5826,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/michaelsvogeley.ashx?h=166&la=en&w=125&hash=90A0A12D65A265E074328C0E6D8A5A1C2F80E4B1
 Publications:  
 Phone:  215.895.2710
-Interests:  215.895.2710
+Interests:  
 
 
 Name: Kathleen Volk Miller
@@ -5843,7 +5843,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/volkmiller.ashx?h=150&la=en&w=125&hash=1B361708F76F06EB81E39A3075BA9DF3FCD4244A
 Publications:  
 Phone:  215.895.1303
-Interests:  215.895.1303
+Interests:  
 
 
 Name: Maria Volynsky
@@ -5877,7 +5877,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/no-photo-available.ashx?h=150&la=en&w=125&hash=04B0E5393FBA75D76C47C9A9BEC4172E5BCE76B5
 Publications:  
 Phone:  215.895.2652
-Interests:  215.895.2652
+Interests:  
 
 
 Name: Vaishalee T. Wadke
@@ -5894,7 +5894,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/vaishalee-wadke.ashx?h=150&la=en&w=125&hash=0D127ED45DFDFDBA8948C91CCCE60F9092F84EDC
 Publications:  
 Phone:  215.895.6392
-Interests:  215.895.6392
+Interests:  
 
 
 Name: Anthony Wambsgans
@@ -5911,7 +5911,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/wambsgans-tony.ashx?h=180&la=en&w=150&hash=F478DCB57A717D2CC5B3A3C0F578F749F0D6C268
 Publications:  
 Phone:  215.895.1585
-Interests:  215.895.1585
+Interests:  
 
 
 Name: Scott Warnock
@@ -5928,7 +5928,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/warnock.ashx?h=150&la=en&w=125&hash=88FDCD642B38460549B6101D5B03573FDDB45F8C
 Publications:  
 Phone:  215.895.0377
-Interests:  215.895.0377
+Interests:  
 
 
 Name: Elizabeth Burke Watson
@@ -5945,7 +5945,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/watson_elizabeth.ashx?h=150&la=en&w=125&hash=1C4851947C0615449EE12B7F125558DE9FFF5356
 Publications:  
 Phone:  215.299.1109
-Interests:  215.299.1109
+Interests:  
 
 
 Name: Robert Watts
@@ -5962,7 +5962,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/watts.ashx?h=150&la=en&w=125&hash=FE287C258129E7301FE52F674C38D89F1BCF3447
 Publications:  
 Phone:  215.895.2441
-Interests:  215.895.2441
+Interests:  
 
 
 Name: Jason D. Weckstein
@@ -5979,7 +5979,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/WecksteinJason.ashx?h=150&la=en&w=125&hash=A4FD32EBACE62732E830EFC1C4F424B41925CF71
 Publications:  
 Phone:  215.299.1023
-Interests:  215.299.1023
+Interests:  
 
 
 Name: Rachel Wenrick
@@ -5996,7 +5996,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/wenrick-rachel.ashx?h=150&la=en&w=125&hash=E34BB941FAD7B181CB387E6AC845C3B1DE2925EF
 Publications:  
 Phone:  215.895.4364
-Interests:  215.895.4364
+Interests:  
 
 
 Name: Richard D. White
@@ -6013,7 +6013,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/richard-white.ashx?h=150&la=en&w=125&hash=4DF29355F9CC7210B9C5C8933C2308CF9218008D
 Publications:  
 Phone:  215.895.2683
-Interests:  215.895.2683
+Interests:  
 
 
 Name: Vincent Williams
@@ -6030,7 +6030,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56
 Publications:  
 Phone:  215.895.5888
-Interests:  215.895.5888
+Interests:  
 
 
 Name: Jet Wimp
@@ -6064,7 +6064,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/hugo-woerdeman.ashx?h=150&la=en&w=125&hash=BA275E117F9104EF5DEB51321EB0C209DDAC2E06
 Publications:  
 Phone:  215.895.6828
-Interests:  215.895.6828
+Interests:  
 
 
 Name: Ezra Wood
@@ -6081,7 +6081,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/wood_evan.ashx?h=150&la=en&w=125&hash=97FC722CA6857668DA1F650382316B0B775C4FE5
 Publications:  
 Phone:  215.895.1681
-Interests:  215.895.1681
+Interests:  
 
 
 Name: J. Douglas Wright
@@ -6098,7 +6098,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/doug-wright.ashx?h=150&la=en&w=125&hash=154700A0FEBCA3AF5C187AFAA44DCA01D9DD5730
 Publications:  
 Phone:  215.895.0981
-Interests:  215.895.0981
+Interests:  
 
 
 Name: Jun Xi
@@ -6115,7 +6115,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jun_xi.ashx?h=150&la=en&w=125&hash=D3C6F1EA8D2688DFA4C1BBDF57EEA67BD87166D1
 Publications:  
 Phone:  215.895.2648
-Interests:  215.895.2648
+Interests:  
 
 
 Name: Dennis G. Yang
@@ -6132,7 +6132,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/dennis-yang.ashx?h=150&la=en&w=125&hash=6C0A4AC1B351A6178B81AB306BD4C3E37875BD4E
 Publications:  
 Phone:  215.571.3583
-Interests:  215.571.3583
+Interests:  
 
 
 Name: Yun Yoo
@@ -6149,7 +6149,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/yun-yoo.ashx?h=150&la=en&w=125&hash=CF05D5212118E1D5A7F7C74F5E1CA11CBA42A25C
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Alden Young
@@ -6166,7 +6166,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/alden-young.ashx?h=150&la=en&w=125&hash=A825495251EB79D42F130F52E084961EB557472E
 Publications:  
 Phone:  215.571.3626
-Interests:  215.571.3626
+Interests:  
 
 
 Name: Thomas P.-Y. Yu
@@ -6183,7 +6183,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/thomas-yu.ashx?h=150&la=en&w=125&hash=AC166D0BD1A2B46C0E4731A4A077395E7DEDB6B2
 Publications:  
 Phone:  215.895.2066
-Interests:  215.895.2066
+Interests:  
 
 
 Name: Jian-Min Yuan
@@ -6200,7 +6200,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/yuan.ashx?h=150&la=en&w=125&hash=65B3D0DFFFD729763BEE535A6C6340564D0151D0
 Publications:  
 Phone:  215.895.2722
-Interests:  215.895.2722
+Interests:  
 
 
 Name: Michael Yudell
@@ -6217,7 +6217,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Yudell_Michael.ashx?h=150&la=en&w=125&hash=7F0A519E9B6DCDEADA2F000CA47E6FCDF2BC1E39
 Publications:  
 Phone:  215.762.6515
-Interests:  215.762.6515
+Interests:  
 
 
 Name: Jennifer Yusin
@@ -6234,7 +6234,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/jennifer-yusin-web.ashx?h=150&la=en&w=125&hash=5C927E1FD20AB1223C743053C67CDB15A6A736E9
 Publications:  
 Phone:  215.895.6778
-Interests:  215.895.6778
+Interests:  
 
 
 Name: Robert Zaller
@@ -6251,10 +6251,10 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Robert Zaller.ashx?h=150&la=en&w=125&hash=05F988EFC0129F4875518D498E50722F21E9A726
 Publications:  
 Phone:  215.895.1512
-Interests:  215.895.1512
+Interests:  
 
 
-Name: Sergio Zefillipo
+Name: Sergio Zefelippo
 Property: 
 Title:  Adjunct Instructor
 Department: Department of Mathematics
@@ -6268,7 +6268,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/sergio-zefillipo.ashx?h=150&la=en&w=125&hash=3D3E5AFB07F6EDDA2E5107E06A521BABE81AEBCC
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Asta Zelenkauskaite
@@ -6285,7 +6285,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/Zelenkauskaite_Asta.ashx?h=150&la=en&w=125&hash=3AB56FA319B8E39DEE5411027648A2F6583172BC
 Publications:  
 Phone:  215.895.1717
-Interests:  215.895.1717
+Interests:  
 
 
 Name: Yihong Zhang
@@ -6302,7 +6302,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/yihong-zhang.ashx?h=150&la=en&w=125&hash=B6A9729A791078AAD52F06439F56AE98BED48679
 Publications:  
 Phone:  215.895.2668
-Interests:  215.895.2668
+Interests:  
 
 
 Name: Fengqing Zoe Zhang
@@ -6319,7 +6319,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/zoe_zhang.ashx?h=150&la=en&w=125&hash=650562A5EC59ADEE5B03ABCD1060E90BF453EC93
 Publications:  
 Phone:  215.553.7172
-Interests:  215.553.7172
+Interests:  
 
 
 Name: Matthew Ziemke
@@ -6336,7 +6336,7 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/matt-ziemke.ashx?h=180&la=en&w=150&hash=19C1D3EF181DAE462C894BA8C9924429799210E0
 Publications:  
 Phone:  215.571.3586
-Interests:  215.571.3586
+Interests:  
 
 
 Name: Eric A. Zillmer
@@ -6353,6 +6353,6 @@ Website:
 Picture: http://drexel.edu/~/media/Images/coas2/profiles/zillmer_eric.ashx?h=150&la=en&w=125&hash=EE56DC05563EABF796B040679C8F594DDFA6D5B1
 Publications:  
 Phone:  215.895.1977
-Interests:  215.895.1977
+Interests:  
 
 

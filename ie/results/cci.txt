@@ -12,7 +12,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1930
-Interests:  215.895.1930
+Interests:  Information behavior, public libraries, social networks, gender, children, and teens
 
 
 Name: Larry Alexander
@@ -29,7 +29,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6628
-Interests:  215.895.6628
+Interests:  Large-scale modeling and simulation, pattern recognition, future of information technology
 
 
 Name: Yuan An
@@ -46,7 +46,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2633
-Interests:  215.895.2633
+Interests:  Conceptual modeling, schema and ontology mapping, information integration, knowledge representation, requirements engineering, healthcare information systems, semantic web
 
 
 Name: David Augenblick
@@ -63,7 +63,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.4910
-Interests:  215.895.4910
+Interests:  Introductory and object-oriented programming, data structures and database systems, computer application project management, applications to engineering
 
 
 Name: Marcello Balduccini
@@ -80,7 +80,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.3603
-Interests:  215.571.3603
+Interests:  Knowledge representation, logic programming, constraint programming, planning, diagnosis, agent architectures, cognitive robotics, natural language processing, information retrieval, question answering, malware detection and mitigation, cyber-physical systems
 
 
 Name: Ellen Bass
@@ -97,7 +97,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4416
-Interests:  215.571.4416
+Interests:  Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering
 
 
 Name: M. Brian Blake
@@ -114,7 +114,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2200
-Interests:  215.895.2200
+Interests:  Software engineering approaches for integration of Web-based systems
 
 
 Name: Mark Boady
@@ -131,7 +131,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2347
-Interests:  215.895.2347
+Interests:  Computer algebra, data structures, computations theory, automatic grading, using gaming in education
 
 
 Name: Jennifer Booker
@@ -148,7 +148,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1004
-Interests:  215.895.1004
+Interests:  Software engineering, systems analysis and design, networking, statistics and measurement, process improvement, object-oriented analysis and design, bioinformatics, and modeling of biological systems
 
 
 Name: David E. Breen
@@ -165,7 +165,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1626
-Interests:  215.895.1626
+Interests:  Computer-aided design, geometric modeling, biomedical image informatics, self-organization and biological simulation
 
 
 Name: Matthew Burlick
@@ -182,7 +182,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4468
-Interests:  215.571.4468
+Interests:  Machine learning, computer graphics, data structures and algorithms, discrete structures, computer vision; multi-sensor, multi-model fusion; computer vision and biomedical imaging; unsupervised dynamic class discovery; spatio-temporal tracking and classification
 
 
 Name: Yuanfang Cai
@@ -199,7 +199,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0298
-Interests:  215.895.0298
+Interests:  Formal software design modeling and analysis, software economics, software evolution and modularity
 
 
 Name: Chris Carroll
@@ -216,7 +216,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4306
-Interests:  215.571.4306
+Interests:  Information security, computer networking and design, IT Infrastructure, server technology, information technology management
 
 
 Name: Bruce Char
@@ -233,7 +233,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2670
-Interests:  215.895.2670
+Interests:  Symbolic mathematical computation, algorithms and systems for computer algebra, parallel and distributed computation, computer science education, use of computing for STEM education.
 
 
 Name: Chaomei Chen
@@ -250,7 +250,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6627
-Interests:  215.895.6627
+Interests:  Information visualization, visual analytics, knowledge domain visualization, network analysis and modeling, scientific discovery, science mapping, scientometrics, citation analysis, human-computer interaction
 
 
 Name: Catherine D. Collins
@@ -267,7 +267,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1902
-Interests:  215.895.1902
+Interests:  Knowledge management, collection development, management of information organizations, information sources and services, international development
 
 
 Name: Prudence W. Dalrymple
@@ -284,7 +284,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2699
-Interests:  215.895.2699
+Interests:  User-centered information behaviors, particularly in the health arena, health informatics, evidence based practice, education for the information professions and evaluation, and translation of research into practice
 
 
 Name: Yi Deng
@@ -301,7 +301,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2474
-Interests:  215.895.2474
+Interests:  Computing & Informatics
 
 
 Name: M. Carl Drott
@@ -318,7 +318,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2487
-Interests:  215.895.2487
+Interests:  Systems analysis techniques, Web usage, competitive intelligence
 
 
 Name: Andrea Forte
@@ -335,7 +335,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.839.8414; 215.895.0543
-Interests:  215.839.8414; 215.895.0543
+Interests:  Social computing, human-computer interaction, computer-supported cooperative work, computer-supported collaborative learning, information literacy
 
 
 Name: Susan Gasson
@@ -352,7 +352,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6398
-Interests:  215.895.6398
+Interests:  Co-design of business and IT-systems, distributed cognition & knowledge management in boundary-spanning groups, human-centered design, social informatics, online learning communities, Grounded Theory
 
 
 Name: Christopher Geib
@@ -369,7 +369,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4533
-Interests:  215.571.4533
+Interests:  Decision making and reasoning under conditions of uncertainty, planning, scheduling, constraint-based reasoning, human-computer and robot interaction, probabilistic reasoning, network security, process control, user interfaces
 
 
 Name: Vasilis Gkatzelis
@@ -386,7 +386,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.5875
-Interests:  215.895.5875
+Interests:  Algorithmic Mechanism Design, Multiagent Resource Allocation, Approximation Algorithms
 
 
 Name: Colin Gordon
@@ -403,7 +403,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4360
-Interests:  215.571.4360
+Interests:  Programming languages and formal methods; type systems and program verification for concurrent programs
 
 
 Name: Jane Greenberg
@@ -420,7 +420,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2490
-Interests:  215.895.2490
+Interests:  Metadata, ontological engineering, data science, knowledge organization, information retrieval
 
 
 Name: Rachel Greenstadt
@@ -437,7 +437,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2920
-Interests:  215.895.2920
+Interests:  Artificial intelligence, privacy, security, multi-agent systems, economics of electronic privacy and information security
 
 
 Name: Peter Grillo
@@ -454,7 +454,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0492
-Interests:  215.895.0492
+Interests:  Strategic applications of technology within organizations
 
 
 Name: Gregory W. Hislop
@@ -471,7 +471,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2179
-Interests:  215.895.2179
+Interests:  Information technology for teaching and learning, online education, structure and organization of the information disciplines, computing education research, software evaluation and characterization
 
 
 Name: Xiaohua Tony Hu
@@ -488,7 +488,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0551
-Interests:  215.895.0551
+Interests:  Data mining, text mining, Web searching and mining, information retrieval, bioinformatics and healthcare informatics
 
 
 Name: Jeremy Johnson
@@ -505,7 +505,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2893
-Interests:  215.895.2893
+Interests:  Computer algebra, design and analysis of algorithms, programming languages and compilers, automated performance tuning, algorithms for DSP, parallel processing, and high-performance computing
 
 
 Name: Constantine Katsinis
@@ -522,7 +522,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0966
-Interests:  215.895.0966
+Interests:  Computer Security, network security, parallel computer architectures, mobile computing, information assurance, fault tolerant systems, image processing and pattern recognition
 
 
 Name: Weimao Ke
@@ -539,7 +539,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.5912
-Interests:  215.895.5912
+Interests:  Information retrieval (IR), distributed systems, intelligent filtering/recommendation, information visualization, network science, complex systems, machine learning, text/data mining, multi-agent systems
 
 
 Name: Michael Khoo
@@ -556,7 +556,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1230
-Interests:  215.895.1230
+Interests:  Understandings and practices that users bring to their interactions with information systems, with a focus on the evaluation of digital libraries and educational technologies
 
 
 Name: Xia Lin
@@ -573,7 +573,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2482
-Interests:  215.895.2482
+Interests:  Digital libraries, information visualization, knowledge mapping, object-oriented programming, information retrieval, information architecture, information-seeking behaviors in digital environments
 
 
 Name: Geoffrey Mainland
@@ -590,7 +590,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1518
-Interests:  215.895.1518
+Interests:  High-level programming languages and runtime support for non-general purpose computation
 
 
 Name: Spiros Mancoridis
@@ -607,7 +607,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6824
-Interests:  215.895.6824
+Interests:  Software engineering, software security, code analysis, evolutionary computation
 
 
 Name: Gabriela Marcu
@@ -624,7 +624,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2474
-Interests:  215.895.2474
+Interests:  Human-computer interaction, health informatics, action research, ethnography, user experience design, designing for social change, organizational information systems, ubiquitous computing, knowledge management
 
 
 Name: Linda Marion
@@ -641,7 +641,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1532
-Interests:  215.895.1532
+Interests:  Formal and informal communication, bibliometric studies of scholarly communication, diffusion of information, information use in the social sciences, academic and public libraries, information science education
 
 
 Name: Adelaida Alban Medlock
@@ -658,7 +658,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2672
-Interests:  215.895.2672
+Interests:  Introductory programming, computer science education
 
 
 Name: William Mongan
@@ -675,7 +675,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0286
-Interests:  215.895.0286
+Interests:  Service-oriented architectures, program comprehension, reverse engineering, software engineering, computer architecture, computer science education
 
 
 Name: Gaurav Naik
@@ -692,7 +692,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4512
-Interests:  215.571.4512
+Interests:  Computer network security, Internet architectures and services
 
 
 Name: Ko Nishino
@@ -709,7 +709,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2678
-Interests:  215.895.2678
+Interests:  Computer vision, computer graphics, analysis and synthesis of visual appearance
 
 
 Name: Danuta A. Nitecki
@@ -726,7 +726,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2750
-Interests:  215.895.2750
+Interests:  Library metrics and use in management, library as place, and academic library service models
 
 
 Name: Krzysztof Nowak
@@ -743,7 +743,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6826
-Interests:  215.895.6826
+Interests:  Fourier analysis, partial differential equations, image processing, wavelets, asymptotic distribution of eigenvalues, numerical methods and algorithms, computer science education
 
 
 Name: Santiago Ontañón
@@ -760,7 +760,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.571.4109
-Interests:  215.571.4109
+Interests:  Game AI, computer games, artificial intelligence, machine learning, case-based reasoning
 
 
 Name: Jung-ran Park
@@ -777,7 +777,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1669
-Interests:  215.895.1669
+Interests:  Knowledge organization and representation (cataloging and classification, metadata) computer-mediated communication, cross-cultural communication, multilingual information access, discourse, and pragmatics
 
 
 Name: Alex Poole
@@ -794,7 +794,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6275
-Interests:  215.895.6275
+Interests:  Archives and records, digital curation, digital humanities, and diversity, inclusivity, and social justice.
 
 
 Name: Jeffrey Popyack
@@ -811,7 +811,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1846
-Interests:  215.895.1846
+Interests:  Operations research, stochastic optimization, computational methods for Markov decisions processes, artificial intelligence, computer science education
 
 
 Name: William Regli
@@ -828,7 +828,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  
-Interests:  
+Interests:  Artificial intelligence, computer graphics, engineering design and Internet computing
 
 
 Name: Lorraine Richards
@@ -845,7 +845,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1903
-Interests:  215.895.1903
+Interests:  Archives, digital curation, electronic records management, information technology and digital collections, cloud computing and record keeping, management of information organizations
 
 
 Name: Michelle L. Rogers
@@ -862,7 +862,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2922
-Interests:  215.895.2922
+Interests:  Human-computer interaction, healthcare informatics, human factors engineering, socio-technical systems, health services research, patient safety
 
 
 Name: Jeffrey Salvage
@@ -879,7 +879,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215-895-2679
-Interests:  215-895-2679
+Interests:  Object-oriented programming, multi-agent systems, software engineering, database theory, introductory programming, data structures
 
 
 Name: Dario Salvucci
@@ -896,7 +896,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2674
-Interests:  215.895.2674
+Interests:  Cognitive science, cognitive architectures, human-computer interaction, human factors, multitasking and interruptions, applications to driving and driver distraction
 
 
 Name: Aleksandra Sarcevic
@@ -913,7 +913,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0460
-Interests:  215.895.0460
+Interests:  Computer-supported cooperative work, human-computer interaction, healthcare informatics; crisis informatics; social analysis of information & communications technology (ICT)
 
 
 Name: Kurt Schmidt
@@ -930,7 +930,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1848
-Interests:  215.895.1848
+Interests:  Data structures, math foundation for computer science, programming tools, programming languages
 
 
 Name: Ali Shokoufandeh
@@ -947,7 +947,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2671
-Interests:  215.895.2671
+Interests:  Theory of algorithms, graph theory, combinatorial optimization, computer vision
 
 
 Name: Erin Solovey
@@ -964,7 +964,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.4598
-Interests:  215.895.4598
+Interests:  Human-computer interaction, brain-computer interfaces, tangible interaction, machine learning, human interaction with complex and autonomous systems
 
 
 Name: Il-Yeol Song
@@ -981,7 +981,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.2489
-Interests:  215.895.2489
+Interests:  Conceptual modeling, data warehousing, big data technologies and analytics, object-oriented analysis and design with UML, healthcare informatics, smart health
 
 
 Name: Julia Stoyanovich
@@ -998,7 +998,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6273
-Interests:  215.895.6273
+Interests:  Data and knowledge management, software development, database management, data-intensive workflow, social context search and ranking, information discovery
 
 
 Name: Brian Stuart
@@ -1015,7 +1015,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.3921
-Interests:  215.895.3921
+Interests:  Machine learning, networking, robotics, image processing, data storage, operating systems, data communications, distributed/operating systems, accelerated computer programming, computer graphics
 
 
 Name: Deborah Turner
@@ -1032,7 +1032,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.0493
-Interests:  215.895.0493
+Interests:  Information behavior/interaction, management of information institutions, orality and information
 
 
 Name: Kristene Unsworth
@@ -1049,7 +1049,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6016
-Interests:  215.895.6016
+Interests:  Information policy, ethics, government information
 
 
 Name: Filippos Vokolos
@@ -1066,7 +1066,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.3935
-Interests:  215.895.3935
+Interests:  System architecture, software engineering, principles of software design and construction, software verification & validation, programming languages, dependable software systems
 
 
 Name: Rosina Weber
@@ -1083,7 +1083,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1911
-Interests:  215.895.1911
+Interests:  Case-based reasoning, machine learning, text analytics, natural language understanding, technological aspects of knowledge management, project management, and requirements engineering.
 
 
 Name: Jake Williams
@@ -1100,7 +1100,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  
-Interests:  
+Interests:  Data science, scientific programming, computational social science, computational linguistics and natural language processing, mathematics, machine learning, algorithms, and scalability.
 
 
 Name: Erjia Yan
@@ -1117,7 +1117,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1459
-Interests:  215.895.1459
+Interests:  Network science, information analysis and retrieval, scholarly communication methods and applications
 
 
 Name: Christopher C. Yang
@@ -1134,7 +1134,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1631
-Interests:  215.895.1631
+Interests:  Web search and mining, security informatics, knowledge management, cross-lingual retrieval, multimedia retrieval, text summarization, information sharing and privacy, digital libraries, electronic commerce
 
 
 Name: Valerie Ann Yonker
@@ -1151,6 +1151,6 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.6397
-Interests:  215.895.6397
+Interests:  Human service information systems, systems analysis and design, measurement in software evaluation, knowledge engineering
 
 

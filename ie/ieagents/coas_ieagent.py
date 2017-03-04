@@ -45,9 +45,7 @@ class CoasIEAgent(IEAgent):
             print('There was a problem: %s' % (exc))
         soup = BeautifulSoup(webpage.text, "html.parser")
 
-        #elems = soup.select('tr')
         elems = soup.findAll('tr', {"class" : "FacultyTableRow"})
-
         for i in range(0, len(elems)):
             data = elems[i]
             div_facultyHeadshot = data.find('div', {"class" : "facultyHeadshot"})

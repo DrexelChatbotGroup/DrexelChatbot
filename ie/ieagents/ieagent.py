@@ -71,9 +71,15 @@ class DatabaseRow(object):
         database.write("Picture: %s\n" % self.picture)
         database.write("Publications:  %s\n" % self.publications)
         database.write("Phone:  %s\n" % self.phone)
-        database.write("Interests:  %s\n" % self.phone)
+        database.write("Interests:  %s\n" % self.interests)
         database.write("\n\n")
 
 
 def _fixStr(string):
     return " ".join(string.strip(' \t\n\r,').split())
+
+def writeHTMLFile(soup, filename):
+    webpage_file = open (filename, 'w')
+    webpage_file.write(soup.prettify())
+    webpage_file.close()
+    
