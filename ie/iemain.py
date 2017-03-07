@@ -25,7 +25,7 @@ def _main():
 
     try:
         db = stardog.StardogDB(_DATABASE_NAME)
-        d.remove_all()
+        db.remove_all()
         db.add(ttl_files)
     except TypeError:
         print("Failed! Is the database %s running?" % _DATABASE_NAME)
