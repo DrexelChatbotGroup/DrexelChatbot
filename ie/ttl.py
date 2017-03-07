@@ -1,8 +1,9 @@
 
 """
+Provides classes to more easily write the ttl files used by the database. 
 """
 
-__all__ = []
+__all__ = ["TtlFile", "TtlFileEntry"]
 __version__ = '0.1'
 __author__ = 'Tom Amon'
 
