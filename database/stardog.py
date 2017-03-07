@@ -44,7 +44,7 @@ if __name__ == "__main__":
     WHERE
     {
         ?s cb:name "Marcello Balduccini" .
-        ?s cb:title ?o .
+        ?s cb:property ?o .
     }
     """
     
