@@ -6,14 +6,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "pva23@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.0301" ; 
     cb:interests "New Venture Performance and Survival, Technology Commercialization, Technology Entrepreneurship" .
 
@@ -22,14 +16,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ma639@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6982" ; 
     cb:interests "Computational Economics, International Economics, International Finance, Macroeconomics, Macroeconomics and Monetary Economics, Monetary Economics" .
 
@@ -38,14 +26,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Management, Decision Sciences & MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Cyber Crime, Strategic Management of Information Technology, Unstructured Data Mining" .
 
@@ -54,14 +36,8 @@
     cb:property "faculty" ; 
     cb:title "Royal H. Gibson, Sr. Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "andersre@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2103" ; 
     cb:interests "Customer Satisfaction and Loyalty, Marketing Strategy, Selling and Sales Management" .
 
@@ -70,14 +46,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Global Marketing, Inter-Organizational, Marketing Strategy" .
 
@@ -86,30 +56,16 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "arinzeob@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.1798" ; 
-    cb:interests "" .
+    cb:phone "215.895.1798" .
 
 <#Patricia-Awerbuch>
     cb:name "Patricia Awerbuch" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "patricia.m.awerbuch@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4365" ; 
     cb:interests "Agricultural and Natural Resource Economics, Health Economics" .
 
@@ -118,14 +74,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "banerjea@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1449" ; 
     cb:interests "Interface with Marketing; Pricing Revenue Management, Inventory Control, Operations Planning and Scheduling, Production Planning and Control, Supply Chain Management" .
 
@@ -134,14 +84,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "rcb63@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6972" ; 
     cb:interests "Macroeconomics and Monetary Economics, Microeconomics, Political Economy, Public Economics" .
 
@@ -150,14 +94,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "David Cohen Research Scholar in Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Banking and Bank Regulation, Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Governance, Executive Compensation" .
 
@@ -166,14 +104,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD,FRM, CAIA, CFA" ; 
     cb:email "ecb49@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2944" ; 
     cb:interests "Alternative Investments, Applied Econometrics and Time Series Analysis, Derivatives, Game Theory" .
 
@@ -182,14 +114,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Department Head, Decision Sciences & MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Interior-Point Methods, Large-Scale Optimization, Mathematical Programming, Nonlinear Optimization, Operations and Supply Chain Optimization, Optimization Software, Portfolio Optimization" .
 
@@ -198,30 +124,17 @@
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "Ph.D." ; 
     cb:email "flb32@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.2308" ; 
-    cb:interests "" .
+    cb:phone "215.895.2308" .
 
 <#Sebastien-Bradley>
     cb:name "Sebastien Bradley" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "sjb355@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4193" ; 
     cb:interests "Applied Econometrics , International Economics, Public Economics, Real Estate" .
 
@@ -230,46 +143,24 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "maureen.patricia.breen@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.3672" ; 
-    cb:interests "" .
+    cb:phone "215.571.3672" .
 
 <#Beth-Buckman>
     cb:name "Beth Buckman" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "General Business" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "beb33@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.4663" ; 
-    cb:interests "" .
+    cb:phone "215.571.4663" .
 
 <#Jie-Cai>
     cb:name "Jie Cai" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "jc468@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1755" ; 
     cb:interests "Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Governance, Executive Compensation" .
 
@@ -278,14 +169,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "jodi.kathleen.cataline@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4660" ; 
     cb:interests "Accounting and Business History, Banking and Bank Regulation, General Business" .
 
@@ -294,14 +178,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "oc43@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2815" ; 
     cb:interests "Dynamic Pricing, Inventory Control, Revenue Management, Stochastic Optimization, Supply Chain Management" .
 
@@ -310,14 +188,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "suresh.chandran@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4409" ; 
     cb:interests "Corporate Entrepreneurship, Corporate Social Responsibility, Global Management, Intellectual Property and Employee Rights, Sustainability, Technological Innovation" .
 
@@ -326,14 +198,8 @@
     cb:property "faculty" ; 
     cb:title "KPMG Professor of Accounting" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD, CPA" ; 
     cb:email "hc336@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6979" ; 
     cb:interests "Audit Quality, Corporate Disclosure, Cost Management, Information Technology, Performance Measurement" .
 
@@ -342,14 +208,8 @@
     cb:property "faculty" ; 
     cb:title "Marshall M. Austin Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "chiangtc@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1745" ; 
     cb:interests "Behavioral Finance, Financial Market Volatility and Risk Management, Financial Panics and Contagion , International Finance, Time Series Analysis of Financial Series" .
 
@@ -358,30 +218,17 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "hc349@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.2147" ; 
-    cb:interests "" .
+    cb:phone "215.895.2147" .
 
 <#Rodger-Collons>
     cb:name "Rodger Collons" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Legal Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "JD, DBA" ; 
     cb:email "collonrd@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6971" ; 
     cb:interests "American Law, Ethics and Values in Management, Intellectual Property and Employee Rights, Uniform Commercial Code, Wealth Management" .
 
@@ -390,14 +237,8 @@
     cb:property "faculty" ; 
     cb:title "Joseph F. Ford Professor of Accounting" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "curatola@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1453" ; 
     cb:interests "Federal and State Income Tax Policy, Federal and State Income Tax Research, Fringe Benefits Taxation, Retirement Income and Women, Retirement Income Taxation" .
 
@@ -406,14 +247,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "General Business" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "dangeldc@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2954" ; 
     cb:interests "Accounting and Business History, Business Communication, Business Education, Capital Budgeting, Corporate Finance, Experiential Learning, General Business, Global Classrooms, Leadership Development, Service Learning" .
 
@@ -422,14 +256,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "led73@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1796" ; 
     cb:interests "Groups/Teams, Multi-Level Modeling, Shared Leadership" .
 
@@ -438,14 +266,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "mian.dai@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2536" ; 
     cb:interests "Applied Econometrics , Industrial Organization" .
 
@@ -454,14 +276,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "qd24@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2121" ; 
     cb:interests "Business Value of Information Technology, eCommerce, Economics of Information Technology, Information System Management" .
 
@@ -470,14 +286,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "xd45@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4822" ; 
     cb:interests "Financial Reporting, Regulation" .
 
@@ -486,14 +296,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Denis O’Brien Research Scholar in Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Board of Directors, Corporate Finance, Corporate Governance, Executive Compensation" .
 
@@ -502,14 +306,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Dean, Close School of Entrepreneurship" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "New Venture Performance and Survival, Social Capital, Technology Commercialization, Technology Entrepreneurship" .
 
@@ -518,30 +316,17 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "pcd32@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.6779" ; 
-    cb:interests "" .
+    cb:phone "215.571.6779" .
 
 <#Pia-Di>
     cb:name "Pia Di Girolamo" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "pd358@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4194" ; 
     cb:interests "Economic History, Forensic Economics, Italian Monetary History, Law and Economics, Macroeconomics and Monetary Economics" .
 
@@ -550,14 +335,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "bd328@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.3509" ; 
     cb:interests "Global Marketing, Inter-Organizational, Marketing channels, Retailing and Retail Management" .
 
@@ -566,14 +345,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "dd79@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1744" ; 
     cb:interests "Behavioral Finance, Equity Markets, Investments" .
 
@@ -582,30 +355,17 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "cmd433@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.4595" ; 
-    cb:interests "" .
+    cb:phone "215.571.4595" .
 
 <#Michaela-Draganska>
     cb:name "Michaela Draganska" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "draganska@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4195" ; 
     cb:interests "Marketing Analytics and Big Data, Marketing and Entrepreneurship, Marketing Communications, Marketing Research, Marketing Strategy, Technology and Innovation" .
 
@@ -614,14 +374,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "lkd26@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1033" ; 
     cb:interests "Global Capital Markets, Global Marketing, Marketing Strategy, New Markets in Emerging Countries, New Media Marketing" .
 
@@ -630,14 +383,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "chambesa@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.0231" ; 
     cb:interests "General Business, Groups/Teams, Leadership, Organizational Culture and Fit, Personality" .
 
@@ -646,14 +392,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "emf75@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4054" ; 
     cb:interests "Bayesian hierarchical models, Interactive (eCommerce), Marketing Research, Missing Data" .
 
@@ -662,30 +402,17 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "emf35@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.2304" ; 
-    cb:interests "" .
+    cb:phone "215.895.2304" .
 
 <#Christopher-Finnin>
     cb:name "Christopher Finnin" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Director of General Business Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "EdD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Business Education, General Business, strategy implementation, Technology Commercialization, Technology Entrepreneurship" .
 
@@ -694,14 +421,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "JD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Business Organizations, Contract Law, Estate Planning and Administration, Real Estate Law, Small Business Formation" .
 
@@ -710,14 +431,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ctg39@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4615" ; 
     cb:interests "Applied Probability, Decision Theory, Risk Analysis" .
 
@@ -726,14 +441,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Provost Distinguished Research Professor" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Data Analysis, eCommerce, Information System Management, Online Auctions, Outsourcing, SAS, Technology Adoption" .
 
@@ -742,30 +451,17 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Legal Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "JD" ; 
     cb:email "asg32@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.4689" ; 
-    cb:interests "" .
+    cb:phone "215.571.4689" .
 
 <#Hubert-Glover>
     cb:name "Hubert Glover" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "hdg26@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.4981" ; 
     cb:interests "Alliances, Business Education, Business Planning, Decision Making in Accounting and Auditing Environments, International Accounting" .
 
@@ -774,14 +470,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Capital Structure, Dividend Policy, Earnings Management, Stock Issuance, Time Series Analysis of Financial Series" .
 
@@ -790,14 +480,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "cg624@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1606" ; 
     cb:interests "Attitudes, Groups/Teams, Leadership, Motivation, Power and Influence" .
 
@@ -806,14 +490,8 @@
     cb:property "faculty" ; 
     cb:title "William A. Mackie Professor of Commerce and Engineering" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "jhg23@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2139" ; 
     cb:interests "Career Management, Stress, Work Life Balance/Conflict" .
 
@@ -822,14 +500,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department Head, Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Decision Making in Accounting and Auditing Environments, Executive Compensation and Corporate Governance, Financial Reporting" .
 
@@ -838,30 +510,17 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "cmh463@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.4678" ; 
-    cb:interests "" .
+    cb:phone "215.571.4678" .
 
 <#Shawkat-Hammoudeh>
     cb:name "Shawkat Hammoudeh" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "hammousm@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6673" ; 
     cb:interests "Agricultural and Natural Resource Economics, Applied Econometrics , BRICS Financial Markets, Energy Economics, Environmental Economics, Eurozone Equity Markets, Financial Economics, Financial Economics, natural resources and environmental economics, International Economics, Islamic Finance, Natural Resource Economics" .
 
@@ -870,14 +529,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Associate Dean for Academic Affairs" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Applied Econometrics , Economics of Non-profits, Health Economics, Industrial Organization, Mergers and Acquisitions" .
 
@@ -886,14 +539,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PA-C, PhD" ; 
     cb:email "mjh73@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2091" ; 
     cb:interests "Assessing Clinical Trial Quality, Measuring Clinical Trial Performance, The Business of Health Care, The Impact of Health Reform on the Delivery of Medical Services" .
 
@@ -902,14 +549,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "yh364@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2809" ; 
     cb:interests "Consumer In-Store Decision Making, Consumer Planning, Health Marketing, Memory and Learning" .
 
@@ -918,14 +559,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Associate Dean for Graduate and Undergraduate Programs, Dornsife Office for Experiential Learning" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "International Trade, Patterns of Trade, Trade Policy" .
 
@@ -934,14 +569,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "jeonbana@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2125" ; 
     cb:interests "Financial Economics, Global banking and Asian Economies, International Economics" .
 
@@ -950,14 +579,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "sj55@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1339" ; 
     cb:interests "Economic Development, Technological Change, and Growth, Education and Human Capital, Industrial Organization, Labor Economics, Microeconomics" .
 
@@ -966,14 +588,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "keidel@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2881" ; 
     cb:interests "Cognition and Strategy, Cognitive coaching, Executive teambuilding, Organizational design, Strategic thinking, Strategy creation" .
 
@@ -982,14 +598,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "nvk24@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2118" ; 
     cb:interests "Equity valuation; time varying discount rates; the role of accounting information in stock price formation; financial reporting; earnings quality; accounting for innovation and intangible assets, Financial Reporting" .
 
@@ -998,14 +608,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "kimsl@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2181" ; 
     cb:interests "Inventory Control, Production Planning and Control, Quality Management, Supply Chain Management" .
 
@@ -1014,14 +618,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "CPA" ; 
     cb:email "Klinesa@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.5866" ; 
     cb:interests "Business Entity Taxation, Individual Taxation, Managerial Accounting" .
 
@@ -1030,14 +628,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Stephen Cozen Research Scholar in Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Brand and Corporate Reputation Management, Corporate Political Activism, Corporate Social Responsibility, Internal Marketing, Marketing Strategy" .
 
@@ -1046,14 +638,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "kratchal@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1742" ; 
     cb:interests "Investments, Portfolio Management" .
 
@@ -1062,14 +647,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Department Head" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "JD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Business Organizations, Contract Law, Ethics and Values in Management, International Business Law, Uniform Commercial Code" .
 
@@ -1078,14 +657,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ak3386@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4681" ; 
     cb:interests "Computational Economics, Financial Economics, Labor Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods" .
 
@@ -1094,14 +667,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "EdD" ; 
     cb:email "dbk37@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4616" ; 
     cb:interests "Business Education, Groups/Teams, Leadership, Supply Chain Leadership" .
 
@@ -1110,14 +677,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "hk47@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6006" ; 
     cb:interests "Advertising Effects, Strategic Branding" .
 
@@ -1126,14 +687,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Director, Ph.D. Program" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Economic Development, Technological Change, and Growth, Industrial Organization, Macroeconomics and Monetary Economics" .
 
@@ -1142,14 +697,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "jl386@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4665" ; 
     cb:interests "General Business, Health Care Marketing, Marketing and Entrepreneurship, Marketing Research, Peer mentoring, Student leadership development, Supporting international student acculturation" .
 
@@ -1158,14 +706,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "jl3543@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4676" ; 
     cb:interests "economics of innovation, social networks, technology management" .
 
@@ -1174,14 +716,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "jl3539@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4672" ; 
     cb:interests "Decision Models, Mathematical Programming, Risk Assessment, Stochastic Optimization, Stochastic Processes" .
 
@@ -1190,14 +726,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "johnny.lee@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4680" ; 
     cb:interests "Accounting Information Systems, E-Business, Managerial Accounting, Supply Chain Management" .
 
@@ -1206,14 +736,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Trustee Professor" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Inventory Control, Mathematical Programming, Operations Planning and Scheduling" .
 
@@ -1222,14 +746,8 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "merrill@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2459" ; 
     cb:interests "Bayesian Statistics, Higher Moment Estimation, Markov Chain Monte Carlo" .
 
@@ -1238,14 +756,8 @@
     cb:property "faculty" ; 
     cb:title "R. John Chapel Jr., Dean" ; 
     cb:department "Dean" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Diversity, Human Resource Management including Personal and Labor Relations, Leadership, Mentoring and Coaching, School-To-Work" .
 
@@ -1254,14 +766,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "cl998@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2132" ; 
     cb:interests "Computational Finance, Data Mining, Health Informatics, Knowledge Management, Recommender Systems, Sequential Pattern Analysis, social mining, Spatio-temporal Data Analysis, text mining" .
 
@@ -1270,14 +776,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "yl663@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4441" ; 
     cb:interests "Categorization in markets, organization theory, Technology innovation" .
 
@@ -1286,30 +786,17 @@
     cb:property "faculty" ; 
     cb:title "TD Bank Endowed Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ml3237@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.6070" ; 
-    cb:interests "" .
+    cb:phone "215.895.6070" .
 
 <#Dali-Ma>
     cb:name "Dali Ma" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "dali.ma@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1733" ; 
     cb:interests "inequality and status hierarchy, innovation and entrepreneurship, organization theory, social networks, sociology of China" .
 
@@ -1318,14 +805,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Director, School of Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "International Trade" .
 
@@ -1334,14 +815,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Maragahh@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6996" ; 
     cb:interests "Management Statistics, Statistical Process Control (SPC), Statistical Quality Control, Strategic Quality Control" .
 
@@ -1350,14 +825,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "DBA" ; 
     cb:email "mkm55@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1939" ; 
     cb:interests "Business Planning, Marketing Research, Marketing Strategy, Social Capital, Social Networking" .
 
@@ -1366,14 +835,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "meb359@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1792" ; 
     cb:interests "Abusive Supervision, Deviant Behavior, Leadership" .
 
@@ -1382,14 +845,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "mccainra@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2176" ; 
     cb:interests "Computational Economics, Game Theory" .
 
@@ -1398,14 +855,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "BDMcCullough@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2134" ; 
     cb:interests "Applied Econometrics , Data Mining, Econometric Techniques, Reliability of Statistical and Econometric Software" .
 
@@ -1414,14 +865,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "im99@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6007" ; 
     cb:interests "Applied Econometrics" .
 
@@ -1430,14 +875,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "rn362@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4675" ; 
     cb:interests "Organizational Knowledge and Identity, Organizational learning and change, Strategic Leadership, Strategic Performativity" .
 
@@ -1446,14 +885,8 @@
     cb:property "faculty" ; 
     cb:title "Deloitte Touche Jones Stubbs Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "vkn22@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6763" ; 
     cb:interests "Cognition and Strategy, Corporate Entrepreneurship, Organization design" .
 
@@ -1462,30 +895,17 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ndubizga@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.2120" ; 
-    cb:interests "" .
+    cb:phone "215.895.2120" .
 
 <#Edward-Nelling>
     cb:name "Edward Nelling" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "en26@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2117" ; 
     cb:interests "Business Valuation, Corporate Finance, Mutual Funds, Real Estate Finance" .
 
@@ -1494,14 +914,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "gpn26@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4596" ; 
     cb:interests "Banking and Bank Regulation, Capital Structure, Corporate Finance, Financial Institution Management, Risk Management" .
 
@@ -1510,14 +924,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "maria.p.olivero@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.4908" ; 
     cb:interests "International Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods, Open Economy Macroeconomics" .
 
@@ -1526,14 +934,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "eeo42@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6619" ; 
     cb:interests "Financial Institution Management, International Finance, Macroeconomics, New Markets in Emerging Countries, Politcal Economy" .
 
@@ -1542,14 +943,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "JD" ; 
     cb:email "orkinn@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6976" ; 
     cb:interests "Labor, Employment, Intellectual Property" .
 
@@ -1558,14 +953,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "dp643@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1396" ; 
     cb:interests "Financial Reporting" .
 
@@ -1574,14 +963,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "hdp34@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1747" ; 
     cb:interests "IPO, Knowledge-based View of the Firm, Technology Entrepreneurship, Venture capital" .
 
@@ -1590,14 +973,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Professor of Operations Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Manufacturing Technology Development, Quality Implementation, Quality Management, Service Management, Six-Sigma" .
 
@@ -1606,14 +983,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Legal Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "nbp24@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4192" ; 
     cb:interests "American Law, Contract Law, Labor and Employment Law" .
 
@@ -1622,14 +992,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "Ph.D." ; 
     cb:email "tlp64@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2540" ; 
     cb:interests "Labor Economics, Macroeconomics, Search Theory" .
 
@@ -1638,14 +1002,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD, CPA" ; 
     cb:email "ber33@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.0222" ; 
     cb:interests "Auditing Behavioral Issues in Accounting, Decision Making in Accounting and Auditing Environments, Managerial Accounting" .
 
@@ -1654,14 +1012,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "mjr424@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4671" ; 
     cb:interests "Real options, Simulation, Stochastic Processes, Supply Chain Finance, Supply Chain Management" .
 
@@ -1670,14 +1022,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "cresick@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1052" ; 
     cb:interests "Groups/Teams, Leadership, Organizational Culture and Fit, Personality" .
 
@@ -1686,14 +1032,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "skr37@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4202" ; 
     cb:interests "Business Communication, Cognition and Strategy, Competitive Intelligence, Determinants of Firm Performance, Global Management, New Markets in Emerging Countries, Russian Business Culture" .
 
@@ -1702,46 +1042,24 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "james.william.rinier@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.3640" ; 
-    cb:interests "" .
+    cb:phone "215.571.3640" .
 
 <#Eric-Rios>
     cb:name "Eric Rios" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "General Business" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "eer24@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.571.4664" ; 
-    cb:interests "" .
+    cb:phone "215.571.4664" .
 
 <#Patricia-Robak>
     cb:name "Patricia Robak" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "pjr43@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4679" ; 
     cb:interests "Corporate Finance, International Finance" .
 
@@ -1750,14 +1068,8 @@
     cb:property "faculty" ; 
     cb:title "J. Donald Rauth Professor of Marketing Management" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "rosenblb@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6992" ; 
     cb:interests "Distribution Systems, Marketing channels, Marketing Strategy and Management" .
 
@@ -1766,14 +1078,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
-    cb:education "" ; 
     cb:email "dfs26@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.0584" ; 
     cb:interests "Derivatives, Investments, Risk Management" .
 
@@ -1782,14 +1087,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "Ph.D." ; 
     cb:email "mjs624@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1939" ; 
     cb:interests "Analytics, Data Privacy, Time Series Analysis and Forecasting" .
 
@@ -1798,14 +1097,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ks346@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6816" ; 
     cb:interests "Industrial Organization, Microeconomics, Game Theory" .
 
@@ -1814,14 +1107,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "rs3267@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.6973" ; 
     cb:interests "Behavioral Economics, Financial Economics, Game Theory" .
 
@@ -1830,14 +1117,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Drexel University’s Provost Fellow India Partnerships" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "D.P.S." ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Business Value of Information Technology, Information System Management, Information Systems Leadership, Outsourcing, System Design" .
 
@@ -1846,14 +1127,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ws84@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.0225" ; 
     cb:interests "Interface with Marketing; Pricing Revenue Management, Inventory Control, Supply Chain Management" .
 
@@ -1862,30 +1137,17 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "JD" ; 
     cb:email "shersr@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.2128" ; 
-    cb:interests "" .
+    cb:phone "215.895.2128" .
 
 <#Prashant-Srivastava>
     cb:name "Prashant Srivastava" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "ps579@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1392" ; 
     cb:interests "Business to Business Marketing, Inter-Organizational, Marketing Research, Marketing Strategy" .
 
@@ -1894,14 +1156,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Director, School of Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Applied Econometrics , Health Economics" .
 
@@ -1910,14 +1166,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Associate Dean for Research" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Consumer Behavior, Pricing and Promotions" .
 
@@ -1926,14 +1176,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "swaminas@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2137" ; 
     cb:interests "Loyalty, Sales Promotions" .
 
@@ -1942,14 +1186,8 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Trustee Professor of International Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "International Trade, Microeconomics, Political Economy" .
 
@@ -1958,30 +1196,17 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "szewczsh@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.1746" ; 
-    cb:interests "" .
+    cb:phone "215.895.1746" .
 
 <#George-Tsetsekos>
     cb:name "George Tsetsekos" ; 
     cb:property "faculty" ; 
     cb:title "George B. Francis Professor" ; 
     cb:department "Finance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "tsetsekos@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.1587" ; 
     cb:interests "Board of Directors, Corporate Finance, International Finance, Investments" .
 
@@ -1990,14 +1215,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "dt396@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.3825" ; 
     cb:interests "Determinants of Firm Performance, Human capital, Organizational learning and change, Technology Entrepreneurship, Technology innovation" .
 
@@ -2006,14 +1225,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "mev43@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4437" ; 
     cb:interests "Executive Compensation and Corporate Governance, Financial Reporting" .
 
@@ -2022,14 +1235,8 @@
     cb:property "faculty" ; 
     cb:title "Christopher and Mary Stratakis Professor in Corporate Governance and Accountability" ; 
     cb:department "Founder, Center of Corporate Governance" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Finance, Corporate Governance, Executive Compensation" .
 
@@ -2038,14 +1245,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "chen.wang635@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.3546" ; 
     cb:interests "Consumer Curiosity, Self-Regulation and Goals, Sensory Perception" .
 
@@ -2054,14 +1255,8 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "mw638@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4203" ; 
     cb:interests "Healthcare Operations Management, Inventory Control, Production Planning and Control, Service Management, Supply Chain Management" .
 
@@ -2070,14 +1265,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "mcw325@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4168" ; 
     cb:interests "Antitrust and Regulation, Applied Econometrics , Industrial Organization, Law and Economics, Public Economics" .
 
@@ -2086,46 +1275,26 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "weinerjl@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "215.895.1797" ; 
-    cb:interests "" .
+    cb:phone "215.895.1797" .
 
 <#Jennifer-Wright>
     cb:name "Jennifer Wright" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Assistant Department Head, Accounting" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "CPA" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
-    cb:phone "Phone" ; 
-    cb:interests "" .
+    cb:phone "Phone" .
 
 <#Chaojiang-Wu>
     cb:name "Chaojiang Wu" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "cw578@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.571.4590" ; 
     cb:interests "Computational Statistics, Data Analytics, Data Mining, Knowledge Management, Multivariate Statistics" .
 
@@ -2134,14 +1303,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "yvy23@drexel.edu" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "215.895.2572" ; 
     cb:interests "International Trade" .
 
@@ -2150,14 +1313,8 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Department Head, Management" ; 
-    cb:address "" ; 
-    cb:startTime "" ; 
-    cb:endTime "" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
-    cb:website "" ; 
-    cb:picture "" ; 
-    cb:publications "" ; 
     cb:phone "Phone" ; 
     cb:interests "Attitudes, Diversity, Groups/Teams, Leadership, Organizational Culture and Fit" .
 

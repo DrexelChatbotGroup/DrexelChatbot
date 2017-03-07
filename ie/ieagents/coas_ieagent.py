@@ -60,7 +60,7 @@ class CoasIEAgent(IEAgent):
             if image is not None:
                 prof.picture = "http://drexel.edu" + image['src']
             prof.name = h2_fname_list[0]
-            prof.prop = "faculty"
+            prof.property = "faculty"
             if len(h2_fname_list) > 1:
                 prof.degree = h2_fname_list[1]
             prof.title = div_fcontact.contents[1].getText()

@@ -34,7 +34,7 @@ class TtlFileEntry:
 
     def __init__(self):
         self.name = ""
-        self.prop = ""
+        self.property = ""
         self.title = ""
         self.department = ""
         self.address = ""
@@ -51,7 +51,7 @@ class TtlFileEntry:
 
     def _fix_strings(self):
         self.name = _fix(self.name)
-        self.prop = _fix(self.prop)
+        self.property = _fix(self.property)
         self.title = _fix(self.title)
         self.department = _fix(self.department)
         self.address = _fix(self.address)
@@ -70,22 +70,36 @@ class TtlFileEntry:
         self._fix_strings()
         name = self.name.split()
         entry  = "<#%s-%s>\n" % (name[0], name[1])
-        entry += '    cb:name "%s" ; \n' % self.name
-        entry += '    cb:property "%s" ; \n' % self.prop
-        entry += '    cb:title "%s" ; \n' % self.title
-        entry += '    cb:department "%s" ; \n' % self.department
-        entry += '    cb:address "%s" ; \n' % self.address
-        entry += '    cb:startTime "%s" ; \n' % self.startTime
-        entry += '    cb:endTime "%s" ; \n' % self.endTime
-        entry += '    cb:education "%s" ; \n' % self.education
-        entry += '    cb:email "%s" ; \n' % self.email
-        entry += '    cb:website "%s" ; \n' % self.website
-        entry += '    cb:picture "%s" ; \n' % self.picture
-        entry += '    cb:publications "%s" ; \n' % self.publications
-        entry += '    cb:phone "%s" ; \n' % self.phone
-        entry += '    cb:interests "%s" ; \n' % self.interests
+        if self.name:
+        	entry += '    cb:name "%s" ; \n' % self.name
+        if self.property:
+        	entry += '    cb:property "%s" ; \n' % self.property
+        if self.title:
+        	entry += '    cb:title "%s" ; \n' % self.title
+        if self.department:
+        	entry += '    cb:department "%s" ; \n' % self.department
+        if self.address:
+   		    entry += '    cb:address "%s" ; \n' % self.address
+        if self.startTime:
+	        entry += '    cb:startTime "%s" ; \n' % self.startTime
+        if self.endTime:
+	        entry += '    cb:endTime "%s" ; \n' % self.endTime
+        if self.education:
+	        entry += '    cb:education "%s" ; \n' % self.education
+        if self.email:
+	        entry += '    cb:email "%s" ; \n' % self.email
+        if self.website:
+	        entry += '    cb:website "%s" ; \n' % self.website
+        if self.picture:
+	        entry += '    cb:picture "%s" ; \n' % self.picture
+        if self.publications:
+	        entry += '    cb:publications "%s" ; \n' % self.publications
+        if self.phone:
+	        entry += '    cb:phone "%s" ; \n' % self.phone
+        if self.interests:
+	        entry += '    cb:interests "%s" ; \n' % self.interests
 
-        #remove the last few characters and replace with a .
+        #remove the last "; \n  and replace with a .
         entry = entry[:-3]
         entry += '.\n\n'
         ttlFile.write(entry)
