@@ -54,6 +54,7 @@ class BiomedIEAgent(IEAgent):
         self._refreshFromSoup(soup2, ttl_file)
     
         ttl_file.close()
+        return ttl_file
 
     def _refreshFromSoup(self, soup, ttl_file):
         elems = soup.findAll('div', {"class" : "user-profile-stub clearfix"})

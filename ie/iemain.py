@@ -21,7 +21,7 @@ def _main():
 
     for agent in agents:
         ttl = agent.write_ttl()
-        ttl_files.append(ttl)
+        ttl_files.append(ttl.filename)
 
     try:
         db = stardog.StardogDB(_DATABASE_NAME)

@@ -12,7 +12,8 @@ class StardogDB:
         #./stardog data add db filename.ttl
         path = _STARDOG_INSTALL_PATH + "stardog"
         command = [path, "data", "add", self._database_name]
-        out = subprocess.check_output(command + ttl_files)
+        print(command + ttl_files)
+        subprocess.call(command + ttl_files)
          
     def query(self, str_query):
         #./stardog query chatbotDB

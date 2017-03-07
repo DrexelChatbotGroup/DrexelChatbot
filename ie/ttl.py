@@ -11,8 +11,8 @@ __author__ = 'Tom Amon'
 class TtlFile:
 
     def __init__(self, filename):
-        self._filename = filename
-        self._f = open (self._filename, 'w')
+        self.filename = filename
+        self._f = open (self.filename, 'w')
         self._write_header()
     
     def __del__(self):

@@ -69,3 +69,4 @@ class LebowIEAgent(IEAgent):
             prof.write_to(ttl_file)
         
         ttl_file.close()
+        return ttl_file
