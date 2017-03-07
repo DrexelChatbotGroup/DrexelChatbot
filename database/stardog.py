@@ -27,19 +27,23 @@ class StardogDB:
         path = _STARDOG_INSTALL_PATH + "stardog"
         command = [path, "data", "add", self._database_name]
         subprocess.call(command + ttl_files)
-         
+
     def query(self, str_query):
-        #./stardog query chatbotDB
+        #./stardog query chatbotDB query
         path = _STARDOG_INSTALL_PATH + "stardog"
         out = subprocess.check_output([path, "query", self._database_name, str_query])
-        value = str(out).split("|")[3].strip("\" ")
+        sep_out = str(out).split("|")
+        if len(sep_out) == 5:
+            value = sep_out[3].strip("\" ")
+        else:
+            value = None
         return value
 
 
 if __name__ == "__main__":
     test = """
     prefix cb: <http://drexelchatbot.com/rdf/>
-    
+
     SELECT ?o
     WHERE
     {
@@ -47,6 +51,7 @@ if __name__ == "__main__":
         ?s cb:property ?o .
     }
     """
-    
+   
     sdb = StardogDB("chatbotDB")
     sdb.query(test)
+    print(res)
