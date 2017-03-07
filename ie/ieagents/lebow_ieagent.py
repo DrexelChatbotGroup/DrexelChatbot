@@ -33,10 +33,10 @@ import ttl
 class LebowIEAgent(IEAgent):
 
     _link="http://www.lebow.drexel.edu/faculty-and-research/faculty-directory"
-    _ttl_filename = "ttl/lebow.ttl"
+    ttl_filename = "ttl/lebow.ttl"
 
     def write_ttl(self):
-        ttl_file = ttl.TtlFile(self._ttl_filename)
+        ttl_file = ttl.TtlFile(self.ttl_filename)
 
         webpage = requests.get(self._link)
         try:

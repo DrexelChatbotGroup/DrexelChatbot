@@ -31,10 +31,10 @@ class BiomedIEAgent(IEAgent):
 
     _link1="http://drexel.edu/biomed/faculty/core/"
     _link2="http://drexel.edu/biomed/faculty/affiliated/"
-    _ttl_filename = "ttl/biomed.ttl"
+    ttl_filename = "ttl/biomed.ttl"
 
     def write_ttl(self):
-        ttl_file = ttl.TtlFile(self._ttl_filename)
+        ttl_file = ttl.TtlFile(self.ttl_filename)
 
         webpage1 = requests.get(self._link1)
         try:

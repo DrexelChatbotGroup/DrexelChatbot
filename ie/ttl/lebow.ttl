@@ -267,7 +267,7 @@
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
     cb:education "PhD" ; 
-    cb:email "mian.dai@drexel.edu" ; 
+    cb:email "md598@drexel.edu" ; 
     cb:phone "215.895.2536" ; 
     cb:interests "Applied Econometrics , Industrial Organization" .
 

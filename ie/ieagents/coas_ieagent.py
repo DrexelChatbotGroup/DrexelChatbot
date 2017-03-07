@@ -31,10 +31,10 @@ import ttl
 
 class CoasIEAgent(IEAgent):
     _link = "http://drexel.edu/coas/faculty-research/faculty-directory/"
-    _ttl_filename = "ttl/coas.ttl"
+    ttl_filename = "ttl/coas.ttl"
 
     def write_ttl(self):
-        ttl_file = ttl.TtlFile(self._ttl_filename)
+        ttl_file = ttl.TtlFile(self.ttl_filename)
 
         webpage = requests.get(self._link)
         try:

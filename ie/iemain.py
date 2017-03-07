@@ -21,7 +21,7 @@ def _main(argv):
         print('iemain.py [OPTION]')
         sys.exit(2)
 
-    ttl_gen = True
+    ttl_gen = True 
     db_refresh = True
     for opt, arg in opts:
         if opt == '-h':
@@ -34,30 +34,37 @@ def _main(argv):
         elif opt == "-d":
             ttl_gen = False
 
+    agents = []
+    agents.append(cci_ieagent.CciIEAgent())
+    agents.append(coas_ieagent.CoasIEAgent())
+    agents.append(lebow_ieagent.LebowIEAgent())
+    agents.append(biomed_ieagent.BiomedIEAgent())
+
+    ttl_files = []
+    for agent in agents:
+        ttl_files.append(agent.ttl_filename)
+
     if ttl_gen:
-        agents = []
-        agents.append(cci_ieagent.CciIEAgent())
-        agents.append(coas_ieagent.CoasIEAgent())
-        agents.append(lebow_ieagent.LebowIEAgent())
-        agents.append(biomed_ieagent.BiomedIEAgent())
-        ttl_files = []
-
-        for agent in agents:
-            ttl = agent.write_ttl()
-            print("Wrote %s" % ttl.filename)
-            ttl_files.append(ttl.filename)
-
+        _generate_ttls(agents)
     if db_refresh:
-        try:
-            db = stardog.StardogDB(_DATABASE_NAME)
-            print("Clearing database " % _DATABASE_NAME)
-            db.remove_all()
-            print("Adding files to database " % _DATABASE_NAME)
-            db.add(ttl_files)
-        except TypeError:
-            print("Failed! Is the database %s running?" % _DATABASE_NAME)
+        _refresh_db(ttl_files)
 
     print("Complete!")
+
+def _generate_ttls(agents):
+    for agent in agents:
+        ttl = agent.write_ttl()
+        print("Wrote %s" % ttl.filename)
+
+def _refresh_db(ttl_files):
+    try:
+        db = stardog.StardogDB(_DATABASE_NAME)
+        print("Clearing database " % _DATABASE_NAME)
+        db.remove_all()
+        print("Adding files to database " % _DATABASE_NAME)
+        db.add(ttl_files)
+    except TypeError:
+        print("Failed! Is the database %s running?" % _DATABASE_NAME)
 
 if __name__ == "__main__":
     _main(sys.argv[1:])

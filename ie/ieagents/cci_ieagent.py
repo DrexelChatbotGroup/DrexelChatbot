@@ -29,10 +29,10 @@ import ttl
 class CciIEAgent(IEAgent):
 
     _link = "http://drexel.edu/cci/contact/Faculty/"
-    _ttl_filename = "ttl/cci.ttl"
+    ttl_filename = "ttl/cci.ttl"
 
     def write_ttl(self):
-        ttl_file = ttl.TtlFile(self._ttl_filename)
+        ttl_file = ttl.TtlFile(self.ttl_filename)
 
         webpage = requests.get(self._link)
         try:
