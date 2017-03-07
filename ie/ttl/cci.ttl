@@ -1,1159 +1,1091 @@
 @base <http://drexelchatbot.com/rdf/> .
 @prefix cb: <http://drexelchatbot.com/rdf/> .
 
-Name: Denise Agosto
-Property: 
-Title:  Professor
-Department: Information Science
-Address: 
-Room: Rush 214B
-Start time: 
-End time: 
-Education: 
-Email:  dea22@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1930
-Interests:  Information behavior, public libraries, social networks, gender, children, and teens
-
-
-Name: Larry Alexander
-Property: 
-Title:  Executive in Residence & Research Professor
-Department: Information Science
-Address: 
-Room: Rush 405B
-Start time: 
-End time: 
-Education: 
-Email:  lda26@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6628
-Interests:  Large-scale modeling and simulation, pattern recognition, future of information technology
-
-
-Name: Yuan An
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: 3401 Market Street 320
-Start time: 
-End time: 
-Education: 
-Email:  yuan.an@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2633
-Interests:  Conceptual modeling, schema and ontology mapping, information integration, knowledge representation, requirements engineering, healthcare information systems, semantic web
-
-
-Name: David Augenblick
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 134
-Start time: 
-End time: 
-Education: 
-Email:  augenbdh@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.4910
-Interests:  Introductory and object-oriented programming, data structures and database systems, computer application project management, applications to engineering
-
-
-Name: Marcello Balduccini
-Property: 
-Title:  Assistant Research Professor
-Department: Computer Science
-Address: 
-Room: Rush 233C
-Start time: 
-End time: 
-Education: 
-Email:  marcello.balduccini@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.3603
-Interests:  Knowledge representation, logic programming, constraint programming, planning, diagnosis, agent architectures, cognitive robotics, natural language processing, information retrieval, question answering, malware detection and mitigation, cyber-physical systems
-
-
-Name: Ellen Bass
-Property: 
-Title:  Professor & Head, Department of Information Science
-Department: Information Science
-Address: 
-Room: Rush 426
-Start time: 
-End time: 
-Education: 
-Email:  ellen.j.bass@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4416
-Interests:  Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering
-
-
-Name: M. Brian Blake
-Property: 
-Title:  Distinguished Professor of Systems and Software Engineering
-Department: Computer Science
-Address: 
-Room: 3141 Chestnut Street, Main Building, Suite 102
-Start time: 
-End time: 
-Education: 
-Email:  MBrian.Blake@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2200
-Interests:  Software engineering approaches for integration of Web-based systems
-
-
-Name: Mark Boady
-Property: 
-Title:  Assistant Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 138
-Start time: 
-End time: 
-Education: 
-Email:  mwb33@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2347
-Interests:  Computer algebra, data structures, computations theory, automatic grading, using gaming in education
-
-
-Name: Jennifer Booker
-Property: 
-Title:  Associate Teaching Professor
-Department: Information Science
-Address: 
-Room: Rush 334
-Start time: 
-End time: 
-Education: 
-Email:  gbooker@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1004
-Interests:  Software engineering, systems analysis and design, networking, statistics and measurement, process improvement, object-oriented analysis and design, bioinformatics, and modeling of biological systems
-
-
-Name: David E. Breen
-Property: 
-Title:  Associate Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 143
-Start time: 
-End time: 
-Education: 
-Email:  david@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1626
-Interests:  Computer-aided design, geometric modeling, biomedical image informatics, self-organization and biological simulation
-
-
-Name: Matthew Burlick
-Property: 
-Title:  Assistant Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 137
-Start time: 
-End time: 
-Education: 
-Email:  mjb528@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4468
-Interests:  Machine learning, computer graphics, data structures and algorithms, discrete structures, computer vision; multi-sensor, multi-model fusion; computer vision and biomedical imaging; unsupervised dynamic class discovery; spatio-temporal tracking and classification
-
-
-Name: Yuanfang Cai
-Property: 
-Title:  Associate Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 104
-Start time: 
-End time: 
-Education: 
-Email:  yfcai@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0298
-Interests:  Formal software design modeling and analysis, software economics, software evolution and modularity
-
-
-Name: Chris Carroll
-Property: 
-Title:  Assistant Teaching Professor
-Department: Information Science
-Address: 
-Room: Rush 134
-Start time: 
-End time: 
-Education: 
-Email:  christopher.john.carroll@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4306
-Interests:  Information security, computer networking and design, IT Infrastructure, server technology, information technology management
-
-
-Name: Bruce Char
-Property: 
-Title:  Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 142
-Start time: 
-End time: 
-Education: 
-Email:  bchar@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2670
-Interests:  Symbolic mathematical computation, algorithms and systems for computer algebra, parallel and distributed computation, computer science education, use of computing for STEM education.
-
-
-Name: Chaomei Chen
-Property: 
-Title:  Professor
-Department: Information Science
-Address: 
-Room: 3401 Market Street 321
-Start time: 
-End time: 
-Education: 
-Email:  chaomei.chen@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6627
-Interests:  Information visualization, visual analytics, knowledge domain visualization, network analysis and modeling, scientific discovery, science mapping, scientometrics, citation analysis, human-computer interaction
-
-
-Name: Catherine D. Collins
-Property: 
-Title:  Associate Teaching Professor
-Department: Information Science
-Address: 
-Room: Rush 423
-Start time: 
-End time: 
-Education: 
-Email:  collins@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1902
-Interests:  Knowledge management, collection development, management of information organizations, information sources and services, international development
-
-
-Name: Prudence W. Dalrymple
-Property: 
-Title:  Research and Teaching Professor, Director of the Institute for Health Informatics
-Department: Information Science
-Address: 
-Room: Rush 410A
-Start time: 
-End time: 
-Education: 
-Email:  pdalrymple@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2699
-Interests:  User-centered information behaviors, particularly in the health arena, health informatics, evidence based practice, education for the information professions and evaluation, and translation of research into practice
-
-
-Name: Yi Deng
-Property: 
-Title:  Dean and Isaac L. Auerbach Professor
-Department: 
-Address: 
-Room: Rush 306
-Start time: 
-End time: 
-Education: 
-Email:  yd362@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2474
-Interests:  Computing & Informatics
-
-
-Name: M. Carl Drott
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: Rush 336
-Start time: 
-End time: 
-Education: 
-Email:  drott@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2487
-Interests:  Systems analysis techniques, Web usage, competitive intelligence
-
-
-Name: Andrea Forte
-Property: 
-Title:  Associate Professor and PhD Program Director
-Department: Information Science
-Address: 
-Room: 3401 Market Street, Ste 300, Room 324
-Start time: 
-End time: 
-Education: 
-Email:  andrea.forte@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.839.8414; 215.895.0543
-Interests:  Social computing, human-computer interaction, computer-supported cooperative work, computer-supported collaborative learning, information literacy
-
-
-Name: Susan Gasson
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: Rush 331
-Start time: 
-End time: 
-Education: 
-Email:  sgasson@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6398
-Interests:  Co-design of business and IT-systems, distributed cognition & knowledge management in boundary-spanning groups, human-centered design, social informatics, online learning communities, Grounded Theory
-
-
-Name: Christopher Geib
-Property: 
-Title:  Associate Professor
-Department: Computer Science
-Address: 
-Room: 3401 Market Street 323
-Start time: 
-End time: 
-Education: 
-Email:  cwg33@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4533
-Interests:  Decision making and reasoning under conditions of uncertainty, planning, scheduling, constraint-based reasoning, human-computer and robot interaction, probabilistic reasoning, network security, process control, user interfaces
-
-
-Name: Vasilis Gkatzelis
-Property: 
-Title:  Assistant Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 100B
-Start time: 
-End time: 
-Education: 
-Email:  gkatz@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.5875
-Interests:  Algorithmic Mechanism Design, Multiagent Resource Allocation, Approximation Algorithms
-
-
-Name: Colin Gordon
-Property: 
-Title:  Assistant Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 100A
-Start time: 
-End time: 
-Education: 
-Email:  csgordon@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4360
-Interests:  Programming languages and formal methods; type systems and program verification for concurrent programs
-
-
-Name: Jane Greenberg
-Property: 
-Title:  Alice B. Kroeger Professor
-Department: Information Science
-Address: 
-Room: Rush 422
-Start time: 
-End time: 
-Education: 
-Email:  jg3243@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2490
-Interests:  Metadata, ontological engineering, data science, knowledge organization, information retrieval
-
-
-Name: Rachel Greenstadt
-Property: 
-Title:  Associate Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 140
-Start time: 
-End time: 
-Education: 
-Email:  greenie@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2920
-Interests:  Artificial intelligence, privacy, security, multi-agent systems, economics of electronic privacy and information security
-
-
-Name: Peter Grillo
-Property: 
-Title:  Teaching Professor and Associate Department Head for Undergraduate Affairs
-Department: Information Science
-Address: 
-Room: Rush 410
-Start time: 
-End time: 
-Education: 
-Email:  pg54@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0492
-Interests:  Strategic applications of technology within organizations
-
-
-Name: Gregory W. Hislop
-Property: 
-Title:  Professor and Senior Associate Dean for Academic Affairs
-Department: Information Science
-Address: 
-Room: Rush 214C
-Start time: 
-End time: 
-Education: 
-Email:  hislop@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2179
-Interests:  Information technology for teaching and learning, online education, structure and organization of the information disciplines, computing education research, software evaluation and characterization
-
-
-Name: Xiaohua Tony Hu
-Property: 
-Title:  Professor
-Department: Information Science
-Address: 
-Room: 3401 Market Street 325
-Start time: 
-End time: 
-Education: 
-Email:  xh29@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0551
-Interests:  Data mining, text mining, Web searching and mining, information retrieval, bioinformatics and healthcare informatics
-
-
-Name: Jeremy Johnson
-Property: 
-Title:  Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 139
-Start time: 
-End time: 
-Education: 
-Email:  jjohnson@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2893
-Interests:  Computer algebra, design and analysis of algorithms, programming languages and compilers, automated performance tuning, algorithms for DSP, parallel processing, and high-performance computing
-
-
-Name: Constantine Katsinis
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 114
-Start time: 
-End time: 
-Education: 
-Email:  katsinis@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0966
-Interests:  Computer Security, network security, parallel computer architectures, mobile computing, information assurance, fault tolerant systems, image processing and pattern recognition
-
-
-Name: Weimao Ke
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: Rush 408
-Start time: 
-End time: 
-Education: 
-Email:  wk@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.5912
-Interests:  Information retrieval (IR), distributed systems, intelligent filtering/recommendation, information visualization, network science, complex systems, machine learning, text/data mining, multi-agent systems
-
-
-Name: Michael Khoo
-Property: 
-Title:  Assistant Teaching Professor
-Department: Information Science
-Address: 
-Room: Rush 406
-Start time: 
-End time: 
-Education: 
-Email:  khoo@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1230
-Interests:  Understandings and practices that users bring to their interactions with information systems, with a focus on the evaluation of digital libraries and educational technologies
-
-
-Name: Xia Lin
-Property: 
-Title:  Professor and Director of International Programs
-Department: Information Science
-Address: 
-Room: Rush 415
-Start time: 
-End time: 
-Education: 
-Email:  xlin@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2482
-Interests:  Digital libraries, information visualization, knowledge mapping, object-oriented programming, information retrieval, information architecture, information-seeking behaviors in digital environments
-
-
-Name: Geoffrey Mainland
-Property: 
-Title:  Assistant Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 106
-Start time: 
-End time: 
-Education: 
-Email:  mainland@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1518
-Interests:  High-level programming languages and runtime support for non-general purpose computation
-
-
-Name: Spiros Mancoridis
-Property: 
-Title:  Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 146A
-Start time: 
-End time: 
-Education: 
-Email:  spiros@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6824
-Interests:  Software engineering, software security, code analysis, evolutionary computation
-
-
-Name: Gabriela Marcu
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 414
-Start time: 
-End time: 
-Education: 
-Email:  gmarcu@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2474
-Interests:  Human-computer interaction, health informatics, action research, ethnography, user experience design, designing for social change, organizational information systems, ubiquitous computing, knowledge management
-
-
-Name: Linda Marion
-Property: 
-Title:  Teaching Professor and Associate Department Head for Graduate Affairs
-Department: Information Science
-Address: 
-Room: Rush 216
-Start time: 
-End time: 
-Education: 
-Email:  linda.marion@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1532
-Interests:  Formal and informal communication, bibliometric studies of scholarly communication, diffusion of information, information use in the social sciences, academic and public libraries, information science education
-
-
-Name: Adelaida Alban Medlock
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 107
-Start time: 
-End time: 
-Education: 
-Email:  aalban@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2672
-Interests:  Introductory programming, computer science education
-
-
-Name: William Mongan
-Property: 
-Title:  Associate Teaching Professor & Associate Department Head for Undergraduate Affairs
-Department: Computer Science
-Address: 
-Room: University Crossings 100D
-Start time: 
-End time: 
-Education: 
-Email:  wmm24@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0286
-Interests:  Service-oriented architectures, program comprehension, reverse engineering, software engineering, computer architecture, computer science education
-
-
-Name: Gaurav Naik
-Property: 
-Title:  Assistant Research Professor
-Department: Computer Science
-Address: 
-Room: 3401 Market Street, Rm. 319
-Start time: 
-End time: 
-Education: 
-Email:  gn23@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4512
-Interests:  Computer network security, Internet architectures and services
-
-
-Name: Ko Nishino
-Property: 
-Title:  Professor & Associate Department Head for Graduate Affairs
-Department: Computer Science
-Address: 
-Room: University Crossings 100G
-Start time: 
-End time: 
-Education: 
-Email:  kon@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2678
-Interests:  Computer vision, computer graphics, analysis and synthesis of visual appearance
-
-
-Name: Danuta A. Nitecki
-Property: 
-Title:  Dean of Libraries, Professor
-Department: Information Science
-Address: 
-Room: W.W. Hagerty Library
-Start time: 
-End time: 
-Education: 
-Email:  danuta.nitecki@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2750
-Interests:  Library metrics and use in management, library as place, and academic library service models
-
-
-Name: Krzysztof Nowak
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 109
-Start time: 
-End time: 
-Education: 
-Email:  kn33@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6826
-Interests:  Fourier analysis, partial differential equations, image processing, wavelets, asymptotic distribution of eigenvalues, numerical methods and algorithms, computer science education
-
-
-Name: Santiago Ontañón
-Property: 
-Title:  Assistant Professor
-Department: Computer Science
-Address: 
-Room: 3401 Market Street 322
-Start time: 
-End time: 
-Education: 
-Email:  santi@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4109
-Interests:  Game AI, computer games, artificial intelligence, machine learning, case-based reasoning
-
-
-Name: Jung-ran Park
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: Rush 212
-Start time: 
-End time: 
-Education: 
-Email:  jung-ran.park@ischool.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1669
-Interests:  Knowledge organization and representation (cataloging and classification, metadata) computer-mediated communication, cross-cultural communication, multilingual information access, discourse, and pragmatics
-
-
-Name: Alex Poole
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 410
-Start time: 
-End time: 
-Education: 
-Email:  ahp56@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6275
-Interests:  Archives and records, digital curation, digital humanities, and diversity, inclusivity, and social justice.
-
-
-Name: Jeffrey Popyack
-Property: 
-Title:  Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 141
-Start time: 
-End time: 
-Education: 
-Email:  jpopyack@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1846
-Interests:  Operations research, stochastic optimization, computational methods for Markov decisions processes, artificial intelligence, computer science education
-
-
-Name: William Regli
-Property: 
-Title:  Professor (on leave)
-Department: Computer Science
-Address: 
-Room: 
-Start time: 
-End time: 
-Education: 
-Email:  regli@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  
-Interests:  Artificial intelligence, computer graphics, engineering design and Internet computing
-
-
-Name: Lorraine Richards
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 405
-Start time: 
-End time: 
-Education: 
-Email:  llr43@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1903
-Interests:  Archives, digital curation, electronic records management, information technology and digital collections, cloud computing and record keeping, management of information organizations
-
-
-Name: Michelle L. Rogers
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: Rush 420
-Start time: 
-End time: 
-Education: 
-Email:  mrogers@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2922
-Interests:  Human-computer interaction, healthcare informatics, human factors engineering, socio-technical systems, health services research, patient safety
-
-
-Name: Jeffrey Salvage
-Property: 
-Title:  Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 112
-Start time: 
-End time: 
-Education: 
-Email:  jsalvage@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215-895-2679
-Interests:  Object-oriented programming, multi-agent systems, software engineering, database theory, introductory programming, data structures
-
-
-Name: Dario Salvucci
-Property: 
-Title:  Professor & Department Head
-Department: Computer Science
-Address: 
-Room: University Crossings 100C
-Start time: 
-End time: 
-Education: 
-Email:  salvucci@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2674
-Interests:  Cognitive science, cognitive architectures, human-computer interaction, human factors, multitasking and interruptions, applications to driving and driver distraction
-
-
-Name: Aleksandra Sarcevic
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 416
-Start time: 
-End time: 
-Education: 
-Email:  aleksarc@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0460
-Interests:  Computer-supported cooperative work, human-computer interaction, healthcare informatics; crisis informatics; social analysis of information & communications technology (ICT)
-
-
-Name: Kurt Schmidt
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 105
-Start time: 
-End time: 
-Education: 
-Email:  kschmidt@cs.drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1848
-Interests:  Data structures, math foundation for computer science, programming tools, programming languages
-
-
-Name: Ali Shokoufandeh
-Property: 
-Title:  Professor & Senior Associate Dean of Research
-Department: Computer Science
-Address: 
-Room: Rush 313
-Start time: 
-End time: 
-Education: 
-Email:  ashokouf@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2671
-Interests:  Theory of algorithms, graph theory, combinatorial optimization, computer vision
-
-
-Name: Erin Solovey
-Property: 
-Title:  Assistant Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 108
-Start time: 
-End time: 
-Education: 
-Email:  erin.solovey@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.4598
-Interests:  Human-computer interaction, brain-computer interfaces, tangible interaction, machine learning, human interaction with complex and autonomous systems
-
-
-Name: Il-Yeol Song
-Property: 
-Title:  Professor
-Department: Information Science
-Address: 
-Room: Rush 332
-Start time: 
-End time: 
-Education: 
-Email:  song@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2489
-Interests:  Conceptual modeling, data warehousing, big data technologies and analytics, object-oriented analysis and design with UML, healthcare informatics, smart health
-
-
-Name: Julia Stoyanovich
-Property: 
-Title:  Assistant Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 100E
-Start time: 
-End time: 
-Education: 
-Email:  stoyanovich@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6273
-Interests:  Data and knowledge management, software development, database management, data-intensive workflow, social context search and ranking, information discovery
-
-
-Name: Brian Stuart
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 100K
-Start time: 
-End time: 
-Education: 
-Email:  brian.l.stuart@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.3921
-Interests:  Machine learning, networking, robotics, image processing, data storage, operating systems, data communications, distributed/operating systems, accelerated computer programming, computer graphics
-
-
-Name: Deborah Turner
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 411
-Start time: 
-End time: 
-Education: 
-Email:  turned@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0493
-Interests:  Information behavior/interaction, management of information institutions, orality and information
-
-
-Name: Kristene Unsworth
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 409
-Start time: 
-End time: 
-Education: 
-Email:  unsworth@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6016
-Interests:  Information policy, ethics, government information
-
-
-Name: Filippos Vokolos
-Property: 
-Title:  Associate Teaching Professor
-Department: Computer Science
-Address: 
-Room: University Crossings 131
-Start time: 
-End time: 
-Education: 
-Email:  filippos.i.vokolos@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.3935
-Interests:  System architecture, software engineering, principles of software design and construction, software verification & validation, programming languages, dependable software systems
-
-
-Name: Rosina Weber
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: Rush 233B
-Start time: 
-End time: 
-Education: 
-Email:  rosina@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1911
-Interests:  Case-based reasoning, machine learning, text analytics, natural language understanding, technological aspects of knowledge management, project management, and requirements engineering.
-
-
-Name: Jake Williams
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: TBA
-Start time: 
-End time: 
-Education: 
-Email:  jake.williams@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  
-Interests:  Data science, scientific programming, computational social science, computational linguistics and natural language processing, mathematics, machine learning, algorithms, and scalability.
-
-
-Name: Erjia Yan
-Property: 
-Title:  Assistant Professor
-Department: Information Science
-Address: 
-Room: Rush 412
-Start time: 
-End time: 
-Education: 
-Email:  erjia.yan@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1459
-Interests:  Network science, information analysis and retrieval, scholarly communication methods and applications
-
-
-Name: Christopher C. Yang
-Property: 
-Title:  Associate Professor
-Department: Information Science
-Address: 
-Room: 3401 Market Street 318
-Start time: 
-End time: 
-Education: 
-Email:  chris.yang@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1631
-Interests:  Healthcare informatics, social media analytics, knowledge discovery, Web search and mining, recommendation systems, pharmacovigilance, drug repositioning, electronic commerce, intelligence and security informatics
-
-
-Name: Valerie Ann Yonker
-Property: 
-Title:  Associate Teaching Professor
-Department: Information Science
-Address: 
-Room: 
-Start time: 
-End time: 
-Education: 
-Email:  vay22@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6397
-Interests:  Human service information systems, systems analysis and design, measurement in software evaluation, knowledge engineering
-
+<#Denise-Agosto>
+    cb:name "Denise Agosto" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "dea22@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1930" ; 
+    cb:interests "Information behavior, public libraries, social networks, gender, children, and teens" .
+
+<#Larry-Alexander>
+    cb:name "Larry Alexander" ; 
+    cb:property "faculty" ; 
+    cb:title "Executive in Residence & Research Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "lda26@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6628" ; 
+    cb:interests "Large-scale modeling and simulation, pattern recognition, future of information technology" .
+
+<#Yuan-An>
+    cb:name "Yuan An" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "yuan.an@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2633" ; 
+    cb:interests "Conceptual modeling, schema and ontology mapping, information integration, knowledge representation, requirements engineering, healthcare information systems, semantic web" .
+
+<#David-Augenblick>
+    cb:name "David Augenblick" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "augenbdh@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.4910" ; 
+    cb:interests "Introductory and object-oriented programming, data structures and database systems, computer application project management, applications to engineering" .
+
+<#Marcello-Balduccini>
+    cb:name "Marcello Balduccini" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "marcello.balduccini@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.3603" ; 
+    cb:interests "Knowledge representation, logic programming, constraint programming, planning, diagnosis, agent architectures, cognitive robotics, natural language processing, information retrieval, question answering, malware detection and mitigation, cyber-physical systems" .
+
+<#Ellen-Bass>
+    cb:name "Ellen Bass" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor & Head, Department of Information Science" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "ellen.j.bass@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4416" ; 
+    cb:interests "Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering" .
+
+<#M.-Brian>
+    cb:name "M. Brian Blake" ; 
+    cb:property "faculty" ; 
+    cb:title "Distinguished Professor of Systems and Software Engineering" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "MBrian.Blake@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2200" ; 
+    cb:interests "Software engineering approaches for integration of Web-based systems" .
+
+<#Mark-Boady>
+    cb:name "Mark Boady" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "mwb33@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2347" ; 
+    cb:interests "Computer algebra, data structures, computations theory, automatic grading, using gaming in education" .
+
+<#Jennifer-Booker>
+    cb:name "Jennifer Booker" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "gbooker@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1004" ; 
+    cb:interests "Software engineering, systems analysis and design, networking, statistics and measurement, process improvement, object-oriented analysis and design, bioinformatics, and modeling of biological systems" .
+
+<#David-E.>
+    cb:name "David E. Breen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "david@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1626" ; 
+    cb:interests "Computer-aided design, geometric modeling, biomedical image informatics, self-organization and biological simulation" .
+
+<#Matthew-Burlick>
+    cb:name "Matthew Burlick" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "mjb528@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4468" ; 
+    cb:interests "Machine learning, computer graphics, data structures and algorithms, discrete structures, computer vision; multi-sensor, multi-model fusion; computer vision and biomedical imaging; unsupervised dynamic class discovery; spatio-temporal tracking and classification" .
+
+<#Yuanfang-Cai>
+    cb:name "Yuanfang Cai" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "yfcai@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0298" ; 
+    cb:interests "Formal software design modeling and analysis, software economics, software evolution and modularity" .
+
+<#Chris-Carroll>
+    cb:name "Chris Carroll" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "christopher.john.carroll@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4306" ; 
+    cb:interests "Information security, computer networking and design, IT Infrastructure, server technology, information technology management" .
+
+<#Bruce-Char>
+    cb:name "Bruce Char" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "bchar@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2670" ; 
+    cb:interests "Symbolic mathematical computation, algorithms and systems for computer algebra, parallel and distributed computation, computer science education, use of computing for STEM education." .
+
+<#Chaomei-Chen>
+    cb:name "Chaomei Chen" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "chaomei.chen@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6627" ; 
+    cb:interests "Information visualization, visual analytics, knowledge domain visualization, network analysis and modeling, scientific discovery, science mapping, scientometrics, citation analysis, human-computer interaction" .
+
+<#Catherine-D.>
+    cb:name "Catherine D. Collins" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "collins@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1902" ; 
+    cb:interests "Knowledge management, collection development, management of information organizations, information sources and services, international development" .
+
+<#Prudence-W.>
+    cb:name "Prudence W. Dalrymple" ; 
+    cb:property "faculty" ; 
+    cb:title "Research and Teaching Professor, Director of the Institute for Health Informatics" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "pdalrymple@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2699" ; 
+    cb:interests "User-centered information behaviors, particularly in the health arena, health informatics, evidence based practice, education for the information professions and evaluation, and translation of research into practice" .
+
+<#Yi-Deng>
+    cb:name "Yi Deng" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean and Isaac L. Auerbach Professor" ; 
+    cb:department "" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "yd362@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2474" ; 
+    cb:interests "Computing & Informatics" .
+
+<#M.-Carl>
+    cb:name "M. Carl Drott" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "drott@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2487" ; 
+    cb:interests "Systems analysis techniques, Web usage, competitive intelligence" .
+
+<#Andrea-Forte>
+    cb:name "Andrea Forte" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor and PhD Program Director" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "andrea.forte@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.839.8414; 215.895.0543" ; 
+    cb:interests "Social computing, human-computer interaction, computer-supported cooperative work, computer-supported collaborative learning, information literacy" .
+
+<#Susan-Gasson>
+    cb:name "Susan Gasson" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "sgasson@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6398" ; 
+    cb:interests "Co-design of business and IT-systems, distributed cognition & knowledge management in boundary-spanning groups, human-centered design, social informatics, online learning communities, Grounded Theory" .
+
+<#Christopher-Geib>
+    cb:name "Christopher Geib" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "cwg33@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4533" ; 
+    cb:interests "Decision making and reasoning under conditions of uncertainty, planning, scheduling, constraint-based reasoning, human-computer and robot interaction, probabilistic reasoning, network security, process control, user interfaces" .
+
+<#Vasilis-Gkatzelis>
+    cb:name "Vasilis Gkatzelis" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "gkatz@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.5875" ; 
+    cb:interests "Algorithmic Mechanism Design, Multiagent Resource Allocation, Approximation Algorithms" .
+
+<#Colin-Gordon>
+    cb:name "Colin Gordon" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "csgordon@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4360" ; 
+    cb:interests "Programming languages and formal methods; type systems and program verification for concurrent programs" .
+
+<#Jane-Greenberg>
+    cb:name "Jane Greenberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Alice B. Kroeger Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jg3243@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2490" ; 
+    cb:interests "Metadata, ontological engineering, data science, knowledge organization, information retrieval" .
+
+<#Rachel-Greenstadt>
+    cb:name "Rachel Greenstadt" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "greenie@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2920" ; 
+    cb:interests "Artificial intelligence, privacy, security, multi-agent systems, economics of electronic privacy and information security" .
+
+<#Peter-Grillo>
+    cb:name "Peter Grillo" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor and Associate Department Head for Undergraduate Affairs" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "pg54@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0492" ; 
+    cb:interests "Strategic applications of technology within organizations" .
+
+<#Gregory-W.>
+    cb:name "Gregory W. Hislop" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor and Senior Associate Dean for Academic Affairs" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "hislop@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2179" ; 
+    cb:interests "Information technology for teaching and learning, online education, structure and organization of the information disciplines, computing education research, software evaluation and characterization" .
+
+<#Xiaohua-Tony>
+    cb:name "Xiaohua Tony Hu" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "xh29@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0551" ; 
+    cb:interests "Data mining, text mining, Web searching and mining, information retrieval, bioinformatics and healthcare informatics" .
+
+<#Jeremy-Johnson>
+    cb:name "Jeremy Johnson" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jjohnson@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2893" ; 
+    cb:interests "Computer algebra, design and analysis of algorithms, programming languages and compilers, automated performance tuning, algorithms for DSP, parallel processing, and high-performance computing" .
+
+<#Constantine-Katsinis>
+    cb:name "Constantine Katsinis" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "katsinis@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0966" ; 
+    cb:interests "Computer Security, network security, parallel computer architectures, mobile computing, information assurance, fault tolerant systems, image processing and pattern recognition" .
+
+<#Weimao-Ke>
+    cb:name "Weimao Ke" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "wk@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.5912" ; 
+    cb:interests "Information retrieval (IR), distributed systems, intelligent filtering/recommendation, information visualization, network science, complex systems, machine learning, text/data mining, multi-agent systems" .
+
+<#Michael-Khoo>
+    cb:name "Michael Khoo" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "khoo@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1230" ; 
+    cb:interests "Understandings and practices that users bring to their interactions with information systems, with a focus on the evaluation of digital libraries and educational technologies" .
+
+<#Xia-Lin>
+    cb:name "Xia Lin" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor and Director of International Programs" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "xlin@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2482" ; 
+    cb:interests "Digital libraries, information visualization, knowledge mapping, object-oriented programming, information retrieval, information architecture, information-seeking behaviors in digital environments" .
+
+<#Geoffrey-Mainland>
+    cb:name "Geoffrey Mainland" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "mainland@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1518" ; 
+    cb:interests "High-level programming languages and runtime support for non-general purpose computation" .
+
+<#Spiros-Mancoridis>
+    cb:name "Spiros Mancoridis" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "spiros@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6824" ; 
+    cb:interests "Software engineering, software security, code analysis, evolutionary computation" .
+
+<#Gabriela-Marcu>
+    cb:name "Gabriela Marcu" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "gmarcu@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2474" ; 
+    cb:interests "Human-computer interaction, health informatics, action research, ethnography, user experience design, designing for social change, organizational information systems, ubiquitous computing, knowledge management" .
+
+<#Linda-Marion>
+    cb:name "Linda Marion" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor and Associate Department Head for Graduate Affairs" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "linda.marion@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1532" ; 
+    cb:interests "Formal and informal communication, bibliometric studies of scholarly communication, diffusion of information, information use in the social sciences, academic and public libraries, information science education" .
+
+<#Adelaida-Alban>
+    cb:name "Adelaida Alban Medlock" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "aalban@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2672" ; 
+    cb:interests "Introductory programming, computer science education" .
+
+<#William-Mongan>
+    cb:name "William Mongan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor & Associate Department Head for Undergraduate Affairs" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "wmm24@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0286" ; 
+    cb:interests "Service-oriented architectures, program comprehension, reverse engineering, software engineering, computer architecture, computer science education" .
+
+<#Gaurav-Naik>
+    cb:name "Gaurav Naik" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "gn23@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4512" ; 
+    cb:interests "Computer network security, Internet architectures and services" .
+
+<#Ko-Nishino>
+    cb:name "Ko Nishino" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor & Associate Department Head for Graduate Affairs" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "kon@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2678" ; 
+    cb:interests "Computer vision, computer graphics, analysis and synthesis of visual appearance" .
+
+<#Danuta-A.>
+    cb:name "Danuta A. Nitecki" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean of Libraries, Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "danuta.nitecki@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2750" ; 
+    cb:interests "Library metrics and use in management, library as place, and academic library service models" .
+
+<#Krzysztof-Nowak>
+    cb:name "Krzysztof Nowak" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "kn33@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6826" ; 
+    cb:interests "Fourier analysis, partial differential equations, image processing, wavelets, asymptotic distribution of eigenvalues, numerical methods and algorithms, computer science education" .
+
+<#Santiago-Ontañón>
+    cb:name "Santiago Ontañón" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "santi@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4109" ; 
+    cb:interests "Game AI, computer games, artificial intelligence, machine learning, case-based reasoning" .
+
+<#Jung-ran-Park>
+    cb:name "Jung-ran Park" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jung-ran.park@ischool.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1669" ; 
+    cb:interests "Knowledge organization and representation (cataloging and classification, metadata) computer-mediated communication, cross-cultural communication, multilingual information access, discourse, and pragmatics" .
+
+<#Alex-Poole>
+    cb:name "Alex Poole" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "ahp56@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6275" ; 
+    cb:interests "Archives and records, digital curation, digital humanities, and diversity, inclusivity, and social justice." .
+
+<#Jeffrey-Popyack>
+    cb:name "Jeffrey Popyack" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jpopyack@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1846" ; 
+    cb:interests "Operations research, stochastic optimization, computational methods for Markov decisions processes, artificial intelligence, computer science education" .
+
+<#William-Regli>
+    cb:name "William Regli" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor (on leave)" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "regli@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "" ; 
+    cb:interests "Artificial intelligence, computer graphics, engineering design and Internet computing" .
+
+<#Lorraine-Richards>
+    cb:name "Lorraine Richards" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "llr43@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1903" ; 
+    cb:interests "Archives, digital curation, electronic records management, information technology and digital collections, cloud computing and record keeping, management of information organizations" .
+
+<#Michelle-L.>
+    cb:name "Michelle L. Rogers" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "mrogers@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2922" ; 
+    cb:interests "Human-computer interaction, healthcare informatics, human factors engineering, socio-technical systems, health services research, patient safety" .
+
+<#Jeffrey-Salvage>
+    cb:name "Jeffrey Salvage" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jsalvage@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215-895-2679" ; 
+    cb:interests "Object-oriented programming, multi-agent systems, software engineering, database theory, introductory programming, data structures" .
+
+<#Dario-Salvucci>
+    cb:name "Dario Salvucci" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor & Department Head" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "salvucci@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2674" ; 
+    cb:interests "Cognitive science, cognitive architectures, human-computer interaction, human factors, multitasking and interruptions, applications to driving and driver distraction" .
+
+<#Aleksandra-Sarcevic>
+    cb:name "Aleksandra Sarcevic" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "aleksarc@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0460" ; 
+    cb:interests "Computer-supported cooperative work, human-computer interaction, healthcare informatics; crisis informatics; social analysis of information & communications technology (ICT)" .
+
+<#Kurt-Schmidt>
+    cb:name "Kurt Schmidt" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "kschmidt@cs.drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1848" ; 
+    cb:interests "Data structures, math foundation for computer science, programming tools, programming languages" .
+
+<#Ali-Shokoufandeh>
+    cb:name "Ali Shokoufandeh" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor & Senior Associate Dean of Research" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "ashokouf@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2671" ; 
+    cb:interests "Theory of algorithms, graph theory, combinatorial optimization, computer vision" .
+
+<#Erin-Solovey>
+    cb:name "Erin Solovey" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "erin.solovey@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.4598" ; 
+    cb:interests "Human-computer interaction, brain-computer interfaces, tangible interaction, machine learning, human interaction with complex and autonomous systems" .
+
+<#Il-Yeol-Song>
+    cb:name "Il-Yeol Song" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "song@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2489" ; 
+    cb:interests "Conceptual modeling, data warehousing, big data technologies and analytics, object-oriented analysis and design with UML, healthcare informatics, smart health" .
+
+<#Julia-Stoyanovich>
+    cb:name "Julia Stoyanovich" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "stoyanovich@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6273" ; 
+    cb:interests "Data and knowledge management, software development, database management, data-intensive workflow, social context search and ranking, information discovery" .
+
+<#Brian-Stuart>
+    cb:name "Brian Stuart" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "brian.l.stuart@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.3921" ; 
+    cb:interests "Machine learning, networking, robotics, image processing, data storage, operating systems, data communications, distributed/operating systems, accelerated computer programming, computer graphics" .
+
+<#Deborah-Turner>
+    cb:name "Deborah Turner" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "turned@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0493" ; 
+    cb:interests "Information behavior/interaction, management of information institutions, orality and information" .
+
+<#Kristene-Unsworth>
+    cb:name "Kristene Unsworth" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "unsworth@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6016" ; 
+    cb:interests "Information policy, ethics, government information" .
+
+<#Filippos-Vokolos>
+    cb:name "Filippos Vokolos" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Computer Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "filippos.i.vokolos@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.3935" ; 
+    cb:interests "System architecture, software engineering, principles of software design and construction, software verification & validation, programming languages, dependable software systems" .
+
+<#Rosina-Weber>
+    cb:name "Rosina Weber" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "rosina@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1911" ; 
+    cb:interests "Case-based reasoning, machine learning, text analytics, natural language understanding, technological aspects of knowledge management, project management, and requirements engineering." .
+
+<#Jake-Williams>
+    cb:name "Jake Williams" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jake.williams@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "" ; 
+    cb:interests "Data science, scientific programming, computational social science, computational linguistics and natural language processing, mathematics, machine learning, algorithms, and scalability." .
+
+<#Erjia-Yan>
+    cb:name "Erjia Yan" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "erjia.yan@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1459" ; 
+    cb:interests "Network science, information analysis and retrieval, scholarly communication methods and applications" .
+
+<#Christopher-C.>
+    cb:name "Christopher C. Yang" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "chris.yang@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1631" ; 
+    cb:interests "Healthcare informatics, social media analytics, knowledge discovery, Web search and mining, recommendation systems, pharmacovigilance, drug repositioning, electronic commerce, intelligence and security informatics" .
+
+<#Valerie-Ann>
+    cb:name "Valerie Ann Yonker" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Information Science" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "vay22@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6397" ; 
+    cb:interests "Human service information systems, systems analysis and design, measurement in software evaluation, knowledge engineering" .
 

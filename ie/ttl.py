@@ -68,22 +68,27 @@ class TtlFileEntry:
 
     def write_to(self, ttlFile):
         self._fix_strings()
-        ttlFile.write("Name: %s\n" % self.name)
-        ttlFile.write("Property: %s\n" % self.prop)
-        ttlFile.write("Title:  %s\n" % self.title)
-        ttlFile.write("Department: %s\n" % self.department)
-        ttlFile.write("Address: %s\n" % self.address)
-        ttlFile.write("Room: %s\n" % self.room)
-        ttlFile.write("Start time: %s\n" % self.startTime)
-        ttlFile.write("End time: %s\n" % self.endTime)
-        ttlFile.write("Education: %s\n" % self.education)
-        ttlFile.write("Email:  %s\n" % self.email)
-        ttlFile.write("Website:  %s\n" % self.website)
-        ttlFile.write("Picture: %s\n" % self.picture)
-        ttlFile.write("Publications:  %s\n" % self.publications)
-        ttlFile.write("Phone:  %s\n" % self.phone)
-        ttlFile.write("Interests:  %s\n" % self.interests)
-        ttlFile.write("\n\n")
+        name = self.name.split()
+        entry  = "<#%s-%s>\n" % (name[0], name[1])
+        entry += '    cb:name "%s" ; \n' % self.name
+        entry += '    cb:property "%s" ; \n' % self.prop
+        entry += '    cb:title "%s" ; \n' % self.title
+        entry += '    cb:department "%s" ; \n' % self.department
+        entry += '    cb:address "%s" ; \n' % self.address
+        entry += '    cb:startTime "%s" ; \n' % self.startTime
+        entry += '    cb:endTime "%s" ; \n' % self.endTime
+        entry += '    cb:education "%s" ; \n' % self.education
+        entry += '    cb:email "%s" ; \n' % self.email
+        entry += '    cb:website "%s" ; \n' % self.website
+        entry += '    cb:picture "%s" ; \n' % self.picture
+        entry += '    cb:publications "%s" ; \n' % self.publications
+        entry += '    cb:phone "%s" ; \n' % self.phone
+        entry += '    cb:interests "%s" ; \n' % self.interests
+
+        #remove the last few characters and replace with a .
+        entry = entry[:-3]
+        entry += '.\n\n'
+        ttlFile.write(entry)
 
 
 def _fix(string):

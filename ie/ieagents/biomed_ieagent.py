@@ -67,6 +67,7 @@ class BiomedIEAgent(IEAgent):
             prof = ttl.TtlFileEntry()
 
             prof.name = nameEdu[0]
+            prof.prop = "faculty"
             if len(nameEdu) > 1:
                 prof.education = nameEdu[1]
             prof.title = data[1]

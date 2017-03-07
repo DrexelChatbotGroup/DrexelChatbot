@@ -49,6 +49,7 @@ class CciIEAgent(IEAgent):
             prof = ttl.TtlFileEntry()
 
             prof.name = data[1]
+            prof.prop = "faculty"
             prof.title = data[2]
             prof.department = data[3]
             prof.interests = data[4].split(':')[1]

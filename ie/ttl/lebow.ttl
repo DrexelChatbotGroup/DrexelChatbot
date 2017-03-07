@@ -1,2298 +1,2163 @@
 @base <http://drexelchatbot.com/rdf/> .
 @prefix cb: <http://drexelchatbot.com/rdf/> .
 
-Name: Pramod Abichandani
-Property: 
-Title:  Assistant Clinical Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 585
-Start time: 
-End time: 
-Education: PhD
-Email:  pva23@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0301
-Interests:  New Venture Performance and Survival, Technology Commercialization, Technology Entrepreneurship
-
-
-Name: Marco Airaudo
-Property: 
-Title:  Associate Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1035
-Start time: 
-End time: 
-Education: PhD
-Email:  ma639@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6982
-Interests:  Computational Economics, International Economics, International Finance, Macroeconomics, Macroeconomics and Monetary Economics, Monetary Economics
-
-
-Name: Murugan Anandarajan
-Property: 
-Title:  Professor
-Department: Department Head, Management, Decision Sciences & MIS
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Cyber Crime, Strategic Management of Information Technology, Unstructured Data Mining
-
-
-Name: Rolph Anderson
-Property: 
-Title:  Royal H. Gibson, Sr. Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 837
-Start time: 
-End time: 
-Education: PhD
-Email:  andersre@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2103
-Interests:  Customer Satisfaction and Loyalty, Marketing Strategy, Selling and Sales Management
-
-
-Name: Trina Andras
-Property: 
-Title:  Professor
-Department: Department Head, Marketing
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Global Marketing, Inter-Organizational, Marketing Strategy
-
-
-Name: Orakwue B. Arinze
-Property: 
-Title:  Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 526
-Start time: 
-End time: 
-Education: PhD
-Email:  arinzeob@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1798
-Interests:  
-
-
-Name: Patricia Awerbuch
-Property: 
-Title:  Assistant Clinical Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 925
-Start time: 
-End time: 
-Education: 
-Email:  patricia.m.awerbuch@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4365
-Interests:  Agricultural and Natural Resource Economics, Health Economics
-
-
-Name: Avijit Banerjee
-Property: 
-Title:  Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 737
-Start time: 
-End time: 
-Education: PhD
-Email:  banerjea@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1449
-Interests:  Interface with Marketing; Pricing Revenue Management, Inventory Control, Operations Planning and Scheduling, Production Planning and Control, Supply Chain Management
-
-
-Name: Richard Barnett
-Property: 
-Title:  Clinical Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1028
-Start time: 
-End time: 
-Education: PhD
-Email:  rcb63@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6972
-Interests:  Macroeconomics and Monetary Economics, Microeconomics, Political Economy, Public Economics
-
-
-Name: David Becher
-Property: 
-Title:  Associate Professor
-Department: David Cohen Research Scholar in Finance
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Banking and Bank Regulation, Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Governance, Executive Compensation
-
-
-Name: Erik Benrud
-Property: 
-Title:  Clinical Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1135
-Start time: 
-End time: 
-Education: PhD,FRM, CAIA, CFA
-Email:  ecb49@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2944
-Interests:  Alternative Investments, Applied Econometrics and Time Series Analysis, Derivatives, Game Theory
-
-
-Name: Hande Benson
-Property: 
-Title:  Associate Professor
-Department: Assistant Department Head, Decision Sciences & MIS
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Interior-Point Methods, Large-Scale Optimization, Mathematical Programming, Nonlinear Optimization, Operations and Supply Chain Optimization, Optimization Software, Portfolio Optimization
-
-
-Name: Fred Bereskin
-Property: 
-Title:  Visiting Assistant Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1128
-Start time: 
-End time: 
-Education: Ph.D.
-Email:  flb32@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2308
-Interests:  
-
-
-Name: Sebastien Bradley
-Property: 
-Title:  Assistant Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1023
-Start time: 
-End time: 
-Education: PhD
-Email:  sjb355@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4193
-Interests:  Applied Econometrics , International Economics, Public Economics, Real Estate
-
-
-Name: Maureen Breen
-Property: 
-Title:  Assistant Clinical Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 923
-Start time: 
-End time: 
-Education: 
-Email:  maureen.patricia.breen@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.3672
-Interests:  
-
-
-Name: Beth Buckman
-Property: 
-Title:  Assistant Clinical Professor
-Department: General Business
-Address: 
-Room: Gerri C. LeBow Hall 535
-Start time: 
-End time: 
-Education: 
-Email:  beb33@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4663
-Interests:  
-
-
-Name: Jie Cai
-Property: 
-Title:  Associate Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1119
-Start time: 
-End time: 
-Education: PhD
-Email:  jc468@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1755
-Interests:  Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Governance, Executive Compensation
-
-
-Name: Jodi Cataline
-Property: 
-Title:  Associate Clinical Professor
-Department: General Business
-Address: 
-Room: Gerri C. LeBow Hall 525
-Start time: 
-End time: 
-Education: 
-Email:  jodi.kathleen.cataline@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4660
-Interests:  Accounting and Business History, Banking and Bank Regulation, General Business
-
-
-Name: Oben Ceryan
-Property: 
-Title:  Assistant Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 738
-Start time: 
-End time: 
-Education: PhD
-Email:  oc43@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2815
-Interests:  Dynamic Pricing, Inventory Control, Revenue Management, Stochastic Optimization, Supply Chain Management
-
-
-Name: Suresh Chandran
-Property: 
-Title:  Associate Clinical Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 528
-Start time: 
-End time: 
-Education: PhD
-Email:  suresh.chandran@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4409
-Interests:  Corporate Entrepreneurship, Corporate Social Responsibility, Global Management, Intellectual Property and Employee Rights, Sustainability, Technological Innovation
-
-
-Name: Hsihui Chang
-Property: 
-Title:  KPMG Professor of Accounting
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 937
-Start time: 
-End time: 
-Education: PhD, CPA
-Email:  hc336@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6979
-Interests:  Audit Quality, Corporate Disclosure, Cost Management, Information Technology, Performance Measurement
-
-
-Name: Thomas Chiang
-Property: 
-Title:  Marshall M. Austin Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1137
-Start time: 
-End time: 
-Education: PhD
-Email:  chiangtc@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1745
-Interests:  Behavioral Finance, Financial Market Volatility and Risk Management, Financial Panics and Contagion , International Finance, Time Series Analysis of Financial Series
-
-
-Name: Hiu Lam Choy
-Property: 
-Title:  Associate Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 927
-Start time: 
-End time: 
-Education: PhD
-Email:  hc349@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2147
-Interests:  
-
-
-Name: Rodger Collons
-Property: 
-Title:  Professor
-Department: Legal Studies
-Address: 
-Room: Gerri C. LeBow Hall 845
-Start time: 
-End time: 
-Education: JD, DBA
-Email:  collonrd@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6971
-Interests:  American Law, Ethics and Values in Management, Intellectual Property and Employee Rights, Uniform Commercial Code, Wealth Management
-
-
-Name: Anthony Curatola
-Property: 
-Title:  Joseph F. Ford Professor of Accounting
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 922
-Start time: 
-End time: 
-Education: PhD
-Email:  curatola@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1453
-Interests:  Federal and State Income Tax Policy, Federal and State Income Tax Research, Fringe Benefits Taxation, Retirement Income and Women, Retirement Income Taxation
-
-
-Name: Dana D'Angelo
-Property: 
-Title:  Clinical Professor
-Department: General Business
-Address: 
-Room: Gerri C. LeBow Hall 523
-Start time: 
-End time: 
-Education: 
-Email:  dangeldc@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2954
-Interests:  Accounting and Business History, Business Communication, Business Education, Capital Budgeting, Corporate Finance, Experiential Learning, General Business, Global Classrooms, Leadership Development, Service Learning
-
-
-Name: Lauren D'Innocenzo
-Property: 
-Title:  Assistant Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 629
-Start time: 
-End time: 
-Education: PhD
-Email:  led73@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1796
-Interests:  Groups/Teams, Multi-Level Modeling, Shared Leadership
-
-
-Name: Mian Dai
-Property: 
-Title:  Associate Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1043
-Start time: 
-End time: 
-Education: PhD
-Email:  mian.dai@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2536
-Interests:  Applied Econometrics , Industrial Organization
-
-
-Name: Qizhi Dai
-Property: 
-Title:  Associate Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 620
-Start time: 
-End time: 
-Education: PhD
-Email:  qd24@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2121
-Interests:  Business Value of Information Technology, eCommerce, Economics of Information Technology, Information System Management
-
-
-Name: Xin Dai
-Property: 
-Title:  Assistant Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 929
-Start time: 
-End time: 
-Education: PhD
-Email:  xd45@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4822
-Interests:  Financial Reporting, Regulation
-
-
-Name: Naveen Daniel
-Property: 
-Title:  Associate Professor
-Department: Denis O’Brien Research Scholar in Finance
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Board of Directors, Corporate Finance, Corporate Governance, Executive Compensation
-
-
-Name: Donna DeCarolis
-Property: 
-Title:  Professor
-Department: Dean, Close School of Entrepreneurship
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  New Venture Performance and Survival, Social Capital, Technology Commercialization, Technology Entrepreneurship
-
-
-Name: Patricia Derrick
-Property: 
-Title:  Associate Clinical Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 919
-Start time: 
-End time: 
-Education: PhD
-Email:  pcd32@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.6779
-Interests:  
-
-
-Name: Pia Di Girolamo
-Property: 
-Title:  Assistant Clinical Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1034
-Start time: 
-End time: 
-Education: PhD
-Email:  pd358@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4194
-Interests:  Economic History, Forensic Economics, Italian Monetary History, Law and Economics, Macroeconomics and Monetary Economics
-
-
-Name: Boryana Dimitrova
-Property: 
-Title:  Assistant Clinical Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 581
-Start time: 
-End time: 
-Education: PhD
-Email:  bd328@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.3509
-Interests:  Global Marketing, Inter-Organizational, Marketing channels, Retailing and Retail Management
-
-
-Name: Daniel Dorn
-Property: 
-Title:  Associate Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1143
-Start time: 
-End time: 
-Education: PhD
-Email:  dd79@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1744
-Interests:  Behavioral Finance, Equity Markets, Investments
-
-
-Name: Casey Dougal
-Property: 
-Title:  Assistant Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1125
-Start time: 
-End time: 
-Education: PhD
-Email:  cmd433@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4595
-Interests:  
-
-
-Name: Michaela Draganska
-Property: 
-Title:  Associate Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 827
-Start time: 
-End time: 
-Education: PhD
-Email:  draganska@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4195
-Interests:  Marketing Analytics and Big Data, Marketing and Entrepreneurship, Marketing Communications, Marketing Research, Marketing Strategy, Technology and Innovation
-
-
-Name: Lawrence Duke
-Property: 
-Title:  Clinical Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 820
-Start time: 
-End time: 
-Education: 
-Email:  lkd26@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1033
-Interests:  Global Capital Markets, Global Marketing, Marketing Strategy, New Markets in Emerging Countries, New Media Marketing
-
-
-Name: Susan Epstein
-Property: 
-Title:  Associate Clinical Professor
-Department: General Business
-Address: 
-Room: Gerri C. LeBow Hall 524
-Start time: 
-End time: 
-Education: 
-Email:  chambesa@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0231
-Interests:  General Business, Groups/Teams, Leadership, Organizational Culture and Fit, Personality
-
-
-Name: Eleanor Feit
-Property: 
-Title:  Assistant Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 828
-Start time: 
-End time: 
-Education: PhD
-Email:  emf75@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4054
-Interests:  Bayesian hierarchical models, Interactive (eCommerce), Marketing Research, Missing Data
-
-
-Name: Eliezer Fich
-Property: 
-Title:  Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1120
-Start time: 
-End time: 
-Education: PhD
-Email:  emf35@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2304
-Interests:  
-
-
-Name: Christopher Finnin
-Property: 
-Title:  Clinical Professor
-Department: Director of General Business Studies
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: EdD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Business Education, General Business, strategy implementation, Technology Commercialization, Technology Entrepreneurship
-
-
-Name: Richard Freedman
-Property: 
-Title:  Associate Professor
-Department: Legal Studies
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: JD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Business Organizations, Contract Law, Estate Planning and Administration, Real Estate Law, Small Business Formation
-
-
-Name: Christopher Gaffney
-Property: 
-Title:  Assistant Clinical Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 838
-Start time: 
-End time: 
-Education: PhD
-Email:  ctg39@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4615
-Interests:  Applied Probability, Decision Theory, Risk Analysis
-
-
-Name: David Gefen
-Property: 
-Title:  Professor
-Department: Provost Distinguished Research Professor
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Data Analysis, eCommerce, Information System Management, Online Auctions, Outsourcing, SAS, Technology Adoption
-
-
-Name: Andrew Genetta
-Property: 
-Title:  Associate Clinical Professor
-Department: Legal Studies
-Address: 
-Room: Gerri C. LeBow Hall 839
-Start time: 
-End time: 
-Education: JD
-Email:  asg32@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4689
-Interests:  
-
-
-Name: Hubert Glover
-Property: 
-Title:  Associate Clinical Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 944
-Start time: 
-End time: 
-Education: PhD
-Email:  hdg26@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.4981
-Interests:  Alliances, Business Education, Business Planning, Decision Making in Accounting and Auditing Environments, International Accounting
-
-
-Name: Michael Gombola
-Property: 
-Title:  Professor
-Department: Department Head, Finance
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Capital Structure, Dividend Policy, Earnings Management, Stock Issuance, Time Series Analysis of Financial Series
-
-
-Name: Cuneyt Gozu
-Property: 
-Title:  Associate Clinical Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 583
-Start time: 
-End time: 
-Education: PhD
-Email:  cg624@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1606
-Interests:  Attitudes, Groups/Teams, Leadership, Motivation, Power and Influence
-
-
-Name: Jeffrey Greenhaus
-Property: 
-Title:  William A. Mackie Professor of Commerce and Engineering
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 626
-Start time: 
-End time: 
-Education: PhD
-Email:  jhg23@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2139
-Interests:  Career Management, Stress, Work Life Balance/Conflict
-
-
-Name: Barbara Grein
-Property: 
-Title:  Associate Professor
-Department: Department Head, Accounting
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Decision Making in Accounting and Auditing Environments, Executive Compensation and Corporate Governance, Financial Reporting
-
-
-Name: Curtis Hall
-Property: 
-Title:  Assistant Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 934
-Start time: 
-End time: 
-Education: PhD
-Email:  cmh463@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4678
-Interests:  
-
-
-Name: Shawkat Hammoudeh
-Property: 
-Title:  Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1042
-Start time: 
-End time: 
-Education: PhD
-Email:  hammousm@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6673
-Interests:  Agricultural and Natural Resource Economics, Applied Econometrics , BRICS Financial Markets, Energy Economics, Environmental Economics, Eurozone Equity Markets, Financial Economics, Financial Economics, natural resources and environmental economics, International Economics, Islamic Finance, Natural Resource Economics
-
-
-Name: Teresa Harrison
-Property: 
-Title:  Associate Professor
-Department: Associate Dean for Academic Affairs
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Applied Econometrics , Economics of Non-profits, Health Economics, Industrial Organization, Mergers and Acquisitions
-
-
-Name: Michael Howley
-Property: 
-Title:  Clinical Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 819
-Start time: 
-End time: 
-Education: PA-C, PhD
-Email:  mjh73@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2091
-Interests:  Assessing Clinical Trial Quality, Measuring Clinical Trial Performance, The Business of Health Care, The Impact of Health Reform on the Delivery of Medical Services
-
-
-Name: Yanliu Huang
-Property: 
-Title:  Assistant Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 825
-Start time: 
-End time: 
-Education: PhD
-Email:  yh364@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2809
-Interests:  Consumer In-Store Decision Making, Consumer Planning, Health Marketing, Memory and Learning
-
-
-Name: Paul Jensen
-Property: 
-Title:  Associate Professor
-Department: Associate Dean for Graduate and Undergraduate Programs, Dornsife Office for Experiential Learning
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  International Trade, Patterns of Trade, Trade Policy
-
-
-Name: Bang Jeon
-Property: 
-Title:  Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1041
-Start time: 
-End time: 
-Education: PhD
-Email:  jeonbana@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2125
-Interests:  Financial Economics, Global banking and Asian Economies, International Economics
-
-
-Name: Stephen Joyce
-Property: 
-Title:  Assistant Clinical Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1040
-Start time: 
-End time: 
-Education: 
-Email:  sj55@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1339
-Interests:  Economic Development, Technological Change, and Growth, Education and Human Capital, Industrial Organization, Labor Economics, Microeconomics
-
-
-Name: Robert Keidel
-Property: 
-Title:  Clinical Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 625
-Start time: 
-End time: 
-Education: PhD
-Email:  keidel@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2881
-Interests:  Cognition and Strategy, Cognitive coaching, Executive teambuilding, Organizational design, Strategic thinking, Strategy creation
-
-
-Name: Natalya Khimich
-Property: 
-Title:  Assistant Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 942
-Start time: 
-End time: 
-Education: PhD
-Email:  nvk24@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2118
-Interests:  Equity valuation; time varying discount rates; the role of accounting information in stock price formation; financial reporting; earnings quality; accounting for innovation and intangible assets, Financial Reporting
-
-
-Name: Seung-Lae Kim
-Property: 
-Title:  Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 744
-Start time: 
-End time: 
-Education: PhD
-Email:  kimsl@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2181
-Interests:  Inventory Control, Production Planning and Control, Quality Management, Supply Chain Management
-
-
-Name: Stacy Kline
-Property: 
-Title:  Clinical Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 920
-Start time: 
-End time: 
-Education: CPA
-Email:  Klinesa@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.5866
-Interests:  Business Entity Taxation, Individual Taxation, Managerial Accounting
-
-
-Name: Daniel Korschun
-Property: 
-Title:  Associate Professor
-Department: Stephen Cozen Research Scholar in Marketing
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Brand and Corporate Reputation Management, Corporate Political Activism, Corporate Social Responsibility, Internal Marketing, Marketing Strategy
-
-
-Name: Amy Kratchman
-Property: 
-Title:  Associate Clinical Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1118
-Start time: 
-End time: 
-Education: 
-Email:  kratchal@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1742
-Interests:  Investments, Portfolio Management
-
-
-Name: Rosalie Kreider
-Property: 
-Title:  Clinical Professor
-Department: Department Head
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: JD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Business Organizations, Contract Law, Ethics and Values in Management, International Business Law, Uniform Commercial Code
-
-
-Name: Andre Kurmann
-Property: 
-Title:  Associate Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1036
-Start time: 
-End time: 
-Education: PhD
-Email:  ak3386@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4681
-Interests:  Computational Economics, Financial Economics, Labor Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods
-
-
-Name: David Kurz
-Property: 
-Title:  Assistant Clinical Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 527
-Start time: 
-End time: 
-Education: EdD
-Email:  dbk37@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4616
-Interests:  Business Education, Groups/Teams, Leadership, Supply Chain Leadership
-
-
-Name: Hyokjin Kwak
-Property: 
-Title:  Associate Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 821
-Start time: 
-End time: 
-Education: PhD
-Email:  hk47@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6006
-Interests:  Advertising Effects, Strategic Branding
-
-
-Name: Christopher Laincz
-Property: 
-Title:  Associate Professor
-Department: Director, Ph.D. Program
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Economic Development, Technological Change, and Growth, Industrial Organization, Macroeconomics and Monetary Economics
-
-
-Name: Julia LaRosa
-Property: 
-Title:  Associate Clinical Professor
-Department: General Business
-Address: 
-Room: Gerri C. LeBow Hall 539
-Start time: 
-End time: 
-Education: 
-Email:  jl386@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4665
-Interests:  General Business, Health Care Marketing, Marketing and Entrepreneurship, Marketing Research, Peer mentoring, Student leadership development, Supporting international student acculturation
-
-
-Name: Jeongsik Lee
-Property: 
-Title:  Assistant Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 644
-Start time: 
-End time: 
-Education: PhD
-Email:  jl3543@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4676
-Interests:  economics of innovation, social networks, technology management
-
-
-Name: Jinwook Lee
-Property: 
-Title:  Assistant Clinical Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 834
-Start time: 
-End time: 
-Education: PhD
-Email:  jl3539@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4672
-Interests:  Decision Models, Mathematical Programming, Risk Assessment, Stochastic Optimization, Stochastic Processes
-
-
-Name: Johnny Lee
-Property: 
-Title:  Associate Clinical Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 943
-Start time: 
-End time: 
-Education: PhD
-Email:  johnny.lee@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4680
-Interests:  Accounting Information Systems, E-Business, Managerial Accounting, Supply Chain Management
-
-
-Name: Benjamin Lev
-Property: 
-Title:  Professor
-Department: Trustee Professor
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Inventory Control, Mathematical Programming, Operations Planning and Scheduling
-
-
-Name: Merrill Liechty
-Property: 
-Title:  Clinical Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 835
-Start time: 
-End time: 
-Education: PhD
-Email:  merrill@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2459
-Interests:  Bayesian Statistics, Higher Moment Estimation, Markov Chain Monte Carlo
-
-
-Name: Frank Linnehan
-Property: 
-Title:  R. John Chapel Jr., Dean
-Department: Dean
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Diversity, Human Resource Management including Personal and Labor Relations, Leadership, Mentoring and Coaching, School-To-Work
-
-
-Name: Chuanren Liu
-Property: 
-Title:  Assistant Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 736
-Start time: 
-End time: 
-Education: PhD
-Email:  cl998@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2132
-Interests:  Computational Finance, Data Mining, Health Informatics, Knowledge Management, Recommender Systems, Sequential Pattern Analysis, social mining, Spatio-temporal Data Analysis, text mining
-
-
-Name: Yu-Chieh Lo
-Property: 
-Title:  Assistant Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 628
-Start time: 
-End time: 
-Education: PhD
-Email:  yl663@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4441
-Interests:  Categorization in markets, organization theory, Technology innovation
-
-
-Name: Michelle Lowry
-Property: 
-Title:  TD Bank Endowed Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1121
-Start time: 
-End time: 
-Education: PhD
-Email:  ml3237@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6070
-Interests:  
-
-
-Name: Dali Ma
-Property: 
-Title:  Associate Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 645
-Start time: 
-End time: 
-Education: PhD
-Email:  dali.ma@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1733
-Interests:  inequality and status hierarchy, innovation and entrepreneurship, organization theory, social networks, sociology of China
-
-
-Name: Vibhas Madan
-Property: 
-Title:  Professor
-Department: Director, School of Economics
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  International Trade
-
-
-Name: Hazem Maragah
-Property: 
-Title:  Associate Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 728
-Start time: 
-End time: 
-Education: PhD
-Email:  Maragahh@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6996
-Interests:  Management Statistics, Statistical Process Control (SPC), Statistical Quality Control, Strategic Quality Control
-
-
-Name: Michele Masterfano
-Property: 
-Title:  Associate Clinical Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 639
-Start time: 
-End time: 
-Education: DBA
-Email:  mkm55@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1939
-Interests:  Business Planning, Marketing Research, Marketing Strategy, Social Capital, Social Networking
-
-
-Name: Mary Mawritz
-Property: 
-Title:  Associate Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 640
-Start time: 
-End time: 
-Education: PhD
-Email:  meb359@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1792
-Interests:  Abusive Supervision, Deviant Behavior, Leadership
-
-
-Name: Roger McCain
-Property: 
-Title:  Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1037
-Start time: 
-End time: 
-Education: PhD
-Email:  mccainra@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2176
-Interests:  Computational Economics, Game Theory
-
-
-Name: Bruce McCullough
-Property: 
-Title:  Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 742
-Start time: 
-End time: 
-Education: PhD
-Email:  BDMcCullough@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2134
-Interests:  Applied Econometrics , Data Mining, Econometric Techniques, Reliability of Statistical and Econometric Software
-
-
-Name: Irina Murtazashvili
-Property: 
-Title:  Assistant Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1027
-Start time: 
-End time: 
-Education: PhD
-Email:  im99@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6007
-Interests:  Applied Econometrics
-
-
-Name: Rajiv Nag
-Property: 
-Title:  Assistant Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 639
-Start time: 
-End time: 
-Education: PhD
-Email:  rn362@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4675
-Interests:  Organizational Knowledge and Identity, Organizational learning and change, Strategic Leadership, Strategic Performativity
-
-
-Name: Vadake Narayanan
-Property: 
-Title:  Deloitte Touche Jones Stubbs Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 622
-Start time: 
-End time: 
-Education: PhD
-Email:  vkn22@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6763
-Interests:  Cognition and Strategy, Corporate Entrepreneurship, Organization design
-
-
-Name: Gordian Ndubizu
-Property: 
-Title:  Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 941
-Start time: 
-End time: 
-Education: PhD
-Email:  ndubizga@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2120
-Interests:  
-
-
-Name: Edward Nelling
-Property: 
-Title:  Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1144
-Start time: 
-End time: 
-Education: PhD
-Email:  en26@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2117
-Interests:  Business Valuation, Corporate Finance, Mutual Funds, Real Estate Finance
-
-
-Name: Gregory Nini
-Property: 
-Title:  Assistant Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1129
-Start time: 
-End time: 
-Education: PhD
-Email:  gpn26@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4596
-Interests:  Banking and Bank Regulation, Capital Structure, Corporate Finance, Financial Institution Management, Risk Management
-
-
-Name: Maria Olivero
-Property: 
-Title:  Associate Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1045
-Start time: 
-End time: 
-Education: PhD
-Email:  maria.p.olivero@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.4908
-Interests:  International Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods, Open Economy Macroeconomics
-
-
-Name: Eydis Olsen
-Property: 
-Title:  Associate Clinical Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1039
-Start time: 
-End time: 
-Education: 
-Email:  eeo42@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6619
-Interests:  Financial Institution Management, International Finance, Macroeconomics, New Markets in Emerging Countries, Politcal Economy
-
-
-Name: Neal Orkin
-Property: 
-Title:  Associate Professor
-Department: Legal Studies
-Address: 
-Room: Gerri C. LeBow Hall 844
-Start time: 
-End time: 
-Education: JD
-Email:  orkinn@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6976
-Interests:  Labor, Employment, Intellectual Property
-
-
-Name: Duri Park
-Property: 
-Title:  Assistant Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 935
-Start time: 
-End time: 
-Education: PhD
-Email:  dp643@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1396
-Interests:  Financial Reporting
-
-
-Name: Haemin Park
-Property: 
-Title:  Assistant Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 643
-Start time: 
-End time: 
-Education: PhD
-Email:  hdp34@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1747
-Interests:  IPO, Knowledge-based View of the Firm, Technology Entrepreneurship, Venture capital
-
-
-Name: Fariborz Partovi
-Property: 
-Title:  Professor
-Department: Professor of Operations Management
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Manufacturing Technology Development, Quality Implementation, Quality Management, Service Management, Six-Sigma
-
-
-Name: Natalie Pedersen
-Property: 
-Title:  Assistant Professor
-Department: Legal Studies
-Address: 
-Room: Gerri C. LeBow Hall 840
-Start time: 
-End time: 
-Education: 
-Email:  nbp24@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4192
-Interests:  American Law, Contract Law, Labor and Employment Law
-
-
-Name: Tristan Potter
-Property: 
-Title:  Assistant Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1035
-Start time: 
-End time: 
-Education: Ph.D.
-Email:  tlp64@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2540
-Interests:  Labor Economics, Macroeconomics, Search Theory
-
-
-Name: Bernhard Reichert
-Property: 
-Title:  Assistant Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 921
-Start time: 
-End time: 
-Education: PhD, CPA
-Email:  ber33@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0222
-Interests:  Auditing Behavioral Issues in Accounting, Decision Making in Accounting and Auditing Environments, Managerial Accounting
-
-
-Name: Matthew Reindorp
-Property: 
-Title:  Associate Clinical Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 577
-Start time: 
-End time: 
-Education: PhD
-Email:  mjr424@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4671
-Interests:  Real options, Simulation, Stochastic Processes, Supply Chain Finance, Supply Chain Management
-
-
-Name: Christian Resick
-Property: 
-Title:  Associate Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 635
-Start time: 
-End time: 
-Education: PhD
-Email:  cresick@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1052
-Interests:  Groups/Teams, Leadership, Organizational Culture and Fit, Personality
-
-
-Name: Stanley Ridgley
-Property: 
-Title:  Associate Clinical Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 618
-Start time: 
-End time: 
-Education: PhD
-Email:  skr37@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4202
-Interests:  Business Communication, Cognition and Strategy, Competitive Intelligence, Determinants of Firm Performance, Global Management, New Markets in Emerging Countries, Russian Business Culture
-
-
-Name: James Rinier
-Property: 
-Title:  Assistant Clinical Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 924
-Start time: 
-End time: 
-Education: 
-Email:  james.william.rinier@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.3640
-Interests:  
-
-
-Name: Eric Rios
-Property: 
-Title:  Assistant Clinical Professor
-Department: General Business
-Address: 
-Room: Gerri C. LeBow Hall 538
-Start time: 
-End time: 
-Education: 
-Email:  eer24@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4664
-Interests:  
-
-
-Name: Patricia Robak
-Property: 
-Title:  Associate Clinical Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1134
-Start time: 
-End time: 
-Education: PhD
-Email:  pjr43@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4679
-Interests:  Corporate Finance, International Finance
-
-
-Name: Bert Rosenbloom
-Property: 
-Title:  J. Donald Rauth Professor of Marketing Management
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 826
-Start time: 
-End time: 
-Education: PhD
-Email:  rosenblb@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6992
-Interests:  Distribution Systems, Marketing channels, Marketing Strategy and Management
-
-
-Name: Diana Sandberg
-Property: 
-Title:  Associate Clinical Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1145
-Start time: 
-End time: 
-Education: 
-Email:  dfs26@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0584
-Interests:  Derivatives, Investments, Risk Management
-
-
-Name: Matthew Schneider
-Property: 
-Title:  Assistant Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 623
-Start time: 
-End time: 
-Education: Ph.D.
-Email:  mjs624@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1939
-Interests:  Analytics, Data Privacy, Time Series Analysis and Forecasting
-
-
-Name: Konstantinos Serfes
-Property: 
-Title:  Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1044
-Start time: 
-End time: 
-Education: PhD
-Email:  ks346@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6816
-Interests:  Industrial Organization, Microeconomics, Game Theory
-
-
-Name: Ricardo Serrano-Padial
-Property: 
-Title:  Assistant Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1024
-Start time: 
-End time: 
-Education: PhD
-Email:  rs3267@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.6973
-Interests:  Behavioral Economics, Financial Economics, Game Theory
-
-
-Name: Samir Shah
-Property: 
-Title:  Associate Clinical Professor
-Department: Drexel University’s Provost Fellow India Partnerships
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: D.P.S.
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Business Value of Information Technology, Information System Management, Information Systems Leadership, Outsourcing, System Design
-
-
-Name: Wenjing Shen
-Property: 
-Title:  Associate Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 735
-Start time: 
-End time: 
-Education: PhD
-Email:  ws84@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.0225
-Interests:  Interface with Marketing; Pricing Revenue Management, Inventory Control, Supply Chain Management
-
-
-Name: Steven Sher
-Property: 
-Title:  Associate Professor
-Department: Legal Studies
-Address: 
-Room: Gerri C. LeBow Hall 842
-Start time: 
-End time: 
-Education: JD
-Email:  shersr@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2128
-Interests:  
-
-
-Name: Prashant Srivastava
-Property: 
-Title:  Associate Clinical Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 824
-Start time: 
-End time: 
-Education: PhD
-Email:  ps579@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1392
-Interests:  Business to Business Marketing, Inter-Organizational, Marketing Research, Marketing Strategy
-
-
-Name: Mark Stehr
-Property: 
-Title:  Associate Professor
-Department: Assistant Director, School of Economics
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Applied Econometrics , Health Economics
-
-
-Name: Rajneesh Suri
-Property: 
-Title:  Professor
-Department: Associate Dean for Research
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Consumer Behavior, Pricing and Promotions
-
-
-Name: Srinivasan Swaminathan
-Property: 
-Title:  Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 836
-Start time: 
-End time: 
-Education: PhD
-Email:  swaminas@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2137
-Interests:  Loyalty, Sales Promotions
-
-
-Name: Constantinos Syropoulos
-Property: 
-Title:  Professor
-Department: Trustee Professor of International Economics
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  International Trade, Microeconomics, Political Economy
-
-
-Name: Samuel Szewczyk
-Property: 
-Title:  Associate Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1123
-Start time: 
-End time: 
-Education: PhD
-Email:  szewczsh@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1746
-Interests:  
-
-
-Name: George Tsetsekos
-Property: 
-Title:  George B. Francis Professor
-Department: Finance
-Address: 
-Room: Gerri C. LeBow Hall 1122
-Start time: 
-End time: 
-Education: PhD
-Email:  tsetsekos@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1587
-Interests:  Board of Directors, Corporate Finance, International Finance, Investments
-
-
-Name: Daniel Tzabbar
-Property: 
-Title:  Associate Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 636
-Start time: 
-End time: 
-Education: PhD
-Email:  dt396@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.3825
-Interests:  Determinants of Firm Performance, Human capital, Organizational learning and change, Technology Entrepreneurship, Technology innovation
-
-
-Name: Mark Vargus
-Property: 
-Title:  Assistant Professor
-Department: Accounting
-Address: 
-Room: Gerri C. LeBow Hall 928
-Start time: 
-End time: 
-Education: PhD
-Email:  mev43@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4437
-Interests:  Executive Compensation and Corporate Governance, Financial Reporting
-
-
-Name: Ralph Walkling
-Property: 
-Title:  Christopher and Mary Stratakis Professor in Corporate Governance and Accountability
-Department: Founder, Center of Corporate Governance
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Finance, Corporate Governance, Executive Compensation
-
-
-Name: Chen Wang
-Property: 
-Title:  Assistant Professor
-Department: Marketing
-Address: 
-Room: Gerri C. LeBow Hall 829
-Start time: 
-End time: 
-Education: PhD
-Email:  chen.wang635@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.3546
-Interests:  Consumer Curiosity, Self-Regulation and Goals, Sensory Perception
-
-
-Name: Min Wang
-Property: 
-Title:  Assistant Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 740
-Start time: 
-End time: 
-Education: PhD
-Email:  mw638@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4203
-Interests:  Healthcare Operations Management, Inventory Control, Production Planning and Control, Service Management, Supply Chain Management
-
-
-Name: Matthew Weinberg
-Property: 
-Title:  Associate Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1029
-Start time: 
-End time: 
-Education: PhD
-Email:  mcw325@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4168
-Interests:  Antitrust and Regulation, Applied Econometrics , Industrial Organization, Law and Economics, Public Economics
-
-
-Name: Joan Weiner
-Property: 
-Title:  Professor
-Department: Management
-Address: 
-Room: Gerri C. LeBow Hall 642
-Start time: 
-End time: 
-Education: PhD
-Email:  weinerjl@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.1797
-Interests:  
-
-
-Name: Jennifer Wright
-Property: 
-Title:  Clinical Professor
-Department: Assistant Department Head, Accounting
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: CPA
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  
-
-
-Name: Chaojiang Wu
-Property: 
-Title:  Assistant Professor
-Department: Decision Sciences and MIS
-Address: 
-Room: Gerri C. LeBow Hall 727
-Start time: 
-End time: 
-Education: PhD
-Email:  cw578@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.571.4590
-Interests:  Computational Statistics, Data Analytics, Data Mining, Knowledge Management, Multivariate Statistics
-
-
-Name: Yoto Yotov
-Property: 
-Title:  Associate Professor
-Department: Economics
-Address: 
-Room: Gerri C. LeBow Hall 1020
-Start time: 
-End time: 
-Education: PhD
-Email:  yvy23@drexel.edu
-Website:  
-Picture: 
-Publications:  
-Phone:  215.895.2572
-Interests:  International Trade
-
-
-Name: Jonathan Ziegert
-Property: 
-Title:  Associate Professor
-Department: Assistant Department Head, Management
-Address: 
-Room: Location
-Start time: 
-End time: 
-Education: PhD
-Email:  Email
-Website:  
-Picture: 
-Publications:  
-Phone:  Phone
-Interests:  Attitudes, Diversity, Groups/Teams, Leadership, Organizational Culture and Fit
-
+<#Pramod-Abichandani>
+    cb:name "Pramod Abichandani" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "pva23@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0301" ; 
+    cb:interests "New Venture Performance and Survival, Technology Commercialization, Technology Entrepreneurship" .
+
+<#Marco-Airaudo>
+    cb:name "Marco Airaudo" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ma639@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6982" ; 
+    cb:interests "Computational Economics, International Economics, International Finance, Macroeconomics, Macroeconomics and Monetary Economics, Monetary Economics" .
+
+<#Murugan-Anandarajan>
+    cb:name "Murugan Anandarajan" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department Head, Management, Decision Sciences & MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Cyber Crime, Strategic Management of Information Technology, Unstructured Data Mining" .
+
+<#Rolph-Anderson>
+    cb:name "Rolph Anderson" ; 
+    cb:property "faculty" ; 
+    cb:title "Royal H. Gibson, Sr. Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "andersre@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2103" ; 
+    cb:interests "Customer Satisfaction and Loyalty, Marketing Strategy, Selling and Sales Management" .
+
+<#Trina-Andras>
+    cb:name "Trina Andras" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department Head, Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Global Marketing, Inter-Organizational, Marketing Strategy" .
+
+<#Orakwue-B.>
+    cb:name "Orakwue B. Arinze" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "arinzeob@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1798" ; 
+    cb:interests "" .
+
+<#Patricia-Awerbuch>
+    cb:name "Patricia Awerbuch" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "patricia.m.awerbuch@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4365" ; 
+    cb:interests "Agricultural and Natural Resource Economics, Health Economics" .
+
+<#Avijit-Banerjee>
+    cb:name "Avijit Banerjee" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "banerjea@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1449" ; 
+    cb:interests "Interface with Marketing; Pricing Revenue Management, Inventory Control, Operations Planning and Scheduling, Production Planning and Control, Supply Chain Management" .
+
+<#Richard-Barnett>
+    cb:name "Richard Barnett" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "rcb63@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6972" ; 
+    cb:interests "Macroeconomics and Monetary Economics, Microeconomics, Political Economy, Public Economics" .
+
+<#David-Becher>
+    cb:name "David Becher" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "David Cohen Research Scholar in Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Banking and Bank Regulation, Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Governance, Executive Compensation" .
+
+<#Erik-Benrud>
+    cb:name "Erik Benrud" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD,FRM, CAIA, CFA" ; 
+    cb:email "ecb49@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2944" ; 
+    cb:interests "Alternative Investments, Applied Econometrics and Time Series Analysis, Derivatives, Game Theory" .
+
+<#Hande-Benson>
+    cb:name "Hande Benson" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Assistant Department Head, Decision Sciences & MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Interior-Point Methods, Large-Scale Optimization, Mathematical Programming, Nonlinear Optimization, Operations and Supply Chain Optimization, Optimization Software, Portfolio Optimization" .
+
+<#Fred-Bereskin>
+    cb:name "Fred Bereskin" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Assistant Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "Ph.D." ; 
+    cb:email "flb32@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2308" ; 
+    cb:interests "" .
+
+<#Sebastien-Bradley>
+    cb:name "Sebastien Bradley" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "sjb355@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4193" ; 
+    cb:interests "Applied Econometrics , International Economics, Public Economics, Real Estate" .
+
+<#Maureen-Breen>
+    cb:name "Maureen Breen" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "maureen.patricia.breen@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.3672" ; 
+    cb:interests "" .
+
+<#Beth-Buckman>
+    cb:name "Beth Buckman" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "General Business" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "beb33@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4663" ; 
+    cb:interests "" .
+
+<#Jie-Cai>
+    cb:name "Jie Cai" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "jc468@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1755" ; 
+    cb:interests "Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Governance, Executive Compensation" .
+
+<#Jodi-Cataline>
+    cb:name "Jodi Cataline" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "General Business" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jodi.kathleen.cataline@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4660" ; 
+    cb:interests "Accounting and Business History, Banking and Bank Regulation, General Business" .
+
+<#Oben-Ceryan>
+    cb:name "Oben Ceryan" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "oc43@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2815" ; 
+    cb:interests "Dynamic Pricing, Inventory Control, Revenue Management, Stochastic Optimization, Supply Chain Management" .
+
+<#Suresh-Chandran>
+    cb:name "Suresh Chandran" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "suresh.chandran@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4409" ; 
+    cb:interests "Corporate Entrepreneurship, Corporate Social Responsibility, Global Management, Intellectual Property and Employee Rights, Sustainability, Technological Innovation" .
+
+<#Hsihui-Chang>
+    cb:name "Hsihui Chang" ; 
+    cb:property "faculty" ; 
+    cb:title "KPMG Professor of Accounting" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD, CPA" ; 
+    cb:email "hc336@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6979" ; 
+    cb:interests "Audit Quality, Corporate Disclosure, Cost Management, Information Technology, Performance Measurement" .
+
+<#Thomas-Chiang>
+    cb:name "Thomas Chiang" ; 
+    cb:property "faculty" ; 
+    cb:title "Marshall M. Austin Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "chiangtc@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1745" ; 
+    cb:interests "Behavioral Finance, Financial Market Volatility and Risk Management, Financial Panics and Contagion , International Finance, Time Series Analysis of Financial Series" .
+
+<#Hiu-Lam>
+    cb:name "Hiu Lam Choy" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "hc349@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2147" ; 
+    cb:interests "" .
+
+<#Rodger-Collons>
+    cb:name "Rodger Collons" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Legal Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "JD, DBA" ; 
+    cb:email "collonrd@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6971" ; 
+    cb:interests "American Law, Ethics and Values in Management, Intellectual Property and Employee Rights, Uniform Commercial Code, Wealth Management" .
+
+<#Anthony-Curatola>
+    cb:name "Anthony Curatola" ; 
+    cb:property "faculty" ; 
+    cb:title "Joseph F. Ford Professor of Accounting" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "curatola@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1453" ; 
+    cb:interests "Federal and State Income Tax Policy, Federal and State Income Tax Research, Fringe Benefits Taxation, Retirement Income and Women, Retirement Income Taxation" .
+
+<#Dana-D'Angelo>
+    cb:name "Dana D'Angelo" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "General Business" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "dangeldc@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2954" ; 
+    cb:interests "Accounting and Business History, Business Communication, Business Education, Capital Budgeting, Corporate Finance, Experiential Learning, General Business, Global Classrooms, Leadership Development, Service Learning" .
+
+<#Lauren-D'Innocenzo>
+    cb:name "Lauren D'Innocenzo" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "led73@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1796" ; 
+    cb:interests "Groups/Teams, Multi-Level Modeling, Shared Leadership" .
+
+<#Mian-Dai>
+    cb:name "Mian Dai" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "mian.dai@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2536" ; 
+    cb:interests "Applied Econometrics , Industrial Organization" .
+
+<#Qizhi-Dai>
+    cb:name "Qizhi Dai" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "qd24@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2121" ; 
+    cb:interests "Business Value of Information Technology, eCommerce, Economics of Information Technology, Information System Management" .
+
+<#Xin-Dai>
+    cb:name "Xin Dai" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "xd45@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4822" ; 
+    cb:interests "Financial Reporting, Regulation" .
+
+<#Naveen-Daniel>
+    cb:name "Naveen Daniel" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Denis O’Brien Research Scholar in Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Board of Directors, Corporate Finance, Corporate Governance, Executive Compensation" .
+
+<#Donna-DeCarolis>
+    cb:name "Donna DeCarolis" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Dean, Close School of Entrepreneurship" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "New Venture Performance and Survival, Social Capital, Technology Commercialization, Technology Entrepreneurship" .
+
+<#Patricia-Derrick>
+    cb:name "Patricia Derrick" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "pcd32@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.6779" ; 
+    cb:interests "" .
+
+<#Pia-Di>
+    cb:name "Pia Di Girolamo" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "pd358@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4194" ; 
+    cb:interests "Economic History, Forensic Economics, Italian Monetary History, Law and Economics, Macroeconomics and Monetary Economics" .
+
+<#Boryana-Dimitrova>
+    cb:name "Boryana Dimitrova" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "bd328@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.3509" ; 
+    cb:interests "Global Marketing, Inter-Organizational, Marketing channels, Retailing and Retail Management" .
+
+<#Daniel-Dorn>
+    cb:name "Daniel Dorn" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "dd79@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1744" ; 
+    cb:interests "Behavioral Finance, Equity Markets, Investments" .
+
+<#Casey-Dougal>
+    cb:name "Casey Dougal" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "cmd433@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4595" ; 
+    cb:interests "" .
+
+<#Michaela-Draganska>
+    cb:name "Michaela Draganska" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "draganska@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4195" ; 
+    cb:interests "Marketing Analytics and Big Data, Marketing and Entrepreneurship, Marketing Communications, Marketing Research, Marketing Strategy, Technology and Innovation" .
+
+<#Lawrence-Duke>
+    cb:name "Lawrence Duke" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "lkd26@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1033" ; 
+    cb:interests "Global Capital Markets, Global Marketing, Marketing Strategy, New Markets in Emerging Countries, New Media Marketing" .
+
+<#Susan-Epstein>
+    cb:name "Susan Epstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "General Business" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "chambesa@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0231" ; 
+    cb:interests "General Business, Groups/Teams, Leadership, Organizational Culture and Fit, Personality" .
+
+<#Eleanor-Feit>
+    cb:name "Eleanor Feit" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "emf75@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4054" ; 
+    cb:interests "Bayesian hierarchical models, Interactive (eCommerce), Marketing Research, Missing Data" .
+
+<#Eliezer-Fich>
+    cb:name "Eliezer Fich" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "emf35@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2304" ; 
+    cb:interests "" .
+
+<#Christopher-Finnin>
+    cb:name "Christopher Finnin" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Director of General Business Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "EdD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Business Education, General Business, strategy implementation, Technology Commercialization, Technology Entrepreneurship" .
+
+<#Richard-Freedman>
+    cb:name "Richard Freedman" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Legal Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "JD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Business Organizations, Contract Law, Estate Planning and Administration, Real Estate Law, Small Business Formation" .
+
+<#Christopher-Gaffney>
+    cb:name "Christopher Gaffney" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ctg39@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4615" ; 
+    cb:interests "Applied Probability, Decision Theory, Risk Analysis" .
+
+<#David-Gefen>
+    cb:name "David Gefen" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Provost Distinguished Research Professor" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Data Analysis, eCommerce, Information System Management, Online Auctions, Outsourcing, SAS, Technology Adoption" .
+
+<#Andrew-Genetta>
+    cb:name "Andrew Genetta" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Legal Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "JD" ; 
+    cb:email "asg32@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4689" ; 
+    cb:interests "" .
+
+<#Hubert-Glover>
+    cb:name "Hubert Glover" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "hdg26@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.4981" ; 
+    cb:interests "Alliances, Business Education, Business Planning, Decision Making in Accounting and Auditing Environments, International Accounting" .
+
+<#Michael-Gombola>
+    cb:name "Michael Gombola" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department Head, Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Capital Structure, Dividend Policy, Earnings Management, Stock Issuance, Time Series Analysis of Financial Series" .
+
+<#Cuneyt-Gozu>
+    cb:name "Cuneyt Gozu" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "cg624@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1606" ; 
+    cb:interests "Attitudes, Groups/Teams, Leadership, Motivation, Power and Influence" .
+
+<#Jeffrey-Greenhaus>
+    cb:name "Jeffrey Greenhaus" ; 
+    cb:property "faculty" ; 
+    cb:title "William A. Mackie Professor of Commerce and Engineering" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "jhg23@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2139" ; 
+    cb:interests "Career Management, Stress, Work Life Balance/Conflict" .
+
+<#Barbara-Grein>
+    cb:name "Barbara Grein" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department Head, Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Decision Making in Accounting and Auditing Environments, Executive Compensation and Corporate Governance, Financial Reporting" .
+
+<#Curtis-Hall>
+    cb:name "Curtis Hall" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "cmh463@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4678" ; 
+    cb:interests "" .
+
+<#Shawkat-Hammoudeh>
+    cb:name "Shawkat Hammoudeh" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "hammousm@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6673" ; 
+    cb:interests "Agricultural and Natural Resource Economics, Applied Econometrics , BRICS Financial Markets, Energy Economics, Environmental Economics, Eurozone Equity Markets, Financial Economics, Financial Economics, natural resources and environmental economics, International Economics, Islamic Finance, Natural Resource Economics" .
+
+<#Teresa-Harrison>
+    cb:name "Teresa Harrison" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Associate Dean for Academic Affairs" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Applied Econometrics , Economics of Non-profits, Health Economics, Industrial Organization, Mergers and Acquisitions" .
+
+<#Michael-Howley>
+    cb:name "Michael Howley" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PA-C, PhD" ; 
+    cb:email "mjh73@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2091" ; 
+    cb:interests "Assessing Clinical Trial Quality, Measuring Clinical Trial Performance, The Business of Health Care, The Impact of Health Reform on the Delivery of Medical Services" .
+
+<#Yanliu-Huang>
+    cb:name "Yanliu Huang" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "yh364@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2809" ; 
+    cb:interests "Consumer In-Store Decision Making, Consumer Planning, Health Marketing, Memory and Learning" .
+
+<#Paul-Jensen>
+    cb:name "Paul Jensen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Associate Dean for Graduate and Undergraduate Programs, Dornsife Office for Experiential Learning" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "International Trade, Patterns of Trade, Trade Policy" .
+
+<#Bang-Jeon>
+    cb:name "Bang Jeon" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "jeonbana@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2125" ; 
+    cb:interests "Financial Economics, Global banking and Asian Economies, International Economics" .
+
+<#Stephen-Joyce>
+    cb:name "Stephen Joyce" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "sj55@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1339" ; 
+    cb:interests "Economic Development, Technological Change, and Growth, Education and Human Capital, Industrial Organization, Labor Economics, Microeconomics" .
+
+<#Robert-Keidel>
+    cb:name "Robert Keidel" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "keidel@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2881" ; 
+    cb:interests "Cognition and Strategy, Cognitive coaching, Executive teambuilding, Organizational design, Strategic thinking, Strategy creation" .
+
+<#Natalya-Khimich>
+    cb:name "Natalya Khimich" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "nvk24@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2118" ; 
+    cb:interests "Equity valuation; time varying discount rates; the role of accounting information in stock price formation; financial reporting; earnings quality; accounting for innovation and intangible assets, Financial Reporting" .
+
+<#Seung-Lae-Kim>
+    cb:name "Seung-Lae Kim" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "kimsl@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2181" ; 
+    cb:interests "Inventory Control, Production Planning and Control, Quality Management, Supply Chain Management" .
+
+<#Stacy-Kline>
+    cb:name "Stacy Kline" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "CPA" ; 
+    cb:email "Klinesa@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.5866" ; 
+    cb:interests "Business Entity Taxation, Individual Taxation, Managerial Accounting" .
+
+<#Daniel-Korschun>
+    cb:name "Daniel Korschun" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Stephen Cozen Research Scholar in Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Brand and Corporate Reputation Management, Corporate Political Activism, Corporate Social Responsibility, Internal Marketing, Marketing Strategy" .
+
+<#Amy-Kratchman>
+    cb:name "Amy Kratchman" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "kratchal@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1742" ; 
+    cb:interests "Investments, Portfolio Management" .
+
+<#Rosalie-Kreider>
+    cb:name "Rosalie Kreider" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Department Head" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "JD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Business Organizations, Contract Law, Ethics and Values in Management, International Business Law, Uniform Commercial Code" .
+
+<#Andre-Kurmann>
+    cb:name "Andre Kurmann" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ak3386@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4681" ; 
+    cb:interests "Computational Economics, Financial Economics, Labor Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods" .
+
+<#David-Kurz>
+    cb:name "David Kurz" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "EdD" ; 
+    cb:email "dbk37@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4616" ; 
+    cb:interests "Business Education, Groups/Teams, Leadership, Supply Chain Leadership" .
+
+<#Hyokjin-Kwak>
+    cb:name "Hyokjin Kwak" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "hk47@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6006" ; 
+    cb:interests "Advertising Effects, Strategic Branding" .
+
+<#Christopher-Laincz>
+    cb:name "Christopher Laincz" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Director, Ph.D. Program" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Economic Development, Technological Change, and Growth, Industrial Organization, Macroeconomics and Monetary Economics" .
+
+<#Julia-LaRosa>
+    cb:name "Julia LaRosa" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "General Business" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "jl386@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4665" ; 
+    cb:interests "General Business, Health Care Marketing, Marketing and Entrepreneurship, Marketing Research, Peer mentoring, Student leadership development, Supporting international student acculturation" .
+
+<#Jeongsik-Lee>
+    cb:name "Jeongsik Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "jl3543@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4676" ; 
+    cb:interests "economics of innovation, social networks, technology management" .
+
+<#Jinwook-Lee>
+    cb:name "Jinwook Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "jl3539@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4672" ; 
+    cb:interests "Decision Models, Mathematical Programming, Risk Assessment, Stochastic Optimization, Stochastic Processes" .
+
+<#Johnny-Lee>
+    cb:name "Johnny Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "johnny.lee@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4680" ; 
+    cb:interests "Accounting Information Systems, E-Business, Managerial Accounting, Supply Chain Management" .
+
+<#Benjamin-Lev>
+    cb:name "Benjamin Lev" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Trustee Professor" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Inventory Control, Mathematical Programming, Operations Planning and Scheduling" .
+
+<#Merrill-Liechty>
+    cb:name "Merrill Liechty" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "merrill@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2459" ; 
+    cb:interests "Bayesian Statistics, Higher Moment Estimation, Markov Chain Monte Carlo" .
+
+<#Frank-Linnehan>
+    cb:name "Frank Linnehan" ; 
+    cb:property "faculty" ; 
+    cb:title "R. John Chapel Jr., Dean" ; 
+    cb:department "Dean" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Diversity, Human Resource Management including Personal and Labor Relations, Leadership, Mentoring and Coaching, School-To-Work" .
+
+<#Chuanren-Liu>
+    cb:name "Chuanren Liu" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "cl998@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2132" ; 
+    cb:interests "Computational Finance, Data Mining, Health Informatics, Knowledge Management, Recommender Systems, Sequential Pattern Analysis, social mining, Spatio-temporal Data Analysis, text mining" .
+
+<#Yu-Chieh-Lo>
+    cb:name "Yu-Chieh Lo" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "yl663@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4441" ; 
+    cb:interests "Categorization in markets, organization theory, Technology innovation" .
+
+<#Michelle-Lowry>
+    cb:name "Michelle Lowry" ; 
+    cb:property "faculty" ; 
+    cb:title "TD Bank Endowed Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ml3237@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6070" ; 
+    cb:interests "" .
+
+<#Dali-Ma>
+    cb:name "Dali Ma" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "dali.ma@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1733" ; 
+    cb:interests "inequality and status hierarchy, innovation and entrepreneurship, organization theory, social networks, sociology of China" .
+
+<#Vibhas-Madan>
+    cb:name "Vibhas Madan" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Director, School of Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "International Trade" .
+
+<#Hazem-Maragah>
+    cb:name "Hazem Maragah" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Maragahh@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6996" ; 
+    cb:interests "Management Statistics, Statistical Process Control (SPC), Statistical Quality Control, Strategic Quality Control" .
+
+<#Michele-Masterfano>
+    cb:name "Michele Masterfano" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "DBA" ; 
+    cb:email "mkm55@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1939" ; 
+    cb:interests "Business Planning, Marketing Research, Marketing Strategy, Social Capital, Social Networking" .
+
+<#Mary-Mawritz>
+    cb:name "Mary Mawritz" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "meb359@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1792" ; 
+    cb:interests "Abusive Supervision, Deviant Behavior, Leadership" .
+
+<#Roger-McCain>
+    cb:name "Roger McCain" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "mccainra@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2176" ; 
+    cb:interests "Computational Economics, Game Theory" .
+
+<#Bruce-McCullough>
+    cb:name "Bruce McCullough" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "BDMcCullough@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2134" ; 
+    cb:interests "Applied Econometrics , Data Mining, Econometric Techniques, Reliability of Statistical and Econometric Software" .
+
+<#Irina-Murtazashvili>
+    cb:name "Irina Murtazashvili" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "im99@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6007" ; 
+    cb:interests "Applied Econometrics" .
+
+<#Rajiv-Nag>
+    cb:name "Rajiv Nag" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "rn362@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4675" ; 
+    cb:interests "Organizational Knowledge and Identity, Organizational learning and change, Strategic Leadership, Strategic Performativity" .
+
+<#Vadake-Narayanan>
+    cb:name "Vadake Narayanan" ; 
+    cb:property "faculty" ; 
+    cb:title "Deloitte Touche Jones Stubbs Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "vkn22@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6763" ; 
+    cb:interests "Cognition and Strategy, Corporate Entrepreneurship, Organization design" .
+
+<#Gordian-Ndubizu>
+    cb:name "Gordian Ndubizu" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ndubizga@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2120" ; 
+    cb:interests "" .
+
+<#Edward-Nelling>
+    cb:name "Edward Nelling" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "en26@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2117" ; 
+    cb:interests "Business Valuation, Corporate Finance, Mutual Funds, Real Estate Finance" .
+
+<#Gregory-Nini>
+    cb:name "Gregory Nini" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "gpn26@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4596" ; 
+    cb:interests "Banking and Bank Regulation, Capital Structure, Corporate Finance, Financial Institution Management, Risk Management" .
+
+<#Maria-Olivero>
+    cb:name "Maria Olivero" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "maria.p.olivero@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.4908" ; 
+    cb:interests "International Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods, Open Economy Macroeconomics" .
+
+<#Eydis-Olsen>
+    cb:name "Eydis Olsen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "eeo42@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6619" ; 
+    cb:interests "Financial Institution Management, International Finance, Macroeconomics, New Markets in Emerging Countries, Politcal Economy" .
+
+<#Neal-Orkin>
+    cb:name "Neal Orkin" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Legal Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "JD" ; 
+    cb:email "orkinn@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6976" ; 
+    cb:interests "Labor, Employment, Intellectual Property" .
+
+<#Duri-Park>
+    cb:name "Duri Park" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "dp643@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1396" ; 
+    cb:interests "Financial Reporting" .
+
+<#Haemin-Park>
+    cb:name "Haemin Park" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "hdp34@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1747" ; 
+    cb:interests "IPO, Knowledge-based View of the Firm, Technology Entrepreneurship, Venture capital" .
+
+<#Fariborz-Partovi>
+    cb:name "Fariborz Partovi" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Professor of Operations Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Manufacturing Technology Development, Quality Implementation, Quality Management, Service Management, Six-Sigma" .
+
+<#Natalie-Pedersen>
+    cb:name "Natalie Pedersen" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Legal Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "nbp24@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4192" ; 
+    cb:interests "American Law, Contract Law, Labor and Employment Law" .
+
+<#Tristan-Potter>
+    cb:name "Tristan Potter" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "Ph.D." ; 
+    cb:email "tlp64@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2540" ; 
+    cb:interests "Labor Economics, Macroeconomics, Search Theory" .
+
+<#Bernhard-Reichert>
+    cb:name "Bernhard Reichert" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD, CPA" ; 
+    cb:email "ber33@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0222" ; 
+    cb:interests "Auditing Behavioral Issues in Accounting, Decision Making in Accounting and Auditing Environments, Managerial Accounting" .
+
+<#Matthew-Reindorp>
+    cb:name "Matthew Reindorp" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "mjr424@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4671" ; 
+    cb:interests "Real options, Simulation, Stochastic Processes, Supply Chain Finance, Supply Chain Management" .
+
+<#Christian-Resick>
+    cb:name "Christian Resick" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "cresick@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1052" ; 
+    cb:interests "Groups/Teams, Leadership, Organizational Culture and Fit, Personality" .
+
+<#Stanley-Ridgley>
+    cb:name "Stanley Ridgley" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "skr37@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4202" ; 
+    cb:interests "Business Communication, Cognition and Strategy, Competitive Intelligence, Determinants of Firm Performance, Global Management, New Markets in Emerging Countries, Russian Business Culture" .
+
+<#James-Rinier>
+    cb:name "James Rinier" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "james.william.rinier@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.3640" ; 
+    cb:interests "" .
+
+<#Eric-Rios>
+    cb:name "Eric Rios" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:department "General Business" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "eer24@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4664" ; 
+    cb:interests "" .
+
+<#Patricia-Robak>
+    cb:name "Patricia Robak" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "pjr43@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4679" ; 
+    cb:interests "Corporate Finance, International Finance" .
+
+<#Bert-Rosenbloom>
+    cb:name "Bert Rosenbloom" ; 
+    cb:property "faculty" ; 
+    cb:title "J. Donald Rauth Professor of Marketing Management" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "rosenblb@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6992" ; 
+    cb:interests "Distribution Systems, Marketing channels, Marketing Strategy and Management" .
+
+<#Diana-Sandberg>
+    cb:name "Diana Sandberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "" ; 
+    cb:email "dfs26@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0584" ; 
+    cb:interests "Derivatives, Investments, Risk Management" .
+
+<#Matthew-Schneider>
+    cb:name "Matthew Schneider" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "Ph.D." ; 
+    cb:email "mjs624@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1939" ; 
+    cb:interests "Analytics, Data Privacy, Time Series Analysis and Forecasting" .
+
+<#Konstantinos-Serfes>
+    cb:name "Konstantinos Serfes" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ks346@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6816" ; 
+    cb:interests "Industrial Organization, Microeconomics, Game Theory" .
+
+<#Ricardo-Serrano-Padial>
+    cb:name "Ricardo Serrano-Padial" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "rs3267@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.6973" ; 
+    cb:interests "Behavioral Economics, Financial Economics, Game Theory" .
+
+<#Samir-Shah>
+    cb:name "Samir Shah" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Drexel University’s Provost Fellow India Partnerships" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "D.P.S." ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Business Value of Information Technology, Information System Management, Information Systems Leadership, Outsourcing, System Design" .
+
+<#Wenjing-Shen>
+    cb:name "Wenjing Shen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ws84@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.0225" ; 
+    cb:interests "Interface with Marketing; Pricing Revenue Management, Inventory Control, Supply Chain Management" .
+
+<#Steven-Sher>
+    cb:name "Steven Sher" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Legal Studies" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "JD" ; 
+    cb:email "shersr@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2128" ; 
+    cb:interests "" .
+
+<#Prashant-Srivastava>
+    cb:name "Prashant Srivastava" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "ps579@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1392" ; 
+    cb:interests "Business to Business Marketing, Inter-Organizational, Marketing Research, Marketing Strategy" .
+
+<#Mark-Stehr>
+    cb:name "Mark Stehr" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Assistant Director, School of Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Applied Econometrics , Health Economics" .
+
+<#Rajneesh-Suri>
+    cb:name "Rajneesh Suri" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Associate Dean for Research" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Consumer Behavior, Pricing and Promotions" .
+
+<#Srinivasan-Swaminathan>
+    cb:name "Srinivasan Swaminathan" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "swaminas@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2137" ; 
+    cb:interests "Loyalty, Sales Promotions" .
+
+<#Constantinos-Syropoulos>
+    cb:name "Constantinos Syropoulos" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Trustee Professor of International Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "International Trade, Microeconomics, Political Economy" .
+
+<#Samuel-Szewczyk>
+    cb:name "Samuel Szewczyk" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "szewczsh@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1746" ; 
+    cb:interests "" .
+
+<#George-Tsetsekos>
+    cb:name "George Tsetsekos" ; 
+    cb:property "faculty" ; 
+    cb:title "George B. Francis Professor" ; 
+    cb:department "Finance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "tsetsekos@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1587" ; 
+    cb:interests "Board of Directors, Corporate Finance, International Finance, Investments" .
+
+<#Daniel-Tzabbar>
+    cb:name "Daniel Tzabbar" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "dt396@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.3825" ; 
+    cb:interests "Determinants of Firm Performance, Human capital, Organizational learning and change, Technology Entrepreneurship, Technology innovation" .
+
+<#Mark-Vargus>
+    cb:name "Mark Vargus" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "mev43@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4437" ; 
+    cb:interests "Executive Compensation and Corporate Governance, Financial Reporting" .
+
+<#Ralph-Walkling>
+    cb:name "Ralph Walkling" ; 
+    cb:property "faculty" ; 
+    cb:title "Christopher and Mary Stratakis Professor in Corporate Governance and Accountability" ; 
+    cb:department "Founder, Center of Corporate Governance" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Board of Directors, Corporate Control and Mergers and Acquisitions, Corporate Finance, Corporate Governance, Executive Compensation" .
+
+<#Chen-Wang>
+    cb:name "Chen Wang" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Marketing" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "chen.wang635@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.3546" ; 
+    cb:interests "Consumer Curiosity, Self-Regulation and Goals, Sensory Perception" .
+
+<#Min-Wang>
+    cb:name "Min Wang" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "mw638@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4203" ; 
+    cb:interests "Healthcare Operations Management, Inventory Control, Production Planning and Control, Service Management, Supply Chain Management" .
+
+<#Matthew-Weinberg>
+    cb:name "Matthew Weinberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "mcw325@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4168" ; 
+    cb:interests "Antitrust and Regulation, Applied Econometrics , Industrial Organization, Law and Economics, Public Economics" .
+
+<#Joan-Weiner>
+    cb:name "Joan Weiner" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "weinerjl@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.1797" ; 
+    cb:interests "" .
+
+<#Jennifer-Wright>
+    cb:name "Jennifer Wright" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Assistant Department Head, Accounting" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "CPA" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "" .
+
+<#Chaojiang-Wu>
+    cb:name "Chaojiang Wu" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Decision Sciences and MIS" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "cw578@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.571.4590" ; 
+    cb:interests "Computational Statistics, Data Analytics, Data Mining, Knowledge Management, Multivariate Statistics" .
+
+<#Yoto-Yotov>
+    cb:name "Yoto Yotov" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Economics" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "yvy23@drexel.edu" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "215.895.2572" ; 
+    cb:interests "International Trade" .
+
+<#Jonathan-Ziegert>
+    cb:name "Jonathan Ziegert" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Assistant Department Head, Management" ; 
+    cb:address "" ; 
+    cb:startTime "" ; 
+    cb:endTime "" ; 
+    cb:education "PhD" ; 
+    cb:email "Email" ; 
+    cb:website "" ; 
+    cb:picture "" ; 
+    cb:publications "" ; 
+    cb:phone "Phone" ; 
+    cb:interests "Attitudes, Diversity, Groups/Teams, Leadership, Organizational Culture and Fit" .
 
