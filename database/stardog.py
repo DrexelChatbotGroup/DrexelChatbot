@@ -53,5 +53,5 @@ if __name__ == "__main__":
     """
    
     sdb = StardogDB("chatbotDB")
-    sdb.query(test)
+    res = sdb.query(test)
     print(res)
