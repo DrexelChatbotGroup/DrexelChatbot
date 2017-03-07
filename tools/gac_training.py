@@ -6,6 +6,9 @@ top_words = 5000
 filt = '.?"\/!,<>@#$%^&*_-+=|}{][:;~`'
 embedding_vector_length = 64
 percent_test = 0.10
+#Note: It is very important that the above values be set in the same way for
+#      both this script and the gac class file.
+
 
 import csv
 import math
@@ -63,6 +66,8 @@ model.fit(x_train, y_train, validation_data=(x_test, y_test), nb_epoch=10, batch
 scores = model.evaluate(x_test, y_test, verbose=0)
 print("Accuracy: %.2f%%" % (scores[1]*100))
 
+try:
+    model.save(out_name) #apparently saving a model requires some package that is not installable on windows
+except ImportError:
+    print("Failed to save model, missing required libraries.")
 input("Press enter to exit...")
-model.save(out_name) #apparently saving a model requires some package that is not installable on windows
-
