@@ -19,7 +19,7 @@ class StardogDB:
     def remove_all(self):
         #./stardog data add db filename.ttl
         path = _STARDOG_INSTALL_PATH + "stardog"
-        command = [path, "data", "remove", "-a"]
+        command = [path, "data", "remove", "-a", self._database_name]
         subprocess.call(command)
 
     def add(self, ttl_files):

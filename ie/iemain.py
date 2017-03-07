@@ -49,7 +49,7 @@ def _main(argv):
     if db_refresh:
         _refresh_db(ttl_files)
 
-    print("Complete!")
+    print("Done.")
 
 def _generate_ttls(agents):
     for agent in agents:
@@ -59,12 +59,13 @@ def _generate_ttls(agents):
 def _refresh_db(ttl_files):
     try:
         db = stardog.StardogDB(_DATABASE_NAME)
-        print("Clearing database " % _DATABASE_NAME)
+        print("Clearing database %s" % _DATABASE_NAME)
         db.remove_all()
-        print("Adding files to database " % _DATABASE_NAME)
+        print("Adding files to database %s" % _DATABASE_NAME)
         db.add(ttl_files)
     except TypeError:
         print("Failed! Is the database %s running?" % _DATABASE_NAME)
+        print(T)
 
 if __name__ == "__main__":
     _main(sys.argv[1:])
