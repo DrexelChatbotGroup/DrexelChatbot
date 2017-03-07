@@ -16,25 +16,23 @@ Office
 """
 
 __all__ = ['CciIEAgent']
-__version__ = '0.1'
+__version__ = '0.2'
 __author__ = 'Tom Amon'
 
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent, DatabaseRow
+from .ieagent import IEAgent
+import ttl
 
-    
+
 class CciIEAgent(IEAgent):
 
     _link = "http://drexel.edu/cci/contact/Faculty/"
-        
-    #TODO: Remove this when database in place
-    _info_filename = "results/cci.txt"
+    _ttl_filename = "ttl/cci.ttl"
 
-    def refresh(self, database):
-        #TODO: Remove this when database in place
-        database = open (self._info_filename, 'w')
+    def write_ttl(self):
+        ttl_file = ttl.TtlFile(self._ttl_filename)
 
         webpage = requests.get(self._link)
         try:
@@ -48,7 +46,7 @@ class CciIEAgent(IEAgent):
             data = elems[i].select('div')
             data = list(map(lambda x: x.getText(), data))
 
-            prof = DatabaseRow()
+            prof = ttl.TtlFileEntry()
 
             prof.name = data[1]
             prof.title = data[2]
@@ -60,8 +58,7 @@ class CciIEAgent(IEAgent):
             if not data[7].isspace():
                 prof.room = data[7].split(":")[1]
 
-            prof.store(database)
+            prof.write_to(ttl_file)
     
-        #TODO: Remove this when database in place
-        database.close()
+        ttl_file.close()
 

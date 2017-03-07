@@ -1,3 +1,6 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
 Name: Pramod Abichandani
 Property: 
 Title:  Assistant Clinical Professor

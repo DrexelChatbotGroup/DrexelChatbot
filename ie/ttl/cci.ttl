@@ -1,3 +1,6 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
 Name: Denise Agosto
 Property: 
 Title:  Professor
@@ -1134,7 +1137,7 @@ Website:
 Picture: 
 Publications:  
 Phone:  215.895.1631
-Interests:  Web search and mining, security informatics, knowledge management, cross-lingual retrieval, multimedia retrieval, text summarization, information sharing and privacy, digital libraries, electronic commerce
+Interests:  Healthcare informatics, social media analytics, knowledge discovery, Web search and mining, recommendation systems, pharmacovigilance, drug repositioning, electronic commerce, intelligence and security informatics
 
 
 Name: Valerie Ann Yonker

@@ -1,12 +1,9 @@
 """
-Implementation of the IEAgent interface for the College of computing and
-infomatics faculty website, located here:
-http://www.lebow.drexel.edu/faculty-and-research/faculty-directory
+Implementation of the IEAgent interface for the schoool of biomedical 
+engineering science and health systems, located here:
+http://drexel.edu/biomed/faculty/core/ and 
+http://drexel.edu/biomed/faculty/affiliated/
 
-Data is stored in an html table, but there are so many divs that trying to
-naviagate the table is a nightmare. However, there is a div with class name
-"user-profile-stub clearfix" that contains each indiviual person, so that can
-be used to keep place in the file. 
 The order of information:
 name
 education
@@ -19,7 +16,7 @@ areas of expertise
 
 """
 
-__all__ = ['LebowIEAgent']
+__all__ = ['BiomedIEAgent']
 __version__ = '0.2'
 __author__ = 'Tom Amon'
 
@@ -28,23 +25,37 @@ from bs4 import BeautifulSoup
 import abc
 from .ieagent import IEAgent
 import ttl
+   
 
-    
-class LebowIEAgent(IEAgent):
+class BiomedIEAgent(IEAgent):
 
-    _link="http://www.lebow.drexel.edu/faculty-and-research/faculty-directory"
-    _ttl_filename = "ttl/lebow.ttl"
+    _link1="http://drexel.edu/biomed/faculty/core/"
+    _link2="http://drexel.edu/biomed/faculty/affiliated/"
+    _ttl_filename = "ttl/biomed.ttl"
 
     def write_ttl(self):
         ttl_file = ttl.TtlFile(self._ttl_filename)
 
-        webpage = requests.get(self._link)
+        webpage1 = requests.get(self._link1)
         try:
-            webpage.raise_for_status()
+            webpage1.raise_for_status()
         except Exception as exc:
             print('There was a problem: %s' % (exc))
-        soup = BeautifulSoup(webpage.text, "html.parser")
+        soup1 = BeautifulSoup(webpage1.text, "html.parser")
+        
+        webpage2 = requests.get(self._link1)
+        try:
+            webpage2.raise_for_status()
+        except Exception as exc:
+            print('There was a problem: %s' % (exc))
+        soup2 = BeautifulSoup(webpage2.text, "html.parser")
 
+        self._refreshFromSoup(soup1, ttl_file)
+        self._refreshFromSoup(soup2, ttl_file)
+    
+        ttl_file.close()
+
+    def _refreshFromSoup(self, soup, ttl_file):
         elems = soup.findAll('div', {"class" : "user-profile-stub clearfix"})
         for i in range(0, len(elems)):
             e = elems[i]
@@ -68,4 +79,3 @@ class LebowIEAgent(IEAgent):
 
             prof.write_to(ttl_file)
         
-        ttl_file.close()

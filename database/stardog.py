@@ -2,6 +2,7 @@ import subprocess
 
 _STARDOG_INSTALL_PATH = "/home/stardog/bin/"
 
+
 class StardogDB:
 
     def __init__(self, database_name):
@@ -21,16 +22,17 @@ class StardogDB:
         print(value)
 
 
-test = """
-prefix cb: <http://drexelchatbot.com/rdf/>
-
-SELECT ?o
-WHERE
-{
-    ?s cb:name "Marcello Balduccini" .
-    ?s cb:title ?o .
-}
-"""
-
-sdb = StardogDB("chatbotDB")
-sdb.query(test)
+if __name__ == "__main__":
+    test = """
+    prefix cb: <http://drexelchatbot.com/rdf/>
+    
+    SELECT ?o
+    WHERE
+    {
+        ?s cb:name "Marcello Balduccini" .
+        ?s cb:title ?o .
+    }
+    """
+    
+    sdb = StardogDB("chatbotDB")
+    sdb.query(test)

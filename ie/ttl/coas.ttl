@@ -1,3 +1,6 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
 Name: Lloyd Ackert
 Property: 
 Title:  Associate Teaching Professor of History

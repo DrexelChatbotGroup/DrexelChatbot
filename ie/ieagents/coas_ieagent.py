@@ -25,18 +25,16 @@ __author__ = 'Tom Amon'
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent, DatabaseRow
+from .ieagent import IEAgent
+import ttl
 
 
 class CoasIEAgent(IEAgent):
     _link = "http://drexel.edu/coas/faculty-research/faculty-directory/"
-        
-    #TODO: Remove this when database in place
-    _info_filename = "results/coas.txt"
+    _ttl_filename = "ttl/coas.ttl"
 
-    def refresh(self, database):
-        #TODO: Remove this when database in place
-        database = open (self._info_filename, 'w')
+    def write_ttl(self):
+        ttl_file = ttl.TtlFile(self._ttl_filename)
 
         webpage = requests.get(self._link)
         try:
@@ -57,7 +55,7 @@ class CoasIEAgent(IEAgent):
             location_text = div_fcontact.contents[3].getText()
             location_list = location_text.split("\n")
 
-            prof = DatabaseRow()
+            prof = ttl.TtlFileEntry()
 
             if image is not None:
                 prof.picture = "http://drexel.edu" + image['src']
@@ -70,7 +68,6 @@ class CoasIEAgent(IEAgent):
             prof.phone = location_list[2]
             prof.department = data.find_all('td')[1].next_element
             
-            prof.store(database)
+            prof.write_to(ttl_file)
     
-        #TODO: Remove this when database in place
-        database.close()
+        ttl_file.close()
