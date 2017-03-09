@@ -26,17 +26,15 @@ import requests
 from bs4 import BeautifulSoup
 import abc
 from .ieagent import IEAgent
+import ttl
 
 
 class CoasIEAgent(IEAgent):
     _link = "http://drexel.edu/coas/faculty-research/faculty-directory/"
-        
-    #TODO: Remove this when database in place
-    _info_filename = "results/coas.txt"
+    ttl_filename = "ttl/coas.ttl"
 
-    def refresh(self, database):
-        #TODO: Remove this when database in place
-        database = open (self._info_filename, 'w')
+    def write_ttl(self):
+        ttl_file = ttl.TtlFile(self.ttl_filename)
 
         webpage = requests.get(self._link)
         try:
@@ -45,9 +43,7 @@ class CoasIEAgent(IEAgent):
             print('There was a problem: %s' % (exc))
         soup = BeautifulSoup(webpage.text, "html.parser")
 
-        #elems = soup.select('tr')
         elems = soup.findAll('tr', {"class" : "FacultyTableRow"})
-
         for i in range(0, len(elems)):
             data = elems[i]
             div_facultyHeadshot = data.find('div', {"class" : "facultyHeadshot"})
@@ -59,44 +55,21 @@ class CoasIEAgent(IEAgent):
             location_text = div_fcontact.contents[3].getText()
             location_list = location_text.split("\n")
 
-            prof = _CoasProfessor()
+            prof = ttl.TtlFileEntry()
+
             if image is not None:
-                prof.picture = "http://drexel.edu" + image['src'].strip(' \t\n\r')
-            prof.name = h2_fname_list[0].strip(' \t\n\r')
+                prof.picture = "http://drexel.edu" + image['src']
+            prof.name = h2_fname_list[0]
+            prof.property = "faculty"
             if len(h2_fname_list) > 1:
-                prof.degree = h2_fname_list[1].strip(' \t\n\r')
-            prof.title = div_fcontact.contents[1].getText().strip(' \t\n\r')
-            prof.office = location_list[0].strip(' \t\n\r')
-            prof.email = location_list[1].strip(' \t\n\r')
-            prof.phone = location_list[2].strip(' \t\n\r')
-            prof.department = data.find_all('td')[1].getText().strip(' \t\n\r')
+                prof.degree = h2_fname_list[1]
+            prof.title = div_fcontact.contents[1].getText()
+            prof.office = location_list[0]
+            prof.email = location_list[1]
+            prof.phone = location_list[2]
+            prof.department = data.find_all('td')[1].next_element
             
-            prof.store(database)
+            prof.write_to(ttl_file)
     
-        #TODO: Remove this when database in place
-        database.close()
-
-
-class _CoasProfessor():
-    picture = ""
-    name = ""
-    degree = ""
-    title = ""
-    office = ""
-    email = ""
-    phone = ""
-    department = ""
-
-    def store(self, database):
-        #TODO: Repalce will calls to store info in database
-        database.write("Picture: %s\n" % self.picture)
-        database.write("Name: %s\n" % self.name)
-        database.write("Degree: %s\n" % self.degree)
-        database.write("Title:  %s\n" % self.title)
-        database.write("Office:  %s\n" % self.office)
-        database.write("Email:  %s\n" % self.email)
-        database.write("Phone:  %s\n" % self.phone)
-        database.write("Department:  %s\n" % self.department)
-        database.write("\n\n")
-
-
+        ttl_file.close()
+        return ttl_file
