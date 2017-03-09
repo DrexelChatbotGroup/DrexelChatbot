@@ -39,10 +39,10 @@ public class ApplicationController {
 				// process standard error here
 				System.out.println(line);
 			}
-
+			cmdProc.waitFor();
 			int retValue = cmdProc.exitValue();
 			cmdProc.destroy();
-		} catch (IOException e) {
+		} catch (IOException | InterruptedException e) {
 			
 			e.printStackTrace();
 		}
