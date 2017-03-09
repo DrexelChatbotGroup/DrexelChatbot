@@ -1,28 +1,27 @@
-from errors import ErrorHandler
-from errors import ChatbotException 
-import gqc
-import gac
-import gap
-import sys
+from chatbot.errors import ErrorHandler
+from chatbot.errors import ChatbotException 
+import chatbot.gqc
+import chatbot.gac
+import chatbot.gap
+from database.stardog import StardogDB
 
 def _main(question):
-    try :
-        question = question
-        db = None;
-        config = None
-        answer = None
+	try :
+		#need to get question from website
+		#question = "test"
+		db = StardogDB("chatbotDB")
+		config = "genericAnswers.txt"
+		answer = None
 
-        c = gqc.GenericQuestionConstruction(question, db)
-        genericQuestion = c.getGenericQuestion()
-        print(genericQuestion)
+		gqc_object = gqc.GenericQuestionConstruction(question, db)
+		genericquestion = gqc_object.getgenericquestion()
 
-        c = gac.GenericAnswerConstruction(genericQuestion, config, answer)
-        genericAnswer = c.generateGenericAnswer()
-        print(genericAnswer)
+		gac_object = gac.GenericAnswerConstruction(config, answer)
+		genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
 
-        c = gap.GenericAnswerPopulation(genericAnswer, db)
-        answer = c.populate()
-        print(answer)
+		#expected genericAnswer is different from one being created
+		gap_object = gap.GenericAnswerPopulation(genericAnswer, db)
+		answer = gap_object.populate()
 
     except ChatbotException as ex:
         ErrorHandler.handle(ex)
