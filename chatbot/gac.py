@@ -36,11 +36,19 @@ class GenericAnswerConstruction:
                 d = {}
                 i = 0
                 for line in f:
-                        d[i] = line.split(',')
+                        fields = line.split(',')
+                        d[i] = GenericAnswer(fields[0], fields[1])
                         i += 1
                 f.close()
                 return d
         
-        
+class GenericAnswer:
+        def __init__(self, newAnswer, newQuery):
+                self.answer = newAnswer
+                self.query = newQuery
 
-	
+        def getAnswer(self):
+                return self.answer
+
+        def getQuery(self):
+                return self.query
