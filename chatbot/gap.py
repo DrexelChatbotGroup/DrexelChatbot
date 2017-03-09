@@ -1,6 +1,6 @@
 import re
-from chatbot.errors import BadQuestionException
-from chatbot.errors import BadAnswerException
+from errors import BadQuestionException
+from errors import BadAnswerException
 
 class GenericAnswerPopulation:
     def __init__(self, _genericAnswer, db):
