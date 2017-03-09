@@ -1,5 +1,5 @@
-from postag import NLTKPOSTag
-from  genericquestion import GenericQuestion
+from chatbot.postag import NLTKPOSTag
+from  chatbot.genericquestion import GenericQuestion
 
 class GenericQuestionConstruction():
 	def __init__(self, question, db):
@@ -15,7 +15,9 @@ class GenericQuestionConstruction():
 		paddedquestion = self.question
 		for key, value in rep_list.items():
 			paddedquestion = paddedquestion.replace(key, value)
-		#create returned object
+		#create returned object which contains a string and a dictionary 
+		#whose keys are nouns in original question and values are generic 
+		#representations of the keys
 		returnedobject = GenericQuestion()
 		returnedobject.paddedquestion = paddedquestion
 		returnedobject.rep_list = rep_list
@@ -30,10 +32,22 @@ class GenericQuestionConstruction():
 		rep_list = {}
 		for noun in noun_list:
 			rep = ""
-			#get genericRepresentation
-			
-			#temporary code
-			rep = "**Test**"
+			#get generic representation from database
+			query_string = """
+			prefix cb: <http://drexelchatbot.com/rdf/>
+
+			SELECT ?o
+			WHERE
+			{
+				?s cb:name \"%s\" " .
+				?s cb:property ?o .
+			}
+			""" % noun
+
+			rep = self.db.query(query_string)
+
+			#for testing purpose
+			#rep = "**test**"
 
 			#store tuples
 			rep_list[noun] = rep

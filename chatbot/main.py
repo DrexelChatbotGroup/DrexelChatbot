@@ -12,7 +12,7 @@ def main():
 		answer = None
 
 		c = gqc.GenericQuestionConstruction(question, db)
-		genericQuestion = c.getGenericQuestion()
+		genericQuestion = c.getgenericquestion()
 		print(genericQuestion)
 
 		c = gac.GenericAnswerConstruction(genericQuestion, config, answer)
