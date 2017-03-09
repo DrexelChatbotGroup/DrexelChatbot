@@ -23,7 +23,7 @@ public class ApplicationController {
 
 		log.info("Processing query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
 
-		Process cmdProc;
+		Process cmdProc = null;
 		try {
 			cmdProc = Runtime.getRuntime().exec(new String[] { "python", "./../chatbot/main.py", query});
 
@@ -41,7 +41,9 @@ public class ApplicationController {
 			}
 
 			int retValue = cmdProc.exitValue();
+			cmdProc.destroy();
 		} catch (IOException e) {
+			
 			e.printStackTrace();
 		}
 
