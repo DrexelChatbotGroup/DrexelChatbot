@@ -1,5 +1,6 @@
 from chatbot.postag import NLTKPOSTag
-from  chatbot.genericquestion import GenericQuestion
+from chatbot.genericquestion import GenericQuestion
+from chatbot.errors import BadQuestionException
 
 class GenericQuestionConstruction():
 	def __init__(self, question, db):
@@ -11,10 +12,13 @@ class GenericQuestionConstruction():
 		postag_class = NLTKPOSTag()
 		self.tag_list = postag_class.getpostag(self.question)
 		rep_list = self.findrepresentation()
+
+		if len(rep_list) == 0:
+			raise BadQuestionException()
 		#replace nouns with their genericRepresentations
 		paddedquestion = self.question
 		for key, value in rep_list.items():
-			paddedquestion = paddedquestion.replace(key, value)
+			paddedquestion = paddedquestion.replace(value, key)
 		#create returned object which contains a string and a dictionary 
 		#whose keys are nouns in original question and values are generic 
 		#representations of the keys
