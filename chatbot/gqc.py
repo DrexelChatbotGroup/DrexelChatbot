@@ -50,5 +50,6 @@ class GenericQuestionConstruction():
 			#rep = "**test**"
 
 			#store tuples
-			rep_list[noun] = rep
+			if rep != 'None':
+				rep_list[noun] = '$(%s)' % rep
 		return rep_list
