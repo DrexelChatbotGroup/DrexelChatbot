@@ -1,0 +1,9 @@
+Error,null
+(Person)'s office is (Room) in (Building).,null
+(Person)’s email address is (Email).,null
+(Room) in (Building) is (Person)’s office.,null
+(Person)’s education is as follows: (Education).,null
+(Website) is (Person)’s website.,null
+(Person)’s department is (Department).,null
+This is (Person)’s bio: (Bio),null
+(Picture) is an image of (Person).,null
