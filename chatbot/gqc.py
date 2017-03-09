@@ -36,11 +36,11 @@ class GenericQuestionConstruction():
 			query_string = """
 			prefix cb: <http://drexelchatbot.com/rdf/>
 
-			SELECT ?o
+			SELECT ?property
 			WHERE
 			{
 				?s cb:name \"%s\" " .
-				?s cb:property ?o .
+				?s cb:property ?property .
 			}
 			""" % noun
 
@@ -51,5 +51,5 @@ class GenericQuestionConstruction():
 
 			#store tuples
 			if rep != 'None':
-				rep_list[noun] = '$(%s)' % rep
+				rep_list['$(' + rep['property'] + ')'] = noun
 		return rep_list
