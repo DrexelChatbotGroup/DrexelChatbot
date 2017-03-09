@@ -16,25 +16,23 @@ Office
 """
 
 __all__ = ['CciIEAgent']
-__version__ = '0.1'
+__version__ = '0.2'
 __author__ = 'Tom Amon'
 
 import requests
 from bs4 import BeautifulSoup
 import abc
 from .ieagent import IEAgent
+import ttl
 
 
 class CciIEAgent(IEAgent):
 
     _link = "http://drexel.edu/cci/contact/Faculty/"
-        
-    #TODO: Remove this when database in place
-    _info_filename = "results/cci.txt"
+    ttl_filename = "ttl/cci.ttl"
 
-    def refresh(self, database):
-        #TODO: Remove this when database in place
-        database = open (self._info_filename, 'w')
+    def write_ttl(self):
+        ttl_file = ttl.TtlFile(self.ttl_filename)
 
         webpage = requests.get(self._link)
         try:
@@ -46,42 +44,23 @@ class CciIEAgent(IEAgent):
         elems = soup.select('tr')
         for i in range(1, len(elems)):
             data = elems[i].select('div')
-            data = list(map(lambda x: x.getText().strip(' \t\n\r'), data))
+            data = list(map(lambda x: x.getText(), data))
 
-            prof = _CciProfessor()
+            prof = ttl.TtlFileEntry()
+
             prof.name = data[1]
+            prof.property = "faculty"
             prof.title = data[2]
             prof.department = data[3]
             prof.interests = data[4].split(':')[1]
             prof.email = data[5].split(":")[1]
-            if data[6]:
+            if not data[6].isspace():
                 prof.phone = data[6].split(":")[1]
-            if data[7]:
-                prof.office = data[7].split(":")[1]
-            prof.store(database)
+            if not data[7].isspace():
+                prof.room = data[7].split(":")[1]
+
+            prof.write_to(ttl_file)
     
-        #TODO: Remove this when database in place
-        database.close()
-
-
-class _CciProfessor():
-    name = ""
-    title = ""
-    department = ""
-    interests = ""
-    email = ""
-    phone = ""
-    office = ""
-
-    def store(self, database):
-        #TODO: Repalce will calls to store info in database
-        database.write("Name: %s\n" % self.name)
-        database.write("Title:  %s\n" % self.title)
-        database.write("Department:  %s\n" % self.department)
-        database.write("Interests:  %s\n" % self.interests)
-        database.write("Email:  %s\n" % self.email)
-        database.write("Phone:  %s\n" % self.phone)
-        database.write("Office:  %s\n" % self.office)
-        database.write("\n\n")
-
-
+        ttl_file.close()
+        return ttl_file
+        

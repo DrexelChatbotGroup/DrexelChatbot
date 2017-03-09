@@ -1,0 +1,3331 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Lloyd-Ackert>
+    cb:name "Lloyd Ackert" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of History" ; 
+    cb:department "Department of History" ; 
+    cb:email "lta24@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Lloyd2010.ashx?h=150&la=en&w=122&hash=97C5A48C939136B0709BC266A1D8129E49286730" ; 
+    cb:phone "215.895.0993" .
+
+<#Anthony-W.>
+    cb:name "Anthony W. Addison" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "addisona@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/AAddisonicon.ashx?h=150&la=en&w=125&hash=B65D5232466D86929AFEA132B2D9261F78D60F91" ; 
+    cb:phone "215.895.2646" .
+
+<#Stacey-Ake>
+    cb:name "Stacey Ake" ; 
+    cb:property "faculty" ; 
+    cb:title "Co-Director, Certificate Program in Medical Humanities; Associate Teaching Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "sea29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Ake.ashx?h=150&la=en&w=125&hash=208559F21143888F2CA984200D0E153D387074D1" ; 
+    cb:phone "215.895.6819" .
+
+<#Michael-Akins>
+    cb:name "Michael Akins" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "mra69@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/akins_michael.ashx?h=150&la=en&w=125&hash=577331E95B65551F3F08490426A88821FEF4BEB0" ; 
+    cb:phone "215.571.4453" .
+
+<#Peter-Amato>
+    cb:name "Peter Amato" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Programs in Philosophy; Teaching Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "peterama@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/amato.ashx?h=150&la=en&w=125&hash=172C30C00D0D2014E98827D55C319F96AE7843D6" ; 
+    cb:phone "215.895.1353" .
+
+<#David-M.>
+    cb:name "David M. Ambrose" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "dma68@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/david-ambrose.ashx?h=150&la=en&w=125&hash=4638B64C8262FBF3192A38F39526DB0BA11336E2" ; 
+    cb:phone "215.895.6247" .
+
+<#Shivanthi-Anandan>
+    cb:name "Shivanthi Anandan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "anandans@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/anandan-shivanthi.ashx?h=150&la=en&w=125&hash=A65DAE8E4E1F09333D2AD76BEA90EFA08C9E2629" ; 
+    cb:phone "215.895.2631" .
+
+<#Alexey-Aprelev>
+    cb:name "Alexey Aprelev" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "aprelev@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/aprelev-alexey.ashx?h=150&la=en&w=125&hash=9A60E8CB58CFB3B2291334D9C1AE91DD9CD10B65" ; 
+    cb:phone "215.895.2716" .
+
+<#Jason-S.>
+    cb:name "Jason S. Aran" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jsa33@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jason-aran.ashx?h=150&la=en&w=125&hash=D50723A6526F42AD700F44D77A6E1A6734F91A56" ; 
+    cb:phone "215.571.3585" .
+
+<#Loren-Argabright>
+    cb:name "Loren Argabright" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/argabright-loren.ashx?h=180&la=en&w=150&hash=D3A7F0139370CC467FE47BD3AFFCD2C9E63AC94E" .
+
+<#Jan-Armon>
+    cb:name "Jan Armon" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "jan.armon@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ArmonJan.ashx?h=150&la=en&w=125&hash=5B14954D56D90F22A75C051C84CD32E462C39309" ; 
+    cb:phone "215.895.1961" .
+
+<#Valarie-Arms>
+    cb:name "Valarie Arms" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "armsvm@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/arms.ashx?h=150&la=en&w=125&hash=1EF534EB506D7A32327F06862CC48A5329183CCB" ; 
+    cb:phone "215.895.2444" .
+
+<#Richard-Astro>
+    cb:name "Richard Astro" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head; Provost Emeritus; Distinguished Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "astro@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/astro.ashx?h=150&la=en&w=125&hash=DFC4B135C0A43B913EFC4E6AABCCF3E3A1A2A004" .
+
+<#Phillip-Ayoub>
+    cb:name "Phillip Ayoub" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "pma43@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ayoub_phillip_web.ashx?h=150&la=en&w=125&hash=CD27BE0386489C210427FEDB06F2F5BDF20263AA" ; 
+    cb:phone "215.895.2495" .
+
+<#Jesse-Ballenger>
+    cb:name "Jesse Ballenger" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of Health Administration" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "jfb83@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Ballenger_Jesse.ashx?h=150&la=en&w=125&hash=DB606DEDC6ED43CC5C1B0AA3671EB1ACB915B6E6" .
+
+<#Scott-Barclay>
+    cb:name "Scott Barclay" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "scott.barclay@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Scottbarclay.ashx?h=149&la=en&w=125&hash=120E06D68296B307CEB4B613F1F8E82F750B4434" ; 
+    cb:phone "215.895.2464" .
+
+<#Susan-Bell>
+    cb:name "Susan Bell" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head and Professor of Sociology" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "susan.bell@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bell-susan.ashx?h=150&la=en&w=125&hash=44DF1A458EA25E114B66E74BC91432D2A5294BBC" ; 
+    cb:phone "215.571.3266" .
+
+<#Joseph-Bentz>
+    cb:name "Joseph Bentz" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "bentzj@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bentz_joseph.ashx?h=150&la=en&w=125&hash=9709210292973D6B1685D966054686EA707D96F6" ; 
+    cb:phone "215.895.1513" .
+
+<#Donald-Bersoff>
+    cb:name "Donald Bersoff" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "Donald.Bersoff@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bersoff_donald.ashx?h=150&la=en&w=125&hash=EE194A11CCCC91D8B0D03199F1EB288495A1151B" ; 
+    cb:phone "215.571.4819" .
+
+<#John-Bethea>
+    cb:name "John Bethea" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head, Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "jrb445@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bethea_john.ashx?h=150&la=en&w=125&hash=02563EBF76E9F8853D60B1F99381A519D97E6184" ; 
+    cb:phone "215.895.2624" .
+
+<#Debjani-Bhattacharyya>
+    cb:name "Debjani Bhattacharyya" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of History" ; 
+    cb:department "Department of History" ; 
+    cb:email "db893@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bhattacharyya_debjani.ashx?h=150&la=en&w=125&hash=02850CB234AC9B72DF34872351CBCFAD27A20A24" ; 
+    cb:phone "215.895.0992" .
+
+<#Walter-F.>
+    cb:name "Walter F. Bien" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Professor, Department of Biodiversity, Earth and Environmental Science; Director, Laboratory of Pinelands Research" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "walter.f.bien@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bien.ashx?h=150&la=en&w=125&hash=9ACB981D38E6E9CC7C8013171B04BD5179E3B5CD" ; 
+    cb:phone "215.895.2266" .
+
+<#Kenneth-Bingham>
+    cb:name "Kenneth Bingham" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "kenneth.bingham@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bingham.ashx?h=150&la=en&w=125&hash=DC230387D8A9801377E6D67EB9461865234B1B56" ; 
+    cb:phone "215.895.1961" .
+
+<#Ronald-Bishop>
+    cb:name "Ronald Bishop" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "bishoprc@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Bishop_Ronald_02.ashx?h=150&la=en&w=125&hash=6815335E452965A5783F3586AD57FBE9AB993D53" ; 
+    cb:phone "215.895.1823" .
+
+<#Carolyn-Bitzer>
+    cb:name "Carolyn Bitzer" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty, Women's and Gender Studies" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "ccb57@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bitzer_carolyn.ashx?h=150&la=en&w=125&hash=38BDF40CF092DED919215176AF4BA3729BAF6541" ; 
+    cb:phone "215.895.1863" .
+
+<#Jonah-Blasiak>
+    cb:name "Jonah Blasiak" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jdb395@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jonah-blasiak.ashx?h=150&la=en&w=125&hash=CCE1D1CB0A0BBC9D9CED551DB662C9E131458A22" ; 
+    cb:phone "215.895.6217" .
+
+<#Joan-Blumberg>
+    cb:name "Joan Blumberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "jwb28@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Blumberg_Joan.ashx?h=150&la=en&w=125&hash=D498AFB8D602495548224AD1F81CC65E23FB3BD3" ; 
+    cb:phone "215.895.6351" .
+
+<#Cathy-Bolton>
+    cb:name "Cathy Bolton" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "cathy.h.bolton@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bolton_cathy.ashx?h=150&la=en&w=125&hash=DBBA3B9390ABD675B8F229F1350E161984ABA2DF" ; 
+    cb:phone "215.571.3928" .
+
+<#Valerie-Booth>
+    cb:name "Valerie Booth" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "vab42@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/booth.ashx?h=150&la=en&w=125&hash=44170114ADED92E3D1A6A7B9E2E6B61A1A10B30A" ; 
+    cb:phone "215.895.2583" .
+
+<#Shyamalendu-Bose>
+    cb:name "Shyamalendu Bose" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "bose@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/shyamalendu_bose.ashx?h=166&la=en&w=125&hash=A6D9AE24AA63CFC8EFA90DA1017014A608028867" ; 
+    cb:phone "215.895.2718" .
+
+<#Robert-P.>
+    cb:name "Robert P. Boyer" ; 
+    cb:property "faculty" ; 
+    cb:title "Undergraduate Adviser; Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "boyerrp@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robert-boyer.ashx?h=150&la=en&w=125&hash=0134E1510BE8F8459583712469C84C1B7F7D18CF" ; 
+    cb:phone "215.895.1854" .
+
+<#Hon.-Brendan>
+    cb:name "Hon. Brendan Boyle" ; 
+    cb:property "faculty" ; 
+    cb:title "Pennsylvania State Representative, District 170; Adjunct Professor" ; 
+    cb:department "Center for Public Policy" ; 
+    cb:email "Bboyle@pahouse.net" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/boyle-brendan.ashx?h=150&la=en&w=125&hash=0506D3BCBC09D214C72784E04DBBCB5BC77688C0" .
+
+<#Valerie-Bracchi-Ricard>
+    cb:name "Valerie Bracchi-Ricard" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "vcb33@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bracchi-ricard-valerie.ashx?h=150&la=en&w=125&hash=F3321337D01252981B153357DDB3171CF647DA20" ; 
+    cb:phone "215.571.3785" .
+
+<#Raymond-Brebach>
+    cb:name "Raymond Brebach" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "brebach@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brebach3.ashx?h=150&la=en&w=125&hash=FCDB355E5CFB8864DB7F67008C84BCA3E36F34DA" ; 
+    cb:phone "215.895.2446" .
+
+<#Eric-Brewe>
+    cb:name "Eric Brewe" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Physics and Science Education" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "eric.brewe@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brewe-eric.ashx?h=150&la=en&w=125&hash=8784223913EC026C36B176430E86DB9A2974441F" ; 
+    cb:phone "215.895.2779" .
+
+<#Eric-Dorn>
+    cb:name "Eric Dorn Brose" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of History" ; 
+    cb:email "broseed@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Brosepic.ashx?h=150&la=en&w=123&hash=340630B673BF49B56931F73C24BBC38217B441BF" ; 
+    cb:phone "(215) 895-6789" .
+
+<#Robert-Brulle>
+    cb:name "Robert Brulle" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Sociology and Environmental Science; Associate Professor of Public Health (School of PH)" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "brullerj@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brulle_robert.ashx?h=150&la=en&w=125&hash=DD3A2E194BB20BBF7073CE77C922B44E9E1E80AA" ; 
+    cb:phone "215.895.2294" .
+
+<#Robert-Busby>
+    cb:name "Robert Busby" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/no-photo.ashx?h=150&la=en&w=125&hash=FE8C4C502444BFB5EB28861A1DD57126B5A9BF4F" .
+
+<#Meghan-Butryn>
+    cb:name "Meghan Butryn" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Research Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "mlb34@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/butryn_meghan.ashx?h=150&la=en&w=125&hash=D7014F562093FDA651D246E996B6D7723BCB4AEA" ; 
+    cb:phone "215.553.7108" .
+
+<#Zoltán-Búzás>
+    cb:name "Zoltán Búzás" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "zib23@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Buzas_Zoltan.ashx?h=139&la=en&w=125&hash=5C844F0A8AE0F418B5E3DFC1E118CD3242563EC9" ; 
+    cb:phone "215.895.2477" .
+
+<#André-Carrington>
+    cb:name "André Carrington" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "profcarrington@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/carrington.ashx?h=150&la=en&w=125&hash=DC3FE8E99D0A8D50A8D7248501BFC5A035F72667" ; 
+    cb:phone "215.571.4344" .
+
+<#Jacques-Catudal>
+    cb:name "Jacques Catudal" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "catudal@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.2719" .
+
+<#Anne-Cecil>
+    cb:name "Anne Cecil" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Design & Merchandising, Westphal" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "acc27@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/cecil_anne_web.ashx?h=150&la=en&w=125&hash=909A6584C4C086A4B8EE5AC25F5309B1F0C256AF" ; 
+    cb:phone "215.895.0361" .
+
+<#Dorothy-Charbonnier>
+    cb:name "Dorothy Charbonnier" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "dorothy.r.charbonnier@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/charbonnier_dorothy.ashx?h=150&la=en&w=125&hash=0DD94EBCBCA2315AE7F3CB8C558034B6BFB3C338" ; 
+    cb:phone "215.571.4407" .
+
+<#Don-F.>
+    cb:name "Don F. Charles" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor, Department of Biodiversity, Earth & Environmental Science; Senior Scientist and Section Leader, Phycology Section, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "dfc63@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/charles_don_02.ashx?h=150&la=en&w=125&hash=3F420270E32F9A4EE4E937173936FE389C20B743" ; 
+    cb:phone "215.299.1090" .
+
+<#Douglas-Chute>
+    cb:name "Douglas Chute" ; 
+    cb:property "faculty" ; 
+    cb:title "Louis and Bessie Stein Fellow; Professor of Neuropsychology; Faculty Coordinator of ePsychology" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "chute@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/chute_douglas.ashx?h=150&la=en&w=125&hash=F063F1EFE144C3B749436EA60DF9C85084307992" ; 
+    cb:phone "215.895.6111" .
+
+<#George-Ciccariello-Maher>
+    cb:name "George Ciccariello-Maher" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "gjc43@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ciccariello_maher.ashx?h=150&la=en&w=125&hash=4FB89BAF27C2D476C1E39EE9EBAEEB9303DF1B73" ; 
+    cb:phone "215.895.1017" .
+
+<#Patrick-Clarke>
+    cb:name "Patrick Clarke" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "pclarke@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/patrick-clarke.ashx?h=150&la=en&w=125&hash=E47E432C9EAA4C23DCDDE323A272F645734E46CB" ; 
+    cb:phone "215.571.3584" .
+
+<#Rebecca-Clothey>
+    cb:name "Rebecca Clothey" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, School of Education; Case Study Advisor; Center for Public Policy" ; 
+    cb:department "Center for Public Policy" ; 
+    cb:email "Rebecca.A.Clothey@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Rebecca Clothey.ashx?h=150&la=en&w=125&hash=60866DD5552B04FA7967B04C3C73F047231603B2" ; 
+    cb:phone "215.895.5931" .
+
+<#Jessica-Cohen>
+    cb:name "Jessica Cohen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "jac595@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/cohen-jessica.ashx?h=150&la=en&w=125&hash=6323D8AF1067EF8F23FB3518374331B347329F5F" ; 
+    cb:phone "215.895.0482" .
+
+<#Paula-Marantz>
+    cb:name "Paula Marantz Cohen" ; 
+    cb:property "faculty" ; 
+    cb:title "Distinguished Professor of English; Dean of the Pennoni Honors College; Co-Editor of the Journal of Modern Literature; Host of The Drexel InterView" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "cohenpm@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/cohen.ashx?h=150&la=en&w=125&hash=1CDF47FC4A18431788FBA6F64A000D3A778D8023" ; 
+    cb:phone "215.895.1266" .
+
+<#Ilker-Colak>
+    cb:name "Ilker Colak" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Assistant Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "iec26@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ilker-cola.ashx?h=180&la=en&w=150&hash=FA794584B5525FF5BEA77C5B8CC9EFBD2AAA0CEE" ; 
+    cb:phone "215.895.6264" .
+
+<#Carol-Collier>
+    cb:name "Carol Collier" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Environmental Studies and Sustainability Program (ENSS), Department of Biodiversity, Earth & Environmental ScienceSenior Advisor for Watershed Management & Policy, Patrick Center for Environmental Research, The Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "crc92@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/carol-collier.ashx?h=150&la=en&w=125&hash=2EFF68534E9B0BF625EF02951AB7724A2A49119D" .
+
+<#John-P.>
+    cb:name "John P. Coppola" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jpc48@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/john-coppola.ashx?h=150&la=en&w=125&hash=A2C48BF0E58B730D780BF6BA0C88648387E884FA" ; 
+    cb:phone "215.895.2668" .
+
+<#Rose-Corrigan>
+    cb:name "Rose Corrigan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "rose.corrigan@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Rose2010.ashx?h=150&la=en&w=125&hash=F8B2064A3CEAF19F1FA3C62881C1FD6B6A243249" ; 
+    cb:phone "215.571.4736" .
+
+<#Karen-Cristiano>
+    cb:name "Karen Cristiano" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Department Head of Communication; Associate Teaching Professor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "kc42@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/cristiano_karen.ashx?h=150&la=en&w=125&hash=217613AB4BBC0CD8247333583768CD48A378F907" ; 
+    cb:phone "215.895.2374" .
+
+<#Jason-Cross>
+    cb:name "Jason Cross" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "jpc359@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jason-cross.ashx?h=150&la=en&w=125&hash=0F75F84D680134D4D13CD7716348E90E6AB8CE19" ; 
+    cb:phone "215.895.2641" .
+
+<#Luis-Cruz>
+    cb:name "Luis Cruz Cruz" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "ccruz@physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/luis_cruz_cruz.ashx?h=166&la=en&w=125&hash=218F58181266AE3DBEDA1DB3CB4FEE61133E5C06" ; 
+    cb:phone "215.895.2739" .
+
+<#Ted-Daeschler>
+    cb:name "Ted Daeschler" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Associate Curator of Vertebrate Zoology, Vice President for Systematic Biology and the Library, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "ebd29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/daeschler_ted_web.ashx?h=150&la=en&w=125&hash=18E3F326239EBFA806499A308802178AF80C0C83" ; 
+    cb:phone "215.299.1133" .
+
+<#Brian-P.>
+    cb:name "Brian P. Daly" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Clinical Training; Associate Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "brian.daly@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/daly_brian.ashx?h=150&la=en&w=125&hash=480C91BCEB7FDB70B7C7B2C4A797BF0D80BAC927" ; 
+    cb:phone "215.571.4252" .
+
+<#Peter-DeCarlo>
+    cb:name "Peter DeCarlo" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "pfd33@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas/news/thumbs/2014/DeCarlo.ashx?h=179&la=en&w=125&hash=D287033F8BFFB9DD0261C640A1BD125D3DEF07E8" ; 
+    cb:phone "215.895.2345" .
+
+<#David-DeMatteo>
+    cb:name "David DeMatteo" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of JD/PhD Program; Associate Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "David.DeMatteo@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dematteo_david.ashx?h=150&la=en&w=125&hash=3ECFAAD797E04787D658D081BCAB43108812C044" ; 
+    cb:phone "215.553.7107" .
+
+<#Albert-DiBartolomeo>
+    cb:name "Albert DiBartolomeo" ; 
+    cb:property "faculty" ; 
+    cb:title "Co-Director, Drexel Publishing Group; Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "dibartoa@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dibartolomeo.ashx?h=150&la=en&w=125&hash=C62FE4792291649269B781995B7A534E67533242" ; 
+    cb:phone "215.895.1301" .
+
+<#Ashley-Dickinson>
+    cb:name "Ashley Dickinson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Criminology and Justice Studies" ; 
+    cb:email "ald393@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/dickinson-ashley.ashx?h=150&la=en&w=125&hash=FAA63BC5839D97F371835130C8F479AEBA278914" ; 
+    cb:phone "215.895.6150" .
+
+<#Richardson-Dilworth>
+    cb:name "Richardson Dilworth" ; 
+    cb:property "faculty" ; 
+    cb:title "Interim Department Head, Department of Politics; Director, Center for Public Policy; Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "dilworth@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dilworth_richard-02.ashx?h=174&la=en&w=145&hash=B4A3EB527DEB3622DB91A7E78F11B456DF9A06AD" ; 
+    cb:phone "215.895.2471" .
+
+<#Lisa-DiMaio>
+    cb:name "Lisa DiMaio" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "dimaiola@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/farley.ashx?h=150&la=en&w=125&hash=14D06B99B50B261CDB76763CF390D439BECEAFD1" .
+
+<#N.-John>
+    cb:name "N. John DiNardo" ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Vice Provost for Academic Affairs; Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "dinardo@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dinardo.ashx?h=150&la=en&w=125&hash=71FF2AFB6D62EB255558ADAFC63E55A266E155BE" ; 
+    cb:phone "215.895.2510" .
+
+<#Michelle-Dolinski>
+    cb:name "Michelle Dolinski" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "michelle.j.dolinski@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dolinski-michelle.ashx?h=150&la=en&w=125&hash=8158A870DE3FB1CAB2C5512245F57E7888B30C25" ; 
+    cb:phone "215.895.6860" .
+
+<#Robert-D'Ovidio>
+    cb:name "Robert D'Ovidio" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean for Humanities and Social Science Research and Graduate Education; Associate Professor of Criminology and Justice Studies" ; 
+    cb:department "Department of Criminology and Justice Studies" ; 
+    cb:email "robert.dovidio@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/COAS/staff/dovidio-robert2.ashx?h=150&la=en&w=125&hash=E273A36471198A77BC0EBA17D0D6B9AA5463406E" ; 
+    cb:phone "215.895.1803" .
+
+<#Dan-Driscoll>
+    cb:name "Dan Driscoll" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor of English; Associate Director, Writing Center" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "dwd27@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/driscoll.ashx?h=150&la=en&w=125&hash=DB5BE3411E174DCAA12FA3F42BB62BE881F87C07" ; 
+    cb:phone "215.571.3793" .
+
+<#Daniel-Duran>
+    cb:name "Daniel Duran" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "dpd56@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Duran.ashx?h=150&la=en&w=125&hash=7885954A985341619A2BB743C30E27D4189B1CAD" ; 
+    cb:phone "215.895.6441" .
+
+<#Laura-Duwel>
+    cb:name "Laura Duwel" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Department Head, Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "l.duwel@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/duwel.ashx?h=150&la=en&w=125&hash=DDDB5CFA5EA31D5B55F0D1257488EEBCAB4BB47A" ; 
+    cb:phone "215.895.2636" .
+
+<#Brenda-Dyer>
+    cb:name "Brenda Dyer" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of French" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "bad24@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dyer_brenda.ashx?h=150&la=en&w=125&hash=958B6D8649F55FB166E1A7F8D50A1CD9FCFA4A98" ; 
+    cb:phone "215.895.6281" .
+
+<#Mary-Ebeling>
+    cb:name "Mary Ebeling" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Women's and Gender Studies; Associate Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "mfe@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ebeling_mary.ashx?h=150&la=en&w=125&hash=08B31D2C145FA045A3A3BF8E19FF579B335099DC" ; 
+    cb:phone "215.895.6145" .
+
+<#Felice-Elefant>
+    cb:name "Felice Elefant" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "fe22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/elefant.ashx?h=150&la=en&w=125&hash=31CDE87D32F1BE8D3E95160FAC075DCD751DD7F5" ; 
+    cb:phone "215.895.0220" .
+
+<#Anne-Erickson>
+    cb:name "Anne Erickson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "ake25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.6833" .
+
+<#Nomi-Eve>
+    cb:name "Nomi Eve" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "nae28@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/eve.ashx?h=150&la=en&w=125&hash=B210AEAAA6309710BBB3C632234B8B619F1A4DC1" .
+
+<#Aaron-T.>
+    cb:name "Aaron T. Fafarman" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, Department of Chemical & Biological Engineering" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "fafarman@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fafarman.ashx?h=128&la=en&w=117&hash=9E27CEAD4A80D239A58A6B8D8B3C8F2D6B07DE11" ; 
+    cb:phone "215.895.5818" .
+
+<#Daryl-L.>
+    cb:name "Daryl L. Falco" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "dlf25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/daryl-falco.ashx?h=150&la=en&w=125&hash=295240594189660781E2096711D7317E80C629F5" ; 
+    cb:phone "215.571.3585" .
+
+<#Raymond-J.>
+    cb:name "Raymond J. Favocci" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "rjf23@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/raymond-favocci.ashx?h=150&la=en&w=125&hash=9775F84F74987A0FE5FFA1143009D837067CBDC8" ; 
+    cb:phone "215.895.2851" .
+
+<#Frank-Ferrone>
+    cb:name "Frank Ferrone" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "fferrone@physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ferrone.ashx?h=150&la=en&w=125&hash=21E3D318FCA4D5EF9AF4246DF46AF8B14B4CD01F" ; 
+    cb:phone "215.895.2778" .
+
+<#Ewaugh-Fields>
+    cb:name "Ewaugh Fields" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean Emeritus; Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fields-ewaugh.ashx?h=180&la=en&w=150&hash=CA16528FE647977E3FCE2CA5FDD7D7159CF902ED" .
+
+<#Robert-Finegan>
+    cb:name "Robert Finegan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "fineganr@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/finegandirectory.ashx?h=150&la=en&w=125&hash=6438D3B51168BCA27582BEF5851AD3B2159FA711" ; 
+    cb:phone "215.895.1961" .
+
+<#Leonard-Finegold>
+    cb:name "Leonard Finegold" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "leonard.x.finegold@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/leonard_finegold.ashx?h=166&la=en&w=125&hash=46E58376CA41AEB397D1068B3544EB648D60F2AC" ; 
+    cb:phone "215.895.2740" .
+
+<#Alexis-Finger>
+    cb:name "Alexis Finger" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "fingerag@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/finger.ashx?h=150&la=en&w=125&hash=0F0148546D1795D26F59AC0DB9ABE30543CD80B7" ; 
+    cb:phone "215.895.6818" .
+
+<#Roman-Fischer>
+    cb:name "Roman Fischer" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "roman.fischer@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fischer-roman.ashx?h=150&la=en&w=125&hash=002162DFB05928B78F4B87BD7BF34248775CB786" ; 
+    cb:phone "215.571.3785" .
+
+<#Fraser-Fleming>
+    cb:name "Fraser Fleming" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head and Professor of Chemistry" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "fraser.f.fleming@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fleming-fraser.ashx?h=150&la=en&w=125&hash=C74C77440D927C772B2B857A6C5DF5804796524C" ; 
+    cb:phone "215.895.2644" .
+
+<#Joe-P.>
+    cb:name "Joe P. Foley" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "jfoley@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/foley-joe.ashx?h=150&la=en&w=125&hash=EA612D36026F9BA7CB8B70C0F97E42B3FFC048CC" ; 
+    cb:phone "215.895.6218" .
+
+<#Evan-Forman>
+    cb:name "Evan Forman" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "evan.forman@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/forman_evan.ashx?h=150&la=en&w=125&hash=334A4C3B18639181269A79BCE62B31A9E121D9F0" ; 
+    cb:phone "215.553.7113" .
+
+<#Richard-Forney>
+    cb:name "Richard Forney" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "rjf39@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Forney_Richard.ashx?h=150&la=en&w=125&hash=51E45D8444083A21DCF90ABAAE86F8194344E744" ; 
+    cb:phone "215.571.4334" .
+
+<#Valerie-Fox>
+    cb:name "Valerie Fox" ; 
+    cb:property "faculty" ; 
+    cb:title "Founding Editor, Press 1; Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "valerie.fox@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fox.ashx?h=150&la=en&w=125&hash=AD73A8192CB3A9C20F97069A7AECD64087CDF50E" ; 
+    cb:phone "215.895.4364" .
+
+<#Alexander-Friedlander>
+    cb:name "Alexander Friedlander" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean for Undergraduate Education in the College of Arts and Sciences; Interim Department Head, Department of Communication; Associate Professor of Rhetoric and Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "sandy@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/friedlander_alexander.ashx?h=150&la=en&w=125&hash=0EE70C86C52675EAFC201CE1B9F2DA4EB5291F6F" ; 
+    cb:phone "215.895.2602" .
+
+<#Edward-Fristrom>
+    cb:name "Edward Fristrom" ; 
+    cb:property "faculty" ; 
+    cb:title "Co-Director, Certificate Program in Medical Humanities; Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "ecf35@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fristrom.ashx?h=150&la=en&w=125&hash=C9D8EA03FD6DAADADD6322EF4CB68069B54B26C0" ; 
+    cb:phone "215.895.1824" .
+
+<#David-Fryer>
+    cb:name "David Fryer" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor, Women's and Gender Studies" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "david.r.fryer@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.1408" .
+
+<#Jennifer-L.>
+    cb:name "Jennifer L. Gallo" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Neuropsychology Concentration; Associate Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "jlg37@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/gallojenniferjpg.ashx?h=150&la=en&w=125&hash=38B706DB5417B58673ED12C5E57BF35C509817F3" ; 
+    cb:phone "215.895.2805" .
+
+<#Denise-Garcia>
+    cb:name "Denise Garcia" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "adg82@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/denise_garcia_small.ashx?h=150&la=en&w=125&hash=213CADC32206F58F99CB882F0E8F7D3163ED13D7" ; 
+    cb:phone "215.571.4534" .
+
+<#Marilyn-Gaye>
+    cb:name "Marilyn Gaye Piety" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "marilyn.piety@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/piety.ashx?h=150&la=en&w=125&hash=82AEC3AED6094B2B950194CA94E495E4FA3E27C3" ; 
+    cb:phone "215.895.2879" .
+
+<#Jon-Gelhaus>
+    cb:name "Jon Gelhaus" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Department of Biodiversity, Earth & Environmental Science; Curator, Department of Entomology, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "jkg78@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/gelhaus_jon.ashx?h=150&la=en&w=125&hash=4DEB4D7823F9CAE4F594D5CBBC36FE2D4FBDCD36" ; 
+    cb:phone "215.299.1141" .
+
+<#Pamela-Geller>
+    cb:name "Pamela Geller" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Ob/Gyn and Public Health" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "pg27@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/geller_pamela.ashx?h=150&la=en&w=125&hash=F2707E63DE1D716647C057A5D7E06D23D6F3CF82" ; 
+    cb:phone "215.553.7117" .
+
+<#Maureen-Gibney>
+    cb:name "Maureen Gibney" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "maureen.gibney@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/gibney_maureen.ashx?h=150&la=en&w=125&hash=ACD03F1CFEC19E54D2B87DE7D228B3788530B589" ; 
+    cb:phone "215.895.6104" .
+
+<#Tali-Gidalevitz>
+    cb:name "Tali Gidalevitz" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "Tali.gidalevitz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Gidalevitz.ashx?h=150&la=en&w=125&hash=A0FEC2DBFAC210EEA24EDF9B422649D11B118B3B" ; 
+    cb:phone "215.571.4219" .
+
+<#Harold-D.>
+    cb:name "Harold D. Gilman" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "hdg22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/harold-gilman.ashx?h=150&la=en&w=125&hash=421CA7A5C8DF5BCDE0499D76BF2179FE50DEA68E" ; 
+    cb:phone "215.895.2668" .
+
+<#Robert-Gilmore>
+    cb:name "Robert Gilmore" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "robert.gilmore@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robert_gilmore.ashx?h=166&la=en&w=125&hash=B2214A19FDB8FF7BB15E52EAF650AEBA252A197D" ; 
+    cb:phone "215.895.2779" .
+
+<#William-Goh>
+    cb:name "William Goh" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "wgoh@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/goh-william.ashx?h=180&la=en&w=150&hash=4AFB051CBB07FD84C735FA3F5827C436FB7F763B" .
+
+<#David-Goldberg>
+    cb:name "David Goldberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean for Research & Graduate Education, Associate Department Head for Undergraduate Studies; Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "goldberg@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/goldberg_dave.ashx?h=150&la=en&w=125&hash=5D87FA53B1EBA5E6771EF723751BC631CB2B06A8" ; 
+    cb:phone "215.895.2715" .
+
+<#Naomi-E.>
+    cb:name "Naomi E. Goldstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Co-Director of the JD/PhD Program in Law and Psychology; Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "naomi.goldstein@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/naomi-goldstein.ashx?h=150&la=en&w=125&hash=84AF34E57E2724AA1CD3DC5719F6D2B893E0E47D" ; 
+    cb:phone "215.571.4299" .
+
+<#Mary-Katherine>
+    cb:name "Mary Katherine Gonder" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Bioko Biodiversity Protection Program; Co-Founder, Central African Biodiversity Alliance; Associate Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "mkg62@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/gonder_mary.ashx?h=150&la=en&w=125&hash=9DBD977631BF793EA1DDC9FF375273F7024A8F82" ; 
+    cb:phone "215.571.4638" .
+
+<#Cecilie-Goodrich>
+    cb:name "Cecilie Goodrich" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "Goodricc@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/goodrich.ashx?h=150&la=en&w=125&hash=8D9CF8FB39C68EBBD1FF06351C399FDB2710563A" ; 
+    cb:phone "215.895.2626" .
+
+<#June-K.>
+    cb:name "June K. Gordon" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jkg29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/no-photo-available.ashx?h=150&la=en&w=125&hash=04B0E5393FBA75D76C47C9A9BEC4172E5BCE76B5" ; 
+    cb:phone "215.895.2668" .
+
+<#Erin-Graham>
+    cb:name "Erin Graham" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "erin.r.graham@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ErinGraham.ashx?h=150&la=en&w=123&hash=1B582A7484B4F4496DAB33563B603D36FEA408AD" ; 
+    cb:phone "215.571.4448" .
+
+<#Pavel-Grinfeld>
+    cb:name "Pavel Grinfeld" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "pg77@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/pavel-grinfeld.ashx?h=150&la=en&w=125&hash=F4DADFC9C7B1F80270DE69747A9FECFCFD4B8B80" ; 
+    cb:phone "215.895.1291" .
+
+<#Anatolii-Grinshpan>
+    cb:name "Anatolii Grinshpan" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "tolya@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/anatolii-grinshpan.ashx?h=150&la=en&w=125&hash=84FBA409A73798383DFEADE7ADB4DA8F884BA99C" ; 
+    cb:phone "215.895.4979" .
+
+<#Patricia-Grosse>
+    cb:name "Patricia Grosse" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "plg48@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/grosse-patricia.ashx?h=150&la=en&w=125&hash=A941C1A1DD535F65A03C7FEBF7025E63756CAFAA" ; 
+    cb:phone "215.895.2431" .
+
+<#Yixin-Guo>
+    cb:name "Yixin Guo" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "yixin@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/yixin-guo.ashx?h=150&la=en&w=125&hash=455F971AA3646C650D99022A0D4959038897BE66" ; 
+    cb:phone "215.895.2581" .
+
+<#Susan-Gurney>
+    cb:name "Susan Gurney" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "smg366@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Gurney.ashx?h=150&la=en&w=125&hash=C01859924CD6B0D24C8A76C23FEE9859829A1299" ; 
+    cb:phone "215.895.5802" .
+
+<#Julia-Hagemann>
+    cb:name "Julia Hagemann May" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "jh378@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hagemann-may.ashx?h=150&la=en&w=125&hash=8129B2C362FF356294A70DA064F5B50765B9E102" ; 
+    cb:phone "215.895.5804" .
+
+<#Ernest-Hakanen>
+    cb:name "Ernest Hakanen" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "eah22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Hakanen_Ernest.ashx?h=150&la=en&w=125&hash=8596600EDC5E018F79F362295D7635F53A50A4F3" ; 
+    cb:phone "215.895.1354" .
+
+<#Keunah-Han>
+    cb:name "Keunah Han" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "kh529@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Han-Keunah.ashx?h=150&la=en&w=125&hash=95596C047321DFBA153101903DF5D481E8D4B68F" ; 
+    cb:phone "215.895.6819" .
+
+<#Nathan-Hanna>
+    cb:name "Nathan Hanna" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "nth34@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hanna.ashx?h=150&la=en&w=125&hash=D4F56BAF00F9185FB6362C59DD66F7428BFDFAC3" ; 
+    cb:phone "215.895.6124" .
+
+<#Richard-Haracz>
+    cb:name "Richard Haracz" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "haraczrd@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richard_haracz.ashx?h=166&la=en&w=125&hash=EFBF695BE6466D281DFF95D34774C2029A5BD5F1" ; 
+    cb:phone "215.895.2043" .
+
+<#Maher-Harb>
+    cb:name "Maher Harb" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "maher.harb@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/harb-maher.ashx?h=150&la=en&w=125&hash=C5393D083E38AECC500F1890E7F52216BD7D7430" ; 
+    cb:phone "215.895.1985" .
+
+<#Kirk-Heilbrun>
+    cb:name "Kirk Heilbrun" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "kirk.heilbrun@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/heilbrun_kirk.ashx?h=150&la=en&w=125&hash=D9D56B40A7FDA97EBCFE23FC7A150D0995D79155" ; 
+    cb:phone "215.553.7109" .
+
+<#Claire-Herbert>
+    cb:name "Claire Herbert" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "ch922@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/herbert-claire.ashx?h=150&la=en&w=125&hash=7940B50DF973C1C75DB47050766362DC244A4F45" ; 
+    cb:phone "215.895.3265" .
+
+<#James-Herbert>
+    cb:name "James Herbert" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean, Graduate College; Executive Vice Provost; Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "james.herbert@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/herbert_james_02.ashx?h=150&la=en&w=125&hash=BD1DF32E80D8FFC6DAA590F8E4E3A961A9794D65" ; 
+    cb:phone "215.895.2285" .
+
+<#Thomas-Hewett>
+    cb:name "Thomas Hewett" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "hewett@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hewett_thomas.ashx?h=150&la=en&w=125&hash=9BB88C4B6E36D30F4BE362C165086BD98B74F429" ; 
+    cb:phone "215.895.2461" .
+
+<#R.-Andrew>
+    cb:name "R. Andrew Hicks" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "rah29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/andrew-hicks.ashx?h=150&la=en&w=125&hash=9F74B180F5C58A533025D1C3FBE852F58AF9DC4D" ; 
+    cb:phone "215.895.2681" .
+
+<#Cassandra-Hirsch>
+    cb:name "Cassandra Hirsch" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "cjh72@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hirsch.ashx?h=150&la=en&w=125&hash=F506CE2BD1D49CE722CEE466079CE1B04B42E9C3" ; 
+    cb:phone "(215) 571-4528" .
+
+<#Pawel-Hitczenko>
+    cb:name "Pawel Hitczenko" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "phitczenko@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/pawel-hitczenko.ashx?h=150&la=en&w=125&hash=50E2C7AAEB8880888587996541C5F0D73BBA7C74" ; 
+    cb:phone "215.895.2622" .
+
+<#Barbara-Hoekje>
+    cb:name "Barbara Hoekje" ; 
+    cb:property "faculty" ; 
+    cb:title "Director Undergraduate Programs in Communication; Associate Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "bjh10@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hoekje_barbara.ashx?h=150&la=en&w=125&hash=3187368A16945059CCE765BCB16EAEA75027DBC3" ; 
+    cb:phone "215.571.3569" .
+
+<#Lee-Hoffman>
+    cb:name "Lee Hoffman" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "lwh28@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Lee Hoffman.ashx?h=150&la=en&w=125&hash=4ADCCAFD1B9E55D307886AEF39C9AE6BDCE5E59D" ; 
+    cb:phone "215.895.1784" .
+
+<#Amelia-Hoover>
+    cb:name "Amelia Hoover Green" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "amelia.a.hoovergreen@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Amelia HG.ashx?h=150&la=en&w=123&hash=D706D6491E077492EE02469DB675714EA8821C06" ; 
+    cb:phone "215.571.4447" .
+
+<#Barbara-Hornum>
+    cb:name "Barbara Hornum" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Anthropology; Director, Center of Academic Excellence" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "hornumbg@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Hornum_Barbara.ashx?h=150&la=en&w=125&hash=B8205AD1DC9FCE06A733A12C9065DBD026CC5DE9" ; 
+    cb:phone "215.895.4904" .
+
+<#Richard-Horwitz>
+    cb:name "Richard Horwitz" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Senior Scientist, Fisheries Section Leader, Ruth Patrick Chair of Environmental Sciences, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "richard.j.horwit@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/horwitz_richard_web.ashx?h=150&la=en&w=125&hash=30AEB210B0264247F0408FA901163CF9924459CF" ; 
+    cb:phone "215.299.1092" .
+
+<#Frederick-House>
+    cb:name "Frederick House" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "house@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/frederick_house.ashx?h=166&la=en&w=125&hash=3FB55BF8DC0E579889CB4A014C0CA6FEE80EFF56" ; 
+    cb:phone "215.895.2725" .
+
+<#Christian-Hunold>
+    cb:name "Christian Hunold" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "hunoldc@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Hunoldpic.ashx?h=150&la=en&w=125&hash=FB2BE412E1156991924FB141FF4397C379A92FB7" ; 
+    cb:phone "215.895.6089" .
+
+<#Meshagae-Hunte-Brown>
+    cb:name "Meshagae Hunte-Brown" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "meh27@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hunte-brown.ashx?h=150&la=en&w=125&hash=19AC6262893A59C87D6FAB6198661AA53894BADE" ; 
+    cb:phone "215.895.2064" .
+
+<#Jordan-Hyatt>
+    cb:name "Jordan Hyatt" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Criminology and Justice Studies" ; 
+    cb:email "jmh498@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/hyatt-jordon.ashx?h=150&la=en&w=125&hash=04739145DCA536955A87AA77C0EF525B89FC14BC" ; 
+    cb:phone "215.895.0490" .
+
+<#Gabriella-Ibieta>
+    cb:name "Gabriella Ibieta" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "ibietag@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ibieta-gabriella.ashx?h=150&la=en&w=125&hash=E6F37B219F30749AC9EB93E8A958E8CFAEFBD5D5" ; 
+    cb:phone "215.895.6959" .
+
+<#Monica-Ilies>
+    cb:name "Monica Ilies" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "monica.ilies@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Monica Ilies.ashx?h=150&la=en&w=125&hash=A84E2255E75AF3B218623445BD21558C50FA3926" ; 
+    cb:phone "215.895.2642" .
+
+<#Robert-Immordino>
+    cb:name "Robert Immordino" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "ri22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robert-immordino.ashx?h=150&la=en&w=125&hash=2390B816FD829FD1FE66C3A3208ECCE8D8DE2450" ; 
+    cb:phone "215.895.6830" .
+
+<#Henry-Israeli>
+    cb:name "Henry Israeli" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor; Associate Director, Certificate in Writing and Publishing" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "hpi22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/henryisraeli.ashx?h=150&la=en&w=125&hash=5DD5A684B2F80939DCB2F5EFCFF974D41EE3F0B2" ; 
+    cb:phone "(215) 571-4364" .
+
+<#Kirk-Jalbert>
+    cb:name "Kirk Jalbert" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Research Professor" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "kirkjalbert@gmail.com" ; 
+    cb:picture "http://drexel.edu/~/media/Images/sts/faculty/jalbert_kirk.ashx?h=150&la=en&w=125&hash=1678AB5DF86AE2C07CACF0FC58B1442100439295" .
+
+<#Hai-Feng-(Frank)>
+    cb:name "Hai-Feng (Frank) Ji" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "hj56@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Frank Ji.ashx?h=150&la=en&w=125&hash=3265B708306146F5B5C74AE32C0479547207E261" ; 
+    cb:phone "215.895.2562 Lab Phone: 215.571.3648" .
+
+<#Jiu-Jiang>
+    cb:name "Jiu Jiang" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Associate Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "jiu.jiang@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jiang_jiu.ashx?h=150&la=en&w=125&hash=695746427D2858150F54F20F0684A3400914B82B" ; 
+    cb:phone "215.895.0548" .
+
+<#Lallen-Johnson>
+    cb:name "Lallen Johnson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of Criminal Justice" ; 
+    cb:department "Department of Criminology and Justice Studies" ; 
+    cb:email "ltj25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Johnson_Lallen.ashx?h=150&la=en&w=125&hash=8398AED1641E08C8E19367B2932B428B4D701055" ; 
+    cb:phone "215.895.0277" .
+
+<#Timothy-Jones>
+    cb:name "Timothy Jones" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "timjones@einstein.physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/timothy_jones.ashx?h=166&la=en&w=125&hash=9537B47078AEBF305CBF867D073821D4AEBAC06D" .
+
+<#Kelly-Joyce>
+    cb:name "Kelly Joyce" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Center for Science, Technology & Society; Professor of Sociology" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "kelly.a.joyce@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/joyce_kelly_062813.ashx?h=150&la=en&w=125&hash=B5347341EDE9651B567AC50C88673F33CA4715C1" ; 
+    cb:phone "215.571.4449" .
+
+<#Adrienne-Juarascio>
+    cb:name "Adrienne Juarascio" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Practicum Training; Assistant Research Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "asj32@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/juarascio_adrienne.ashx?h=150&la=en&w=125&hash=44622E626EDD0D5E15534B40F0C1A4A70AB5B6E2" ; 
+    cb:phone "(215) 553-7154" .
+
+<#Karen-Kabnick>
+    cb:name "Karen Kabnick" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "ksk49@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kabnick.ashx?h=150&la=en&w=125&hash=E5549C4E06586A633F74ECF93A1F570D0ADE1C1F" ; 
+    cb:phone "215.895.6695" .
+
+<#Dmitry-Kaliuzhnyi-Verbovetskyi>
+    cb:name "Dmitry Kaliuzhnyi-Verbovetskyi" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "dmitryk@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dmitry-kaliuzhnyi-verbovetskyi.ashx?h=150&la=en&w=125&hash=AFB26BBF3D4AB2C715AEFE16F28306FD748A1A1F" ; 
+    cb:phone "215.895.6798" .
+
+<#Robert-J.>
+    cb:name "Robert J. Kane" ; 
+    cb:property "faculty" ; 
+    cb:title "Director and Professor, Criminology and Justice Studies Program" ; 
+    cb:department "Department of Criminology and Justice Studies" ; 
+    cb:email "rjk72@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Kane_Robert.ashx?h=150&la=en&w=125&hash=044735222BFAA5514AD583E0EAA8AB696B1F00D9" ; 
+    cb:phone "215.895.2571" .
+
+<#Goran-Karapetrov>
+    cb:name "Goran Karapetrov" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "goran@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/goran_karapetrov.ashx?h=150&la=en&w=125&hash=6C25969B3E8490A0419CC97C8B50A71D3C0F6C13" ; 
+    cb:phone "215.571.4090" .
+
+<#Kirsten-Kaschock>
+    cb:name "Kirsten Kaschock" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "kjk42@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kaschock.ashx?h=150&la=en&w=125&hash=67B18B1F1D7ED7F2A0394E2A01F8C541CBF75B78" ; 
+    cb:phone "215.895.2441" .
+
+<#Frank-Kelley>
+    cb:name "Frank Kelley" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "kelleyf@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Kelley_Frank.ashx?h=150&la=en&w=125&hash=C74D28D7397A8BF83F323915AC51AC04D72F7808" ; 
+    cb:phone "215.895.6747" .
+
+<#Alison-Kenner>
+    cb:name "Alison Kenner" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "amk438@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Kenner_Alison.ashx?h=150&la=en&w=125&hash=5279BD93DAE6DCBB002C3D0D5E91ECFCBCA7DD7D" ; 
+    cb:phone "215.895.1040" .
+
+<#Boris-L.>
+    cb:name "Boris L. Kheyfets" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "blk24@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/boris-kheyfets.ashx?h=150&la=en&w=125&hash=2BAEE3EE01C9B59B8F1870F06AE75542886CC169" ; 
+    cb:phone "215.895.2668" .
+
+<#Michael-Khoo>
+    cb:name "Michael Khoo" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, College of Computing and Informatics" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "khoo@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/khoo_michael.ashx?h=150&la=en&w=125&hash=512BE08E8010A8431D512DC30A024A915AD87DA9" ; 
+    cb:phone "215.895.1230" .
+
+<#Susan-Kilham>
+    cb:name "Susan Kilham" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "kilhams@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kilham.ashx?h=150&la=en&w=125&hash=9F4F2B6DA9DB233A2E117942164D2D7EABC56D2B" ; 
+    cb:phone "215.895.2628" .
+
+<#Marlin-Killen>
+    cb:name "Marlin Killen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor; Faculty Coordinator of Online Education in Psychology; Faculty Fellow" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "Marlin.Killen@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/killen_marlin.ashx?h=150&la=en&w=125&hash=5C7167706F128EBC4E3D1CCC5683A517A8E35C80" ; 
+    cb:phone "215.895.1068" .
+
+<#Daniel-King>
+    cb:name "Daniel King" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "daniel.king@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/DanKing.ashx?h=150&la=en&w=125&hash=90F1ECE2B79ACE5474C4E163E511659793CD73D8" ; 
+    cb:phone "215.895.0571" .
+
+<#Daniel-Kleier>
+    cb:name "Daniel Kleier" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "daniel.a.kleier@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/chemistry/Faculty Pictures/kleier-daniel.ashx?h=180&la=en&w=150&hash=DD5CD305AD815171385D7DF3CB54A53F1128CCD0" ; 
+    cb:phone "215.895.1861" .
+
+<#Adam-Knowles>
+    cb:name "Adam Knowles" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "ajk358@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Knowles.ashx?h=150&la=en&w=125&hash=7032B920450F8DC08233D54077C3EF566725CAD6" ; 
+    cb:phone "215.895.2433" .
+
+<#Scott-Knowles>
+    cb:name "Scott Knowles" ; 
+    cb:property "faculty" ; 
+    cb:title "Interim Department Head; Associate Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "sgk23@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Knowles_Scott.ashx?h=150&la=en&w=130&hash=1E35EC7CE31A3336B7D1F7E046CC3C0BAD61A048" ; 
+    cb:phone "215.895.2496" .
+
+<#Emmanuel-Koku>
+    cb:name "Emmanuel Koku" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "emmanuelkoku@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Koku_Emmanuel.ashx?h=150&la=en&w=125&hash=F0205622A2E7184A8C55403339D7B480D1D1298D" ; 
+    cb:phone "215.895.6144" .
+
+<#Miriam-Kotzin>
+    cb:name "Miriam Kotzin" ; 
+    cb:property "faculty" ; 
+    cb:title "Founding Editor, Per Contra; Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "kotzinmn@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/miriamkotzin.ashx?h=150&la=en&w=125&hash=BE1E7D3EC31F9CAC87D8B0F049C497487B9DCC43" ; 
+    cb:phone "215.895.2445" .
+
+<#Elana-M.>
+    cb:name "Elana M. Koublanova" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "emk33@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/elena-koublanova.ashx?h=150&la=en&w=125&hash=6C48F5BC0781136F0D396FD76E70E5AE9D6DEE65" ; 
+    cb:phone "215.895.2668" .
+
+<#John-Kounios>
+    cb:name "John Kounios" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, PhD Program in Applied Cognitive & Brain Sciences; Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "jk342@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kounios_john.ashx?h=150&la=en&w=125&hash=3EB763761A627DC8A8C594D314AD4581F74F57C6" ; 
+    cb:phone "215.553.7105" .
+
+<#Hiromi-Koyama>
+    cb:name "Hiromi Koyama" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "hiromi.koyama@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/koyama-hiromi.ashx?h=180&la=en&w=150&hash=606162A695011949A46EEFAA331029F222AD0EE6" ; 
+    cb:phone "215.895.6368" .
+
+<#Rachael-Kratzer>
+    cb:name "Rachael Kratzer" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "rachael.m.kratzer@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kratzer-rachael.ashx?h=150&la=en&w=125&hash=C25D2A4B0A4B7B2B5D0C0A20F93BF7D39757632A" ; 
+    cb:phone "215.895.6669" .
+
+<#Danielle-Kreeger>
+    cb:name "Danielle Kreeger" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Associate Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "dak29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kreeger.ashx?h=150&la=en&w=125&hash=0C02EDFEEB175D32979030C4C7D9286A5789F83F" ; 
+    cb:phone "215.895.1270" .
+
+<#Stefanie-A.>
+    cb:name "Stefanie A. Kroll" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor, Department of Biodiversity, Earth & Environmental Science; Project Science Director, Acting Macroinvertebrate Section Leader, Patrick Center of Environmental Research, Academy of Natural Sciences" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "Stefanie.a.kroll@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kroll-stephanie-02.ashx?h=180&la=en&w=150&hash=73F7064AD4C1C33E0F711424451994C57E2F47B0" ; 
+    cb:phone "215.299.1106" .
+
+<#Sharon-Ku>
+    cb:name "Sharon Ku" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "tk465@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Ku_Sharon.ashx?h=150&la=en&w=125&hash=6D5025D075A7AE45B7C659A1C3F3F0461835BA10" ; 
+    cb:phone "215.895.0327" .
+
+<#Naoko-Kurahashi>
+    cb:name "Naoko Kurahashi Neilson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "naoko.neilson@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kurahashi-neilson-naoko.ashx?h=150&la=en&w=125&hash=F7F59ABEA5414123684280D81ABA5A3B0F54411E" ; 
+    cb:phone "215.895.2725" .
+
+<#Marie-J.>
+    cb:name "Marie J. Kurz" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor, Department of Biodiversity, Earth & Environmental Science; Research Scientist & Biogeochemistry Section Leader, Patrick Center for the Environment, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "marie.kurz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kurz-marie.ashx?h=150&la=en&w=125&hash=76D1E713B78FBC5BF6964F950215061CDD50AA6C" ; 
+    cb:phone "215.299.1018" .
+
+<#David-Kutzik>
+    cb:name "David Kutzik" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "kutzik@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kutzik_david.ashx?h=150&la=en&w=125&hash=7A6975F8F5A6E72F9AFC1C880F4A14717D6B2857" ; 
+    cb:phone "215.895.2309" .
+
+<#Jake-Lahne>
+    cb:name "Jake Lahne" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of Food Science, Department of Culinary Arts and Food Science, Center for Hospitality and Sport Management" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "jl3452@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lahne-jake.ashx?h=150&la=en&w=125&hash=D6C4BCE7A762EE049DC40D5E40F54EE58212E32C" .
+
+<#Christopher-Laincz>
+    cb:name "Christopher Laincz" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, LeBow College of Business" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "claincz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/laincz-christopher.ashx?h=150&la=en&w=125&hash=83D4B4C27FD75A29EAF443B21684907CA94EDCCA" ; 
+    cb:phone "215.895.2503" .
+
+<#Leo-W.>
+    cb:name "Leo W. Lampone" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "lwl22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/leo-lampone.ashx?h=150&la=en&w=125&hash=39B77C00FAF63F90B76926379B5F8F78047F2B4E" ; 
+    cb:phone "215.895.2668" .
+
+<#Charles-E.>
+    cb:name "Charles E. Lane" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "lane@duphy4.physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/charles_lane.ashx?h=166&la=en&w=125&hash=5CA99E93E53B4CB61C124F611EFF0C8ED00D4FCE" ; 
+    cb:phone "215.895.1545" .
+
+<#Donald-Larson>
+    cb:name "Donald Larson" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "donlarson@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/donald_larson.ashx?h=166&la=en&w=125&hash=2C4E112AEF9A4A850E4E212C53AAC54CF87F02B7" ; 
+    cb:phone "215.895.2724" .
+
+<#Hwan-Yong>
+    cb:name "Hwan Yong Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "hlee@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hwan-yong-lee.ashx?h=150&la=en&w=125&hash=9E9A72FCF5998ED628D7A10CD160BEEA1DAB54D7" ; 
+    cb:phone "215.571.3583" .
+
+<#Hyunmin-Lee>
+    cb:name "Hyunmin Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "hl586@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lee-hyunmin.ashx?h=150&la=en&w=125&hash=B719D1001DF36EB12825731E078F54DBB3C2076E" .
+
+<#Nancy-Raitano>
+    cb:name "Nancy Raitano Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of MS and BS/MS Programs; Assistant Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "nancy.raitano.lee@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nancy_raitano.ashx?h=150&la=en&w=125&hash=1956064DA86EC58B3FB86021AE569C9AD6D62B45" ; 
+    cb:phone "215.895.2937" .
+
+<#Teck-Kah>
+    cb:name "Teck Kah Lim" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "limtk@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/tech_kah_lim.ashx?h=166&la=en&w=125&hash=2864BF4D4AC4B91050D3C4F2D4B54790194B0240" ; 
+    cb:phone "215.895.2717" .
+
+<#Joy-Little>
+    cb:name "Joy Little" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "joy.l.little@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/little_joy.ashx?h=150&la=en&w=125&hash=88EFA9C1296615A68FFD0F2F0E1B4C6561C6C866" ; 
+    cb:phone "215.571.4588" .
+
+<#Tatyana-Livshultz>
+    cb:name "Tatyana Livshultz" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science; Assistant Curator of Botany, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "tl534@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/livshultz_tatyana_web.ashx?h=150&la=en&w=125&hash=ABF110E8026B6E870984F783BF4E979ECCD0CD67" ; 
+    cb:phone "215.299.1051" .
+
+<#Robert-Loudon>
+    cb:name "Robert Loudon" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "rpl25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/loudon_robert.ashx?h=150&la=en&w=125&hash=FA1BA32AE7DA52679FA01EC4E570445FB2B95D9E" ; 
+    cb:phone "215.895.6936" .
+
+<#Amanda-Lough>
+    cb:name "Amanda Lough" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "amanda.c.lough@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lough-amanda.ashx?h=150&la=en&w=125&hash=DB9B3EA2EC8F65A466995CEDB22CC746600482A9" ; 
+    cb:phone "215.895.6456" .
+
+<#Christina-Love>
+    cb:name "Christina Love" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "love@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Love_Christina.ashx?h=150&la=en&w=125&hash=BFCDB05C04C5E0D70F693E347F99D582DE1E4569" ; 
+    cb:phone "215.571.3699" .
+
+<#Michael-Lowe>
+    cb:name "Michael Lowe" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "ml42@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lowe_michael.ashx?h=150&la=en&w=125&hash=D58A6EB427E4A272E3CAA44560BD18F22D6EA90D" ; 
+    cb:phone "215.553.7116" .
+
+<#John-G.>
+    cb:name "John G. Lundberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Emeritus Professor, Department of Biodiversity, Earth & Environmental Science; Emeritus Curator, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "jgl43@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lundberg_john_web.ashx?h=150&la=en&w=125&hash=E27FEA8546764CEC733A9D7666E2888CC9809071" ; 
+    cb:phone "215.405.5069" .
+
+<#Brent-Luvaas>
+    cb:name "Brent Luvaas" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Anthropology; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "luvaas@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Luvaas_Brent.ashx?h=150&la=en&w=125&hash=419E587A855C8C88E5BEBF9BBD66A8A556650E20" ; 
+    cb:phone "215.571.3660" .
+
+<#Joanna-Lyskowicz>
+    cb:name "Joanna Lyskowicz" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor of Spanish" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "jl437@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lyskowicz_joanna.ashx?h=150&la=en&w=125&hash=314B9BFE70CAB3990B23843E4F1092E0B93ADB89" ; 
+    cb:phone "215.895.2894" .
+
+<#Susan-Magee>
+    cb:name "Susan Magee" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "susan.m.magee@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/magee-sarah.ashx?h=150&la=en&w=125&hash=51074E9170B57736DB1353C67A9457B4F836BEAB" ; 
+    cb:phone "215.571.3550" .
+
+<#Stephen-Mandell>
+    cb:name "Stephen Mandell" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "mandelsr@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.1822" .
+
+<#Daniel-Marenda>
+    cb:name "Daniel Marenda" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor; Director of the Biology Graduate Program; Co-Director of the Cell Imaging Center" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "daniel.marenda@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/marenda_dan.ashx?h=150&la=en&w=125&hash=AB29BD84C00E2A842D72CF7590A922F400D6C36B" ; 
+    cb:phone "215.895.2526" .
+
+<#Ilana-Margolis>
+    cb:name "Ilana Margolis" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "ilana.margolis@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" .
+
+<#Dionicio-Martinez>
+    cb:name "Dionicio Martinez Solorio" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "dionicio@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/martinez-solorio-dionicio.ashx?h=150&la=en&w=125&hash=F5EF4F270D9AE79C99E90D8AADA57CE997D37CAC" ; 
+    cb:phone "215.895.3561" .
+
+<#Maria-de>
+    cb:name "Maria de la luz Matus-Mendoza" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of Modern Languages; Associate Professor of Spanish" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "mm349@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Matus-Mendoza_Mariadelaluz.ashx?h=150&la=en&w=125&hash=5813444767EAFB88B55005C2F8FB36DC73573CA3" ; 
+    cb:phone "215.895.2171" .
+
+<#Jordan-McClain>
+    cb:name "Jordan McClain" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "mcclain@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/McClain_Jordan.ashx?h=150&la=en&w=125&hash=3430A48CA4AA3C367B09903CD28BB1875E4A4397" ; 
+    cb:phone "215.571.4332" .
+
+<#Craig-McClure>
+    cb:name "Craig McClure" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "Craig.P.McClure@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/chemistry/Faculty Pictures/craig-mcclure.ashx?h=150&la=en&w=125&hash=B9A49C69A04B0791D10C5DA5D7166643F2576025" ; 
+    cb:phone "215.571.3197" .
+
+<#Richard-McCourt>
+    cb:name "Richard McCourt" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Department of Biodiversity, Earth & Environmental Science; Associate Curator of Botany, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "rmm45@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/bees/faculty/mccourt-richard.ashx?h=180&la=en&w=150&hash=3E60786FD9EFDBF8463AC7558FAD8E2F06D260C5" ; 
+    cb:phone "215.299.1139" .
+
+<#James-McCray>
+    cb:name "James McCray" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "natphilo@comcast.net" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/james_mccray.ashx?h=166&la=en&w=125&hash=601398E0E880B46807E6BDD258A88601F8E57958" ; 
+    cb:phone "215.895.6868" .
+
+<#Elizabeth-McGhee>
+    cb:name "Elizabeth McGhee Hassrick" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant ProfessorA.J. Drexel Autism Institute" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "emh347@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hassrick-elizabeth-mcghee.ashx?h=180&la=en&w=150&hash=991997405958F5A989CB6B939A76E37198CB13C0" ; 
+    cb:phone "215.571.3216" .
+
+<#Deirdre-McMahon>
+    cb:name "Deirdre McMahon" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "deirdre.h.mcmahon@drexel.edu" ; 
+    cb:phone "215.895.2703" .
+
+<#Stephen-L.W.>
+    cb:name "Stephen L.W. McMillan" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head; Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "steve@physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mcmillan-stephen.ashx?h=150&la=en&w=125&hash=72A55B9DB2981CD0481646A34F7D7857EEA00347" ; 
+    cb:phone "215.895.2709" .
+
+<#Georgi-S.>
+    cb:name "Georgi S. Medvedev" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "medvedev@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/georgi-medvedev.ashx?h=150&la=en&w=125&hash=2DEC63BD49002A1EB53ECA5AFBF8EC0C48475B83" ; 
+    cb:phone "215.895.6612" .
+
+<#Carol-Mele>
+    cb:name "Carol Mele" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "carol.anne.mele@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mele.ashx?h=150&la=en&w=125&hash=01D29BFEF0AF5BE228A34CC948F8C4876B49DC44" ; 
+    cb:phone "215.895.6833" .
+
+<#Marianallet-Mendez-Rivera>
+    cb:name "Marianallet Mendez-Rivera" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "mm3595@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "(215) 895-6854" .
+
+<#Usha-Menon>
+    cb:name "Usha Menon" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Anthropology" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "menonu@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/menon_usha.ashx?h=150&la=en&w=125&hash=770AFD0E9A61CFA6538EB035DA7BFA2F3D94D46B" ; 
+    cb:phone "215.895.1023" .
+
+<#Harriet-Levin>
+    cb:name "Harriet Levin Millan" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Certificate Program in Writing and Publishing; Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "millanhl@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/millan.ashx?h=150&la=en&w=125&hash=2613F6FC79C3C0192D5AF7D33842CFD40AD7E8BA" ; 
+    cb:phone "215.895.6485" .
+
+<#Jonson-Miller>
+    cb:name "Jonson Miller" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of History" ; 
+    cb:department "Department of History" ; 
+    cb:email "jwm54@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/miller-jonson.ashx?h=180&la=en&w=150&hash=FF61D25EED9107233679D27F39F758F6964D07E1" ; 
+    cb:phone "215.895.0994" .
+
+<#Rogelio-Miñana>
+    cb:name "Rogelio Miñana" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head and Professor of Spanish" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "rogelio.minana@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/minana-rogelio.ashx?h=150&la=en&w=125&hash=2135BD051EE994F32950126871166F17F4D42340" ; 
+    cb:phone "215.571.3194" .
+
+<#Charles-Mode>
+    cb:name "Charles Mode" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "modecj@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mode-charles.ashx?h=180&la=en&w=150&hash=353A4231F1EA4F14C4F12E0153BF59C9486FE270" .
+
+<#Franco-Montalto>
+    cb:name "Franco Montalto" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Center for Public Policy" ; 
+    cb:email "fmontalto@coe.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Franco Montalto.ashx?h=150&la=en&w=125&hash=C542943BE67C7EF1B31013AEE283395027AC7DC6" ; 
+    cb:phone "215.895.1385" .
+
+<#Danette-Morrison>
+    cb:name "Danette Morrison" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "dm3353@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/morrison-danette.ashx?h=150&la=en&w=125&hash=739E4A26C1D8A2A9521BB53D38DFBF80D65FBCAD" ; 
+    cb:phone "215.571.4308" .
+
+<#Eric-Morschhauser>
+    cb:name "Eric Morschhauser" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "emm388@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/morschhauser_eric.ashx?h=150&la=en&w=125&hash=88D06D8CC1C67C7A4B59CDC963A030AAB166E822" ; 
+    cb:phone "215.895.4216" .
+
+<#Jennifer-Morse>
+    cb:name "Jennifer Morse" ; 
+    cb:property "faculty" ; 
+    cb:title "Undergraduate Advisor; Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "morsej@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jennifer-morse.ashx?h=150&la=en&w=125&hash=0BEE54E9DDFFAB2889B1185FDEFD1279404ADFBE" ; 
+    cb:phone "215.571.4101" .
+
+<#Kevin-M.>
+    cb:name "Kevin M. Moseby" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of Sociology" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "kevin.m.moseby@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kevin-moseby.ashx?h=150&la=en&w=125&hash=40B6CBB87E0E64F86443312A258787E43D07CC5B" ; 
+    cb:phone "215.571.3267" .
+
+<#Jill-Moses>
+    cb:name "Jill Moses" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "jrm378@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Jill Moses.ashx?h=150&la=en&w=125&hash=35DDC2F9DC303BDA8F763F3C9C339C38C0838FB2" ; 
+    cb:phone "(215) 571-4528" .
+
+<#Shari-Moskow>
+    cb:name "Shari Moskow" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head; Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "moskow@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/math/faculty/shari-moskow.ashx?h=150&la=en&w=125&hash=682B83ACB00A5082C8FD111D1C314CF24577B7F7" ; 
+    cb:phone "215.895.2668" .
+
+<#Julie-Mostov>
+    cb:name "Julie Mostov" ; 
+    cb:property "faculty" ; 
+    cb:title "Vice Provost for Global Initiatives" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "mostovj@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mostov.ashx?h=150&la=en&w=125&hash=E981B2A0CB4D387B1CD4A505049D25A432524535" ; 
+    cb:phone "215.895.6793" .
+
+<#Marna-Mozeff>
+    cb:name "Marna Mozeff" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "mam25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/marna-mozeff.ashx?h=150&la=en&w=125&hash=3C9D014823217051A20F071126F12AA718A5AB87" ; 
+    cb:phone "215.895.6691" .
+
+<#Stephen-Mullin>
+    cb:name "Stephen Mullin" ; 
+    cb:property "faculty" ; 
+    cb:title "President and Principal, Econsult Solutions; Adjunct Instructor" ; 
+    cb:department "Center for Public Policy" ; 
+    cb:email "mullin@econsultsolutions.com" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mullin-stephen.ashx?h=150&la=en&w=125&hash=F3BEB9188F720D033E37483C6370B71D06480626" .
+
+<#Donna-Murasko>
+    cb:name "Donna Murasko" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean College of Arts and Sciences; Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "donna.murasko@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas/staff/Murasko_redhat_web.ashx?h=150&la=en&w=125&hash=06859710746C72BDF6F11C79D5BC5A5B5DBB1C3F" ; 
+    cb:phone "215.895.1892" .
+
+<#Russell-Neilson>
+    cb:name "Russell Neilson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "russell.g.neilson@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/neilson_russell.ashx?h=167&la=en&w=125&hash=CD5B08A795586A659F76E342F326D67D367372D5" ; 
+    cb:phone "215.895.2729" .
+
+<#Arthur-M.>
+    cb:name "Arthur M. Nezu" ; 
+    cb:property "faculty" ; 
+    cb:title "Distinguished University Professor of Psychology; Professor of Medicine; Professor of Community Health and Prevention" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "amn23@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nezu_arthur.ashx?h=150&la=en&w=125&hash=E0D502765115A6CE32CE19E13898D23B80162FE0" ; 
+    cb:phone "215.629.6275 (cell)" .
+
+<#Christine-Maguth>
+    cb:name "Christine Maguth Nezu" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Psychology; Professor of Medicine" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "cn25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nezu_christine.ashx?h=150&la=en&w=125&hash=934E5410807E856C4EC7A5F26E35DF54EC3952F6" ; 
+    cb:phone "215.553.7112" .
+
+<#Christopher-Nielson>
+    cb:name "Christopher Nielson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Department Head; Director of Programs in English; Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "christopher.nielson@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nielson.ashx?h=150&la=en&w=125&hash=4D2D856D0C8BE2FA9F4B0667628542AEB75D4E51" ; 
+    cb:phone "215.895.6994" .
+
+<#Alexander-Nikolaev>
+    cb:name "Alexander Nikolaev" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "agn24@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nikolaev_alex.ashx?h=150&la=en&w=125&hash=2BB0A6A692DD2EF281F2A4FCCB45B942D92B0410" ; 
+    cb:phone "215.895.1907" .
+
+<#Karen-Nulton>
+    cb:name "Karen Nulton" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Writing Assessment; Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "ksn27@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nulton.ashx?h=150&la=en&w=125&hash=FD8C1A7C677E2B54ABDCE37D02C542548ABE503B" ; 
+    cb:phone "215.895.2440" .
+
+<#Michael-O'Connor>
+    cb:name "Michael O'Connor" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "mike.oconnor@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/oconnor.ashx?h=150&la=en&w=125&hash=45C99D7582BC0776D467A621621E465414A490E3" ; 
+    cb:phone "215.895.2637" .
+
+<#Oksana-P.>
+    cb:name "Oksana P. Odintsova" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "opo23@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/oksana-odintsova.ashx?h=150&la=en&w=125&hash=A5B7DEEEADE15D8E5F85ED1DE93A3271D0AA30C9" ; 
+    cb:phone "215.895.6241" .
+
+<#Sean-O'Donnell>
+    cb:name "Sean O'Donnell" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Department Head, Department of Biodiversity, Earth & Environmental Science; Professor" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "so356@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/odonnell-sean-061115.ashx?h=150&la=en&w=125&hash=0ED5CD4D38EC601BF4D3C244170CF2A155E284D4" ; 
+    cb:phone "215.571.4177" .
+
+<#Joel-Oestreich>
+    cb:name "Joel Oestreich" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Global Studies Major; Associate Professor" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "jeo25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Oestreichpic.ashx?h=150&la=en&w=125&hash=DF4FB32047F88730A2A2F32101390023EB2DC3B6" ; 
+    cb:phone "215.895.6794" .
+
+<#Sunmi-Oh>
+    cb:name "Sunmi Oh" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "sjo35@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/oh-sunmi.ashx?h=180&la=en&w=150&hash=7E7ED7569B103FDCB89D08FBCA2E211BACAA4F77" ; 
+    cb:phone "215.895.6399" .
+
+<#Jason-Orne>
+    cb:name "Jason Orne" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "jo466@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/orne-jason.ashx?h=150&la=en&w=125&hash=2DE15CD02C6684BCFA6EEB460F6AC278C641B0FC" ; 
+    cb:phone "215.571.4349" .
+
+<#Elva-Orozco>
+    cb:name "Elva Orozco Mendoza" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "efo28@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ElvaOrozco.ashx?h=150&la=en&w=125&hash=99138EE68E7BECE10BC3071DBA3BD9FB23664ECB" ; 
+    cb:phone "215-571-3686" .
+
+<#Karol-Osipowicz>
+    cb:name "Karol Osipowicz" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Director of Undergraduate Studies;Assistant Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "karol.zdislaw.osipowicz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/osipowicz_karol.ashx?h=150&la=en&w=125&hash=359DD2A5997732302BB646A6A17BC01580A3D782" ; 
+    cb:phone "215.571.4406" .
+
+<#Daniel-Otte>
+    cb:name "Daniel Otte" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus, Department of Biodiversity, Earth & Environmental Science; Senior Curator, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "do332@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Otte_Daniel.ashx?h=150&la=en&w=125&hash=1CEF8294FA657894622840FDC7226874E9469E1F" ; 
+    cb:phone "215.299.1188" .
+
+<#Gwen-Ottinger>
+    cb:name "Gwen Ottinger" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "ottinger@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ottinger-gwen-150x180.ashx?h=180&la=en&w=150&hash=8048A7643F40621FBA2DB00C7DFFE266CDF8F300" .
+
+<#Kevin-G.>
+    cb:name "Kevin G. Owens" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "kevin.owens@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kevinOwens.ashx?h=150&la=en&w=125&hash=79CD546E95BA4B521670FA2DC7530656D8B5FD8D" ; 
+    cb:phone "215.895.2621" .
+
+<#Flavia-Padovani>
+    cb:name "Flavia Padovani" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of Philosophy" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "fp72@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/padovani.ashx?h=150&la=en&w=125&hash=D9A8057BCA37067A116BDE0B7D6CACADFCF76E5B" ; 
+    cb:phone "215.895.2433" .
+
+<#Dimitrios-Papadopoulos>
+    cb:name "Dimitrios Papadopoulos" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor | Teaching" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "dp399@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dimitrios-papadopoulos.ashx?h=150&la=en&w=125&hash=455EA6D5B0DA1C4C27FD94932A30C1F273D4CACA" ; 
+    cb:phone "215.895.1957" .
+
+<#Rakhmiel-Peltz>
+    cb:name "Rakhmiel Peltz" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Judaic Studies Program; Professor of Sociolinguistics; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "rakhmiel.peltz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Peltz_Rakhmiel.ashx?h=150&la=en&w=125&hash=B7F00ACEE3859B192E07011827666B16A6F2CD06" ; 
+    cb:phone "215.895.1499" .
+
+<#Lynn-S.>
+    cb:name "Lynn S. Penn" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "lsp28@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/LynnSPenn.ashx?h=150&la=en&w=125&hash=0D4764DFA73DE3FB195B60444F1AEEA2DF46EE66" ; 
+    cb:phone "215.895.4970" .
+
+<#Joel-Pereira>
+    cb:name "Joel Pereira" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jp3465@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/joel-pereira.ashx?h=180&la=en&w=150&hash=58209774FB0E98E65835420A34774E51A11758B3" ; 
+    cb:phone "215.571.3686" .
+
+<#Ronald-K.>
+    cb:name "Ronald K. Perline" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Department Head; Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "rperline@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ronald-perline.ashx?h=150&la=en&w=125&hash=8AEC9FFF6E17F6A07E5E83C683C374A8A422F0EA" ; 
+    cb:phone "215.895.6623" .
+
+<#Marci-A.>
+    cb:name "Marci A. Perlstadt" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "mperlstadt@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/marci-perlstadt.ashx?h=150&la=en&w=125&hash=F9EC4ED11160A6EED73EB6AA0D92CC007C3081EC" ; 
+    cb:phone "215.895.0224" .
+
+<#Margene-Petersen>
+    cb:name "Margene Petersen" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "mlp59@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/petersen.ashx?h=150&la=en&w=125&hash=86C0EB5D85E0333113F3E3D60E3EB4A7B47FCFC2" .
+
+<#Ryan-Petrie>
+    cb:name "Ryan Petrie" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "rjp336@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Petrie_Ryan.ashx?h=150&la=en&w=125&hash=6B2CCF5502628B7D623C184A8B6EC38EF34C5F67" ; 
+    cb:phone "215.895.1476" .
+
+<#Brianna-Pezzato>
+    cb:name "Brianna Pezzato" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "bcp49@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brianna-pezzato.ashx?h=180&la=en&w=150&hash=4D2C3A6E95C8ADFE511E8AEED4E2E50091188B06" .
+
+<#Joshua-Plencner>
+    cb:name "Joshua Plencner" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "jmp535@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/joshua-plencner.ashx?h=150&la=en&w=125&hash=1EE44553E6EC4FCC7CB188A35D394725C47D435F" ; 
+    cb:phone "215.571.3515" .
+
+<#Douglas-Porpora>
+    cb:name "Douglas Porpora" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Graduate Programs in Communication, Culture & Media; Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "porporad@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/porpora_doug.ashx?h=150&la=en&w=125&hash=DFBA0A2D7DEF405FE0A1A2E132FF9103D9277BA7" ; 
+    cb:phone "215.895.2404" .
+
+<#Abioseh-Porter>
+    cb:name "Abioseh Porter" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of English; Editor, JALA, Journal of the African Literature Association" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "abiosehp@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/porter.ashx?h=150&la=en&w=125&hash=4C8B866C2472B7D2AA796B9EBE431AD557917BF8" ; 
+    cb:phone "215.895.2448" .
+
+<#Marina-Potapova>
+    cb:name "Marina Potapova" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science; Assistant Curator, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "mp895@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/potapova_marina_web.ashx?h=150&la=en&w=125&hash=8E115C32B15C27752ACC1B3DA334749AB22545F7" ; 
+    cb:phone "215.405.5068" .
+
+<#Robert-Powell>
+    cb:name "Robert Powell" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of Anthropology" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "rsp22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/powell_robert.ashx?h=150&la=en&w=125&hash=499982439E159760828AA684F58ED3B1379FD82B" ; 
+    cb:phone "215.895.6146" .
+
+<#Anna-Pun>
+    cb:name "Anna Pun" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Assistant Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/anna-pun.ashx?h=180&la=en&w=150&hash=54F1DEEBB9FB75BC4648BEA9C99A7AA1A14619EE" ; 
+    cb:phone "215.571.3584" .
+
+<#Jun-Qiao>
+    cb:name "Jun Qiao" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "jun.qiao@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.6350" .
+
+<#Amber-Reed>
+    cb:name "Amber Reed" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Assistant Professor of Anthropology" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "amber.r.reed@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/reed-amber.ashx?h=150&la=en&w=125&hash=C2A0B56D72C59E48E2C6E3C4009E09E52CA884CE" ; 
+    cb:phone "215.571.3769" .
+
+<#Rachel-Reynolds>
+    cb:name "Rachel Reynolds" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Anthropology; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "rrr@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/reynolds_rachel.ashx?h=150&la=en&w=125&hash=30E8B7CDE7203CFB6279AB514193FE9271D75562" ; 
+    cb:phone "215.895.0498" .
+
+<#Jerome-Ricard>
+    cb:name "Jerome Ricard" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "jjr325@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ricard_jerome.ashx?h=150&la=en&w=125&hash=4B51B3C41F1BDF25AEC3A2273D7ABBD7257300D4" ; 
+    cb:phone "215.571.3785" .
+
+<#Gordon-T.>
+    cb:name "Gordon T. Richards" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "gtr@physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richards-gordon.ashx?h=150&la=en&w=125&hash=30E7771A18B0A6878724F2833F6B016842594794" ; 
+    cb:phone "215.895.2713" .
+
+<#Cyndi-Rickards>
+    cb:name "Cyndi Rickards" ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Assistant Dean for Community Engagement; Assistant Teaching Professor of Criminology & Justice Studies" ; 
+    cb:department "Department of Criminology and Justice Studies" ; 
+    cb:email "crr46@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/rickards-cyndi.ashx?h=150&la=en&w=125&hash=1A16934E7475B2946A48FCFEC1895934204E47D4" ; 
+    cb:phone "215.571.3734" .
+
+<#Adam-C.>
+    cb:name "Adam C. Rickert" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "arickert@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/adam-rickert.ashx?h=150&la=en&w=125&hash=E18A061910A56BEC76F6D874FCE538AC3326825C" ; 
+    cb:phone "215.895.1949" .
+
+<#Donald-Riggs>
+    cb:name "Donald Riggs" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "riggsda@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/riggs.ashx?h=150&la=en&w=125&hash=588664A143FA9FD90709397B8953416D274E9A8B" ; 
+    cb:phone "215.895.2441" .
+
+<#Jody-A.>
+    cb:name "Jody A. Roberts" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Faculty, Center for Science, Technology & Society; Director, Center for Contemporary History and Policy, Chemical Heritage Foundation" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "jroberts@chemheritage.org" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/roberts_jody_a.ashx?h=150&la=en&w=125&hash=B693F2998A9BFF4BDDC200ED97341584883B888E" ; 
+    cb:phone "215.873.8281" .
+
+<#Diana-Robins>
+    cb:name "Diana Robins" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "diana.l.robins@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robins_diana.ashx?h=150&la=en&w=125&hash=B96BB242CA79C905E2CA14ACED14E1DF3810ED97" ; 
+    cb:phone "215.571.3439" .
+
+<#Gabriel-de>
+    cb:name "Gabriel de Avilez Rocha" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of History" ; 
+    cb:department "Department of History" ; 
+    cb:email "gabriel.a.rocha@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/rocha-gabriel.ashx?h=150&la=en&w=125&hash=C4109FFF2CE044C8F2CAACE5F075AB03A5A65BE6" ; 
+    cb:phone "215.895.2468" .
+
+<#Donna-Rondolone>
+    cb:name "Donna Rondolone" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "donna.l.rondolone@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.6854" .
+
+<#Chris-Rorres>
+    cb:name "Chris Rorres" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "crorres@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/rorres-chris.ashx?h=180&la=en&w=150&hash=F310F8F22B5E5C9682434E19AFFB0230FFFFB6ED" .
+
+<#Gerald-(Harris)>
+    cb:name "Gerald (Harris) Rosen" ; 
+    cb:property "faculty" ; 
+    cb:title "M.R. Wehr Professor Emeritus of Physics" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "gerald.h.rosen@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/rosen-gerald.ashx?h=150&la=en&w=125&hash=53071471B471945246DCFD482E4CA86E6F9710A9" .
+
+<#Gail-Rosen>
+    cb:name "Gail Rosen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "gor22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.6391" .
+
+<#Gary-Rosenberg>
+    cb:name "Gary Rosenberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Department of Biodiversity, Earth & Environmental Science; Pilsbry Chair of Malacology, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "gr347@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/RosenbergGary.ashx?h=150&la=en&w=125&hash=CB9F77D8C57CCD28705CC94A34C95A206663D9CA" ; 
+    cb:phone "215.299.1033" .
+
+<#William-Rosenberg>
+    cb:name "William Rosenberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "rosenberg@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/BIll Rosenberg Drexel Web Photo.ashx?h=150&la=en&w=125&hash=6400A7FA1A21F30412303CE1AE2669735A24CD77" ; 
+    cb:phone "215.895.1302" .
+
+<#John-Rossi>
+    cb:name "John Rossi" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor, School of Public Health" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "jar444@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/RossiJohn.ashx?h=150&la=en&w=125&hash=E81E70C817026806A280B4FC4C45B09F2334A868" ; 
+    cb:phone "215.762.4652" .
+
+<#Patricia-Henry>
+    cb:name "Patricia Henry Russell" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor; Teaching Professor Emerita Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "phenry@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/patricia-henry-russell.ashx?h=180&la=en&w=150&hash=2C6AF0EE92C533EA39AC1D0F36ECC4B4280498A6" .
+
+<#Jacob-Russell>
+    cb:name "Jacob Russell" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "jar337@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/russell_jacob.ashx?h=150&la=en&w=125&hash=3B55729427B5D9D31D5492BC7B3BFB5AB645B083" ; 
+    cb:phone "215.895.1643" .
+
+<#Susan-Rutkowsky>
+    cb:name "Susan Rutkowsky" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Department Head, Associate Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "susan.anne.rutkowsky@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/chemistry/Faculty Pictures/rutkowsky-susan.ashx?h=180&la=en&w=150&hash=B7B9C5A87A3F1EA642388A0D1968FF3E532DC055" ; 
+    cb:phone "215.895.1509" .
+
+<#Rosemary-Rys>
+    cb:name "Rosemary Rys" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "rosemary.e.rys@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Rys_Rosemary.ashx?h=150&la=en&w=125&hash=CC94AFFEB953B88A9559B44B7F190A69663B65D4" ; 
+    cb:phone "215.571.4333" .
+
+<#Doreen-Alvarez>
+    cb:name "Doreen Alvarez Saar" ; 
+    cb:property "faculty" ; 
+    cb:title "American Literature Editor, Rocky Mountain Review of Language and Literature; Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "saarda@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.6913" .
+
+<#Jacqueline-Sadashige>
+    cb:name "Jacqueline Sadashige" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "jns53@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sadashige-jacqueline.ashx?h=180&la=en&w=150&hash=1BF672141D9A807B9868817BC0BB1ED7CD7E6424" .
+
+<#Sheila-Sandapen>
+    cb:name "Sheila Sandapen" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "sfs34@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sandapen.ashx?h=150&la=en&w=125&hash=46FDE2F164B62F039A1D91C2D2A7A51E5D2AEDE9" ; 
+    cb:phone "215.895.5888" .
+
+<#Nianli-Sang>
+    cb:name "Nianli Sang" ; 
+    cb:property "faculty" ; 
+    cb:title "Co-Director of the Cell Imaging Center; Associate Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "nianli.sang@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sang.ashx?h=150&la=en&w=125&hash=A7E32120B33A2EDDD9F6FE6278C9267DF8643B80" ; 
+    cb:phone "215.895.6885" .
+
+<#Tiago-Saraiva>
+    cb:name "Tiago Saraiva" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "tfs37@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Tiago.ashx?h=150&la=en&w=125&hash=A3CCBC2F49F8ABDA9D980F2F1B4CD6056BE6821B" ; 
+    cb:phone "215.895.6870" .
+
+<#Aleister-Saunders>
+    cb:name "Aleister Saunders" ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Vice Provost for Research; Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "Aleister.Saunders@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/saunders_aleister.ashx?h=150&la=en&w=125&hash=AF6113D28379ED3D690DF7B576C09CA1BE374012" ; 
+    cb:phone "215.895.6772" .
+
+<#Ludo-Scheffer>
+    cb:name "Ludo Scheffer" ; 
+    cb:property "faculty" ; 
+    cb:title "Chair, Faculty Senate; Director of Undergraduate Studies; Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "lcs22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/scheffer_ludo.ashx?h=150&la=en&w=125&hash=5E4B5A61710117498C603AD844369EA6253F5FC2" ; 
+    cb:phone "215.895.6140" .
+
+<#Eric-Scheidly>
+    cb:name "Eric Scheidly" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "scheidly@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/eric_scheidly.ashx?h=166&la=en&w=125&hash=6F321B222EE500054AB1D555B6AFFE5ED225F988" .
+
+<#Simone-Schlichting-Artur>
+    cb:name "Simone Schlichting-Artur" ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Assistant Dean of Global Initiatives; Teaching Professor of German" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "schlichs@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/SchlichtingArtur_Simone.ashx?h=150&la=en&w=125&hash=BEBF3E006F51AE7DF2A6E104A0347903469A0B9E" ; 
+    cb:phone "215.895.2443" .
+
+<#Eric-J.>
+    cb:name "Eric J. Schmutz" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "eschmutz@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/eric-schmutz.ashx?h=150&la=en&w=125&hash=F7DAD90A82D9D608E1FD4F82AFB1F8262D8700FB" ; 
+    cb:phone "215.895.1948" .
+
+<#Maria-T.>
+    cb:name "Maria T. Schultheis" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head; Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "schultheis@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/schultheis_maria.ashx?h=150&la=en&w=125&hash=E7F615A5AB043A08BBAA4C9FA89AC7297F475B27" ; 
+    cb:phone "215.895.6105" .
+
+<#Jennifer-Schwartz>
+    cb:name "Jennifer Schwartz" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Psychological Services Center; Associate Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "Jennifer.L.Schwartz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/schwartz_jennifer.ashx?h=150&la=en&w=125&hash=A2732D820E6573459DEFC05593B844E450658E34" ; 
+    cb:phone "215.553.7127" .
+
+<#Reinhard-Schweitzer-Stenner>
+    cb:name "Reinhard Schweitzer-Stenner" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "rschweitzer-stenner@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/RSStenner.ashx?h=150&la=en&w=125&hash=2933C1598F1BAC9D28DAAB5845ADE742CBA83EA8" ; 
+    cb:phone "215.895.2268" .
+
+<#Jonathan-Seitz>
+    cb:name "Jonathan Seitz" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of Undergraduate Studies; Associate Teaching Professor of History" ; 
+    cb:department "Department of History" ; 
+    cb:email "jwseitz@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/seitz-jonathan.ashx?h=150&la=en&w=125&hash=7F6C27FC0D802E0393D05881B9FB65F0642452CE" ; 
+    cb:phone "215.895.0996" .
+
+<#Nicholas-Shapiro>
+    cb:name "Nicholas Shapiro" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Research Professor" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "NShapiro@chemheritage.org" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Shapiro_mug_resized.ashx?h=116&la=en&w=125&hash=D3869CFA6872F41F9316A82A80DDDC380D84DD08" .
+
+<#Mimi-Sheller>
+    cb:name "Mimi Sheller" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Center for Mobilities Research and Policy; Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Center for Mobilities, Research and Policy" ; 
+    cb:email "mimi.sheller@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sheller_mimi.ashx?h=150&la=en&w=125&hash=4CFB0F6364E452401B28A4B7DE7FF30F9FA33F0B" ; 
+    cb:phone "215.571.3652" .
+
+<#Li-Sheng>
+    cb:name "Li Sheng" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "lsheng@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/li-sheng.ashx?h=150&la=en&w=125&hash=E292065DC02A606AD856929C776E4529BE272FE1" ; 
+    cb:phone "215.895.6613" .
+
+<#Natsumi-Shor>
+    cb:name "Natsumi Shor" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor of Japanese" ; 
+    cb:department "Department of Global Studies and Modern Languages" ; 
+    cb:email "shornt@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Shor_Natsumi.ashx?h=150&la=en&w=125&hash=57E51C3D1112DED1A2DF8D4B346DC4750D4D55A4" ; 
+    cb:phone "215.571.4335" .
+
+<#Wesley-Shumar>
+    cb:name "Wesley Shumar" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head, Anthropology; Professor; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "shumarw@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/shumar_wesley.ashx?h=150&la=en&w=125&hash=CCC3C209B7DA3A83A5C53F3D2D88C91928D13104" ; 
+    cb:phone "215.895.2060" .
+
+<#Myrna-Shure>
+    cb:name "Myrna Shure" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "ms54@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/shure_myrna.ashx?h=150&la=en&w=125&hash=8B95320370B536411773C0E955855547A8C7B05F" ; 
+    cb:phone "215.553.7120" .
+
+<#Diane-Sicotte>
+    cb:name "Diane Sicotte" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Sociology" ; 
+    cb:department "Department of Sociology" ; 
+    cb:email "dms76@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sicotte_diane.ashx?h=150&la=en&w=125&hash=18FF80138C530AAD2C652657467D5DFBD9F938E4" ; 
+    cb:phone "215.895.2264" .
+
+<#Fred-Siegel>
+    cb:name "Fred Siegel" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, First-Year Writing Program; Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "siegelf@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fredsiegeldirectory.ashx?h=150&la=en&w=125&hash=3EC585DD88F3CEEFBE852623BF4AEA3D4FE19C1E" ; 
+    cb:phone "215.895.6484" .
+
+<#Chloe-Silverman>
+    cb:name "Chloe Silverman" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "cbs78@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/SilvermanChloe.ashx?h=150&la=en&w=125&hash=151581605B2D34D2CEEDC25245ACD5056D349B2F" .
+
+<#Gideon-Simpson>
+    cb:name "Gideon Simpson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "simpson@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/gideon-simpson.ashx?h=150&la=en&w=125&hash=194F874E781D72C85BFACB87F4CA5053D600AEEC" ; 
+    cb:phone "215.895.1849" .
+
+<#Chris-Sims>
+    cb:name "Chris Sims" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "Chris.Sims@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sims_chris.ashx?h=150&la=en&w=125&hash=57CDEE50A047637431915BD7F07D23F526F4F313" ; 
+    cb:phone "215.553.7170" .
+
+<#Amy-Slaton>
+    cb:name "Amy Slaton" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "slatonae@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Amy Office.ashx?h=150&la=en&w=125&hash=89DB111B956DE8D541ABC31CEFDFB21BD0ED24AB" ; 
+    cb:phone "215.895.2061" .
+
+<#Julia-Sluzenski>
+    cb:name "Julia Sluzenski" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "julia.m.sluzenski@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sluzenski_julia.ashx?h=150&la=en&w=125&hash=6E4992CEFB0E26E01ADB4390304B3C9B3B443AB7" ; 
+    cb:phone "215.571.4309" .
+
+<#Ron-Smith>
+    cb:name "Ron Smith" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor, Department of Biodiversity, Earth and Environmental Science Director, DESLA Summer Program" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "rvs33@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/smith_ron.ashx?h=150&la=en&w=125&hash=220FEEB2E3ADF739D62936830F51984FE9E4FAE3" .
+
+<#Andrew-Smith>
+    cb:name "Andrew Smith" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "afs52@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/smithandrew.ashx?h=150&la=en&w=125&hash=041EEE86C103524290A71F703E24A20D09837C18" ; 
+    cb:phone "215.895.2434" .
+
+<#Kevin-Smith>
+    cb:name "Kevin Smith" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "kps43@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/smith_kevin.ashx?h=150&la=en&w=125&hash=348DA476D33A4928CF43D58E102DE889E9D21AB3" ; 
+    cb:phone "215.571.3469" .
+
+<#Karl-Sohlberg>
+    cb:name "Karl Sohlberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "sohlbergk@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sohlberg-karl.ashx?h=150&la=en&w=125&hash=F43E0F6B03EF7FA5A93CE4CE6DF5D8E96716FBA7" ; 
+    cb:phone "215.895.2653" .
+
+<#Jian-Song>
+    cb:name "Jian Song" ; 
+    cb:property "faculty" ; 
+    cb:title "Visiting Assistant Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "js4378@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jian-song.ashx?h=180&la=en&w=150&hash=687E182BEB838D867835B5975FDFFD4AFB53465C" ; 
+    cb:phone "215.895.6264" .
+
+<#Xiaoming-Song>
+    cb:name "Xiaoming Song" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "song@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/xiaoming-song.ashx?h=150&la=en&w=125&hash=419BE3FE630A79A9B4C536BA2C2427FBC6A24FDB" ; 
+    cb:phone "215.895.6998" .
+
+<#Lawrence-Souder>
+    cb:name "Lawrence Souder" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "ls39@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Souder_Lawrence.ashx?h=150&la=en&w=125&hash=2FC7E9B606E630F0099832A8957B7AF7B34AD0FB" ; 
+    cb:phone "215.895.2730" .
+
+<#Jonathan-E.>
+    cb:name "Jonathan E. Spanier" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Materials Science & Engineering, Affiliated Faculty" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "spanier@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/JonSpanier.ashx?h=160&la=en&w=125&hash=39AF8BC338E8AC0A8D1EFDB8B263202DABD0DD82" ; 
+    cb:phone "215.895.2301" .
+
+<#Mary-V.>
+    cb:name "Mary V. Spiers" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "spiersm@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/spiers_mary.ashx?h=150&la=en&w=125&hash=DD7E13B147EBF44D5062F917DFC002435D4759C7" ; 
+    cb:phone "215.895.1722" .
+
+<#Elias-Spiliotis>
+    cb:name "Elias Spiliotis" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor; Director of the Cell Imaging Center" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "ets33@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/spiliotis.ashx?h=150&la=en&w=125&hash=1902C4A57A63B5E7A019F2059B1A6165ACB1CFAB" ; 
+    cb:phone "215.571.3552" .
+
+<#James-Spotila>
+    cb:name "James Spotila" ; 
+    cb:property "faculty" ; 
+    cb:title "L. Drew Betz Chair Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "spotiljr@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/spotilla.ashx?h=150&la=en&w=125&hash=73E7EE5DAD746C4E055734D1CBD19BC25B0D7585" ; 
+    cb:phone "215.895.2627" .
+
+<#Jennifer-Stanford>
+    cb:name "Jennifer Stanford" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "jss75@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/stanford_jen.ashx?h=150&la=en&w=125&hash=4B31C776C99F51C5080189C7BCC9FB4AA346BCEE" ; 
+    cb:phone "215.895.6180" .
+
+<#Kathryn-Steen>
+    cb:name "Kathryn Steen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "steen@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.6615" .
+
+<#Allan-Stegeman>
+    cb:name "Allan Stegeman" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "stegemal@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Stegeman_Allan.ashx?h=150&la=en&w=125&hash=8069F6C1E63FBF3F1B5ABFA4655849CC7E50F538" ; 
+    cb:phone "215.895.2734" .
+
+<#Mark-Stehr>
+    cb:name "Mark Stehr" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Center for Public Policy" ; 
+    cb:email "stehr@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.0554" .
+
+<#Scott-Stein>
+    cb:name "Scott Stein" ; 
+    cb:property "faculty" ; 
+    cb:title "Founding Editor, When Falls the Coliseum: a journal of American culture (or lack thereof); Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "sstein@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/stein.ashx?h=150&la=en&w=125&hash=8F0530705598B749716A88D07200F48D99FC077F" ; 
+    cb:phone "215.895.1301" .
+
+<#Susan-Stein>
+    cb:name "Susan Stein" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Professional MS Communication Programs; Associate Teaching Professor" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "susan.e.stein@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Stein_Sue.ashx?h=150&la=en&w=125&hash=457684A982D3A648DD48AFCCD341D6549C98DD7C" ; 
+    cb:phone "215.571.4510" .
+
+<#Jerry-Steinberg>
+    cb:name "Jerry Steinberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "jis32@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/steinberg_jerry.ashx?h=167&la=en&w=125&hash=F37AB675B63731C51E7900CEC43E7BD63ADE5DBD" .
+
+<#Richard-Steinberg>
+    cb:name "Richard Steinberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "steinberg@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richard_steinberg.ashx?h=166&la=en&w=125&hash=926FC7D6A16C8BA9320494050837C11A85509AD6" ; 
+    cb:phone "215.895.2727" .
+
+<#Jeanne-M.>
+    cb:name "Jeanne M. Steuber" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jms77@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jeanne-steuber.ashx?h=150&la=en&w=125&hash=CEF4DA7F73E3A4AB64458DFD26B2D54F0B552616" ; 
+    cb:phone "215.895.1957" .
+
+<#Donald-F.>
+    cb:name "Donald F. Stevens" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "stevens@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Stevenspic.ashx?h=189&la=en&w=125&hash=D07D9883A3C25A6E91E79214470A2A6108EAD927" ; 
+    cb:phone "215.895.2465" .
+
+<#Judith-Storniolo>
+    cb:name "Judith Storniolo" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor of Anthropology" ; 
+    cb:department "Department of Anthropology" ; 
+    cb:email "jas92@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/storniolo_judith.ashx?h=150&la=en&w=125&hash=7A8F1DF0A82D8C5C04EDE1F2FF20AFC01CCADEC2" ; 
+    cb:phone "215.895.2186" .
+
+<#Kenneth-P.>
+    cb:name "Kenneth P. Swartz" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "kps35@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kenneth-swartz.ashx?h=150&la=en&w=125&hash=E1D5888ABEED025A7B2B000B1C33663369BEA979" ; 
+    cb:phone "215.895.6675" .
+
+<#Jose-Tapia>
+    cb:name "Jose Tapia" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Politics" ; 
+    cb:email "jat368@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/tapia_jose_web.ashx?h=150&la=en&w=125&hash=415C8A69AE49047C11D73C81039ED847F9C3726F" ; 
+    cb:phone "215.895.6762" .
+
+<#Scott-Tattar>
+    cb:name "Scott Tattar" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor of Communication" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "sdt56@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/tattar-scott.ashx?h=150&la=en&w=125&hash=26E705E83B6F0D61209B986AEBD50405BE69F045" ; 
+    cb:phone "215.571.3611" .
+
+<#Elizabeth-Thorpe>
+    cb:name "Elizabeth Thorpe" ; 
+    cb:property "faculty" ; 
+    cb:title "Coordinator of English Senior Projects; Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "ejt29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/thorpe.ashx?h=150&la=en&w=125&hash=DF83448B4551D3C7231F8257FE6B023D7D502145" ; 
+    cb:phone "215.895.6391" .
+
+<#Eva-Thury>
+    cb:name "Eva Thury" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "thury@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Thury.ashx?h=150&la=en&w=125&hash=BBCC0BD124ED2A4202D40ED9FFE84286E0EF4582" ; 
+    cb:phone "215.895.1711" .
+
+<#Monica-Togna>
+    cb:name "Monica Togna" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Biology" ; 
+    cb:email "mmt73@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/monica_togna_01.ashx?h=150&la=en&w=125&hash=17C9F1C176DC081015FDB0007A5541EAFEF6B7DC" ; 
+    cb:phone "215.895.2684" .
+
+<#Ambassador-(Ret.)>
+    cb:name "Ambassador (Ret.) Joseph M. Torsella" ; 
+    cb:property "faculty" ; 
+    cb:title "Distinguished Visiting Fellow" ; 
+    cb:department "Center for Public Policy" ; 
+    cb:email "jmt368@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/joseph-torsella.ashx?h=150&la=en&w=125&hash=BA9F5464E18996BD25C4B5396ED63F5E39DC50A1" .
+
+<#Somdev-Tyagi>
+    cb:name "Somdev Tyagi" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Department Head for Non-Major Studies, Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "tyagi@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/som_tyagi.ashx?h=166&la=en&w=125&hash=18A15603478D06AB01FAB32D9C5913D3486EDFA4" ; 
+    cb:phone "215.895.6956" .
+
+<#Kristene-Unsworth>
+    cb:name "Kristene Unsworth" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, College of Computing and Informatics" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "ku26@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/unsworth_kristene.ashx?h=150&la=en&w=125&hash=355DCA4AC1D7FB1E594FCCA020D99E9948A66520" ; 
+    cb:phone "215.895.6016" .
+
+<#Brigita-Urbanc>
+    cb:name "Brigita Urbanc" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "brigita@physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brigita_urbanc.ashx?h=166&la=en&w=125&hash=B172ABEF3FD3035FCE732A64CDCC95D2DB189539" ; 
+    cb:phone "215.895.2726" .
+
+<#Michel-Vallières>
+    cb:name "Michel Vallières" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "mv@physics.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/michel_vallires.ashx?h=150&la=en&w=125&hash=9A860BD229CD3D9C051B828C342B713528549C6A" ; 
+    cb:phone "215.895.2714" .
+
+<#Loÿc-Vanderkluysen>
+    cb:name "Loÿc Vanderkluysen" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "loyc@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/loyc_vanderkluysen.ashx?h=150&la=en&w=125&hash=9BD543CF5C6BB05E3BAE8C658D33A0303452D836" ; 
+    cb:phone "215.571.4673" .
+
+<#David-Velinsky>
+    cb:name "David Velinsky" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head; Professor, Department of Biodiversity, Earth & Environmental Science; VP for Environmental Research; Director and Senior Scientist, Patrick Center for Environmental Research; Section Leader, Biogeochemistry, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "djv23@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/velinsky_david_web.ashx?h=150&la=en&w=125&hash=999A92B81BFD7D4E3FBFD2DA1AC46A901FE69879" ; 
+    cb:phone "215.299.1147" .
+
+<#Michael-S.>
+    cb:name "Michael S. Vogeley" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Department Head for Graduate Studies; Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "vogeley@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/michaelsvogeley.ashx?h=166&la=en&w=125&hash=90A0A12D65A265E074328C0E6D8A5A1C2F80E4B1" ; 
+    cb:phone "215.895.2710" .
+
+<#Kathleen-Volk>
+    cb:name "Kathleen Volk Miller" ; 
+    cb:property "faculty" ; 
+    cb:title "Director Graduate Program in Publishing; Director, Drexel Publishing Group; Co-Editor, PBQ; Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "kathleen.r.volkmiller@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/volkmiller.ashx?h=150&la=en&w=125&hash=1B361708F76F06EB81E39A3075BA9DF3FCD4244A" ; 
+    cb:phone "215.895.1303" .
+
+<#Maria-Volynsky>
+    cb:name "Maria Volynsky" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Director, First-Year Writing Program; ESL Coordinator; Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "mv396@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Maria Volynsky.ashx?h=150&la=en&w=125&hash=A8621AAD2F46053CA63473F06D60EF6C7008BF50" .
+
+<#Peter-A.>
+    cb:name "Peter A. Wade" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "wadepa@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/no-photo-available.ashx?h=150&la=en&w=125&hash=04B0E5393FBA75D76C47C9A9BEC4172E5BCE76B5" ; 
+    cb:phone "215.895.2652" .
+
+<#Vaishalee-T.>
+    cb:name "Vaishalee T. Wadke" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor | Teaching" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "vtwadke@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/vaishalee-wadke.ashx?h=150&la=en&w=125&hash=0D127ED45DFDFDBA8948C91CCCE60F9092F84EDC" ; 
+    cb:phone "215.895.6392" .
+
+<#Anthony-Wambsgans>
+    cb:name "Anthony Wambsgans" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "anthony.wambsgans@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wambsgans-tony.ashx?h=180&la=en&w=150&hash=F478DCB57A717D2CC5B3A3C0F578F749F0D6C268" ; 
+    cb:phone "215.895.1585" .
+
+<#Scott-Warnock>
+    cb:name "Scott Warnock" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Drexel Writing Center; Director, University Writing Program; Associate Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "sjwarnock@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/warnock.ashx?h=150&la=en&w=125&hash=88FDCD642B38460549B6101D5B03573FDDB45F8C" ; 
+    cb:phone "215.895.0377" .
+
+<#Elizabeth-Burke>
+    cb:name "Elizabeth Burke Watson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of Wetlands Science, Department of Biodiversity, Earth and Environmental Science; Wetlands Section Leader, Patrick Center for the Environment, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "elizabeth.b.watson@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/watson_elizabeth.ashx?h=150&la=en&w=125&hash=1C4851947C0615449EE12B7F125558DE9FFF5356" ; 
+    cb:phone "215.299.1109" .
+
+<#Robert-Watts>
+    cb:name "Robert Watts" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "wattsra@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/watts.ashx?h=150&la=en&w=125&hash=FE287C258129E7301FE52F674C38D89F1BCF3447" ; 
+    cb:phone "215.895.2441" .
+
+<#Jason-D.>
+    cb:name "Jason D. Weckstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Associate Curator of Ornithology, Academy of Natural Sciences of Drexel University" ; 
+    cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
+    cb:email "Jason.D.Weckstein@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/WecksteinJason.ashx?h=150&la=en&w=125&hash=A4FD32EBACE62732E830EFC1C4F424B41925CF71" ; 
+    cb:phone "215.299.1023" .
+
+<#Rachel-Wenrick>
+    cb:name "Rachel Wenrick" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "rw346@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wenrick-rachel.ashx?h=150&la=en&w=125&hash=E34BB941FAD7B181CB387E6AC845C3B1DE2925EF" ; 
+    cb:phone "215.895.4364" .
+
+<#Richard-D.>
+    cb:name "Richard D. White" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "rdw35@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richard-white.ashx?h=150&la=en&w=125&hash=4DF29355F9CC7210B9C5C8933C2308CF9218008D" ; 
+    cb:phone "215.895.2683" .
+
+<#Vincent-Williams>
+    cb:name "Vincent Williams" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "avw22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
+    cb:phone "215.895.5888" .
+
+<#Jet-Wimp>
+    cb:name "Jet Wimp" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wimp-jet.ashx?h=180&la=en&w=150&hash=2CAC9D674B7350A61765C168397A6A1B25F0608B" .
+
+<#Hugo-Woerdeman>
+    cb:name "Hugo Woerdeman" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "hugo@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hugo-woerdeman.ashx?h=150&la=en&w=125&hash=BA275E117F9104EF5DEB51321EB0C209DDAC2E06" ; 
+    cb:phone "215.895.6828" .
+
+<#Ezra-Wood>
+    cb:name "Ezra Wood" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "College of Arts and Sciences" ; 
+    cb:email "ew456@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wood_evan.ashx?h=150&la=en&w=125&hash=97FC722CA6857668DA1F650382316B0B775C4FE5" ; 
+    cb:phone "215.895.1681" .
+
+<#J.-Douglas>
+    cb:name "J. Douglas Wright" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Department Head; Associate Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "jdoug@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/doug-wright.ashx?h=150&la=en&w=125&hash=154700A0FEBCA3AF5C187AFAA44DCA01D9DD5730" ; 
+    cb:phone "215.895.0981" .
+
+<#Jun-Xi>
+    cb:name "Jun Xi" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Department of Chemistry" ; 
+    cb:email "jx35@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jun_xi.ashx?h=150&la=en&w=125&hash=D3C6F1EA8D2688DFA4C1BBDF57EEA67BD87166D1" ; 
+    cb:phone "215.895.2648" .
+
+<#Dennis-G.>
+    cb:name "Dennis G. Yang" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "gyang@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dennis-yang.ashx?h=150&la=en&w=125&hash=6C0A4AC1B351A6178B81AB306BD4C3E37875BD4E" ; 
+    cb:phone "215.571.3583" .
+
+<#Yun-Yoo>
+    cb:name "Yun Yoo" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "yy29@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/yun-yoo.ashx?h=150&la=en&w=125&hash=CF05D5212118E1D5A7F7C74F5E1CA11CBA42A25C" ; 
+    cb:phone "215.895.2668" .
+
+<#Alden-Young>
+    cb:name "Alden Young" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of Africana Studies; Assistant Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "ahy24@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/alden-young.ashx?h=150&la=en&w=125&hash=A825495251EB79D42F130F52E084961EB557472E" ; 
+    cb:phone "215.571.3626" .
+
+<#Thomas-P.-Y.>
+    cb:name "Thomas P.-Y. Yu" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Tenure" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "tyu@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/thomas-yu.ashx?h=150&la=en&w=125&hash=AC166D0BD1A2B46C0E4731A4A077395E7DEDB6B2" ; 
+    cb:phone "215.895.2066" .
+
+<#Jian-Min-Yuan>
+    cb:name "Jian-Min Yuan" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of Physics" ; 
+    cb:email "yuanjm@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/yuan.ashx?h=150&la=en&w=125&hash=65B3D0DFFFD729763BEE535A6C6340564D0151D0" ; 
+    cb:phone "215.895.2722" .
+
+<#Michael-Yudell>
+    cb:name "Michael Yudell" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, School of Public Health; Affiliated Faculty, Department of History" ; 
+    cb:department "Department of History" ; 
+    cb:email "myudell@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Yudell_Michael.ashx?h=150&la=en&w=125&hash=7F0A519E9B6DCDEADA2F000CA47E6FCDF2BC1E39" ; 
+    cb:phone "215.762.6515" .
+
+<#Jennifer-Yusin>
+    cb:name "Jennifer Yusin" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of English" ; 
+    cb:department "Department of English and Philosophy" ; 
+    cb:email "jyusin@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jennifer-yusin-web.ashx?h=150&la=en&w=125&hash=5C927E1FD20AB1223C743053C67CDB15A6A736E9" ; 
+    cb:phone "215.895.6778" .
+
+<#Robert-Zaller>
+    cb:name "Robert Zaller" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Department of History" ; 
+    cb:email "zallerrm@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Robert Zaller.ashx?h=150&la=en&w=125&hash=05F988EFC0129F4875518D498E50722F21E9A726" ; 
+    cb:phone "215.895.1512" .
+
+<#Sergio-Zefelippo>
+    cb:name "Sergio Zefelippo" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "sz32@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sergio-zefillipo.ashx?h=150&la=en&w=125&hash=3D3E5AFB07F6EDDA2E5107E06A521BABE81AEBCC" ; 
+    cb:phone "215.895.2668" .
+
+<#Asta-Zelenkauskaite>
+    cb:name "Asta Zelenkauskaite" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:department "Department of Communication" ; 
+    cb:email "az358@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Zelenkauskaite_Asta.ashx?h=150&la=en&w=125&hash=3AB56FA319B8E39DEE5411027648A2F6583172BC" ; 
+    cb:phone "215.895.1717" .
+
+<#Yihong-Zhang>
+    cb:name "Yihong Zhang" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "yihong@math.drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/yihong-zhang.ashx?h=150&la=en&w=125&hash=B6A9729A791078AAD52F06439F56AE98BED48679" ; 
+    cb:phone "215.895.2668" .
+
+<#Fengqing-Zoe>
+    cb:name "Fengqing Zoe Zhang" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "fengqing.zhang@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/zoe_zhang.ashx?h=150&la=en&w=125&hash=650562A5EC59ADEE5B03ABCD1060E90BF453EC93" ; 
+    cb:phone "215.553.7172" .
+
+<#Matthew-Ziemke>
+    cb:name "Matthew Ziemke" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "mjz55@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/matt-ziemke.ashx?h=180&la=en&w=150&hash=19C1D3EF181DAE462C894BA8C9924429799210E0" ; 
+    cb:phone "215.571.3586" .
+
+<#Eric-A.>
+    cb:name "Eric A. Zillmer" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Neuropsychology; Director of Athletics" ; 
+    cb:department "Department of Psychology" ; 
+    cb:email "zillmer@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/zillmer_eric.ashx?h=150&la=en&w=125&hash=EE56DC05563EABF796B040679C8F594DDFA6D5B1" ; 
+    cb:phone "215.895.1977" .
+

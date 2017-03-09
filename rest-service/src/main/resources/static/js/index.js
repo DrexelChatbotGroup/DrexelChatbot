@@ -26,7 +26,7 @@ function setDate(){
 }
 
 function insertMessage() {
-  msg = $('.message-input').val();
+  msg = sanitizeInput($('.message-input').val());
   if ($.trim(msg) == '') {
     return false;
   }
@@ -80,6 +80,12 @@ function welcomeMessage(){
 	
 }
 
+function sanitizeInput(str){
+	str = str.replace(/</g,'&lt;');
+	str = str.replace(/>/g,'&gt;');
+	return str;
+}
+
 function sendMessage() {
   if ($('.message-input').val() != '') {
     return false;
@@ -90,7 +96,7 @@ function sendMessage() {
   setTimeout(function() {
 	  
 	$.ajax({
-		url: "/chatbot/api?query="+msg,
+		url: "/chatbot/api?query="+encodeURIComponent(msg),
 		method: 'GET',
 		success:function(a){
 			console.log(a);
