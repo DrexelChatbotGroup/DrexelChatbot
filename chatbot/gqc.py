@@ -18,7 +18,7 @@ class GenericQuestionConstruction():
         #replace nouns with their genericRepresentations
         paddedquestion = self.question
         for key, value in rep_list.items():
-            paddedquestion = paddedquestion.replace(value, key)
+            paddedquestion = paddedquestion.replace(value, '(' + key + ')')
         #create returned object which contains a string and a dictionary 
         #whose keys are nouns in original question and values are generic 
         #representations of the keys
@@ -30,9 +30,15 @@ class GenericQuestionConstruction():
     def findrepresentation(self):
         #retrieve all nouns
         noun_list = []
-        for tup in self.tag_list:
+        for count in len(self.tag_list):
+            tup = self.tag_list[count]
             if tup[1][0].lower() == 'n':
-                noun_list.append(tup[0])
+                noun = tup[0]
+                if tup[1][:2].lower() == 'nnp':
+                    while self.tag_list[count + 1][1][:2].lower() == 'nnp':
+                        count = count + 1
+                        noun = noun + ' ' + self.tag_list[count][0]
+                noun_list.append(noun)
         rep_list = {}
         for noun in noun_list:
             rep = ""
