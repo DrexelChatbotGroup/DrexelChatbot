@@ -31,10 +31,12 @@ class StardogDB:
     def query(self, str_query):
         #./stardog query chatbotDB query
         path = _STARDOG_INSTALL_PATH + "stardog"
-        out = subprocess.check_output([path, "query", self._database_name, str_query])
-        sep_out = str(out).split("|")
-        if len(sep_out) == 5:
-            value = sep_out[3].strip("\" ")
+        out = subprocess.check_output([path, "query", self._database_name, "-f",
+        "CSV", str_query])
+        res = out.splitlines()
+        res_dict = {}
+        if len(res) == 2:
+            res_dict[res[0]] = res[1]
         else:
             value = None
         return value
@@ -44,11 +46,11 @@ if __name__ == "__main__":
     test = """
     prefix cb: <http://drexelchatbot.com/rdf/>
 
-    SELECT ?o
+    SELECT ?property
     WHERE
     {
         ?s cb:name "Marcello Balduccini" .
-        ?s cb:property ?o .
+        ?s cb:property ?property .
     }
     """
    
