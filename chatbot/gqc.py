@@ -1,6 +1,6 @@
-from chatbot.postag import NLTKPOSTag
-from chatbot.genericquestion import GenericQuestion
-from chatbot.errors import BadQuestionException
+from postag import NLTKPOSTag
+from genericquestion import GenericQuestion
+from errors import BadQuestionException
 
 class GenericQuestionConstruction():
 	def __init__(self, question, db):
