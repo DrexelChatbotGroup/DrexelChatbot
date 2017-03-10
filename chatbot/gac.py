@@ -52,3 +52,7 @@ class GenericAnswer:
 
         def getQuery(self):
                 return self.query
+
+if __name__ == "__main__":
+        classifier = GenericAnswerConstruction("trained_model.m5", "genericAnswers.txt")
+        print(str(classifier.generateGenericAnswer("Where is (Person)'s office?")))
