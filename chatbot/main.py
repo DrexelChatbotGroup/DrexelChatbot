@@ -1,13 +1,13 @@
-from chatbot.errors import ErrorHandler
-from chatbot.errors import ChatbotException 
-import chatbot.gqc
-import chatbot.gac
-import chatbot.gap
-from database.stardog import StardogDB
+from errors import ErrorHandler
+from errors import ChatbotException 
+import gqc
+import gac
+import gap
+from database import stardog
 
 def _main(question):
     try :
-        db = StardogDB("chatbotDB")
+        db = stardog.StardogDB("chatbotDB")
         answer = "genericAnswers.txt"
         config = "trained_model.m5"
 
