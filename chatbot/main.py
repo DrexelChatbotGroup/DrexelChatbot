@@ -7,10 +7,9 @@ from database.stardog import StardogDB
 
 def _main(question):
     try :
-        #need to get question from website
         db = StardogDB("chatbotDB")
-        config = "genericAnswers.txt"
-        answer = "trained_model.m5"
+        answer = "genericAnswers.txt"
+        config = "trained_model.m5"
 
         gqc_object = gqc.GenericQuestionConstruction(question, db)
         genericquestion = gqc_object.getgenericquestion()
@@ -18,10 +17,11 @@ def _main(question):
         gac_object = gac.GenericAnswerConstruction(config, answer)
         genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
 
-        #expected genericAnswer is different from one being created
-        gap_object = gap.GenericAnswerPopulation(genericAnswer, db)
+        gap_object = gap.GenericAnswerPopulation(genericanswer, db)
         answer = gap_object.populate(genericquestion.rep_list)
-
+        
+        print answer
+    
     except ChatbotException as ex:
         ErrorHandler.handle(ex)
 
