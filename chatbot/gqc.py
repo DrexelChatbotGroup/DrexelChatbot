@@ -55,6 +55,6 @@ class GenericQuestionConstruction():
             #rep = "**test**"
 
             #store tuples
-            if not rep:
+            if rep:
                 rep_list[rep['property']] = noun
         return rep_list
