@@ -6,24 +6,24 @@ import chatbot.gap
 from database.stardog import StardogDB
 
 def _main(question):
-	try :
-		#need to get question from website
-		#question = "test"
-		db = StardogDB("chatbotDB")
-		answer = "genericAnswers.txt"
-		config = "trained_model.m5"
+    try :
+        #need to get question from website
+        db = StardogDB("chatbotDB")
+        config = "genericAnswers.txt"
+        answer = "trained_model.m5"
 
-		gqc_object = gqc.GenericQuestionConstruction(question, db)
-		genericquestion = gqc_object.getgenericquestion()
+        gqc_object = gqc.GenericQuestionConstruction(question, db)
+        genericquestion = gqc_object.getgenericquestion()
 
-		gac_object = gac.GenericAnswerConstruction(config, answer)
-		genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
+        gac_object = gac.GenericAnswerConstruction(config, answer)
+        genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
 
-		#expected genericAnswer is different from one being created
-		gap_object = gap.GenericAnswerPopulation(genericAnswer, db)
-		answer = gap_object.populate(genericquestion.rep_list)
-	except ChatbotException as ex:
-		ErrorHandler.handle(ex)
+        #expected genericAnswer is different from one being created
+        gap_object = gap.GenericAnswerPopulation(genericAnswer, db)
+        answer = gap_object.populate(genericquestion.rep_list)
+
+    except ChatbotException as ex:
+        ErrorHandler.handle(ex)
 
 if __name__ == "__main__":
     _main(sys.argv[1])
