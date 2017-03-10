@@ -30,15 +30,17 @@ class GenericQuestionConstruction():
     def findrepresentation(self):
         #retrieve all nouns
         noun_list = []
-        for count in len(self.tag_list):
+        count = 0
+        while count < len(self.tag_list):
             tup = self.tag_list[count]
             if tup[1][0].lower() == 'n':
                 noun = tup[0]
-                if tup[1][:2].lower() == 'nnp':
-                    while self.tag_list[count + 1][1][:2].lower() == 'nnp':
+                if tup[1][:3].lower() == 'nnp':
+                    while self.tag_list[count + 1][1][:3].lower() == 'nnp':
                         count = count + 1
                         noun = noun + ' ' + self.tag_list[count][0]
                 noun_list.append(noun)
+                count = count + 1
         rep_list = {}
         for noun in noun_list:
             rep = ""
