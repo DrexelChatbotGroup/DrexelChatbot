@@ -33,20 +33,21 @@ class StardogDB:
         path = _STARDOG_INSTALL_PATH + "stardog"
         out = subprocess.check_output([path, "query", self._database_name, "-f",
         "CSV", str_query])
+        out = out.decode("utf-8")
         res = out.splitlines()
         res_dict = {}
         if len(res) == 2:
-            keys = res[0]
-            values = res[1]
+            keys = res[0].split(',')
+            values = res[1].split(',')
+            i = 0
             for k, v in zip(keys, values):
                 res_dict[k] = v
-        return res_dict 
+        return res_dict
 
 
 if __name__ == "__main__":
     test = """
     prefix cb: <http://drexelchatbot.com/rdf/>
-
     SELECT ?property
     WHERE
     {
@@ -54,7 +55,30 @@ if __name__ == "__main__":
         ?s cb:property ?property .
     }
     """
-   
+
     sdb = StardogDB("chatbotDB")
-    res = sdb.query(test)
-    print(res)
+    print(sdb.query(test))
+
+    test2 = """
+    prefix cb: <http://drexelchatbot.com/rdf/>
+    SELECT ?phone ?email
+    WHERE
+    {
+        ?s cb:name "Marcello Balduccini" .
+        ?s cb:phone ?phone .
+        ?s cb:email ?email .
+    }
+    """
+    print(sdb.query(test2))
+
+    test3 = """
+    prefix cb: <http://drexelchatbot.com/rdf/>
+    SELECT ?phone ?email
+    WHERE
+    {
+        ?s cb:name "NOT REAL LOSER" .
+        ?s cb:phone ?phone .
+        ?s cb:email ?email .
+    }
+    """
+    print(sdb.query(test3))
