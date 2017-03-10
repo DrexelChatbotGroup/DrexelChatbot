@@ -36,7 +36,10 @@ class StardogDB:
         res = out.splitlines()
         res_dict = {}
         if len(res) == 2:
-            res_dict[res[0]] = res[1]
+            keys = res[0]
+            values = res[1]
+            for k, v in zip(keys, values):
+                res_dict[k] = v
         else:
             value = None
         return value
