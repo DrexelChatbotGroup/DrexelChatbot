@@ -12,13 +12,13 @@ from keras import models
 class GenericAnswerConstruction:
         def __init__(self, configFile, answerFile):
                 self.net = models.load_model(configFile)
-                self.genericAnswers = loadAnswers(answerFile)
+                self.genericAnswers = self.loadAnswers(answerFile)
 
         def generateGenericAnswer(self, genericQuestion):
                 encodedText = [text.one_hot(genericQuestion.replace("'", " "), top_words, filters=filt)]
                 encodedText = sequence.pad_sequences(encodedText, maxlen=max_question_length)
 
-                answerNumber = getMax(self.net.predict(encodedText)[1])
+                answerNumber = self.getMax(self.net.predict(encodedText)[1])
 
                 return self.genericAnswers[answerNumber]
                 
