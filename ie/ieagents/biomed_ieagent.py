@@ -23,7 +23,7 @@ __author__ = 'Tom Amon'
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent
+from .ieagent import IEAgent, writeHTMLFile
 import ttl
    
 
@@ -43,12 +43,15 @@ class BiomedIEAgent(IEAgent):
             print('There was a problem: %s' % (exc))
         soup1 = BeautifulSoup(webpage1.text, "html.parser")
         
-        webpage2 = requests.get(self._link1)
+        webpage2 = requests.get(self._link2)
         try:
             webpage2.raise_for_status()
         except Exception as exc:
             print('There was a problem: %s' % (exc))
         soup2 = BeautifulSoup(webpage2.text, "html.parser")
+
+        writeHTMLFile(soup1, "core.html")
+        writeHTMLFile(soup2, "affiliated.html")
 
         self._refreshFromSoup(soup1, ttl_file)
         self._refreshFromSoup(soup2, ttl_file)
@@ -57,11 +60,15 @@ class BiomedIEAgent(IEAgent):
         return ttl_file
 
     def _refreshFromSoup(self, soup, ttl_file):
-        elems = soup.findAll('div', {"class" : "user-profile-stub clearfix"})
+        elems = soup.findAll('tr', {"class" : "FacultyTableRow"})
         for i in range(0, len(elems)):
             e = elems[i]
             all_text = e.findAll(text=True)
+            
+            
             data = list(filter(lambda a: a != "\n", all_text))
+            print (data)
+
             nameEdu = data[0].split(',', 1)
 
             prof = ttl.TtlFileEntry()
@@ -71,13 +78,11 @@ class BiomedIEAgent(IEAgent):
             if len(nameEdu) > 1:
                 prof.education = nameEdu[1]
             prof.title = data[1]
-            prof.department = data[2]
-            prof.room = data[4]
-            prof.phone = data[6]
-            prof.email = data[8]
-            if "Areas of Expertise" in data:
-                aoe = data.index("Areas of Expertise")
-                prof.interests = ", ".join(data[aoe+1:])
+            prof.room = data[2]
+            if "@" in data[3]:
+                prof.email = data[3]
+                prof.interests = data[4]
+            else:
+                prof.interests = data[3]
 
             prof.write_to(ttl_file)
-        
