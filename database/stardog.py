@@ -40,9 +40,7 @@ class StardogDB:
             values = res[1]
             for k, v in zip(keys, values):
                 res_dict[k] = v
-        else:
-            value = None
-        return value
+        return res_dict 
 
 
 if __name__ == "__main__":
