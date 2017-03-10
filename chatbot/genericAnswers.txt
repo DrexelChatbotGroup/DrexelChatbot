@@ -1,5 +1,5 @@
 Error,null
-(Person)'s office is (Room) in (Building).,null
+(Person)'s office is (Room) in (Building).,prefix cb: <http://drexelchatbot.com/rdf/> select ?room ?building where { ?s cb:name Person . ?s cb:room ?room . ?s cb:building ?building}
 (Person)’s email address is (Email).,prefix cb: <http://drexelchatbot.com/rdf/> select ?email where { ?s cb:name Person . ?s cb:email ?email }
 (Room) in (Building) is (Person)’s office.,prefix cb: <http://drexelchatbot.com/rdf/> select ?name where { ?s cb:name ?name . ?s cb:room Room . ?s cb:building Building }
 (Person)’s education is as follows: (Education).,prefix cb: <http://drexelchatbot.com/rdf/> select ?education where { ?s cb:name Person . ?s cb:education ?education}
