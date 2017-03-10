@@ -10,8 +10,8 @@ def _main(question):
 		#need to get question from website
 		#question = "test"
 		db = StardogDB("chatbotDB")
-		config = "genericAnswers.txt"
-		answer = None
+		answer = "genericAnswers.txt"
+		config = "trained_model.m5"
 
 		gqc_object = gqc.GenericQuestionConstruction(question, db)
 		genericquestion = gqc_object.getgenericquestion()
@@ -21,10 +21,9 @@ def _main(question):
 
 		#expected genericAnswer is different from one being created
 		gap_object = gap.GenericAnswerPopulation(genericAnswer, db)
-		answer = gap_object.populate()
-
-    except ChatbotException as ex:
-        ErrorHandler.handle(ex)
+		answer = gap_object.populate(genericquestion.rep_list)
+	except ChatbotException as ex:
+		ErrorHandler.handle(ex)
 
 if __name__ == "__main__":
     _main(sys.argv[1])

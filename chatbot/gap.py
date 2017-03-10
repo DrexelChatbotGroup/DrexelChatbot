@@ -4,41 +4,35 @@ from errors import BadAnswerException
 
 class GenericAnswerPopulation:
     def __init__(self, _genericAnswer, db):
-        self.genericAnswer = _genericAnswer["answer"]
-        self.dictionary1 = _genericAnswer["dictionary1"]
-        self.query = _genericAnswer["query"]
-        self.dictionary2 = _genericAnswer["dictionary2"]
+        self.genericAnswer = _genericAnswer.getAnswer()
+        self.query = _genericAnswer.getQuery()
         self.db = db;
 
-    def populate(self):
-        query = self.__populateQuery(self.query, self.dictionary1)
-        dictionary2 = self.__queryDatabase(query)
-        combinedDictionary = self.__combineDictionary(self.dictionary1, dictionary2)
-        answer = self.__populateFromDictionary(self.genericAnswer, combinedDictionary)
+    def populate(self, gqc_dictionary):
+        self.__populateQuery(gqc_dictionary)
+        ans_dictionary = self.__queryDatabase()
+        combinedDictionary = self.__combineDictionary(gqc_dictionary, ans_dictionary)
+        answer = self.__populateFromDictionary(combinedDictionary)
         return answer
 
-    def __queryDatabase(self, query):
-        #some database magic here
-        #db.query(query)
-        #return result as dictionary
-        return self.dictionary2
+    def __queryDatabase(self):
+	ans_dictionary = self.db.query(self.query)
+        return ans_dictionary
 
 
     def __combineDictionary(self, dictionary1, dictionary2):
-        combinedDictionary = self.dictionary1.copy()
+        combinedDictionary = dictionary1.copy()
         combinedDictionary.update(dictionary2)
         return combinedDictionary
 
 
-    def __populateFromDictionary(self, genericAnswer, dictionary):
-        ans = self.__getWordsInsideParenthesis(genericAnswer)
-        length = len(ans);
-        for i in range(0,length):
-            key = ans[i]
-            if not(key in dictionary):
+    def __populateFromDictionary(self, dictionary):
+	rep_list = self.__getWordsInsideParenthesis(self.genericAnswer)
+	for rep in rep_list:
+            if not(rep in dictionary):
                 print("[Error!!! when populating final answer]")
                 raise BadAnswerException()
-            genericAnswer = genericAnswer.replace("(" + ans[i] + ")", dictionary[key])
+            genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
         print("[final answer populated] " +  genericAnswer)
         return genericAnswer
 
@@ -48,14 +42,11 @@ class GenericAnswerPopulation:
     def __getWordsInsideParenthesis(self, sentence):
         return re.findall(r'\((.*?)\)',sentence)
 
-    def __populateQuery(self, query, dictionary):
-        ans = self.__getWordsInsideParenthesis(query)
-        length = len(ans);
-        for i in range(0,length):
-            key = ans[i]
+    def __populateQuery(self, dictionary):
+        var_list = self.__getWordsInsideParenthesis(self.query)
+        for key in var_list:
             if not (key in dictionary):
                 print("[Error!!! when constructing query from generic query]")
                 raise BadQuestionException()
-            query = query.replace("(" + ans[i] + ")", dictionary[key]);
-        print("[query populated] " + query)
-        return query
+            self.query = self.query.replace("(" + key + ")", dictionary[key]);
+        print("[query populated] " + self.query)

@@ -36,7 +36,8 @@ class GenericQuestionConstruction():
 		rep_list = {}
 		for noun in noun_list:
 			rep = ""
-			#get generic representation from database
+			#get a dictionary from from database whose keys are 
+			#'property' and values are generic representation
 			query_string = """
 			prefix cb: <http://drexelchatbot.com/rdf/>
 
@@ -54,6 +55,6 @@ class GenericQuestionConstruction():
 			#rep = "**test**"
 
 			#store tuples
-			if rep != 'None':
-				rep_list['$(' + rep['property'] + ')'] = noun
+			if not rep:
+				rep_list[rep['property']] = noun
 		return rep_list
