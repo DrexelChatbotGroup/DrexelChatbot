@@ -33,7 +33,8 @@ class GenericAnswerPopulation:
                     print("[Error!!! when populating final answer]")
                     raise BadAnswerException()
                 genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
-            print("[final answer populated] " +  genericAnswer)
+
+        print("[final answer populated] " +  genericAnswer)
         return genericAnswer
 
     def __getWordsStartingWithDollar(self, sentence):
