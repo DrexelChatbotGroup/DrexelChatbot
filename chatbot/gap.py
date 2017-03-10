@@ -16,7 +16,7 @@ class GenericAnswerPopulation:
         return answer
 
     def __queryDatabase(self):
-	ans_dictionary = self.db.query(self.query)
+        ans_dictionary = self.db.query(self.query)
         return ans_dictionary
 
 
@@ -27,13 +27,13 @@ class GenericAnswerPopulation:
 
 
     def __populateFromDictionary(self, dictionary):
-	rep_list = self.__getWordsInsideParenthesis(self.genericAnswer)
-	for rep in rep_list:
-            if not(rep in dictionary):
-                print("[Error!!! when populating final answer]")
-                raise BadAnswerException()
-            genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
-        print("[final answer populated] " +  genericAnswer)
+        rep_list = self.__getWordsInsideParenthesis(self.genericAnswer)
+        for rep in rep_list:
+                if not(rep in dictionary):
+                    print("[Error!!! when populating final answer]")
+                    raise BadAnswerException()
+                genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
+            print("[final answer populated] " +  genericAnswer)
         return genericAnswer
 
     def __getWordsStartingWithDollar(self, sentence):

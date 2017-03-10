@@ -13,11 +13,11 @@ def _main(question):
 
         gqc_object = gqc.GenericQuestionConstruction(question, db)
         genericquestion = gqc_object.getgenericquestion()
-	print(genericquestion.paddedquestion)
+        print(genericquestion.paddedquestion)
 
         gac_object = gac.GenericAnswerConstruction(config, answer)
         genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
-	print(genericanswer.getAnswer())
+        print(genericanswer.getAnswer())
 
         gap_object = gap.GenericAnswerPopulation(genericanswer, db)
         answer = gap_object.populate(genericquestion.rep_list)
