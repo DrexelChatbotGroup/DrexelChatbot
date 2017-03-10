@@ -40,7 +40,7 @@ class GenericQuestionConstruction():
                         count = count + 1
                         noun = noun + ' ' + self.tag_list[count][0]
                 noun_list.append(noun)
-                count = count + 1
+            count = count + 1
         rep_list = {}
         for noun in noun_list:
             rep = ""
