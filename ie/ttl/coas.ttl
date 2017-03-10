@@ -345,8 +345,8 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/butryn_meghan.ashx?h=150&la=en&w=125&hash=D7014F562093FDA651D246E996B6D7723BCB4AEA" ; 
     cb:phone "215.553.7108" .
 
-<#Zoltán-Búzás>
-    cb:name "Zoltán Búzás" ; 
+<#ZoltÃ¡n-BÃºzÃ¡s>
+    cb:name "ZoltÃ¡n BÃºzÃ¡s" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Politics" ; 
@@ -354,8 +354,8 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Buzas_Zoltan.ashx?h=139&la=en&w=125&hash=5C844F0A8AE0F418B5E3DFC1E118CD3242563EC9" ; 
     cb:phone "215.895.2477" .
 
-<#André-Carrington>
-    cb:name "André Carrington" ; 
+<#AndrÃ©-Carrington>
+    cb:name "AndrÃ© Carrington" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1890,8 +1890,8 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/miller-jonson.ashx?h=180&la=en&w=150&hash=FF61D25EED9107233679D27F39F758F6964D07E1" ; 
     cb:phone "215.895.0994" .
 
-<#Rogelio-Miñana>
-    cb:name "Rogelio Miñana" ; 
+<#Rogelio-MiÃ±ana>
+    cb:name "Rogelio MiÃ±ana" ; 
     cb:property "faculty" ; 
     cb:title "Department Head and Professor of Spanish" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -3017,8 +3017,8 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brigita_urbanc.ashx?h=166&la=en&w=125&hash=B172ABEF3FD3035FCE732A64CDCC95D2DB189539" ; 
     cb:phone "215.895.2726" .
 
-<#Michel-Vallières>
-    cb:name "Michel Vallières" ; 
+<#Michel-ValliÃ¨res>
+    cb:name "Michel ValliÃ¨res" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -3026,8 +3026,8 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/michel_vallires.ashx?h=150&la=en&w=125&hash=9A860BD229CD3D9C051B828C342B713528549C6A" ; 
     cb:phone "215.895.2714" .
 
-<#Loÿc-Vanderkluysen>
-    cb:name "Loÿc Vanderkluysen" ; 
+<#LoÃ¿c-Vanderkluysen>
+    cb:name "LoÃ¿c Vanderkluysen" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 

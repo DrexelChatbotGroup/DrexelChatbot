@@ -295,7 +295,7 @@
     cb:name "Naveen Daniel" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
-    cb:department "Denis O’Brien Research Scholar in Finance" ; 
+    cb:department "Denis Oâ€™Brien Research Scholar in Finance" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -1116,7 +1116,7 @@
     cb:name "Samir Shah" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
-    cb:department "Drexel University’s Provost Fellow India Partnerships" ; 
+    cb:department "Drexel Universityâ€™s Provost Fellow India Partnerships" ; 
     cb:education "D.P.S." ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 

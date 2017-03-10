@@ -396,8 +396,8 @@
     cb:phone "215.895.6826" ; 
     cb:interests "Fourier analysis, partial differential equations, image processing, wavelets, asymptotic distribution of eigenvalues, numerical methods and algorithms, computer science education" .
 
-<#Santiago-Ontañón>
-    cb:name "Santiago Ontañón" ; 
+<#Santiago-OntaÃ±Ã³n>
+    cb:name "Santiago OntaÃ±Ã³n" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
