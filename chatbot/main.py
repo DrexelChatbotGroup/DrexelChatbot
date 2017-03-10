@@ -4,6 +4,7 @@ import gqc
 import gac
 import gap
 from database import stardog
+import sys
 
 def _main(question):
     try :
