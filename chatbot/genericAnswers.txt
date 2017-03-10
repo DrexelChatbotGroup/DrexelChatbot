@@ -1,9 +1,9 @@
 Error,null
-(Person)'s office is (Room) in (Building).,null
-(Person)’s email address is (Email).,null
-(Room) in (Building) is (Person)’s office.,null
-(Person)’s education is as follows: (Education).,null
-(Website) is (Person)’s website.,null
-(Person)’s department is (Department).,null
-This is (Person)’s bio: (Bio),null
-(Picture) is an image of (Person).,null
+(Person)'s office is (Room) in (Building).,prefix cb: <http://drexelchatbot.com/rdf/> select ?room ?building where { ?s cb:name Person . ?s cb:room ?room . ?s cb:building ?building}
+(Person)’s email address is (Email).,prefix cb: <http://drexelchatbot.com/rdf/> select ?email where { ?s cb:name Person . ?s cb:email ?email }
+(Room) in (Building) is (Person)’s office.,prefix cb: <http://drexelchatbot.com/rdf/> select ?name where { ?s cb:name ?name . ?s cb:room Room . ?s cb:building Building }
+(Person)’s education is as follows: (Education).,prefix cb: <http://drexelchatbot.com/rdf/> select ?education where { ?s cb:name Person . ?s cb:education ?education}
+(Website) is (Person)’s website.,prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name Person . ?s cb:website ?website}
+(Person)’s department is (Department).,prefix cb: <http://drexelchatbot.com/rdf/> select ?department where { ?s cb:name Person . ?s cb:department ?department}
+This is (Person)’s bio: (Bio),prefix cb: <http://drexelchatbot.com/rdf/> select ?bio where { ?s cb:name Person . ?s cb:bio ?bio}
+(Picture) is an image of (Person).,prefix cb: <http://drexelchatbot.com/rdf/> select ?picture where { ?s cb:name Person . ?s cb:picture ?picture}
