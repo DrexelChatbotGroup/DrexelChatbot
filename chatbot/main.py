@@ -20,7 +20,7 @@ def _main(question):
         gap_object = gap.GenericAnswerPopulation(genericanswer, db)
         answer = gap_object.populate(genericquestion.rep_list)
         
-        print answer
+        print(answer)
     
     except ChatbotException as ex:
         ErrorHandler.handle(ex)
