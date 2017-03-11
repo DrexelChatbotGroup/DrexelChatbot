@@ -50,9 +50,6 @@ class BiomedIEAgent(IEAgent):
             print('There was a problem: %s' % (exc))
         soup2 = BeautifulSoup(webpage2.text, "html.parser")
 
-        writeHTMLFile(soup1, "core.html")
-        writeHTMLFile(soup2, "affiliated.html")
-
         self._refreshFromSoup(soup1, ttl_file)
         self._refreshFromSoup(soup2, ttl_file)
     
@@ -65,9 +62,7 @@ class BiomedIEAgent(IEAgent):
             e = elems[i]
             all_text = e.findAll(text=True)
             
-            
             data = list(filter(lambda a: a != "\n", all_text))
-            print (data)
 
             nameEdu = data[0].split(',', 1)
 
