@@ -33,7 +33,6 @@ class GenericAnswerPopulation:
     def __populateFromDictionary(self, dictionary):
         rep_list = self.__getWordsInsideParenthesis(self.genericAnswer)
         genericAnswer = self.genericAnswer
-
         for rep in rep_list:
                 if not(rep in dictionary):
                     sys.stderr.write("[Error!!! when populating final answer]")
@@ -52,6 +51,7 @@ class GenericAnswerPopulation:
 
     def __populateQuery(self, dictionary):
         var_list = self.__getWordsInsideParenthesis(self.query)
+        print(str(dictionary))
         for key in var_list:
             if not (key in dictionary):
                 sys.stderr.write("[Error!!! when constructing query from generic query]")
