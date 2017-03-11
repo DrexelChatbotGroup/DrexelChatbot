@@ -15,6 +15,7 @@ import math
 import numpy
 numpy.random.seed(0)
 
+from zlib import adler32
 from keras.preprocessing import text
 from keras.preprocessing import sequence
 from keras.models import Sequential
@@ -28,9 +29,9 @@ def my_hash(item):
         to_hash = to_hash.replace(c, "")
 
     final = []
-    words = to_hash.split(" ")
+    words = to_hash.lower().split(" ")
     for word in words:
-        final.append(hash(word) % top_words)
+        final.append(adler32(word.encode()) % top_words)
     return final
 
 try:

@@ -8,6 +8,7 @@ embedding_vector_length = 64
 import numpy
 numpy.random.seed(0)
 
+from zlib import adler32
 from keras.preprocessing import sequence
 from keras import models
 
@@ -30,9 +31,9 @@ class GenericAnswerConstruction:
             to_hash = to_hash.replace(c, "")
 
         final = []
-        words = to_hash.split(" ")
+        words = to_hash.lower().split(" ")
         for word in words:
-            final.append(hash(word) % top_words)
+            final.append(adler32(word.encode()) % top_words)
         return final
 
     def loadAnswers(self, fname):
