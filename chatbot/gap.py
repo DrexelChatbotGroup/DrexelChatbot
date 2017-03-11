@@ -21,6 +21,7 @@ class GenericAnswerPopulation:
         if(len(ans_dictionary) == 0):
             # sys.stderr.write("[Error!!! The database query returned empty dictionary]")
             # sys.stderr.write("[The query was:\n" +  self.query);
+            pass
         return ans_dictionary
 
 
