@@ -37,14 +37,20 @@ class GenericQuestionConstruction():
         noun_list = []
         count = 0
         while count < len(self.tag_list):
-            tup = self.tag_list[count]
-            if tup[1][0].lower() == 'n':
-                noun = tup[0]
+            word = self.tag_list[count][0]
+            tag = self.tag_list[count][1]
+            if tag[0].lower() == 'n':
+                noun = word
 		#consider adjacent proper nouns to be 1 noun
-                if tup[1][:3].lower() == 'nnp':
-                    while self.tag_list[count + 1][1][:3].lower() == 'nnp':
+                if tag[:3].lower() == 'nnp':
+                    while count + 1 < len(self.tag_list):
                         count = count + 1
-                        noun = noun + ' ' + self.tag_list[count][0]
+                        word = self.tag_list[count][0]
+                        tag = self.tag_list[count][1]
+                        if tag[:3].lower() == 'nnp':
+                            noun = noun + ' ' + word
+                        else:
+                            break
                 noun_list.append(noun)
             count = count + 1
         rep_list = {}
