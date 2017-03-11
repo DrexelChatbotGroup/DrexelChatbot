@@ -19,8 +19,8 @@ class GenericAnswerPopulation:
     def __queryDatabase(self):
         ans_dictionary = self.db.query(self.query)
         if(len(ans_dictionary) == 0):
-            sys.stderr.write("[Error!!! The database query returned empty dictionary]")
-            sys.stderr.write("[The query was:\n" +  self.query);
+            # sys.stderr.write("[Error!!! The database query returned empty dictionary]")
+            # sys.stderr.write("[The query was:\n" +  self.query);
         return ans_dictionary
 
 
@@ -35,12 +35,12 @@ class GenericAnswerPopulation:
         genericAnswer = self.genericAnswer
         for rep in rep_list:
                 if not(rep in dictionary):
-                    sys.stderr.write("[Error!!! when populating final answer]")
+                    # sys.stderr.write("[Error!!! when populating final answer]")
                     raise BadAnswerException()
                 genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
 
         #TODO: log should be used here, not stderr
-        sys.stderr.write("[final answer populated] " +  genericAnswer + "\n")
+        # sys.stderr.write("[final answer populated] " +  genericAnswer + "\n")
         return genericAnswer
 
     def __getWordsStartingWithDollar(self, sentence):
@@ -51,12 +51,12 @@ class GenericAnswerPopulation:
 
     def __populateQuery(self, dictionary):
         var_list = self.__getWordsInsideParenthesis(self.query)
-        print(str(dictionary))
+        # print(str(dictionary))
         for key in var_list:
             if not (key in dictionary):
-                sys.stderr.write("[Error!!! when constructing query from generic query]")
+                # sys.stderr.write("[Error!!! when constructing query from generic query]")
                 raise BadQuestionException()
             self.query = self.query.replace("(" + key + ")", dictionary[key]);
 
         #TODO: log should be used here, not stderr
-        sys.stderr.write("[query populated] " + self.query)
+        # sys.stderr.write("[query populated] " + self.query)
