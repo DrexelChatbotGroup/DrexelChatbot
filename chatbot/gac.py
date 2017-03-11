@@ -10,49 +10,49 @@ from keras.preprocessing import sequence
 from keras import models
 
 class GenericAnswerConstruction:
-        def __init__(self, configFile, answerFile):
-                self.net = models.load_model(configFile)
-                self.genericAnswers = self.loadAnswers(answerFile)
+    def __init__(self, configFile, answerFile):
+        self.net = models.load_model(configFile)
+        self.genericAnswers = self.loadAnswers(answerFile)
 
-        def generateGenericAnswer(self, genericQuestion):
-                encodedText = [text.one_hot(genericQuestion.replace("'", " "), top_words, filters=filt)]
-                encodedText = sequence.pad_sequences(encodedText, maxlen=max_question_length)
+    def generateGenericAnswer(self, genericQuestion):
+        encodedText = [text.one_hot(genericQuestion.replace("'", " "), top_words, filters=filt)]
+        encodedText = sequence.pad_sequences(encodedText, maxlen=max_question_length)
 
-                answerNumber = self.getMax(self.net.predict(encodedText)[1])
+        answerNumber = self.getMax(self.net.predict(encodedText)[0])
 
-                return self.genericAnswers[answerNumber]
-                
-        def getMax(L):
-                m = L[0]
-                ret = 0
-                for i in range(len(L)):
-                        if L[i] > m:
-                                m = L[i]
-                                ret = i
-                return ret
+        return self.genericAnswers[answerNumber]
+            
+    def getMax(self, L):
+        m = L[0]
+        ret = 0
+        for i in range(len(L)):
+            if L[i] > m:
+                m = L[i]
+                ret = i
+        return ret
 
-        def loadAnswers(fname):
-                f = open(fname)
-                d = {}
-                i = 0
-                for line in f:
-                        fields = line.split(',')
-                        d[i] = GenericAnswer(fields[0], fields[1])
-                        i += 1
-                f.close()
-                return d
-        
+    def loadAnswers(self, fname):
+        f = open(fname)
+        d = {}
+        i = 0
+        for line in f:
+            fields = line.split(',')
+            d[i] = GenericAnswer(fields[0], fields[1])
+            i += 1
+        f.close()
+        return d
+    
 class GenericAnswer:
-        def __init__(self, newAnswer, newQuery):
-                self.answer = newAnswer
-                self.query = newQuery
+    def __init__(self, newAnswer, newQuery):
+        self.answer = newAnswer
+        self.query = newQuery
 
-        def getAnswer(self):
-                return self.answer
+    def getAnswer(self):
+        return self.answer
 
-        def getQuery(self):
-                return self.query
+    def getQuery(self):
+        return self.query
 
 if __name__ == "__main__":
-        classifier = GenericAnswerConstruction("trained_model.m5", "genericAnswers.txt")
-        print(str(classifier.generateGenericAnswer("Where is (Person)'s office?")))
+    classifier = GenericAnswerConstruction("trained_model.m5", "genericAnswers.txt")
+    print(str(classifier.generateGenericAnswer("Where is (Person)'s office?")))
