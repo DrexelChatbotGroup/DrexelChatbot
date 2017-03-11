@@ -8,7 +8,6 @@ embedding_vector_length = 64
 import numpy
 numpy.random.seed(0)
 
-from keras.preprocessing import text
 from keras.preprocessing import sequence
 from keras import models
 
@@ -18,21 +17,23 @@ class GenericAnswerConstruction:
         self.genericAnswers = self.loadAnswers(answerFile)
 
     def generateGenericAnswer(self, genericQuestion):
-        encodedText = [text.one_hot(genericQuestion.replace("'", " "), top_words, filters=filt)]
+        encodedText = [self.my_hash(genericQuestion)]
         encodedText = sequence.pad_sequences(encodedText, maxlen=max_question_length)
         print(str(encodedText))
         answerNumber = self.net.predict_classes(encodedText, verbose=0)[0]
 
         return self.genericAnswers[answerNumber]
             
-    def getMax(self, L):
-        m = L[0]
-        ret = 0
-        for i in range(len(L)):
-            if L[i] > m:
-                m = L[i]
-                ret = i
-        return ret
+    def my_hash(self, item):
+        to_hash = item.replace("'", " ")
+        for c in filt:
+            to_hash = to_hash.replace(c, "")
+
+        final = []
+        words = to_hash.split(" ")
+        for word in words:
+            final.append(hash(word) % top_words)
+        return final
 
     def loadAnswers(self, fname):
         f = open(fname)
