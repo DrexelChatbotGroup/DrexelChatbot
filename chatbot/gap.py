@@ -28,6 +28,7 @@ class GenericAnswerPopulation:
 
     def __populateFromDictionary(self, dictionary):
         rep_list = self.__getWordsInsideParenthesis(self.genericAnswer)
+        genericAnswer = self.genericAnswer
         for rep in rep_list:
                 if not(rep in dictionary):
                     print("[Error!!! when populating final answer]")
