@@ -49,18 +49,13 @@ try:
         if record[4] == "yes": #This is the line that makes it train on professor questions only
             x.append(my_hash(record[2]))
             temp = [0] * num_of_gas
-            #print(record[3] + ":  " + str(int(record[3])))
             temp[int(record[3])] = 1
-            #print(record[3] + ":  " + str(temp))
-            #print(record[2])
             y.append(temp)
 except ValueError:
     print("Error: malformed data")
     exit()
 
 csvfile.close()
-
-print(x)
 
 x = x * 10 #These two lines are needed because we have very little input data
 y = y * 10

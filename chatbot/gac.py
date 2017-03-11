@@ -20,7 +20,6 @@ class GenericAnswerConstruction:
     def generateGenericAnswer(self, genericQuestion):
         encodedText = [self.my_hash(genericQuestion)]
         encodedText = sequence.pad_sequences(encodedText, maxlen=max_question_length)
-        print(str(encodedText))
         answerNumber = self.net.predict_classes(encodedText, verbose=0)[0]
 
         return self.genericAnswers[answerNumber]
