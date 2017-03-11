@@ -1,0 +1,36 @@
+IE Websites
+Faculty:
+CoAS - http://drexel.edu/coas/faculty-research/faculty-directory/
+Biomed - http://drexel.edu/biomed/faculty/
+LeBow - http://www.lebow.drexel.edu/faculty-and-research/faculty-directory
+CCI - http://drexel.edu/cci/contact/Faculty/
+Westphal - http://www.drexel.edu/westphal/about/directory/
+
+
+SoE- http://drexel.edu/soe/faculty-research/faculty/
+EngCBE - http://drexel.edu/cbe/contact/faculty/
+EngCAE - http://www.drexel.edu/cae/contact/faculty/
+EngECE - http://drexel.edu/ece/contact/faculty-directory/
+EngMgmt - http://drexel.edu/engmgmt/contact/faculty/
+EngTech - http://drexel.edu/engtech/contact/faculty/
+EngMat - http://www.drexel.edu/materials/contact/faculty/
+EngMEM - http://www.drexel.edu/mem/contact/faculty-directory/
+Close - http://www.drexel.edu/close/academics/faculty/
+Hsm - http://drexel.edu/hsm/about/faculty/
+LawCore - http://drexel.edu/law/faculty/fulltime_fac/
+LawAffil - http://drexel.edu/law/faculty/clinical_affiliated/
+LawAdjunct - http://drexel.edu/law/faculty/adjunct/
+Medicine - http://www.drexel.edu/medicine/Faculty/Profiles/
+Nursing - http://www.drexel.edu/cnhp/faculty/profiles/
+Goodwin - http://drexel.edu/goodwin/about/directory/
+Dornsife - http://drexel.edu/dornsife/academics/faculty/
+
+Facilities:
+https://www.library.drexel.edu/drexel-buildings-1891-present
+
+Policies:
+	http://drexel.edu/provost/policies/overview/
+	http://drexel.edu/it/about/policies/policies/
+	http://drexel.edu/undergrad/apply/freshmen-instructions/
+Events:
+	http://drexel.edu/events/

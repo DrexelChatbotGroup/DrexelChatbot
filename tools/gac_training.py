@@ -15,12 +15,24 @@ import math
 import numpy
 numpy.random.seed(0)
 
+from zlib import adler32
 from keras.preprocessing import text
 from keras.preprocessing import sequence
 from keras.models import Sequential
 from keras.layers.embeddings import Embedding
 from keras.layers import LSTM
 from keras.layers import Dense
+
+def my_hash(item):
+    to_hash = item.replace("'", " ")
+    for c in filt:
+        to_hash = to_hash.replace(c, "")
+
+    final = []
+    words = to_hash.lower().split(" ")
+    for word in words:
+        final.append(adler32(word.encode()) % top_words)
+    return final
 
 try:
     csvfile = open(file_name, newline='')
@@ -35,20 +47,15 @@ next(reader) #Throw out the first line
 try:
     for record in reader:
         if record[4] == "yes": #This is the line that makes it train on professor questions only
-            x.append(text.one_hot(record[2].replace("'", " "), top_words, filters=filt))
+            x.append(my_hash(record[2]))
             temp = [0] * num_of_gas
-            #print(record[3] + ":  " + str(int(record[3])))
             temp[int(record[3])] = 1
-            #print(record[3] + ":  " + str(temp))
-            #print(record[2])
             y.append(temp)
 except ValueError:
     print("Error: malformed data")
     exit()
 
 csvfile.close()
-
-print(x)
 
 x = x * 10 #These two lines are needed because we have very little input data
 y = y * 10
@@ -69,7 +76,7 @@ model.add(Dense(num_of_gas, activation='softmax'))
 model.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy'])
 print(model.summary())
 
-model.fit(x_train, y_train, validation_data=(x_test, y_test), nb_epoch=40, batch_size=64)
+model.fit(x_train, y_train, validation_data=(x_test, y_test), nb_epoch=20, batch_size=64)
 
 scores = model.evaluate(x_test, y_test, verbose=0)
 print("Accuracy: %.2f%%" % (scores[1]*100))

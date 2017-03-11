@@ -13,38 +13,38 @@
    <meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" id="ctl03" name="viewport"/>
    <!-- disable zooming -->
    <title>
-    Core | Drexel University
+    Debra Ruben, NCIDQ, LEED AP, IDEC | Westphal College of Media Arts &amp; Design | Drexel University
    </title>
    <link href="/~/media/Images/core/FavIcon.ashx" id="ctl05" rel="shortcut icon"/>
-   <link href="http://drexel.edu/biomed/faculty/core/" id="lkCanonical" rel="canonical"/>
-   <meta content="SCPRODPUB2" id="metaServer" name="Server"/>
-   <meta content="Core - School of Biomedical Engineering, Science and Health Systems" id="ogTitle" property="og:title"/>
+   <link href="http://drexel.edu/westphal/about/directory/RubenDebra/" id="lkCanonical" rel="canonical"/>
+   <meta content="SCPRODPUB1" id="metaServer" name="Server"/>
+   <meta content="Debra Ruben, NCIDQ, LEED AP, IDEC - Westphal College of Media Arts &amp; Design" id="ogTitle" property="og:title"/>
    <meta content="article" id="ogType" property="og:type"/>
-   <meta content="School of Biomedical Engineering, Science and Health Systems" id="ogSiteName" property="og:site_name"/>
-   <meta content="http://drexel.edu/biomed/faculty/core/" id="ogURL" property="og:url"/>
+   <meta content="Westphal College of Media Arts &amp; Design" id="ogSiteName" property="og:site_name"/>
+   <meta content="http://drexel.edu/westphal/about/directory/RubenDebra/" id="ogURL" property="og:url"/>
    <meta content="http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx" id="ogImage" property="og:image"/>
    <!--imports mobile starting point, base styles, libraries, resets-->
-   <link href="/~/stylesheets/biomed/mobile/?hash=c07910dbf7a523b008d811b1078962d4" rel="stylesheet">
+   <link href="/~/stylesheets/westphal/mobile/?hash=c07910dbf7a523b008d811b1078962d4" rel="stylesheet">
     <!--720 for (ipad-y)screens-->
     <!--[if gte IE 9]><!-->
     <style media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)" type="text/css">
-     @import url("/~/stylesheets/biomed/portrait/?hash=8c648048fe9b775c53ff04bc3c88cc03");
+     @import url("/~/stylesheets/westphal/portrait/?hash=8c648048fe9b775c53ff04bc3c88cc03");
     </style>
     <!--<![endif]-->
     <!--default non-mobile layout for legacy-->
     <!--[if (lt IE 9)&(!IEMobile)]>
-	<style type="text/css" media="all">@import url("/~/stylesheets/biomed/landscape/?hash=08641ebfe782e09dbce9e42bafe3285b");</style>
+	<style type="text/css" media="all">@import url("/~/stylesheets/westphal/landscape/?hash=08641ebfe782e09dbce9e42bafe3285b");</style>
 	<![endif]-->
     <!--960 for appropriate screens. Bumped out 20 to accomodate design-->
     <!--[if gte IE 9]><!-->
     <style media="all and (min-width: 1020px) and (min-device-width: 1020px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)" type="text/css">
-     @import url("/~/stylesheets/biomed/landscape/?hash=08641ebfe782e09dbce9e42bafe3285b");
+     @import url("/~/stylesheets/westphal/landscape/?hash=08641ebfe782e09dbce9e42bafe3285b");
     </style>
     <!--<![endif]-->
     <!--1200 for larger screens-->
     <!--[if gte IE 9]><!-->
     <style media="all and (min-width: 1260px)" type="text/css">
-     @import url("/~/stylesheets/biomed/computer/?hash=8cd447b26f12b58cbcecf082e5fc5e2d");
+     @import url("/~/stylesheets/westphal/computer/?hash=8cd447b26f12b58cbcecf082e5fc5e2d");
     </style>
     <!--<![endif]-->
     <script src="/bundles/v2-core-js?v=jxWgL2JVk4szI4xX-TqiXpSahcHH34k6naL5K-nhydQ1">
@@ -52,7 +52,35 @@
     <!--[if IE 8]>
     <script src="/sc_scripts/V2/libs/ie8_fix_maxwidth.js" type="text/javascript"></script>
 <![endif]-->
-    <link href="../../../sc_scripts/jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css" id="~/sc_scripts/jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css" rel="stylesheet" type="text/css"/>
+    <div class="" id="headtag_2_divSnippet">
+     <script>
+      $(function() {
+  setTimeout(function () { hideEmptyTabs(); }, 100);
+});
+
+function hideEmptyTabs() {
+  var mytabs = $('div#tabs');
+  var selected = mytabs.tabs('option', 'selected'); // index of selected tab
+  mytabs.children('ul').children('li').children('a').each(function(index, elem) {
+      if (mytabs.children($(elem).attr('href')).html().trim() === ''){
+          $(elem).parent().hide(); // hide the 'li' tab-element
+      } else {
+          $(elem).parent().show(); // show the 'li' tab-element
+      }
+  }); 
+  // if selected tab is now hidden, select the first visible tab
+  if (mytabs.children('ul').children('li').eq(selected).is(':hidden')){
+      mytabs.children('ul').children('li').each(function(index, elem) {
+          if ($(elem).is(':visible')){
+              mytabs.tabs('select', index); // select this tab
+              return false; // break
+          }
+      }); 
+  }
+}
+     </script>
+    </div>
+    <link href="../../../../sc_scripts/jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css" id="~/sc_scripts/jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css" rel="stylesheet" type="text/css"/>
    </link>
   </link>
  </head>
@@ -70,12 +98,15 @@
     })(window,document,'script','dataLayer','GTM-TJCKC2');
   </script>
   <!-- End Google Tag Manager -->
-  <form action="/biomed/faculty/core/" id="mainform" method="post">
+  <form action="/westphal/about/directory/RubenDebra/" id="mainform" method="post">
    <div class="aspNetHidden">
-    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUJODI2MTg5MDQwDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWBAICD2QWEAIFD2QWAmYPFgQeBFRleHQFGENvcmUgfCBEcmV4ZWwgVW5pdmVyc2l0eR4HVmlzaWJsZWdkAgwPFgQeB2NvbnRlbnQFClNDUFJPRFBVQjIfAmdkAg0PFgQfAwVDQ29yZSAtIFNjaG9vbCBvZiBCaW9tZWRpY2FsIEVuZ2luZWVyaW5nLCBTY2llbmNlIGFuZCBIZWFsdGggU3lzdGVtcx8CZ2QCDg8WBB8DBQdhcnRpY2xlHwJnZAIPDxYEHwMFPFNjaG9vbCBvZiBCaW9tZWRpY2FsIEVuZ2luZWVyaW5nLCBTY2llbmNlIGFuZCBIZWFsdGggU3lzdGVtcx8CZ2QCEA8WBB8DBSZodHRwOi8vZHJleGVsLmVkdS9iaW9tZWQvZmFjdWx0eS9jb3JlLx8CZ2QCEQ8WBB8DBTtodHRwOi8vZHJleGVsLmVkdS9+L21lZGlhL0ltYWdlcy9ub3cvdWkvb2ctZHJleGVsLWxvZ28uYXNoeB8CZ2QCEg9kFgJmD2QWAmYPZBYIZg8WBB8BBbEBDQogICAgPCEtLWltcG9ydHMgbW9iaWxlIHN0YXJ0aW5nIHBvaW50LCBiYXNlIHN0eWxlcywgbGlicmFyaWVzLCByZXNldHMtLT4NCgk8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii9+L3N0eWxlc2hlZXRzL2Jpb21lZC9tb2JpbGUvP2hhc2g9YzA3OTEwZGJmN2E1MjNiMDA4ZDgxMWIxMDc4OTYyZDQiPg0KHwJnZAICDxYEHwEF1gINCgk8IS0tNzIwIGZvciAoaXBhZC15KXNjcmVlbnMtLT4NCgk8IS0tW2lmIGd0ZSBJRSA5XT48IS0tPg0KCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgbWVkaWE9ImFsbCBhbmQgKG1pbi13aWR0aDogNzQwcHgpIGFuZCAobWluLWRldmljZS13aWR0aDogNzQwcHgpLCAobWF4LWRldmljZS13aWR0aDogODAwcHgpIGFuZCAobWluLXdpZHRoOiA3NDBweCkgYW5kIChvcmllbnRhdGlvbjpsYW5kc2NhcGUpIj5AaW1wb3J0IHVybCgiL34vc3R5bGVzaGVldHMvYmlvbWVkL3BvcnRyYWl0Lz9oYXNoPThjNjQ4MDQ4ZmU5Yjc3NWM1M2ZmMDRiYzNjODhjYzAzIik7PC9zdHlsZT4NCgk8IS0tPCFbZW5kaWZdLS0+DQofAmdkAgQPFgQfAQX1BA0KCTwhLS1kZWZhdWx0IG5vbi1tb2JpbGUgbGF5b3V0IGZvciBsZWdhY3ktLT4NCgk8IS0tW2lmIChsdCBJRSA5KSYoIUlFTW9iaWxlKV0+DQoJPHN0eWxlIHR5cGU9InRleHQvY3NzIiBtZWRpYT0iYWxsIj5AaW1wb3J0IHVybCgiL34vc3R5bGVzaGVldHMvYmlvbWVkL2xhbmRzY2FwZS8/aGFzaD0wODY0MWViZmU3ODJlMDlkYmNlOWU0MmJhZmUzMjg1YiIpOzwvc3R5bGU+DQoJPCFbZW5kaWZdLS0+DQogICAgCQ0KCTwhLS05NjAgZm9yIGFwcHJvcHJpYXRlIHNjcmVlbnMuIEJ1bXBlZCBvdXQgMjAgdG8gYWNjb21vZGF0ZSBkZXNpZ24tLT4NCgk8IS0tW2lmIGd0ZSBJRSA5XT48IS0tPg0KCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgbWVkaWE9ImFsbCBhbmQgKG1pbi13aWR0aDogMTAyMHB4KSBhbmQgKG1pbi1kZXZpY2Utd2lkdGg6IDEwMjBweCksIGFsbCBhbmQgKG1heC1kZXZpY2Utd2lkdGg6IDEwMjRweCkgYW5kIChtaW4td2lkdGg6IDEwMjRweCkgYW5kIChvcmllbnRhdGlvbjpsYW5kc2NhcGUpIj5AaW1wb3J0IHVybCgiL34vc3R5bGVzaGVldHMvYmlvbWVkL2xhbmRzY2FwZS8/aGFzaD0wODY0MWViZmU3ODJlMDlkYmNlOWU0MmJhZmUzMjg1YiIpOzwvc3R5bGU+DQoJPCEtLTwhW2VuZGlmXS0tPg0KHwJnZAIGDxYEHwEF6wENCgk8IS0tMTIwMCBmb3IgbGFyZ2VyIHNjcmVlbnMtLT4NCgk8IS0tW2lmIGd0ZSBJRSA5XT48IS0tPg0KCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgbWVkaWE9ImFsbCBhbmQgKG1pbi13aWR0aDogMTI2MHB4KSI+QGltcG9ydCB1cmwoIi9+L3N0eWxlc2hlZXRzL2Jpb21lZC9jb21wdXRlci8/aGFzaD04Y2Q0NDdiMjZmMTJiNThjYmNlY2YwODJlNWZjNWUyZCIpOzwvc3R5bGU+DQoJPCEtLTwhW2VuZGlmXS0tPg0KHwJnZAIEDxYCHgVjbGFzcwUKYWx0LWxheW91dBYCAgEQZGQWAgIFD2QWBmYPZBYCZg9kFgICAg8WBB8BBYUCDQo8dWwgY2xhc3M9ImJnLWltYWdlcyIgaWQ9ImJnLWltYWdlcyI+DQogICAgPGxpPjxub3NjcmlwdCBkYXRhLXBhdGg9Ii9+L21lZGlhL0ltYWdlcy9iaW9tZWQvaG9tZS1iZyIgZGF0YS1hbHQ9IkJpb21lZCBIb21lIEltYWdlIiBjbGFzcz0icmVzcG9uc2l2ZS1pbWFnZSI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9iaW9tZWQvaG9tZS1iZy9tb2JpbGUuYXNoeCIgYWx0PSJCaW9tZWQgSG9tZSBJbWFnZSIgLz48L25vc2NyaXB0PjwvbGk+DQo8L3VsPg0KHwJnZAIBD2QWAmYPZBYGAgEPDxYCHwJoZGQCAw8PFgIfAmdkFgQCAQ8PFgIeC05hdmlnYXRlVXJsBQgvYmlvbWVkL2QWAmYPDxYCHghJbWFnZVVybAVpL34vbWVkaWEvSW1hZ2VzL2Jpb21lZC9CaW9tZWRfVHdvTGluZV9nb2xkLmFzaHg/aD0xMTAmdz00NjAmaGFzaD1CMzg0NTQwMjhDRDM0NTRGODc1RjZGRDNCQjk1NTlDRjI2MDk3NkQzZGQCBQ8WAh8CaGQCBQ9kFgICAQ8WBB8BBYECDQogICAgICAgICAgICAgICAgICAgICAgICA8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsgRFJFWEVMLldyYXBwZXIuT3ZlcnJpZGVTZWFyY2hCb3goIi9iaW9tZWQvU2VhcmNoLyIpIH0pOw0KICAgICAgICAgICAgICAgICAgICAgICAgPC9zY3JpcHQ+DQogICAgICAgICAgICAgICAgICAgICAgICAfAmdkAgMPZBYCZg9kFgQCAQ9kFgwCAQ8WAh8BBQZCSU9NRURkAgMPZBYCAgEPDxYCHwUFJWh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9EcmV4ZWxCSU9NRURkZAIFD2QWAgIBDw8WAh8FBSBodHRwczovL3R3aXR0ZXIuY29tL2RyZXhlbGJpb21lZGRkAgkPZBYCAgEPDxYCHwUFOGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2NoYW5uZWwvVUNsc1YyRGxvQVhoT1F0NHhuSkZDT2FnZGQCCw8WAh8CaGQCDQ8WAh8CZxYCAgEPDxYCHwUFQGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9ncm91cHM/aG9tZT0mZ2lkPTQ1ODc1NTgmdHJrPWFuZXRfdWdfaG1kZAIKD2QWAmYPFgQfAQXrAg0KPHNjcmlwdD4NCiAgICB2YXIgX2dhcSA9IFtbJ19zZXRBY2NvdW50JywgJ1VBLTQ4Nzg5NDE5LTEnXSwgWydfdHJhY2tQYWdldmlldyddXTsNCiAgICAoZnVuY3Rpb24gKGQsIHQpIHsNCiAgICAgICAgdmFyIGcgPSBkLmNyZWF0ZUVsZW1lbnQodCksIHMgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKHQpWzBdOw0KICAgICAgICBnLnNyYyA9ICgnaHR0cHM6JyA9PSBsb2NhdGlvbi5wcm90b2NvbCA/ICcvL3NzbCcgOiAnLy93d3cnKSArICcuZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnOw0KICAgICAgICBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGcsIHMpDQogICAgfSAoZG9jdW1lbnQsICdzY3JpcHQnKSk7DQo8L3NjcmlwdD4NCh8CZ2RkKLCdNEA7ABSlNukGN/L5njkE5y4="/>
+    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUJODI2MTg5MDQwDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWBAICD2QWEAIFD2QWAmYPFgQeBFRleHQFX0RlYnJhIFJ1YmVuLCBOQ0lEUSwgTEVFRCBBUCwgSURFQyB8IFdlc3RwaGFsIENvbGxlZ2Ugb2YgTWVkaWEgQXJ0cyAmIERlc2lnbiB8IERyZXhlbCBVbml2ZXJzaXR5HgdWaXNpYmxlZ2QCDA8WBB4HY29udGVudAUKU0NQUk9EUFVCMR8CZ2QCDQ8WBB8DBUtEZWJyYSBSdWJlbiwgTkNJRFEsIExFRUQgQVAsIElERUMgLSBXZXN0cGhhbCBDb2xsZWdlIG9mIE1lZGlhIEFydHMgJiBEZXNpZ24fAmdkAg4PFgQfAwUHYXJ0aWNsZR8CZ2QCDw8WBB8DBSdXZXN0cGhhbCBDb2xsZWdlIG9mIE1lZGlhIEFydHMgJiBEZXNpZ24fAmdkAhAPFgQfAwU2aHR0cDovL2RyZXhlbC5lZHUvd2VzdHBoYWwvYWJvdXQvZGlyZWN0b3J5L1J1YmVuRGVicmEvHwJnZAIRDxYEHwMFO2h0dHA6Ly9kcmV4ZWwuZWR1L34vbWVkaWEvSW1hZ2VzL25vdy91aS9vZy1kcmV4ZWwtbG9nby5hc2h4HwJnZAISD2QWBGYPZBYCZg9kFghmDxYEHwEFswENCiAgICA8IS0taW1wb3J0cyBtb2JpbGUgc3RhcnRpbmcgcG9pbnQsIGJhc2Ugc3R5bGVzLCBsaWJyYXJpZXMsIHJlc2V0cy0tPg0KCTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL34vc3R5bGVzaGVldHMvd2VzdHBoYWwvbW9iaWxlLz9oYXNoPWMwNzkxMGRiZjdhNTIzYjAwOGQ4MTFiMTA3ODk2MmQ0Ij4NCh8CZ2QCAg8WBB8BBdgCDQoJPCEtLTcyMCBmb3IgKGlwYWQteSlzY3JlZW5zLS0+DQoJPCEtLVtpZiBndGUgSUUgOV0+PCEtLT4NCgk8c3R5bGUgdHlwZT0idGV4dC9jc3MiIG1lZGlhPSJhbGwgYW5kIChtaW4td2lkdGg6IDc0MHB4KSBhbmQgKG1pbi1kZXZpY2Utd2lkdGg6IDc0MHB4KSwgKG1heC1kZXZpY2Utd2lkdGg6IDgwMHB4KSBhbmQgKG1pbi13aWR0aDogNzQwcHgpIGFuZCAob3JpZW50YXRpb246bGFuZHNjYXBlKSI+QGltcG9ydCB1cmwoIi9+L3N0eWxlc2hlZXRzL3dlc3RwaGFsL3BvcnRyYWl0Lz9oYXNoPThjNjQ4MDQ4ZmU5Yjc3NWM1M2ZmMDRiYzNjODhjYzAzIik7PC9zdHlsZT4NCgk8IS0tPCFbZW5kaWZdLS0+DQofAmdkAgQPFgQfAQX5BA0KCTwhLS1kZWZhdWx0IG5vbi1tb2JpbGUgbGF5b3V0IGZvciBsZWdhY3ktLT4NCgk8IS0tW2lmIChsdCBJRSA5KSYoIUlFTW9iaWxlKV0+DQoJPHN0eWxlIHR5cGU9InRleHQvY3NzIiBtZWRpYT0iYWxsIj5AaW1wb3J0IHVybCgiL34vc3R5bGVzaGVldHMvd2VzdHBoYWwvbGFuZHNjYXBlLz9oYXNoPTA4NjQxZWJmZTc4MmUwOWRiY2U5ZTQyYmFmZTMyODViIik7PC9zdHlsZT4NCgk8IVtlbmRpZl0tLT4NCiAgICAJDQoJPCEtLTk2MCBmb3IgYXBwcm9wcmlhdGUgc2NyZWVucy4gQnVtcGVkIG91dCAyMCB0byBhY2NvbW9kYXRlIGRlc2lnbi0tPg0KCTwhLS1baWYgZ3RlIElFIDldPjwhLS0+DQoJPHN0eWxlIHR5cGU9InRleHQvY3NzIiBtZWRpYT0iYWxsIGFuZCAobWluLXdpZHRoOiAxMDIwcHgpIGFuZCAobWluLWRldmljZS13aWR0aDogMTAyMHB4KSwgYWxsIGFuZCAobWF4LWRldmljZS13aWR0aDogMTAyNHB4KSBhbmQgKG1pbi13aWR0aDogMTAyNHB4KSBhbmQgKG9yaWVudGF0aW9uOmxhbmRzY2FwZSkiPkBpbXBvcnQgdXJsKCIvfi9zdHlsZXNoZWV0cy93ZXN0cGhhbC9sYW5kc2NhcGUvP2hhc2g9MDg2NDFlYmZlNzgyZTA5ZGJjZTllNDJiYWZlMzI4NWIiKTs8L3N0eWxlPg0KCTwhLS08IVtlbmRpZl0tLT4NCh8CZ2QCBg8WBB8BBe0BDQoJPCEtLTEyMDAgZm9yIGxhcmdlciBzY3JlZW5zLS0+DQoJPCEtLVtpZiBndGUgSUUgOV0+PCEtLT4NCgk8c3R5bGUgdHlwZT0idGV4dC9jc3MiIG1lZGlhPSJhbGwgYW5kIChtaW4td2lkdGg6IDEyNjBweCkiPkBpbXBvcnQgdXJsKCIvfi9zdHlsZXNoZWV0cy93ZXN0cGhhbC9jb21wdXRlci8/aGFzaD04Y2Q0NDdiMjZmMTJiNThjYmNlY2YwODJlNWZjNWUyZCIpOzwvc3R5bGU+DQoJPCEtLTwhW2VuZGlmXS0tPg0KHwJnZAICD2QWAmYPZBYCZg8WBB4FY2xhc3NlHwJnZAIEDxYCHwQFCmFsdC1sYXlvdXQWAgIBEGRkFgICBQ9kFggCAQ9kFgJmD2QWBgIBDw8WAh8CaGRkAgMPDxYCHwJnZBYEAgEPDxYCHgtOYXZpZ2F0ZVVybAUKL3dlc3RwaGFsL2QWAmYPDxYCHghJbWFnZVVybAVtL34vbWVkaWEvSW1hZ2VzL3dlc3RwaGFsL2hvbWUvd2VzdHBoYWwtdjItbG9nby5hc2h4P2g9MTAwJnc9NDkzJmhhc2g9NUREOEEyOTlEMjlBQjYyMDZEMTgxQ0Q0RUZBRTM3OUUxRDcxMTc3NGRkAgUPFgIfAmhkAgUPZBYCAgEPFgQfAQWDAg0KICAgICAgICAgICAgICAgICAgICAgICAgPHNjcmlwdCBsYW5ndWFnZT0iamF2YXNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoKSB7IERSRVhFTC5XcmFwcGVyLk92ZXJyaWRlU2VhcmNoQm94KCIvd2VzdHBoYWwvc2VhcmNoLyIpIH0pOw0KICAgICAgICAgICAgICAgICAgICAgICAgPC9zY3JpcHQ+DQogICAgICAgICAgICAgICAgICAgICAgICAfAmdkAgIPZBYCZg9kFgICBQ9kFgJmD2QWAmYPZBYCZg8WAh8BBfUUPGRpdiBjbGFzcz0icHJvZmlsZS1oZWFkZXIiPg0KPGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy93ZXN0cGhhbC9mYWN1bHR5L04tUi9ydWJlbi5hc2h4P2g9MTUwJmxhPWVuJnc9MTUwJmhhc2g9ODIxNkJBQjFDMDY1Nzc1RUUyMDMwNzhDQzMxMzU5OUY5QzkzN0M3RSIgYWx0PSJEZWJyYSBSdWJlbiIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIC8+DQo8ZGl2IGNsYXNzPSJmYWN1bHR5LW5hbWUiPkRlYnJhIFJ1YmVuLCBOQ0lEUSwgTEVFRCBBUCwgSURFQzwvZGl2Pg0KPGRpdiBjbGFzcz0idGl0bGUiPjxzcGFuPkFzc29jaWF0ZSBQcm9mZXNzb3I8L3NwYW4+PGJyLz5Qcm9ncmFtIERpcmVjdG9yLCBJbnRlcmlvciBEZXNpZ248L2Rpdj4NCjwvZGl2Pg0KDQo8ZGl2IGNsYXNzPSJpbmZvIj4NCg0KPGRpdiBjbGFzcz0iY29udGFjdCI+DQo8aDI+Q29udGFjdDo8L2gyPg0KPHVsPg0KPGxpPjxpIGNsYXNzPSJpY29uLXBob25lIj48L2k+IFBIOiAyMTUuODk1LjEzODg8L2xpPg0KPGxpPjxpIGNsYXNzPSJpY29uLWVudmVsb3BlLWFsdCI+PC9pPiBFbWFpbDogPGEgaHJlZj0ibWFpbHRvOkRocnViZW5AZHJleGVsLmVkdSI+RGhydWJlbkBkcmV4ZWwuZWR1PC9hPjwvbGk+DQo8bGk+PC9saT4NCjwvdWw+DQo8L2Rpdj4NCg0KPGRpdiBjbGFzcz0ibG9jYXRpb24iPg0KPGgyPkxvY2F0aW9uOjwvaDI+DQpVQlJOIENlbnRlciwgNDEwQg0KPC9kaXY+DQoNCjwvZGl2Pg0KDQo8ZGl2IGlkPSJ0YWJzIiBjbGFzcz0iRFVUYWJzIj4NCjx1bCBpZD0idGFiQ29udHJvbCI+DQogICAgICA8bGk+DQogICAgICAgIDxhIGhyZWY9IiNiaW8iPkJpbzwvYT4gPC9saT4NCiAgICAgIDxsaT4NCiAgICAgICAgPGEgaHJlZj0iI2VkdWNhdGlvbiI+RWR1Y2F0aW9uPC9hPiA8L2xpPg0KICAgICAgPGxpPg0KICAgICAgICA8YSBocmVmPSIjcHVibGljYXRpb24iPlB1YmxpY2F0aW9uPC9hPg0KICAgICAgPC9saT4NCiAgICAgIDxsaT4NCiAgICAgICAgPGEgaHJlZj0iI3Jlc2VhcmNoIj5SZXNlYXJjaDwvYT4NCiAgICAgIDwvbGk+DQogICAgICA8bGk+DQogICAgICAgIDxhIGhyZWY9IiNjcmVhdGl2ZS13b3JrIj5DcmVhdGl2ZSBXb3JrPC9hPg0KICAgICAgPC9saT4NCjwvdWw+DQoNCg0KPGRpdiBpZD0idGFicyI+IA0KICAgIDxkaXYgaWQ9ImJpbyIgY2xhc3M9InVpLXRhYnMtaGlkZSI+PHA+RGVicmEgUnViZW4gaXMgYW4gYXNzaXN0YW50IHByb2Zlc3NvciBpbiB0aGUgRGVwYXJ0bWVudCBvZiBBcmNoaXRlY3R1cmUgYW5kIEludGVyaW9ycyBhdCBEcmV4ZWwgVW5pdmVyc2l0eSwgYW5kIHRlYWNoZXMgYm90aCBsZWN0dXJlIGFuZCBzdHVkaW8gY291cnNlcyBpbiB0aGUgZ3JhZHVhdGUgYW5kIHVuZGVyZ3JhZHVhdGUgSW50ZXJpb3IgRGVzaWduIFByb2dyYW1zLiBDdXJyZW50IGN1cnJpY3VsdW0gZGV2ZWxvcG1lbnQgaW5jbHVkZXMgaW50ZWdyYXRpbmcgc3VzdGFpbmFibGUgZGVzaWduIGFuZCBlbnZpcm9ubWVudGFsIHRoZW9yeSBpbnRvIERyZXhlbOKAmXMgQ0lEQS1hY2NyZWRpdGVkIEludGVyaW9yIERlc2lnbiBQcm9ncmFtIGFuZCB0aGUgZGV2ZWxvcG1lbnQgb2YgYSBuZXcgbWlub3I6IFN1c3RhaW5hYmlsaXR5IGluIHRoZSBCdWlsdCBFbnZpcm9ubWVudC4gRGVicmHigJlzIHJlc2VhcmNoIGluY29ycG9yYXRlcyBpbnRlcmRpc2NpcGxpbmFyeSBkZXNpZ24gdGhpbmtpbmcsIHN1c3RhaW5hYmlsaXR5IGlzc3VlcyBhbmQgcGFydGljaXBhdG9yeSBwcmFjdGljZXMgYXMgdGhleSByZWxhdGUgdG8gY29tbXVuaXR5IGJ1aWxkaW5nLiBTaGUgaGFzIHJ1biBzZXZlcmFsIGNvdXJzZXMgaW4gc29jaWFsIHN1c3RhaW5hYmlsaXR5IGFuZCBjb21tdW5pdHkgZGVzaWduIGFuZCB3YXMgdGhlIHByaW1hcnkgaW52ZXN0aWdhdG9yIGZvciB0aHJlZSBmb3VuZGF0aW9uIGdyYW50cyB0aGF0IHJlc3VsdGVkIGluIHRoZSByZWNlbnQgZGV2ZWxvcG1lbnQgb2YgYW4gODUsMDAwIHNmLiBiYXJyZW4gc2Nob29seWFyZCBpbnRvIGEgbmV3IHBsYXlncm91bmQuIERlYnJhIGlzIGFuIE5DSURRIGNlcnRpZmljYXRlIGhvbGRlciBhbmQgYSBMRUVEIGFjY3JlZGl0ZWQgcHJvZmVzc2lvbmFsLiBBbiBpbnRlcmlvciBkZXNpZ24gcHJhY3RpdGlvbmVyIGZvciAxOCB5ZWFycywgaGVyIHdvcmsgaGFzIHdvbiBzZXZlcmFsIGF3YXJkcyBpbmNsdWRpbmcgQmVzdCBvZiBTaG93IGZvciB0aGUgSURFQyAyMDA1IGp1cmllZCBJbnRlcmlvciBEZXNpZ24gQ29tcGV0aXRpb24uIEN1cnJlbnRseSBzaGUgaXMgd29ya2luZyBvbiB0aGUgaW50ZXJpb3IgZGVzaWduIGZvciBhIDYwMDAgc3F1YXJlIGZvb3Qgc3VzdGFpbmFibGUgcmVzaWRlbmNlIGluIE1hbGxvcmNhIFNwYWluLjwvcD4gPC9kaXY+DQogICAgPGRpdiBpZD0iZWR1Y2F0aW9uIiBjbGFzcz0idWktdGFicy1oaWRlIj5NUywgSW50ZXJpb3IgRGVzaWduLCBEcmV4ZWwgVW5pdmVyc2l0eTxiciAvPkJBLCBBcnQgSGlzdG9yeS9GcmVuY2gsIFVuaXZlcnNpdHkgb2YgUmljaG1vbmQ8L2Rpdj4NCiAgICA8ZGl2IGlkPSJwdWJsaWNhdGlvbiIgY2xhc3M9InVpLXRhYnMtaGlkZSI+PC9kaXY+DQogICAgPGRpdiBpZD0icmVzZWFyY2giIGNsYXNzPSJ1aS10YWJzLWhpZGUiPjwvZGl2Pg0KICAgIDxkaXYgaWQ9ImNyZWF0aXZlLXdvcmsiIGNsYXNzPSJ1aS10YWJzLWhpZGUiPjwvZGl2Pg0KPC9kaXY+DQoNCjwvZGl2PmQCAw9kFgJmD2QWBAIBD2QWDgIBDxYCHwEFCFdlc3RwaGFsZAIDD2QWAgIBDw8WAh8FBS5odHRwOi8vd3d3LmZhY2Vib29rLmNvbS9kcmV4ZWwud2VzdHBoYWxjb2xsZWdlZGQCBQ9kFgICAQ8PFgIfBQUlaHR0cHM6Ly90d2l0dGVyLmNvbS8jIS9kcmV4ZWx3ZXN0cGhhbGRkAgcPFgIfAmcWAgIBDw8WAh8FBShodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2RyZXhlbHdlc3RwaGFsZGQCCQ8WAh8CaGQCCw8WAh8CaGQCDw8WAh8CZxYCAgEPDxYCHwUFIWh0dHBzOi8vdmltZW8uY29tL3dlc3RwaGFsY29sbGVnZWRkAgoPZBYCZg8WBB8BBegCDQo8c2NyaXB0Pg0KICAgIHZhciBfZ2FxID0gW1snX3NldEFjY291bnQnLCAnVUEtNjgzMjMtMSddLCBbJ190cmFja1BhZ2V2aWV3J11dOw0KICAgIChmdW5jdGlvbiAoZCwgdCkgew0KICAgICAgICB2YXIgZyA9IGQuY3JlYXRlRWxlbWVudCh0KSwgcyA9IGQuZ2V0RWxlbWVudHNCeVRhZ05hbWUodClbMF07DQogICAgICAgIGcuc3JjID0gKCdodHRwczonID09IGxvY2F0aW9uLnByb3RvY29sID8gJy8vc3NsJyA6ICcvL3d3dycpICsgJy5nb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcyc7DQogICAgICAgIHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZywgcykNCiAgICB9IChkb2N1bWVudCwgJ3NjcmlwdCcpKTsNCjwvc2NyaXB0Pg0KHwJnZAIED2QWAmYPZBYIAgEPFgIfAQUIVklTSVQgVVNkAgMPFgIfAQUFQVBQTFlkAgcPZBYCZg9kFgJmD2QWAmYPFgQfBGUfAmdkAgkPZBYCZg9kFgJmD2QWAmYPFgQfBGUfAmdkZC9SuR38mpHlcTRjm5fCk9x73Ip7"/>
    </div>
    <script async="" src="/bundles/v2-pagenotfound-js?v=8lqYvpjOwX4-ySsDwSm00Q2Rjbq-OmK8boYwqgBLMt81">
    </script>
+   <div class="aspNetHidden">
+    <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="6654023C"/>
+   </div>
    <div class="ie-compat" id="ieCompatDiv">
     <div class="wrap row" style="">
      <p>
@@ -86,20 +117,13 @@
      </p>
     </div>
    </div>
-   <ul class="bg-images" id="bg-images">
-    <li>
-     <noscript class="responsive-image" data-alt="Biomed Home Image" data-path="/~/media/Images/biomed/home-bg">
-      <img alt="Biomed Home Image" src="/~/media/Images/biomed/home-bg/mobile.ashx"/>
-     </noscript>
-    </li>
-   </ul>
    <div class="page-top">
     <div class="wrap row ">
      <header id="header">
       <div id="bodytag_1_divLockUp">
        <h1 id="lockup">
-        <a href="/biomed/" id="bodytag_1_hlLockup">
-         <img id="bodytag_1_imgLockup" src="/~/media/Images/biomed/Biomed_TwoLine_gold.ashx?h=110&amp;w=460&amp;hash=B38454028CD3454F875F6FD3BB9559CF260976D3"/>
+        <a href="/westphal/" id="bodytag_1_hlLockup">
+         <img id="bodytag_1_imgLockup" src="/~/media/Images/westphal/home/westphal-v2-logo.ashx?h=100&amp;w=493&amp;hash=5DD8A299D29AB6206D181CD4EFAE379E1D711774"/>
         </a>
        </h1>
       </div>
@@ -108,29 +132,12 @@
         <div id="site-search">
          <input class="header-search" placeholder="Search..." type="search"/>
          <script language="javascript" type="text/javascript">
-          $(document).ready(function () { DREXEL.Wrapper.OverrideSearchBox("/biomed/Search/") });
+          $(document).ready(function () { DREXEL.Wrapper.OverrideSearchBox("/westphal/search/") });
          </script>
         </div>
-        <ul>
-         <li>
-          <a href="/biomed/academics/overview/">
-           Prospective Students
-          </a>
-         </li>
-         <li>
-          <a href="/biomed/resources/faculty-and-staff/cdqi/">
-           PEOs/SLOs
-          </a>
-         </li>
-         <li>
-          <a href="/biomed/about/make-a-gift/">
-           Make A Gift
-          </a>
-         </li>
-        </ul>
         <ul id="alt-layout-nav">
          <li>
-          <a href="/biomed/">
+          <a href="/westphal/">
            Site Home
           </a>
           <ul>
@@ -140,18 +147,23 @@
             </a>
            </li>
            <li class="current bordered">
-            <a href="/biomed/">
-             School of Biomedical Engineering, Science and Health Systems
+            <a href="/westphal/">
+             Westphal College of Media Arts &amp; Design
             </a>
            </li>
            <li>
-            <a href="/conquer/">
-             CONQUER Collaborative
+            <a href="/foxcollection/">
+             Fox Historic Costume Collection
             </a>
            </li>
            <li>
-            <a href="/coulter/">
-             Coulter - Drexel Translational Research Partnership Program
+            <a href="/pearlsteingallery/">
+             Pearlstein Gallery
+            </a>
+           </li>
+           <li>
+            <a href="/performingarts/">
+             Performing Arts
             </a>
            </li>
           </ul>
@@ -167,185 +179,188 @@
          </h1>
          <ul class="top-level">
           <li class="section">
-           <a class="section" href="/biomed/academics/">
+           <a class="section" href="/westphal/academics/">
             Academics
            </a>
            <ul>
             <li>
-             <a href="/biomed/academics/overview/">
+             <a href="/westphal/academics/overview/">
               Overview
              </a>
             </li>
             <li>
-             <a href="/biomed/academics/undergraduate-programs/">
-              Undergraduate Programs
+             <a href="/westphal/academics/undergraduate/">
+              Undergraduate
              </a>
             </li>
             <li>
-             <a href="/biomed/academics/graduate-programs/">
-              Graduate Programs
+             <a href="/westphal/academics/graduate/">
+              Graduate
              </a>
             </li>
             <li>
-             <a href="/biomed/academics/advanced-certificate-programs/">
-              Advanced Certificate Programs
+             <a href="/westphal/academics/minors/">
+              Minors
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/academics/Online Programs/">
+              Online Programs
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/academics/co-op/">
+              Co-operative Education
              </a>
             </li>
            </ul>
           </li>
           <li class="section">
-           <a class="section" href="/biomed/admissions/">
+           <a class="section" href="/westphal/admissions/">
             Admissions
            </a>
            <ul>
-           </ul>
-          </li>
-          <li class="section">
-           <a class="section" href="/biomed/research/">
-            Research
-           </a>
-           <ul>
             <li>
-             <a href="/biomed/research/overview/">
-              Overview
+             <a href="/westphal/admissions/apply/">
+              Apply Now
              </a>
             </li>
             <li>
-             <a href="/biomed/research/research-areas/">
-              Research Areas
+             <a href="/westphal/admissions/faq/">
+              Frequently Asked Questions
              </a>
             </li>
             <li>
-             <a href="/biomed/research/labs-research-groups/">
-              Labs &amp; Research Groups
+             <a href="/westphal/admissions/visit/">
+              Visits and Tours
              </a>
             </li>
             <li>
-             <a href="/biomed/research/centers-and-initiatives/">
-              Centers and Initiatives
-             </a>
-            </li>
-            <li>
-             <a href="/biomed/research/international-partnerships/">
-              International Partnerships
-             </a>
-            </li>
-            <li>
-             <a href="/biomed/research/facilities/">
-              Facilities &amp; Equipment
-             </a>
-            </li>
-            <li>
-             <a href="/biomed/research/funding-opportunities-and-resources/">
-              Funding Opportunities &amp; Resources
+             <a href="/westphal/admissions/precollege/">
+              Pre-College Programs
              </a>
             </li>
            </ul>
           </li>
           <li class="section">
-           <a class="section" href="/biomed/news-and-events/">
+           <a class="section" href="/westphal/news-events/">
             News &amp; Events
            </a>
            <ul>
             <li>
-             <a href="/biomed/news-and-events/news/">
+             <a href="/westphal/news-events/newsletter/">
+              Newsletter
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/news-events/news/">
               News
              </a>
             </li>
             <li>
-             <a href="/biomed/news-and-events/events-calendar/">
+             <a href="/westphal/news-events/events/">
               Events Calendar
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/news-events/media-relations/">
+              Media Relations
              </a>
             </li>
            </ul>
           </li>
           <li class="section">
-           <a class="section" href="/biomed/resources/">
-            Resources
+           <a class="section" href="/westphal/creative/">
+            Creative Work
+           </a>
+           <ul>
+           </ul>
+          </li>
+          <li class="section">
+           <a class="section" href="/westphal/student-resources/">
+            Student Resources
            </a>
            <ul>
             <li>
-             <a href="/biomed/resources/overview/">
-              Overview
+             <a href="/westphal/student-resources/services/">
+              Student Services
              </a>
             </li>
             <li>
-             <a href="/biomed/resources/prospective-students/">
-              Prospective Students
-             </a>
-            </li>
-            <li>
-             <a href="/biomed/resources/current-undergraduate/">
+             <a href="/westphal/student-resources/current-undergrad/">
               Current Undergraduate
              </a>
             </li>
             <li>
-             <a href="/biomed/resources/current-graduate/">
+             <a href="/westphal/student-resources/current-grad/">
               Current Graduate
              </a>
             </li>
             <li>
-             <a href="/biomed/resources/alumni/">
-              Alumni
+             <a href="/westphal/student-resources/graduating-students/">
+              Graduating Students
              </a>
             </li>
             <li>
-             <a href="/biomed/resources/faculty-and-staff/">
-              Faculty &amp; Staff
+             <a href="/westphal/student-resources/technology/">
+              Technology Services
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/student-resources/organizations/">
+              Student Organizations
              </a>
             </li>
            </ul>
           </li>
           <li class="active section">
-           <a class="section" href="/biomed/faculty/">
-            Faculty
+           <a class="section" href="/westphal/about/">
+            About the College
            </a>
            <ul>
             <li>
-             <a href="/biomed/faculty/core/">
-              Core
+             <a href="/westphal/about/overview/">
+              About the College
              </a>
             </li>
             <li>
-             <a href="/biomed/faculty/affiliated/">
-              Affiliated
-             </a>
-            </li>
-           </ul>
-          </li>
-          <li class="section">
-           <a class="section" href="/biomed/about/">
-            About
-           </a>
-           <ul>
-            <li>
-             <a href="/biomed/about/faculty-message/">
-              Message from the Faculty
+             <a href="/westphal/about/accreditation/">
+              Accreditation
              </a>
             </li>
             <li>
-             <a href="/biomed/about/fast-facts-and-at-a-glance/">
-              Fast Facts
+             <a href="/westphal/about/alumni-spotlight/">
+              Alumni Spotlight
              </a>
             </li>
             <li>
-             <a href="/biomed/about/visitor-information/">
-              Visitor Information
-             </a>
-            </li>
-            <li>
-             <a href="/biomed/about/employment-opportunities/">
+             <a href="/westphal/about/career-opportunities/">
               Employment Opportunities
              </a>
             </li>
             <li>
-             <a href="/biomed/about/contact/">
-              Contact
+             <a href="/westphal/about/rudman-institute/">
+              Rudman Institute
              </a>
             </li>
             <li>
-             <a href="/biomed/about/make-a-gift/">
-              Make A Gift
+             <a href="/westphal/about/research/">
+              Research
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/about/directory/">
+              Faculty and Staff Directory
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/about/contact/">
+              Contact Us
+             </a>
+            </li>
+            <li>
+             <a href="/westphal/about/gift/">
+              Make a Gift
              </a>
             </li>
            </ul>
@@ -368,17 +383,22 @@
       <nav id="breadcrumbs">
        <ul>
         <li>
-         <a href="/biomed/">
+         <a href="/westphal/">
           Home
          </a>
         </li>
         <li>
-         <a href="/biomed/faculty/">
-          Faculty
+         <a href="/westphal/about/">
+          About the College
          </a>
         </li>
         <li>
-         Core
+         <a href="/westphal/about/directory/">
+          Faculty and Staff Directory
+         </a>
+        </li>
+        <li>
+         Debra Ruben
         </li>
        </ul>
       </nav>
@@ -386,1261 +406,154 @@
      <!--grid-->
      <div class="row">
       <div class="grid-18 push-6" id="center-rail">
-       <article>
-        <hgroup>
-         <h1>
-          Core Faculty Directory
-         </h1>
-        </hgroup>
-       </article>
-       <div class="datasetrenderer faculty-directory">
-        <table cellspacing="0" class="DUVendors" id="DUVendors-allFaculty" width="100%">
-         <thead>
-          <tr class="show-all">
-           <th colspan="2">
-            <input onclick="ShowAllVendors(this);" type="button" value="Show All"/>
-           </th>
-          </tr>
-          <tr>
-           <th class="faculty-contact-header">
-            Contact Information
-           </th>
-           <th>
-            Research Interests
-           </th>
-          </tr>
-          <tr>
-           <th>
-            <input class="name-input" id="NameInputFilter" label="Search" name="filter" onkeyup="Table.filter(this,this)" value="Search"/>
-           </th>
-           <th>
-            <input class="name-input" id="NameInputFilter2" label="Search" name="filter" onkeyup="Table.filter(this,this)" value="Search"/>
-           </th>
-          </tr>
-         </thead>
-         <tbody>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Fred Allen" height="225" src="/~/media/Images/biomed/faculty/fred-allen.ashx?h=225&amp;la=en&amp;w=151&amp;hash=9F198052C26E37AC0063859E065192F07571F8C9" width="151"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/AllenFred/">
-               Fred Allen, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Teaching Professor and Associate Director for Undergraduate Education
-              </em>
-             </p>
-             <p>
-              Bossone 703
-              <br/>
-              <a href="mailto:fdallen@drexel.edu">
-               fdallen@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Tissue Engineering, Cell Engineering, Orthopedics, Bone Remodeling, Wound Healing, Mechanotransduction, Signal Transduction, Adhesion, Migration
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Hasan Ayaz" height="225" src="/~/media/Images/biomed/faculty/ayaz-hasan.ashx?h=225&amp;la=en&amp;w=150&amp;hash=EA0EF64572F0B7AFE5DAB94E5E69B757EE40A483" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/AyazHasan/">
-               Hasan Ayaz, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Research Professor
-              </em>
-             </p>
-             <p>
-              Monell 101
-              <br/>
-              <a href="mailto:hasan.ayaz@drexel.edu">
-               hasan.ayaz@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Optical brain imaging, cognitive neuroengineering, brain computer interface (BCI), functional near infrared (fNIR), and near infrared spectroscopy (NIRS).
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Sri Balasubramanian" height="225" src="/~/media/Images/biomed/faculty/Sri-Balasubramanian.ashx?h=225&amp;la=en&amp;w=150&amp;hash=A83FDF8E8B3294BB8ABE6971DF6BEFCECA6AE042" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/BalasubramanianSriram/">
-               Sriram Balasubramanian, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Professor
-              </em>
-             </p>
-             <p>
-              Bossone 713
-              <br/>
-              <a href="mailto:sri.bala@drexel.edu">
-               sri.bala@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Orthopedic biomechanics, Pediatric spine and rib cage deformities, Scoliosis, Computational modeling, Pediatric long bones, Animal models, Injury biomechanics, Spinal kinetics and kinematics, and Knee kinematics.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Kenneth A Barbee, PhD" height="225" src="/~/media/Images/biomed/faculty/barbee-ken.ashx?h=225&amp;la=en&amp;w=150&amp;hash=A4C8E65301AA37CD307AA6D06226BC25790947AC" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/BarbeeKenneth/">
-               Kenneth Barbee, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Professor, Senior Associate Dean, and Associate Dean for Research
-              </em>
-             </p>
-             <p>
-              Bossone 714
-              <br/>
-              <a href="mailto:barbee@drexel.edu">
-               barbee@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Cellular biomechanics of neural and vascular injury, mechanotransduction in the cardiovascular system, mechanical control of growth and development for wound healing and tissue engineering
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="" height="225" src="/~/media/Images/biomed/faculty/brandt-rauf-paul.ashx?h=225&amp;la=en&amp;w=151&amp;hash=CE959698E053FC0E46D36BEB7615EF15B8FE83B4" width="151"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/Brandt-RaufPaul/">
-               Paul  Brandt-Rauf, DrPH, MD, ScD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Distinguished University Professor and Dean
-              </em>
-             </p>
-             <p>
-              Bossone 718-A
-              <br/>
-              <a href="mailto:pwb35@drexel.edu">
-               pwb35@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Environmental health, particularly the molecular biology and molecular epidemiology of environmental carcinogenesis.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Donald G. Buerk" height="225" src="/~/media/Images/biomed/faculty/buerk-donald.ashx?h=225&amp;la=en&amp;w=150&amp;hash=9E45A7B2D0564CD8D41D7F617E2D4EB10352C189" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/BuerkDonald/">
-               Donald Buerk, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Research Professor
-              </em>
-             </p>
-             <p>
-              LeBow 435-K
-              <br/>
-              <a href="mailto:dgb28@drexel.edu">
-               dgb28@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Biotechnology, physiology, systems biology, blood flow, microcirculation, nitric oxide, oxygen transport
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Jaimie Dougherty" height="224" src="/~/media/Images/biomed/faculty/dougherty-jaimie.ashx?h=224&amp;la=en&amp;w=150&amp;hash=D3F93CA227FC7FDE44C976CA0937C4FD98E1D975" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/DoughertyJaimie/">
-               Jaimie Dougherty, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Teaching Professor
-              </em>
-             </p>
-             <p>
-              Bossone 707
-              <br/>
-              <a href="mailto:jbd34@drexel.edu">
-               jbd34@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Brain-computer interface, neural encoding, electrophysiological signal acquisition and processing.
-            </p>
-            <p>
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Lin Han" height="224" src="/~/media/Images/biomed/faculty/Lin-Han.ashx?h=224&amp;la=en&amp;w=150&amp;hash=69AC44926364CB529C8786BEE60A43E9B8E9B2EA" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/HanLin/">
-               Lin Han, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Professor
-              </em>
-             </p>
-             <p>
-              Bossone 711
-              <br/>
-              <a href="mailto:lh535@drexel.edu">
-               lh535@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Nanoscale structure-property relationships of biological materials, genetic and molecular origins of soft joint tissue diseases, biomaterials under extreme conditions, coupling between stimulus-responsiveness and geometry
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Uri Hershberg PhD" height="225" src="/~/media/Images/biomed/faculty/hershberg-uri-phd.ashx?h=225&amp;la=en&amp;w=150&amp;hash=E712B6DB331781D8F4E1D8B799EDDE90E6BB8145" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/HershbergUri/">
-               Uri Hershberg, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Professor
-              </em>
-             </p>
-             <p>
-              Monell 102
-              <br/>
-              <a href="mailto:uri.hershberg@drexel.edu">
-               uri.hershberg@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Bioinformatics, immunology, neural computation, system biology, somatic selection, autoimmunity, genetic stability, germline diversity, dendritic cell, transcription elements, pathogens, computational and mathematical modeling, complex systems, cognition and inflammation
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Kurtulus Izzetoglu" height="226" src="/~/media/Images/biomed/faculty/izzetoglu-kurtulus.ashx?h=226&amp;la=en&amp;w=150&amp;hash=0F1038D3C0089265ED61416CE9B8C9EEEF34D4FB" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/IzzetogluKurtulus/">
-               Kurtulus Izzetoglu, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Research Professor
-              </em>
-             </p>
-             <p>
-              Monell 131
-              <br/>
-              <a href="mailto:ki25@drexel.edu">
-               ki25@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Cognitive neuroengineering, functional brain imaging, near infrared spectroscopy, medical sensor development, biomedical signal processing, human performance assessment, and cognitive aging.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Meltem Izzetoglu" height="225" src="/~/media/Images/biomed/faculty/izzetoglu-meltem.ashx?h=225&amp;la=en&amp;w=150&amp;hash=548499A3A0CAFCAF053680215404C96834159628" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/IzzetogluMeltem/">
-               Meltem Izzetoglu, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Research Professor
-              </em>
-             </p>
-             <p>
-              Monell 109
-              <br/>
-              <a href="mailto:meltem@cbis.ece.drexel.edu">
-               meltem@cbis.ece.drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Cognitive neuroengineering, biomedical signal processing, statistical signal analysis, optimal artifact removal, information processing, optical brain imaging, functional near infrared spectroscopy, working memory, attention, learning, reading and mathematical disabilities, cognitive aging, anesthesia awareness, and social anxiety disorders.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Dov Jaron" height="225" src="/~/media/Images/biomed/faculty/jaron-dov.ashx?h=225&amp;la=en&amp;w=150&amp;hash=68E16514B9BF4867775549A0011B9D8C0791099C" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/JaronDov/">
-               Dov Jaron, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Calhoun Distinguished Professor of Engineering in Medicine
-              </em>
-             </p>
-             <p>
-              Bossone 704
-              <br/>
-              <a href="mailto:dov.jaron@drexel.edu">
-               dov.jaron@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Engineering development and optimization of cardiac assist devices, cardiovascular dynamics, cardiovascular function under stress, modeling of biological systems, mechanisms of gas transport in the mivtocirculation, biomedical instrumentation biomatrices, cell-biomaterials interactions, artificial internal organs, endothelial cell biology, hemodynamic forces, atherosclerosis, genomics, signal transduction
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Andres Kriete, PhD" height="225" src="/~/media/Images/biomed/faculty/andres-kriete.ashx?h=225&amp;la=en&amp;w=150&amp;hash=DCA0FA22FC17EA1BF4C26F24220F869B169BDE9B" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/KrieteAndres/">
-               Andres Kriete, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Director for Graduate Studies and Academic Operations, Associate Teaching Professor
-              </em>
-             </p>
-             <p>
-              Bossone 718-B
-              <br/>
-              <a href="mailto:ak3652@drexel.edu">
-               ak3652@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Systems biology of aging, control theory, aging physiome, and high-content cellular bioimaging.
-            </p>
-            <p>
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Steven M. Kurtz" height="225" src="/~/media/Images/biomed/faculty/kurtz-steven.ashx?h=225&amp;la=en&amp;w=150&amp;hash=4094D27EF63D92E59B8CF6492E871EFE1D012E64" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/KurtzSteven/">
-               Steven Kurtz, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Research Professor
-              </em>
-             </p>
-             <p>
-              3401 Market St, Suite 345
-              <br/>
-              <a href="mailto:skurtz@drexel.edu">
-               skurtz@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Computational biomechanics of bone-implant systems and impact-related injuries, orthopaedic biomechanics, contact mechanics, orthopaedic biomaterials, large-deformation mechanical behavior and wear of polymers, and degradation and crosslinking of polyolefins in implant applications.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Ryszard Lec" height="226" src="/~/media/Images/biomed/faculty/lec-ryszard.ashx?h=226&amp;la=en&amp;w=150&amp;hash=D308B4A6BE0CDDE7D8C5A618474670B58D9246D6" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/LecRyszard/">
-               Ryszard Lec, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Professor
-              </em>
-             </p>
-             <p>
-              Monell 115-A
-              <br/>
-              <a href="mailto:r.lec@coe.drexel.edu">
-               r.lec@coe.drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Medical and biomedical sensors, surface acoustic wave (SAW) devices, new sensing mechanisms, sensor intelligence and micro machining.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Peter A. Lewin" height="225" src="/~/media/Images/biomed/faculty/lewin-peter.ashx?h=225&amp;la=en&amp;w=150&amp;hash=DEBB03B902AC263D278AF8CB99ECC4C58625D1D1" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/LewinPeter/">
-               Peter Lewin, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Richard B. Beard Distinguished University Professor
-              </em>
-             </p>
-             <p>
-              Bossone 701
-              <br/>
-              <a href="mailto:lewin@coe.drexel.edu">
-               lewin@coe.drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Ultrasonic characterization of materials, propagation of ultrasonic waves in inhomogeneous media, electro-acoustic transducers, biological effects of ultrasound, physical acoustics, and underwater acoustics
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Hualou Liang" height="225" src="/~/media/Images/biomed/faculty/liang-hualou.ashx?h=225&amp;la=en&amp;w=150&amp;hash=C7054DD733C2A9B5D0D4BF2FC09A0461DFF241B1" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/LiangHualou/">
-               Hualou Liang, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Professor
-              </em>
-             </p>
-             <p>
-              Monell 103
-              <br/>
-              <a href="mailto:hualou.liang@drexel.edu">
-               hualou.liang@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Neuroengineering, neuroinfomatics, cognitive and computational neuroscience, neural data analysis and computational modeling, biomedical signal processing
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Donald McEachron" height="225" src="/~/media/Images/biomed/faculty/mceachron-don.ashx?h=225&amp;la=en&amp;w=150&amp;hash=ED7DE54C3546568E6F2E4B69547F124693EA4386" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/McEachronDonald/">
-               Donald McEachron, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Teaching Professor and Coordinator for Academic Assessment and Quality Improvement
-              </em>
-             </p>
-             <p>
-              Bossone 719
-              <br/>
-              <a href="mailto:mceachdl@drexel.edu">
-               mceachdl@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Animal behavior, autoradiography, biological rhythms, cerebral metabolism, evolutionary theory, image processing, neuroendocrinology
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Karen Moxon" height="225" src="/~/media/Images/biomed/faculty/moxon-karen.ashx?h=225&amp;la=en&amp;w=150&amp;hash=B3BE0E6B621EECF3FAE9D5387A6A13A6EF82B089" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/MoxonKaren/">
-               Karen Moxon, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Part-time Research Professor
-              </em>
-             </p>
-             <p>
-              Bossone 718
-              <br/>
-              <a href="mailto:karen.moxon@drexel.edu">
-               karen.moxon@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Computational modeling, neural modeling, neurorobotics, neuromimetics, neurocontrol, multiple,single neuron recording.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Michael Neidrauer" height="226" src="/~/media/Images/biomed/faculty/neidrauer-michael.ashx?h=226&amp;la=en&amp;w=150&amp;hash=599240C55D3DC761D332A8DD274D62568E84E2DB" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/NeidrauerMichael/">
-               Michael Neidrauer, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Research Professor
-              </em>
-             </p>
-             <p>
-              Bossone 625
-              <br/>
-              <a href="mailto:mtn33@drexel.edu">
-               mtn33@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Wound healing, near infrared, spectroscopy, cell culture, data analysis, optical coherence tomography (OCT), matlab, life sciences assay development, confocal microscopy, biomaterials, in-vivo, medical devices
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Banu Onaral" height="225" src="/~/media/Images/biomed/faculty/onaral-banu.ashx?h=225&amp;la=en&amp;w=150&amp;hash=76F1D83A32EB7AF865DD1E27C7057240B86B7C4B" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/OnaralBanu/">
-               Banu Onaral, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               H. H. Sun Professor and Senior Advisor to the President, Global Partnerships
-              </em>
-             </p>
-             <p>
-              Monell 106
-              <br/>
-              <a href="mailto:banu.onaral@drexel.edu">
-               banu.onaral@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Functional optical brain imaging, biomedical signal processing, complexity and scaling in biomedical signals, systems, and imaging
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Kambiz Pourrezai" height="225" src="/~/media/Images/biomed/faculty/porrezaei-kambiz.ashx?h=225&amp;la=en&amp;w=150&amp;hash=30DC3845C216828B582FA2F9BD05396A03892587" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/PourrezaeiKambiz/">
-               Kambiz Pourrezaei, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Professor
-              </em>
-             </p>
-             <p>
-              Monell 105
-              <br/>
-              <a href="mailto:kambiz@drexel.edu">
-               kambiz@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Nanotechnology, near infrared imaging (NIR), medical devices
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Ahmet Sacan" height="224" src="/~/media/Images/biomed/faculty/Sacan-Ahmet.ashx?h=224&amp;la=en&amp;w=150&amp;hash=29F061656BEC681414E917AA62FC375C2D5B9A73" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/SacanAhmet/">
-               Ahmet Sacan, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Teaching Professor
-              </em>
-             </p>
-             <p>
-              Bossone 702
-              <br/>
-              <a href="mailto:as3344@drexel.edu">
-               as3344@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Bioinformatics, structural bioinformatics, databases, data mining, protein folding, protein structure alignment, protein-protein interactions, computational drug design, graphical user interfaces, gene expression analysis, image processing, computer vision, automated cell tracking, online education tools.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Joseph J. Sarver" height="225" src="/~/media/Images/biomed/faculty/sarver-joseph.ashx?h=225&amp;la=en&amp;w=150&amp;hash=5695F43987AAA7567CBEB481C51B20C2143E3617" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/SarverJoseph/">
-               Joseph Sarver, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Teaching Professor
-              </em>
-             </p>
-             <p>
-              Gerri C. LeBow 619
-              <br/>
-              <a href="mailto:joseph.j.sarver@drexel.edu">
-               joseph.j.sarver@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Neuromuscular adaptation to changes in the myo-mechanical environment
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Rami Seliktar" height="226" src="/~/media/Images/biomed/faculty/seliktar-rami.ashx?h=226&amp;la=en&amp;w=150&amp;hash=B49C88DF536A3CA5754CD7B2B0066B92623920F1" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/SeliktarRami/">
-               Rahamim Seliktar, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Professor and Vice Director
-              </em>
-             </p>
-             <p>
-              Bossone 718-A
-              <br/>
-              <a href="mailto:seliktar@drexel.edu">
-               seliktar@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Rehabilitation engineering, Limb prosthetics, biomechanics, human motion, orthopedic biomechanics, assistive technology
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Patricia Shewokis" height="225" src="/~/media/Images/biomed/faculty/shewokis-patricia.ashx?h=225&amp;la=en&amp;w=150&amp;hash=241D7783ED35FFC2976CE10E67E10A4793FFE8B5" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/ShewokisPatricia/">
-               Patricia Shewokis, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Professor
-              </em>
-             </p>
-             <p>
-              Bellet Building 523
-              <br/>
-              <a href="mailto:shewokis@drexel.edu">
-               shewokis@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Movement science, smart prosthetics, "brain-in-the-loop" cognitive technologies, motor learning, human performance, biofeedback, neural imaging, statistics and measurement, and brain-computer interface (BCI).
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Adrian Shieh" height="225" src="/~/media/Images/biomed/faculty/shieh-adrian.ashx?h=225&amp;la=en&amp;w=150&amp;hash=BE94FAF6A0451F210D3512A73CEE949266A3629D" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/ShiehAdrian/">
-               Adrian Shieh, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Teaching Professor
-              </em>
-             </p>
-             <p>
-              Bossone 710
-              <br/>
-              <a href="mailto:adrian.c.shieh@drexel.edu">
-               adrian.c.shieh@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Biomechanics, cancer, cellular engineering, extracellular matrix, fibroblasts, interstitial flow, mechanobiology, tissue engineering, tumor invasion and metastasis, and tumor microenvironment.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Wan Shih" height="225" src="/~/media/Images/biomed/faculty/shih-wan.ashx?h=225&amp;la=en&amp;w=150&amp;hash=66176B4D15AFC076F416E2F093BEC24D040F611A" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/ShihWan/">
-               Wan Shih, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Professor
-              </em>
-             </p>
-             <p>
-              Monell 104
-              <br/>
-              <a href="mailto:wan.y.shih@drexel.edu">
-               wan.y.shih@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Piezoelectric microcantilever biosensors development, piezoelectric finger development, quantum dots development, tissue elasticity imaging, and piezoelectric microcantilever force probes.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Kara Spiller" height="225" src="/~/media/Images/biomed/faculty/spiller-kara.ashx?h=225&amp;la=en&amp;w=150&amp;hash=2B335F1E6CC422EFB2A13CA55FBB8010ED7D77C8" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/SpillerKara/">
-               Kara Spiller, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Professor
-              </em>
-             </p>
-             <p>
-              Papadakis Integrated Sciences Building (PISB) 316
-              <br/>
-              <br/>
-              <a href="mailto:kls35@drexel.edu">
-               kls35@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Macrophage-biomaterial interactions, drug delivery systems, and chronic wound healing.
-            </p>
-            <p>
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Marek Swoboda" height="225" src="/~/media/Images/biomed/faculty/swoboda-marek.ashx?h=225&amp;la=en&amp;w=150&amp;hash=50566013762C6538D5DA45EF491F0E2C5953C20C" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/SwobodaMarek/">
-               Marek Swoboda, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Teaching Professor
-              </em>
-             </p>
-             <p>
-              Bossone 707
-              <br/>
-              <a href="mailto:ms354@drexel.edu">
-               ms354@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Cardiovascular engineering, cardiovascular system, diagnostic devices in cardiology, piezoelectric biosensors, and pathogen detection.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Amy Throckmorton" height="224" src="/~/media/Images/biomed/faculty/throckmorton-amy.ashx?h=224&amp;la=en&amp;w=150&amp;hash=F2F28F9B3F73A75F5C81BBEB167350CECA254D70" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/ThrockmortonAmy/">
-               Amy Throckmorton, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Professor
-              </em>
-             </p>
-             <p>
-              Gerri C. LeBow 621
-              <br/>
-              <a href="mailto:alt82@drexel.edu">
-               alt82@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Computational and experimental fluid dynamics; cardiovascular modeling, including transient, fluid-structure interaction, and patient-specific anatomical studies; bench-to-bedside development of medical devices; artificial organs research; prediction and quantification of blood trauma and thrombosis in medical devices; design of therapeutic alternatives for patients with dysfunctional single ventricle physiology; human factors engineering of mechanical circulatory assist devices
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Catherine von Reyn, PhD" height="225" src="/~/media/Images/biomed/faculty/von reyn-catherine.ashx?h=225&amp;la=en&amp;w=150&amp;hash=0E5A4273609F1DEE11F3A7F7999E42A28BBD7752" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/vonReynCatherine/">
-               Catherine  von Reyn, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Professor
-              </em>
-             </p>
-             <p>
-              Bossone 707
-              <br/>
-              <a href="mailto:catherine.r.vonreyn@drexel.edu">
-               catherine.r.vonreyn@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Cell type-specific genetic engineering, whole-cell patch clamp in behaving animals, modeling, and detailed behavioral analysis to identify and characterize sensorimotor circuits.
-            </p>
-            <p>
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Margaret Wheatley" height="224" src="/~/media/Images/biomed/faculty/wheatley-margaret.ashx?h=224&amp;la=en&amp;w=150&amp;hash=2AED224D15E69CA53E85DD9A791DA9F6CFE3F0B1" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/WheatleyMargaret/">
-               Margaret Wheatley, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               John M. Reid Professor
-              </em>
-             </p>
-             <p>
-              LeBow 48-A
-              <br/>
-              <a href="mailto:wheatley@coe.drexel.edu">
-               wheatley@coe.drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Ultrasound contrast agent development (tumor targeting and triggered drug delivery), controlled release technology (bioactive compounds), and microencapsulated allografts (ex vivo gene therapy) for spinal cord repair.
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Ming Xiao" height="224" src="/~/media/Images/biomed/faculty/Xiao-Ming.ashx?h=224&amp;la=en&amp;w=150&amp;hash=5780F897E5DC04B0DAD94A4EA37139A7D0C92A6F" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/XiaoMing/">
-               Ming Xiao, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Associate Professor
-              </em>
-             </p>
-             <p>
-              New College Building (NCB) 17-115
-              <br/>
-              <a href="mailto:mx44@drexel.edu">
-               mx44@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Nanotechnology, single molecule detection, single molecule fluorescent imaging, genomics, genetics, genome mapping, DNA sequencing, DNA biochemistry, and biophysics.
-            </p>
-            <p>
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Yinghui Zhong" height="225" src="/~/media/Images/biomed/faculty/zhong-yingui.ashx?h=225&amp;la=en&amp;w=150&amp;hash=ADCFC518CA042F4DAD8BCE0264D3DDF96C75D029" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/ZhongYinghui/">
-               Yinghui Zhong, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Assistant Professor
-              </em>
-             </p>
-             <p>
-              Bossone 716
-              <br/>
-              <a href="mailto:yz348@drexel.edu">
-               yz348@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Neural tissue engineering, biomaterials, neural electrode/tissue interface, spinal cord repair, stem cells, surface modification, and drug delivery.
-            </p>
-            <p>
-            </p>
-           </td>
-          </tr>
-          <tr class="FacultyTableRow">
-           <td>
-            <div class="faculty-headshot">
-             <img alt="Leonid Zubkov" height="225" src="/~/media/Images/biomed/faculty/zubkov-leonid.ashx?h=225&amp;la=en&amp;w=150&amp;hash=88490B7473BD288B69323C81EEB8D7953E474738" width="150"/>
-            </div>
-            <div class="faculty-name">
-             <p class="bottom-0 top-0">
-              <a href="/biomed/faculty/core/ZubkovLeonid/">
-               Leonid Zubkov, PhD
-              </a>
-             </p>
-            </div>
-            <div class="faculty-contact">
-             <p class="bottom-m10">
-              <em>
-               Research Professor
-              </em>
-             </p>
-             <p>
-              Bossone 437
-              <br/>
-              <a href="mailto:leonid.a.zubkov@drexel.edu">
-               leonid.a.zubkov@drexel.edu
-              </a>
-             </p>
-            </div>
-           </td>
-           <td>
-            <p>
-             Physiology, wound healing, physiologic neovascularization, near-infrared spectroscopy, optical tomography, histological techniques, computer-assisted diagnosis, infrared spectrophotometry, physiologic monitoring, experimental diabetes mellitus, penetrating wounds, diabetes complications, skin, animal models, radiation scattering, failure analysis
-            </p>
-           </td>
-          </tr>
-         </tbody>
-        </table>
+       <div class="profile-header">
+        <img alt="Debra Ruben" height="150" src="/~/media/Images/westphal/faculty/N-R/ruben.ashx?h=150&amp;la=en&amp;w=150&amp;hash=8216BAB1C065775EE203078CC313599F9C937C7E" width="150"/>
+        <div class="faculty-name">
+         Debra Ruben, NCIDQ, LEED AP, IDEC
+        </div>
+        <div class="title">
+         <span>
+          Associate Professor
+         </span>
+         <br/>
+         Program Director, Interior Design
+        </div>
+       </div>
+       <div class="info">
+        <div class="contact">
+         <h2>
+          Contact:
+         </h2>
+         <ul>
+          <li>
+           <i class="icon-phone">
+           </i>
+           PH: 215.895.1388
+          </li>
+          <li>
+           <i class="icon-envelope-alt">
+           </i>
+           Email:
+           <a href="mailto:Dhruben@drexel.edu">
+            Dhruben@drexel.edu
+           </a>
+          </li>
+          <li>
+          </li>
+         </ul>
+        </div>
+        <div class="location">
+         <h2>
+          Location:
+         </h2>
+         UBRN Center, 410B
+        </div>
+       </div>
+       <div class="DUTabs" id="tabs">
+        <ul id="tabControl">
+         <li>
+          <a href="#bio">
+           Bio
+          </a>
+         </li>
+         <li>
+          <a href="#education">
+           Education
+          </a>
+         </li>
+         <li>
+          <a href="#publication">
+           Publication
+          </a>
+         </li>
+         <li>
+          <a href="#research">
+           Research
+          </a>
+         </li>
+         <li>
+          <a href="#creative-work">
+           Creative Work
+          </a>
+         </li>
+        </ul>
+        <div id="tabs">
+         <div class="ui-tabs-hide" id="bio">
+          <p>
+           Debra Ruben is an assistant professor in the Department of Architecture and Interiors at Drexel University, and teaches both lecture and studio courses in the graduate and undergraduate Interior Design Programs. Current curriculum development includes integrating sustainable design and environmental theory into Drexel’s CIDA-accredited Interior Design Program and the development of a new minor: Sustainability in the Built Environment. Debra’s research incorporates interdisciplinary design thinking, sustainability issues and participatory practices as they relate to community building. She has run several courses in social sustainability and community design and was the primary investigator for three foundation grants that resulted in the recent development of an 85,000 sf. barren schoolyard into a new playground. Debra is an NCIDQ certificate holder and a LEED accredited professional. An interior design practitioner for 18 years, her work has won several awards including Best of Show for the IDEC 2005 juried Interior Design Competition. Currently she is working on the interior design for a 6000 square foot sustainable residence in Mallorca Spain.
+          </p>
+         </div>
+         <div class="ui-tabs-hide" id="education">
+          MS, Interior Design, Drexel University
+          <br/>
+          BA, Art History/French, University of Richmond
+         </div>
+         <div class="ui-tabs-hide" id="publication">
+         </div>
+         <div class="ui-tabs-hide" id="research">
+         </div>
+         <div class="ui-tabs-hide" id="creative-work">
+         </div>
+        </div>
        </div>
       </div>
       <!--center rail-->
       <div class="grid-6 pull-18" id="left-rail">
        <nav>
         <h1>
-         Faculty
+         About the College
         </h1>
         <ul>
-         <li class="active">
-          <a href="/biomed/faculty/core/">
-           Core
+         <li>
+          <a href="/westphal/about/overview/">
+           About the College
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/accreditation/">
+           Accreditation
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/alumni-spotlight/">
+           Alumni Spotlight
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/career-opportunities/">
+           Employment Opportunities
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/rudman-institute/">
+           Rudman Institute
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/research/">
+           Research
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/directory/">
+           Faculty and Staff Directory
           </a>
           <ul>
+           <li class="active">
+            <a href="/westphal/about/directory/RubenDebra/">
+             Debra Ruben
+            </a>
+           </li>
           </ul>
          </li>
          <li>
-          <a href="/biomed/faculty/affiliated/">
-           Affiliated
+          <a href="/westphal/about/contact/">
+           Contact Us
+          </a>
+         </li>
+         <li>
+          <a href="/westphal/about/gift/">
+           Make a Gift
           </a>
          </li>
         </ul>
@@ -1707,30 +620,30 @@
      </div>
      <div class="grid-4 push-1" id="bodytag_3_divSocial">
       <p class="social-label">
-       Follow BIOMED:
+       Follow Westphal:
       </p>
       <ul class="social inline social-blue">
        <li id="bodytag_3_liFacebook">
-        <a href="https://www.facebook.com/DrexelBIOMED" id="bodytag_3_hlFacebook">
+        <a href="http://www.facebook.com/drexel.westphalcollege" id="bodytag_3_hlFacebook">
          <span class="icon duicon-facebook">
          </span>
         </a>
        </li>
        <li id="bodytag_3_liTwitter">
-        <a href="https://twitter.com/drexelbiomed" id="bodytag_3_hlTwitter">
+        <a href="https://twitter.com/#!/drexelwestphal" id="bodytag_3_hlTwitter">
          <span class="icon duicon-twitter">
          </span>
         </a>
        </li>
-       <li id="bodytag_3_liYoutube">
-        <a href="https://www.youtube.com/channel/UClsV2DloAXhOQt4xnJFCOag" id="bodytag_3_hlYoutube">
-         <span class="icon duicon-youtube">
+       <li id="bodytag_3_liInstagram">
+        <a href="https://www.instagram.com/drexelwestphal" id="bodytag_3_hlInstagram">
+         <span class="icon duicon-instagram">
          </span>
         </a>
        </li>
-       <li id="bodytag_3_liLinkedIn">
-        <a href="https://www.linkedin.com/groups?home=&amp;gid=4587558&amp;trk=anet_ug_hm" id="bodytag_3_hlLinkedIn">
-         <span class="icon duicon-linkedin">
+       <li id="bodytag_3_liVimeo">
+        <a href="https://vimeo.com/westphalcollege" id="bodytag_3_hlVimeo">
+         <span class="icon duicon-vimeo">
          </span>
         </a>
        </li>
@@ -1752,13 +665,141 @@
     </nav>
    </footer>
    <script>
-    var _gaq = [['_setAccount', 'UA-48789419-1'], ['_trackPageview']];
+    var _gaq = [['_setAccount', 'UA-68323-1'], ['_trackPageview']];
     (function (d, t) {
         var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
         g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
         s.parentNode.insertBefore(g, s)
     } (document, 'script'));
    </script>
+   <div class="tabs" id="follow-callout">
+    <ul class="tab-nav row">
+     <li id="aside-tab1">
+      <a href="#aside-section1">
+       VISIT US
+      </a>
+     </li>
+     <li id="aside-tab2">
+      <a href="#aside-section2">
+       APPLY
+      </a>
+     </li>
+     <li id="aside-tab3">
+      <a href="#aside-section3">
+      </a>
+     </li>
+    </ul>
+    <div class="tabs-content">
+     <aside class="row" id="aside-section1">
+      <div class="" id="bodytag_4_flyouttab1_0_divSnippet">
+       <!-- <script>
+  var element = document.getElementById('NameInputFilter');
+
+  if (element != null && element.value == '') {  
+    document.getElementById('NameInputFilter').addEventListener('keypress', function(event) {
+        if (event.keyCode == 13) {
+            event.preventDefault();
+        }
+    });
+  }
+</script> -->
+       <a class="ilightbox-video" href="https://player.vimeo.com/video/132762363">
+        <img alt="Visit us!" src="/~/Media/Images/Westphal/ui/fly_outimage_future.jpeg" style="margin: 0 auto;"/>
+       </a>
+       <p>
+        Visiting us is the best way to get firsthand information about a Westphal College education.
+       </p>
+       <p>
+        <button class="right" onclick="window.location='http://drexel.edu/admissions/visit/'; return false;">
+         GO
+        </button>
+       </p>
+      </div>
+     </aside>
+     <aside class="row" id="aside-section2">
+      <div class="" id="bodytag_4_flyouttab2_0_divSnippet">
+       <p>
+        <i>
+         Drexel offers a wide range of undergraduate and graduate programs.  Choose a level and format to learn more and apply today.
+        </i>
+       </p>
+       <label for="apply-degree">
+        Choose a Level *
+       </label>
+       <select id="apply-degree">
+        <option selected="" value="Full-Time Undergraduate">
+         Full-Time Undergraduate
+        </option>
+        <option value="Part-Time Undergraduate">
+         Part-Time Undergraduate
+        </option>
+        <option value="Graduate">
+         Graduate
+        </option>
+        <option value="Professional - Law">
+         Professional - Law
+        </option>
+        <option value="Professional - Medicine">
+         Professional - Medicine
+        </option>
+       </select>
+       <label for="apply-location">
+        Choose a Format *
+       </label>
+       <select id="apply-location">
+        <option selected="" value="http://www.drexel.edu/undergrad/apply/">
+         On Campus
+        </option>
+       </select>
+       <button class="right" id="apply-go">
+        Go
+       </button>
+       <!--
+<p><i>Drexel offers a wide range of undergraduate and graduate programs.  Choose a degree and location to learn more and apply today.</i></p>
+
+<label for="apply-degree">Choose Degree *</label>
+
+<select id="apply-degree">
+  <option selected="" value="Undergraduate">Undergraduate</option>
+  <option value="Graduate Professional">Graduate &amp; Professional</option>
+  <option value="Drexel Online">Online</option>
+  <option value="Adult Education">Adult Education</option> </select>
+
+
+<label for="apply-location">Choose Locations *</label>
+
+<select id="apply-location">
+  <option selected="" value="http://www.drexel.edu/undergrad/apply/">University City Campus</option>
+</select>
+
+<button class="right" id="apply-go">Go</button>
+-->
+      </div>
+     </aside>
+     <aside class="row" id="aside-section3">
+     </aside>
+    </div>
+   </div>
+   <script>
+    $(document).ready(function () {
+        //hide empty tabs
+        $(".tab-nav li").each(function () {
+            if ($(this).children('a').is(':empty'))
+                $(this).hide();
+        });
+    });
+   </script>
+   <!--
+    Using the FlyoutTabs component:
+    1. Add FlyoutTabs component to target page in the "BodyTag" placeholder
+
+    2. Define tab snippet for markup as seen in:
+    /sitecore/content/Home/westphal/Extras/Snippets/flyout-tabs/visit-us-tab
+
+    3. Add tab snippet to target page and...
+        a. use "FlyoutTab1", "FlyoutTab2" or "FlyoutTab3" as the placeholder
+        b. use "title" parameter to define tab title
+-->
    <div class="DURemarketing">
     <!-- Start: Ucomm Codes -->
     <!-- Facebook Code for Remarketing Tag -->
