@@ -80,6 +80,8 @@ class TtlFileEntry:
         	entry += '    cb:department "%s" ; \n' % self.department
         if self.address:
    		    entry += '    cb:address "%s" ; \n' % self.address
+        if self.room:
+            entry += '    cb:room "%s" ; \n' %self.room
         if self.startTime:
 	        entry += '    cb:startTime "%s" ; \n' % self.startTime
         if self.endTime:

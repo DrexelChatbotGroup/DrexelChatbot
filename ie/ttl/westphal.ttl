@@ -1,0 +1,3187 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Ian-Abrams>
+    cb:name "Ian Abrams" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "University Crossings, 051" ; 
+    cb:email "ina22@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~ina22/" ; 
+    cb:phone "2158951332" .
+
+<#Luke-Abruzzo>
+    cb:name "Luke Abruzzo" ; 
+    cb:title "Assistant Teaching Professor & Program Director, Music" ; 
+    cb:room "MacAlister Hall, 2023B" ; 
+    cb:email "laa24@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~ina22/" ; 
+    cb:phone "2155713528" .
+
+<#Stephanie-Abruzzo>
+    cb:name "Stephanie Abruzzo" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "stephanie.m.abruzzo@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~ina22/" ; 
+    cb:phone "2158952451" .
+
+<#David-Ade>
+    cb:name "David Ade" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "David.Michael.Ade@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2159854410" .
+
+<#Kristen-Ainscoe>
+    cb:name "Kristen Ainscoe" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 110E" ; 
+    cb:email "kfa22@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158950293" .
+
+<#Joanne-Aitken>
+    cb:name "Joanne Aitken" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "URBN Center, 110E" ; 
+    cb:email "jaitken@kierantimberlake.com" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2159226600" .
+
+<#Dr.-Ing.-Ulrike>
+    cb:name "Dr.-Ing. Ulrike Altenmüller-Lewis" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "URBN Center, 4A20H" ; 
+    cb:email "ualtenm@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158950207" .
+
+<#Andrew-Altricher>
+    cb:name "Andrew Altricher" ; 
+    cb:room "MacAlister Hall, 0016" ; 
+    cb:email "altricaj@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158960444" .
+
+<#Mark-Andrews>
+    cb:name "Mark Andrews" ; 
+    cb:title "Mandell Technical Director, Adjunct Instructor - Theater Production Practicum" ; 
+    cb:room "Mandell Theater, 1038" ; 
+    cb:email "mha27@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158956444" .
+
+<#Nick-Anselmo>
+    cb:name "Nick Anselmo" ; 
+    cb:title "Associate Teaching Professor, Theatre Program Director, and Director of Mandell Professionals in Residence Project" ; 
+    cb:room "MacAlister Hall, 2017" ; 
+    cb:email "nma28@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158951920" .
+
+<#Rebecca-Arends>
+    cb:name "Rebecca Arends" ; 
+    cb:title "Adjunct Assistant Professor, Assistant Director of FreshDance" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "raa322@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952451" .
+
+<#Theo-A.>
+    cb:name "Theo A. Artz" ; 
+    cb:title "Associate Professor, Digital Media" ; 
+    cb:room "URBN Center, 230F" ; 
+    cb:email "taa28@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158951663" .
+
+<#Jason-Austin>
+    cb:name "Jason Austin" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 4A20H" ; 
+    cb:email "jason.t.austin@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158954630" .
+
+<#John-Avarese>
+    cb:name "John Avarese" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "University Crossings, 035" ; 
+    cb:email "avarese@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2155713523" .
+
+<#Scott-D.>
+    cb:name "Scott D. Bacon" ; 
+    cb:title "Ensemble Coordinator, Advisor for Pi Nu Epsilon, Advisor for CleftomaniacsAssociate Teaching Professor & All College Choir Director" ; 
+    cb:room "MacAlister Hall, 2023C" ; 
+    cb:email "sdb33@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158954915" .
+
+<#Chris-Baeza>
+    cb:name "Chris Baeza" ; 
+    cb:title "Assistant Teaching ProfessorAssistant Teaching Professor" ; 
+    cb:room "URBN Center, 110F" ; 
+    cb:email "cdb93@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158950361" .
+
+<#Alison-Bagnall>
+    cb:name "Alison Bagnall" ; 
+    cb:title "Visiting ProfessorVisiting Professor, Film & Video" ; 
+    cb:room "University Crossings, 025A" ; 
+    cb:email "ads334@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158956120" .
+
+<#Graham-Bailer>
+    cb:name "Graham Bailer" ; 
+    cb:title "Assistant Adjunct Teaching Professor" ; 
+    cb:room "University Crossings, 025A" ; 
+    cb:email "gmb72@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952071" .
+
+<#Doug-Bailey>
+    cb:name "Doug Bailey" ; 
+    cb:title "Adjunct ProfessorAdjunct Professor" ; 
+    cb:room "University Crossings, 025A" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952071" .
+
+<#Michael-Balog>
+    cb:name "Michael Balog" ; 
+    cb:title "Adjunct ProfessorAdjunct Professor" ; 
+    cb:room "University Crossings, 025A" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952071" .
+
+<#Karen-Banos>
+    cb:name "Karen Banos" ; 
+    cb:title "Adjunct Instructor & String Chamber Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "karen.m.banos@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952451" .
+
+<#Peter-Bartscherer>
+    cb:name "Peter Bartscherer" ; 
+    cb:title "Associate Dean, Facilities" ; 
+    cb:room "URBN Center, 1A10H" ; 
+    cb:email "bartscherer@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158951636" .
+
+<#Mark-Beecher>
+    cb:name "Mark Beecher" ; 
+    cb:title "Adjunct Instructor & Percussion Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "mark.ea.beecher@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952451" .
+
+<#Natalina-Berardi>
+    cb:name "Natalina Berardi" ; 
+    cb:room "URBN Center, 210F" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2155713716" .
+
+<#Peter-J.>
+    cb:name "Peter J. Bernbaum" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 210F" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2155713716" .
+
+<#John-Andrew>
+    cb:name "John Andrew Berton Jr." ; 
+    cb:title "Assistant Professor, Animation & Visual Effects" ; 
+    cb:room "URBN Center, 210F" ; 
+    cb:email "john.andrew.berton@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158955901" .
+
+<#Angela-Bilger>
+    cb:name "Angela Bilger" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "angela.r.cordell@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952451" .
+
+<#Judith-Bing>
+    cb:name "Judith Bing" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "bingj@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952451" .
+
+<#Chris-Blackman>
+    cb:name "Chris Blackman" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "chris.blackman@nbcuni.com" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "6106685654" .
+
+<#Robin-Blair>
+    cb:name "Robin Blair" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "rfb13@drexel.edu" ; 
+    cb:website "http://www.smparchitects.com/" ; 
+    cb:phone "2158952071" .
+
+<#John-Blatteau>
+    cb:name "John Blatteau" ; 
+    cb:title "Adjunct Professor Emeritus" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "doric2001@hotmail.com" ; 
+    cb:website "http://www.j-b-a.com/" ; 
+    cb:phone "2158952071" .
+
+<#Jennifer-Blazina>
+    cb:name "Jennifer Blazina" ; 
+    cb:title "Associate Professor, Screenprinting/Printmaking Area Coordinator" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115D" ; 
+    cb:email "jab88@drexel.edu" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "2158956043" .
+
+<#Bobbi-Block>
+    cb:name "Bobbi Block" ; 
+    cb:title "Adjunct Faculty – Improvisation" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115D" ; 
+    cb:email "bobbi.block@drexel.edu" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "2158952451" .
+
+<#Stephen-Bockius>
+    cb:name "Stephen Bockius" ; 
+    cb:title "Media Technician, DUTV" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115D" ; 
+    cb:email "scb42@drexel.edu" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "215-895-0402" .
+
+<#Damon-Bonetti>
+    cb:name "Damon Bonetti" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115D" ; 
+    cb:email "damianio@juno.com" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "215-895-0402" .
+
+<#Stephen-Bonitatibus>
+    cb:name "Stephen Bonitatibus" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Bonitatibus Architects" ; 
+    cb:email "smb45@drexel.edu" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "2155681919" .
+
+<#Jackie-Borock>
+    cb:name "Jackie Borock" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:room "Bonitatibus Architects" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "2155681919" .
+
+<#Tom-Borrup>
+    cb:name "Tom Borrup" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Bonitatibus Architects" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "2155681919" .
+
+<#Tony-Borzotta>
+    cb:name "Tony Borzotta" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:room "Bonitatibus Architects" ; 
+    cb:website "http://jenblazina.com" ; 
+    cb:phone "2155681919" .
+
+<#Anthony-Bracali>
+    cb:name "Anthony Bracali" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Friday Architects/Planners" ; 
+    cb:email "abracali@fridayarc.com" ; 
+    cb:website "http://www.fridayarc.com" ; 
+    cb:phone "2155640814" .
+
+<#Mark-Brack>
+    cb:name "Mark Brack" ; 
+    cb:title "Associate Professor, Architectural History" ; 
+    cb:room "URBN Center, 4A20E" ; 
+    cb:email "brackml@drexel.edu" ; 
+    cb:website "http://www.fridayarc.com" ; 
+    cb:phone "2158956626" .
+
+<#Michelle-Bradsher-McHugh>
+    cb:name "Michelle Bradsher-McHugh" ; 
+    cb:title "Associate DirectorAssociate Director, Television Management Online" ; 
+    cb:room "University Crossings, 023" ; 
+    cb:email "pmb92@drexel.edu" ; 
+    cb:website "http://www.fridayarc.com" ; 
+    cb:phone "2155714647" .
+
+<#Pia-Brancaccio>
+    cb:name "Pia Brancaccio" ; 
+    cb:title "Associate ProfessorAssociate Professor, Asian Art" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115A" ; 
+    cb:email "pb69@drexel.edu" ; 
+    cb:website "http://www.fridayarc.com" ; 
+    cb:phone "2158950991" .
+
+<#David-Brawer>
+    cb:name "David Brawer" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Brawer & Hauptman, Architects" ; 
+    cb:email "dbrawer@brawerhauptman.com" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2158290084" .
+
+<#Perry-Brisbon>
+    cb:name "Perry Brisbon" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "perry.o.brisbon@drexel.edu" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2158952451" .
+
+<#Dr.-Wesley>
+    cb:name "Dr. Wesley J. Broadnax" ; 
+    cb:title "Assistant ProfessorAssistant Professor, Concert and Pep Band Director" ; 
+    cb:room "MacAlister Hall, 2023D" ; 
+    cb:email "wjb46@drexel.edu" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2158956214" .
+
+<#Jean-Brody>
+    cb:name "Jean Brody" ; 
+    cb:title "Director, Arts Administration OnlineAssociate Teaching Professor" ; 
+    cb:room "URBN Center, 210D" ; 
+    cb:email "jeanbrody@drexel.edu" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2155713701" .
+
+<#Katie-Broh>
+    cb:name "Katie Broh" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "URBN Center, 210D" ; 
+    cb:email "cbroh@mgapartners.com" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2155713701" .
+
+<#Stacy-Bronte>
+    cb:name "Stacy Bronte" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "University Crossings, 054" ; 
+    cb:email "sgb26@drexel.edu" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2158952408" .
+
+<#Lindsay-Browning>
+    cb:name "Lindsay Browning" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "Lindsay.Jo.Browning@drexel.edu" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2158952451" .
+
+<#Jim-Bunting>
+    cb:name "Jim Bunting" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "james.r.bunting@drexel.edu" ; 
+    cb:website "http://www.brawerhauptman.com" ; 
+    cb:phone "2158952451" .
+
+<#Michael-Burns>
+    cb:name "Michael Burns" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Michael Burns Architects" ; 
+    cb:email "michael.p.burns@drexel.edu" ; 
+    cb:website "michaelburnsarchitects.com" ; 
+    cb:phone "6093975508" .
+
+<#Bettie-Ann>
+    cb:name "Bettie Ann Candelora" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Michael Burns Architects" ; 
+    cb:website "michaelburnsarchitects.com" ; 
+    cb:phone "6093975508" .
+
+<#Wanda-Canfield>
+    cb:name "Wanda Canfield" ; 
+    cb:title "Adjunct Instructor & Keyboard Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "wanda.l.canfield@drexel.edu" ; 
+    cb:website "michaelburnsarchitects.com" ; 
+    cb:phone "2158952451" .
+
+<#Charles-Capaldi>
+    cb:name "Charles Capaldi" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "CaVA architects, llp" ; 
+    cb:email "ccapaldi@cava21.com" ; 
+    cb:website "michaelburnsarchitects.com" ; 
+    cb:phone "2157328525" .
+
+<#Cali-Capodici>
+    cb:name "Cali Capodici" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "capodicic1@gmail.com" ; 
+    cb:phone "2157328525" .
+
+<#Signe-Carlson>
+    cb:name "Signe Carlson" ; 
+    cb:title "Graduate Assistant, Performing Arts" ; 
+    cb:room "MacAlister Hall, 2018" ; 
+    cb:email "performingartsGA@drexel.edu" ; 
+    cb:phone "215895-1275" .
+
+<#Joanne-Carrick>
+    cb:name "Joanne Carrick" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "joannefw@mac.com" ; 
+    cb:phone "2158956914" .
+
+<#Joanne-Caruso>
+    cb:name "Joanne Caruso" ; 
+    cb:title "Administrative Assistant, Department of Graphic Design" ; 
+    cb:room "URBN Center, 4A10" ; 
+    cb:email "jcaruso@drexel.edu" ; 
+    cb:phone "2158951649" .
+
+<#Perry-Casciato>
+    cb:name "Perry Casciato" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10" ; 
+    cb:email "cwphilly@wpsg.com" ; 
+    cb:phone "2158951649" .
+
+<#Nick-Cassway>
+    cb:name "Nick Cassway" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 110A" ; 
+    cb:email "nick.a.cassway@drexel.edu" ; 
+    cb:phone "2158956969" .
+
+<#Mary-Cavallaro>
+    cb:name "Mary Cavallaro" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 110A" ; 
+    cb:email "mary.cavallaro@drexel.edu" ; 
+    cb:phone "2158956969" .
+
+<#Anne-Cecil>
+    cb:name "Anne Cecil" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center" ; 
+    cb:email "acc27@drexel.edu" ; 
+    cb:phone "2158956969" .
+
+<#Dom-Chacon>
+    cb:name "Dom Chacon" ; 
+    cb:title "Lighting DesignerAdjunct Instructor - Theater Production, Lighting/Production Design" ; 
+    cb:room "URBN Center" ; 
+    cb:email "jose-antonio.d.chacon@drexel.edu" ; 
+    cb:phone "2158683675" .
+
+<#Renee-W.>
+    cb:name "Renee W. Chase" ; 
+    cb:title "Professor" ; 
+    cb:room "URBN Center, 310G" ; 
+    cb:email "chaserw@drexel.edu" ; 
+    cb:phone "2158952412" .
+
+<#Carol-Chew>
+    cb:name "Carol Chew" ; 
+    cb:title "Adjunct Teaching Professor" ; 
+    cb:room "URBN Center, 310G" ; 
+    cb:email "cchew206@comcast.net" ; 
+    cb:phone "2158952071" .
+
+<#Daniel-Chung>
+    cb:name "Daniel Chung" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "URBN Center, 4A20F" ; 
+    cb:email "dhc38@drexel.edu" ; 
+    cb:phone "2158954922" .
+
+<#Joe-Cicala>
+    cb:name "Joe Cicala" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A20F" ; 
+    cb:phone "2158954922" .
+
+<#Dinita-Clark>
+    cb:name "Dinita Clark" ; 
+    cb:title "Adjunct Assistant ProfessorAdjunct Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "dinita.a.clark@drexel.edu" ; 
+    cb:phone "215-895-2451" .
+
+<#Ivor-Clark>
+    cb:name "Ivor Clark" ; 
+    cb:title "Adjunct ProfessorAdjunct Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:phone "215-895-2451" .
+
+<#Sylvia-Clark>
+    cb:name "Sylvia Clark" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "aivlys1@earthlink.net" ; 
+    cb:phone "2158952071" .
+
+<#Jack-Cliggett>
+    cb:name "Jack Cliggett" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "UBRN Center, 4A10F" ; 
+    cb:email "Jack.J.Cliggett@drexel.edu" ; 
+    cb:phone "2158951664" .
+
+<#Jon-Coddington>
+    cb:name "Jon Coddington" ; 
+    cb:title "Professor" ; 
+    cb:room "UBRN Center, 4A20C" ; 
+    cb:email "jon.p.coddington@drexel.edu" ; 
+    cb:phone "2158956090" .
+
+<#Nicholas-Coffman>
+    cb:name "Nicholas Coffman" ; 
+    cb:title "Administrative Assistant" ; 
+    cb:room "MacAlister Hall, 2018" ; 
+    cb:email "nlc59@drexel.edu" ; 
+    cb:phone "2158952451" .
+
+<#Jeffrey-Cohen>
+    cb:name "Jeffrey Cohen" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "University Crossings, 054" ; 
+    cb:email "jeffrey.n.cohen@drexel.edu" ; 
+    cb:phone "2158952408" .
+
+<#Susan-Cohen-Dickler>
+    cb:name "Susan Cohen-Dickler" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "University Crossings, 054" ; 
+    cb:email "contactUs@banyan.com" ; 
+    cb:phone "2159281414" .
+
+<#Lewis-Colburn>
+    cb:name "Lewis Colburn" ; 
+    cb:title "Assistant Professor, Sculpture Area Coordinator" ; 
+    cb:room "University Crossings, 054" ; 
+    cb:email "lewis.colburn@drexel.edu" ; 
+    cb:website "lewiscolburn.net" ; 
+    cb:phone "2159281414" .
+
+<#Julia-Colton>
+    cb:name "Julia Colton" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "julia.l.colton@drexel.edu" ; 
+    cb:website "lewiscolburn.net" ; 
+    cb:phone "2157762861" .
+
+<#Antoinette-M.>
+    cb:name "Antoinette M. Coward-Gilmore" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "antoinette.michelle.coward-gilmore@drexel.edu" ; 
+    cb:website "lewiscolburn.net" ; 
+    cb:phone "2158952451" .
+
+<#Martha-Cross>
+    cb:name "Martha Cross" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "martha.cross@drexel.edu" ; 
+    cb:website "groupmelvindesign.com" ; 
+    cb:phone "2156687252" .
+
+<#Bradford-Crowley>
+    cb:name "Bradford Crowley" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "bpc44@drexel.edu" ; 
+    cb:website "groupmelvindesign.com" ; 
+    cb:phone "2156687252" .
+
+<#Dave-Culver>
+    cb:name "Dave Culver" ; 
+    cb:title "Associate Teaching ProfessorGeneral Manager, The Paul F. Harron Studios" ; 
+    cb:room "MacAlister Hall, 4029" ; 
+    cb:email "dc75@drexel.edu" ; 
+    cb:website "http://www.dutv.org" ; 
+    cb:phone "2158950367" .
+
+<#Rena-Cumby>
+    cb:name "Rena Cumby" ; 
+    cb:title "Associate ProfessorAssociate Professor" ; 
+    cb:room "UBRN Center, 410D" ; 
+    cb:email "cumbyrp@drexel.edu" ; 
+    cb:website "http://www.dutv.org" ; 
+    cb:phone "2158954943" .
+
+<#Casey-Cummings>
+    cb:name "Casey Cummings" ; 
+    cb:title "Assistant Facility Manager, Photography Program" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 418" ; 
+    cb:email "photog@drexel.edu" ; 
+    cb:website "http://www.dutv.org" ; 
+    cb:phone "2158955869" .
+
+<#Karen-Curry>
+    cb:name "Karen Curry" ; 
+    cb:title "Executive Director, Kal and Lucille Rudman Institute for Entertainment Industry Studies" ; 
+    cb:room "University Crossings, 047" ; 
+    cb:email "karen.curry@drexel.edu" ; 
+    cb:website "http://www.dutv.org" ; 
+    cb:phone "2155713802" .
+
+<#Julia-Cybularz>
+    cb:name "Julia Cybularz" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "julia@juliacybularz.com" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2155713802" .
+
+<#Milsy-Davis>
+    cb:name "Milsy Davis" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "milsy@aol.com" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2155713534" .
+
+<#John-Defazio>
+    cb:name "John Defazio" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "defazio@mindspring.com" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "9732235321" .
+
+<#David-Deneen>
+    cb:name "David Deneen" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "University Crossings, 050" ; 
+    cb:email "dpd28@drexel.edu" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2158955955" .
+
+<#Anita-Dennis>
+    cb:name "Anita Dennis" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 310K" ; 
+    cb:email "Sewneet20@verizon.net" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2158955955" .
+
+<#Susan-Deutsch>
+    cb:name "Susan Deutsch" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "susan.e.deutsch@drexel.edu" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2158952451" .
+
+<#Carla-Diana>
+    cb:name "Carla Diana" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2158952451" .
+
+<#Paul-Diefenbach>
+    cb:name "Paul Diefenbach" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "URBN Center, 220F" ; 
+    cb:email "pjdief@drexel.edu" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "2158951618" .
+
+<#Brian-Dilts>
+    cb:name "Brian Dilts" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "brian.m.dilts@drexel.edu" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "215-895-2451" .
+
+<#David-Dinan>
+    cb:name "David Dinan" ; 
+    cb:title "Lab Technician, Wood Shop" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "david.john.dinan@drexel.edu" ; 
+    cb:website "http://www.juliacybularz.com" ; 
+    cb:phone "215-895-2451" .
+
+<#Genevieve-Dion>
+    cb:name "Genevieve Dion" ; 
+    cb:title "Assistant Professor, Director, Shima Seiki Haute Technology Laboratory at Drexel University" ; 
+    cb:room "URBN Center, 310H" ; 
+    cb:email "gdion@drexel.edu" ; 
+    cb:website "http://www.gdion.com/" ; 
+    cb:phone "2158951010" .
+
+<#Joe-Divita>
+    cb:name "Joe Divita" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:room "URBN Center, 310H" ; 
+    cb:website "http://www.gdion.com/" ; 
+    cb:phone "2158951010" .
+
+<#Trevor-Dixon>
+    cb:name "Trevor Dixon" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "trevor@dixonphotography.com" ; 
+    cb:website "www.dixonphotography.com" ; 
+    cb:phone "2158951010" .
+
+<#Alex-Djordjevic>
+    cb:name "Alex Djordjevic" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "ad22@drexel.edu" ; 
+    cb:website "www.dixonphotography.com" ; 
+    cb:phone "2158951010" .
+
+<#Andrew-Donaldson-Evans>
+    cb:name "Andrew Donaldson-Evans" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "adonaldsonevans@ewingcole.com" ; 
+    cb:website "http://www.ewingcole.com/" ; 
+    cb:phone "2156254255" .
+
+<#Rick-Dorfman>
+    cb:name "Rick Dorfman" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "rd@convergemg.com" ; 
+    cb:website "rainmanagementgroup.com" ; 
+    cb:phone "2156254255" .
+
+<#Katherine-Dowdell>
+    cb:name "Katherine Dowdell" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "kad356@drexel.edu" ; 
+    cb:website "http://blackneyhayes.com/" ; 
+    cb:phone "2158050370" .
+
+<#Alexandra-Doyle>
+    cb:name "Alexandra Doyle Perry" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "alexandra.b.doyle@drexel.edu" ; 
+    cb:website "http://blackneyhayes.com/" ; 
+    cb:phone "2017900505" .
+
+<#Adam-Drescher>
+    cb:name "Adam Drescher" ; 
+    cb:title "Adjunct ProfessorAdjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:website "http://blackneyhayes.com/" ; 
+    cb:phone "2017900505" .
+
+<#Rose-Drew>
+    cb:name "Rose Drew" ; 
+    cb:title "Assistant Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "rose.a.drew@drexel.edu" ; 
+    cb:website "http://blackneyhayes.com/" ; 
+    cb:phone "2017900505" .
+
+<#Kristina-Drury>
+    cb:name "Kristina Drury" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:website "http://blackneyhayes.com/" ; 
+    cb:phone "2017900505" .
+
+<#Anda-Dubinskis>
+    cb:name "Anda Dubinskis" ; 
+    cb:title "Associate Teaching Professor, Drawing Area Coordinator" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115C" ; 
+    cb:email "akd35@drexel.edu" ; 
+    cb:website "http://blackneyhayes.com/" ; 
+    cb:phone "2158952546" .
+
+<#Eugenia-Victoria>
+    cb:name "Eugenia Victoria Ellis" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "URBN Center, 241" ; 
+    cb:email "genaellis@drexel.edu" ; 
+    cb:website "http://www.bauarchitecture.com/" ; 
+    cb:phone "2158952392" .
+
+<#Mare-Emery>
+    cb:name "Mare Emery" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 241" ; 
+    cb:website "http://www.bauarchitecture.com/" ; 
+    cb:phone "2158952392" .
+
+<#Helene-Engel>
+    cb:name "Helene Engel" ; 
+    cb:title "Department Administrator - Department of Performing Arts" ; 
+    cb:room "MacAlister Hall, 2014" ; 
+    cb:email "hbe25@drexel.edu" ; 
+    cb:website "http://www.bauarchitecture.com/" ; 
+    cb:phone "2155714440" .
+
+<#Larry-Epstein>
+    cb:name "Larry Epstein" ; 
+    cb:title "Department Head, Arts & Entertainment EnterpriseTeaching Professor" ; 
+    cb:room "URBN Center, 210E" ; 
+    cb:email "lepstein@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158951623" .
+
+<#Rosalind-Erwin>
+    cb:name "Rosalind Erwin" ; 
+    cb:title "Adjunct Instructor, University Orchestra Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "rosalind.m.erwin@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952451" .
+
+<#Sharon-Erwin>
+    cb:name "Sharon Erwin" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952451" .
+
+<#Clyde-Evans>
+    cb:name "Clyde Evans" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "clyde.evansjr@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952451" .
+
+<#Dyer-Alfred>
+    cb:name "Dyer Alfred 'Lindsay' Falck" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "Dyeralfred.lindsay.falck@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2153704516" .
+
+<#Jeff-Fama>
+    cb:name "Jeff Fama" ; 
+    cb:title "Adjunct Teaching Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "jeffrey.r.fama@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952071" .
+
+<#Chris-Farrell>
+    cb:name "Chris Farrell" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "christopher.b.farrell@​d​r​e​x​e​l​.​e​d​u​" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952451" .
+
+<#John-Faye>
+    cb:name "John Faye" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "john.k.faye@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952451" .
+
+<#Susan-Feenan>
+    cb:name "Susan Feenan" ; 
+    cb:title "Assistant Adjunct Teaching Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "sfeenan@msn.com" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952071" .
+
+<#Sheri-Feifer–Watson>
+    cb:name "Sheri Feifer–Watson" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "sheriberi13@hotmail.com" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "215-895-2071" .
+
+<#David-Feldman>
+    cb:name "David Feldman" ; 
+    cb:title "Assistant Dean, Director of Student Services: Transfer Students and Visiting Students" ; 
+    cb:room "URBN Center, 103A" ; 
+    cb:email "dbf24@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952396" .
+
+<#Stephanie-Feldman>
+    cb:name "Stephanie Feldman" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "URBN Center, 103A" ; 
+    cb:email "scf66@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952396" .
+
+<#Bill-Fennelly>
+    cb:name "Bill Fennelly" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "MacAlister Hall, 2015" ; 
+    cb:email "bill.fennelly@drexel.edu" ; 
+    cb:website "Larry Epstein - Resume" ; 
+    cb:phone "2158952529" .
+
+<#Jeremy-Fernsler>
+    cb:name "Jeremy Fernsler" ; 
+    cb:title "Program Director, Game Design & Production; Assistant Teaching Professor-Digital Media" ; 
+    cb:room "URBN Center, 230B" ; 
+    cb:email "jeremy.fernsler@drexel.edu" ; 
+    cb:website "jfernsler.com" ; 
+    cb:phone "2155714436" .
+
+<#Tracey-Fichera>
+    cb:name "Tracey Fichera" ; 
+    cb:room "URBN Center, 230B" ; 
+    cb:email "tao22@drexel.edu" ; 
+    cb:website "jfernsler.com" ; 
+    cb:phone "2158952071" .
+
+<#Troy-W.>
+    cb:name "Troy W. Finamore" ; 
+    cb:title "Program Director, Interactive Digital MediaProgram Director, Interactive Digital Media" ; 
+    cb:room "URBN Center, 230C" ; 
+    cb:email "troy.finamore@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~twf23" ; 
+    cb:phone "2158952012" .
+
+<#Dennis-Fortune>
+    cb:name "Dennis Fortune" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "dennis.h.fortune@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~twf23" ; 
+    cb:phone "2158952451" .
+
+<#Aroutis-Foster>
+    cb:name "Aroutis Foster" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "One Drexel Plaza 3001 Market Street, Suite 041" ; 
+    cb:email "aroutis@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~twf23" ; 
+    cb:phone "2155713663" .
+
+<#Heather-Foster>
+    cb:name "Heather Foster" ; 
+    cb:title "Founder, Estella MediaAdjunct Professor" ; 
+    cb:room "One Drexel Plaza 3001 Market Street, Suite 041" ; 
+    cb:email "heather@estellamedia.com" ; 
+    cb:website "pages.drexel.edu/~twf23" ; 
+    cb:phone "2155713663" .
+
+<#Catherine-Fox>
+    cb:name "Catherine Fox Byers" ; 
+    cb:title "Adjunct InstructorAdjunct Instructor" ; 
+    cb:room "URBN Center" ; 
+    cb:email "cfb27@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~twf23" ; 
+    cb:phone "2155713663" .
+
+<#Eve-Friedman>
+    cb:name "Eve Friedman" ; 
+    cb:title "Adjunct Instructor & Wind Chamber Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "eve.a.friedman@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~twf23" ; 
+    cb:phone "2158952451" .
+
+<#Michael-Froio>
+    cb:name "Michael Froio" ; 
+    cb:title "Facility ManagerFacility Manager, Photography and Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 427" ; 
+    cb:email "michael.william.froio@drexel.edu" ; 
+    cb:website "http://www.michealfroio.com" ; 
+    cb:phone "2158955868" .
+
+<#Lois-Gabin-Legato>
+    cb:name "Lois Gabin-Legato" ; 
+    cb:title "Associate Vice President, Office of Institutional Advancement" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "lois.legato@drexel.edu" ; 
+    cb:website "http://www.michealfroio.com" ; 
+    cb:phone "2155713597" .
+
+<#Nanci-Gaglio>
+    cb:name "Nanci Gaglio" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "nancigaglio@gmail.com" ; 
+    cb:website "http://www.michealfroio.com" ; 
+    cb:phone "2155713597" .
+
+<#Gary-Garofalo>
+    cb:name "Gary Garofalo" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "ggarofalo@ldc-us.com" ; 
+    cb:website "http://www.michealfroio.com" ; 
+    cb:phone "2158952071" .
+
+<#Gerre-Garrett>
+    cb:name "Gerre Garrett" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "thewaitstaff@gmail.com" ; 
+    cb:website "http://www.michealfroio.com" ; 
+    cb:phone "2158952071" .
+
+<#Joshua-Gdovin>
+    cb:name "Joshua Gdovin" ; 
+    cb:title "Visiting Teaching Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "joshua.greggory.gdovin@drexel.edu" ; 
+    cb:website "http://www.michealfroio.com" ; 
+    cb:phone "2158952071" .
+
+<#Jacqueline-Genovesi>
+    cb:name "Jacqueline Genovesi" ; 
+    cb:title "Museum Leadership" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "jsg39@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2152991048" .
+
+<#Dawn-Gibian>
+    cb:name "Dawn Gibian" ; 
+    cb:title "Assistant Director, Office of Student Services; Advisor for Design & Merchandising, Fashion Design & Undeclared" ; 
+    cb:room "URBN Center, 103B" ; 
+    cb:email "dag56@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952396" .
+
+<#Denise-Gibson>
+    cb:name "Denise Gibson" ; 
+    cb:title "Administrative Assistant" ; 
+    cb:room "URBN Center, 103J" ; 
+    cb:email "jacksode@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952396" .
+
+<#Miriam-Giguere>
+    cb:name "Miriam Giguere" ; 
+    cb:title "Associate ProfessorDepartment Head, Performing Arts" ; 
+    cb:room "MacAlister Hall, 3016" ; 
+    cb:email "danceprogram@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158954914" .
+
+<#Nan-Gilbert>
+    cb:name "Nan Gilbert" ; 
+    cb:title "Manager, Mandell Theater" ; 
+    cb:room "Mandell Theater Lobby, 1040" ; 
+    cb:email "mandell@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952528" .
+
+<#Derek-Gillman>
+    cb:name "Derek Gillman" ; 
+    cb:title "Distinguished Teaching Professor, Visual Studies" ; 
+    cb:room "URBN Center, 132" ; 
+    cb:email "dag335@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952528" .
+
+<#Michael-Glaser>
+    cb:name "Michael Glaser" ; 
+    cb:title "Program Director, Associate Professor" ; 
+    cb:room "URBN Center, 270A" ; 
+    cb:email "mdg56@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2155713506" .
+
+<#Liz-Goldberg>
+    cb:name "Liz Goldberg" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 270A" ; 
+    cb:email "lizgoldberg@dca.net" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2156056975" .
+
+<#Cindy-Golembuski>
+    cb:name "Cindy Golembuski" ; 
+    cb:title "Assoc. Program Director, Fashion DesignAssociate Teaching Professor" ; 
+    cb:room "URBN Center, 310C" ; 
+    cb:email "cag48@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158950420" .
+
+<#Matthew-Gould>
+    cb:name "Matthew Gould" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "matthew.c.gould@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952451" .
+
+<#Jody-Graff>
+    cb:name "Jody Graff" ; 
+    cb:title "Program DirectorAssociate Professor & Program Director of Graphic Design" ; 
+    cb:room "UBRN Center, 4A10J" ; 
+    cb:email "jody.lyn.graff@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158950294" .
+
+<#Bruce-Graham>
+    cb:name "Bruce Graham" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "University Crossings, 050" ; 
+    cb:email "bruce.lee.graham@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158951036" .
+
+<#David-Greenberg>
+    cb:name "David Greenberg" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "University Crossings, 051" ; 
+    cb:email "djg49@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952408" .
+
+<#Alan-Greenberger>
+    cb:name "Alan Greenberger" ; 
+    cb:title "Department Head, Architecture, Design & Urbanism, Distinguished Teaching Professor" ; 
+    cb:room "URBN Center, 410F" ; 
+    cb:email "ajg42@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158956364" .
+
+<#Joseph-Gregory>
+    cb:name "Joseph Gregory" ; 
+    cb:title "Department Head, Art & Art HistoryAssociate Professor, Modern and Northern Renaissance Art" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115A" ; 
+    cb:email "jfg22@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158950278" .
+
+<#Roberta-Gruber>
+    cb:name "Roberta Gruber" ; 
+    cb:title "Head, Department of Design" ; 
+    cb:room "URBN Center, 310B" ; 
+    cb:email "gruberrh@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158951838" .
+
+<#Susan-Hahn>
+    cb:name "Susan Hahn" ; 
+    cb:title "Administrative Assistant, Department of Architecture + InteriorsAdministrative Assistant, Department of Architecture + Interiors" ; 
+    cb:room "URBN Center, 4A20B" ; 
+    cb:email "skh52@drexel.eduarchintr@drexel.edu" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952409" .
+
+<#Princell-Hair>
+    cb:name "Princell Hair" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A20B" ; 
+    cb:email "phair@comcastsportsnet.com" ; 
+    cb:website "www.ansp.org" ; 
+    cb:phone "2158952408" .
+
+<#Paul-Halamar>
+    cb:name "Paul Halamar" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "URBN Center, 4A20B" ; 
+    cb:email "Paul.halamar@hdrinc.com" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "6097917293" .
+
+<#Joseph-Hallman>
+    cb:name "Joseph Hallman" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "joseph.albert.hallman@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158952451" .
+
+<#Joseph-H.>
+    cb:name "Joseph H. Hancock" ; 
+    cb:title "Advisor for Retail MinorProfessor" ; 
+    cb:room "URBN Center, 110G" ; 
+    cb:email "jhh33@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158956993" .
+
+<#Kerri-Hanlon>
+    cb:name "Kerri Hanlon" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 110G" ; 
+    cb:email "kerri_hanlon@comcast.net" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158952408" .
+
+<#Don-Haring>
+    cb:name "Don Haring" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 4A10E" ; 
+    cb:email "dmh27@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158952393" .
+
+<#Julie-Hawkins>
+    cb:name "Julie Hawkins" ; 
+    cb:title "Assistant ProfessorArts Administration Program Director" ; 
+    cb:room "URBN Center, 210B" ; 
+    cb:email "julie.hawkins@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2155714223" .
+
+<#Adam-Hayes>
+    cb:name "Adam Hayes" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "URBN Center, 210B" ; 
+    cb:email "Adam.N.Hayes@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2155714223" .
+
+<#Lisa-Hayes>
+    cb:name "Lisa Hayes" ; 
+    cb:title "Associate ProfessorProgram Director" ; 
+    cb:room "URBN Center, 310F" ; 
+    cb:email "llh25@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158956451" .
+
+<#Carla-Heiken>
+    cb:name "Carla Heiken" ; 
+    cb:title "AdjunctAdjunct Professor, Interior Design, Interior Architecture + Design" ; 
+    cb:room "URBN Center, 310F" ; 
+    cb:email "cjh37@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158956451" .
+
+<#Cathy-Hernandez>
+    cb:name "Cathy Hernandez" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 310F" ; 
+    cb:email "ceh26@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "8176026392" .
+
+<#Herbie-Hickmott>
+    cb:name "Herbie Hickmott" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10" ; 
+    cb:email "hhh26@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "8176026392" .
+
+<#Paul-Hirshorn>
+    cb:name "Paul Hirshorn" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:room "URBN Center, 4A10" ; 
+    cb:email "hirshorn@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "8176026392" .
+
+<#Annette-Hladio>
+    cb:name "Annette Hladio" ; 
+    cb:title "Adjunct Teaching Professor" ; 
+    cb:room "URBN Center, 4A10" ; 
+    cb:email "annette@archltg.com" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158952071" .
+
+<#Gerard-Hooper>
+    cb:name "Gerard Hooper" ; 
+    cb:title "InstructorTeaching Professor" ; 
+    cb:room "University Crossings, 063" ; 
+    cb:email "ghooper@drexel.edu" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "2158951637" .
+
+<#Jonathan-Hoyle>
+    cb:name "Jonathan Hoyle" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "University Crossings, 063" ; 
+    cb:email "jhoyle@thelightingpractice.com" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2152381644" .
+
+<#Jon-Hummel>
+    cb:name "Jon Hummel" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "University Crossings, 063" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2152381644" .
+
+<#Lydia-Hunn>
+    cb:name "Lydia Hunn" ; 
+    cb:title "Professor, and Multimedia: Performance Area Coordinator" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115C" ; 
+    cb:email "Lydia.Hunn@drexel.edu" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2158954944" .
+
+<#Walt-Hunter>
+    cb:name "Walt Hunter" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115C" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2158954944" .
+
+<#Victoria-Hurst>
+    cb:name "Victoria Hurst" ; 
+    cb:title "Administrative Assistant, Department of Design" ; 
+    cb:room "URBN Center, 310L" ; 
+    cb:email "victoria.l.hurst@drexel.edu" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2158952390" .
+
+<#Jillian-Iffland>
+    cb:name "Jillian Iffland" ; 
+    cb:title "Academic AdvisorAcademic Advisor for Animation & Visual Effects, Game Design & Production, Interactive Digital Media, Photography" ; 
+    cb:room "URBN Center, 103C" ; 
+    cb:email "jhi24@drexel.edu" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2158952396" .
+
+<#Valerie-Ifill>
+    cb:name "Valerie Ifill" ; 
+    cb:title "Program Director, Dance" ; 
+    cb:room "MacAlister Hall, 3017" ; 
+    cb:email "vifill@drexel.edu" ; 
+    cb:website "www.thelightingpractice.com" ; 
+    cb:phone "2155714443" .
+
+<#Tania-Isaac-Hyman>
+    cb:name "Tania Isaac-Hyman" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "MacAlister Hall, 3015" ; 
+    cb:email "taniaisaac@drexel.edu" ; 
+    cb:website "http://www.taniaisaacdance.com" ; 
+    cb:phone "2155713527" .
+
+<#Tia-James>
+    cb:name "Tia James" ; 
+    cb:title "Assistant Director of Recruitment" ; 
+    cb:room "URBN Center, 1A10C" ; 
+    cb:email "tjm22@drexel.edu" ; 
+    cb:website "http://www.taniaisaacdance.com" ; 
+    cb:phone "2158951834" .
+
+<#Jaeyoon-Jeong>
+    cb:name "Jaeyoon Jeong" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 310H" ; 
+    cb:email "jj98@drexel.edu" ; 
+    cb:website "http://www.taniaisaacdance.com" ; 
+    cb:phone "2158951834" .
+
+<#Paul-Jerue>
+    cb:name "Paul Jerue" ; 
+    cb:title "Assistant Teaching Professor and URBN Center Black Box Theater Technical Director/Production Manager" ; 
+    cb:room "URBN Center Annex, 117" ; 
+    cb:email "prj36@drexel.edu" ; 
+    cb:website "http://www.taniaisaacdance.com" ; 
+    cb:phone "2155714243" .
+
+<#Laura-Johnson>
+    cb:name "Laura Johnson" ; 
+    cb:title "Adjunct InstructorAdjunct Instructor" ; 
+    cb:room "URBN Center, 110E" ; 
+    cb:email "laj75@drexel.edu" ; 
+    cb:website "http://www.taniaisaacdance.com" ; 
+    cb:phone "2158950293" .
+
+<#Don-Jones>
+    cb:name "Don Jones" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 110E" ; 
+    cb:email "djones@ewingcole.com" ; 
+    cb:website "http://www.ewingcole.com/" ; 
+    cb:phone "2156254115" .
+
+<#Nick-Jushchyshyn>
+    cb:name "Nick Jushchyshyn" ; 
+    cb:title "Program Director, Animation & Visual Effects" ; 
+    cb:room "URBN Center, 230D" ; 
+    cb:email "nickj@drexel.edu" ; 
+    cb:website "http://www.ewingcole.com/" ; 
+    cb:phone "2158952401" .
+
+<#Niko-J.>
+    cb:name "Niko J. Kallianiotis" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "njk46@drexel.edu" ; 
+    cb:website "www.nikokallianiotis.com" ; 
+    cb:phone "2158952401" .
+
+<#Bruce-Kaminsky>
+    cb:name "Bruce Kaminsky" ; 
+    cb:title "Adjunct Instructor & Mediterranean Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "Bruce.Kaminsky@drexel.edu" ; 
+    cb:website "www.nikokallianiotis.com" ; 
+    cb:phone "2158952451" .
+
+<#Richard-Kardon>
+    cb:name "Richard Kardon" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "Adjunct Professor" ; 
+    cb:website "www.nikokallianiotis.com" ; 
+    cb:phone "2158952451" .
+
+<#Eric-Karnes>
+    cb:name "Eric Karnes" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "UBRN Center, 4A10B" ; 
+    cb:email "eric.karnes@drexel.edu" ; 
+    cb:website "www.nikokallianiotis.com" ; 
+    cb:phone "2158954438" .
+
+<#Bruce-Katsiff>
+    cb:name "Bruce Katsiff" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 4A10B" ; 
+    cb:website "www.brucekatsiff.com" ; 
+    cb:phone "2158954438" .
+
+<#Matthew-J.>
+    cb:name "Matthew J. Kaufhold" ; 
+    cb:title "Assistant Teaching Professor and Interim Program Director, Screenwriting and Playwriting" ; 
+    cb:room "University Crossings, 050" ; 
+    cb:email "kaufhold@drexel.edu" ; 
+    cb:phone "2158952882" .
+
+<#Tim-Kearney>
+    cb:name "Tim Kearney" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "University Crossings, 050" ; 
+    cb:email "tpkarchitect@comcast.net" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "6105441722" .
+
+<#Dan-Kelley>
+    cb:name "Dan Kelley" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "University Crossings, 050" ; 
+    cb:email "dkelley@mgapartners.com" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2159250100" .
+
+<#Karin-P.>
+    cb:name "Karin P. Kelly" ; 
+    cb:title "Department Head, Cinema & Television" ; 
+    cb:room "University Crossings, 059" ; 
+    cb:email "kpk23@drexel.edu" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2158956478" .
+
+<#Jackie-Kilmartin>
+    cb:name "Jackie Kilmartin" ; 
+    cb:title "Assistant Teaching Professor Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 310C" ; 
+    cb:email "jk942@drexel.edu" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2158950359" .
+
+<#Linda-Kim>
+    cb:name "Linda Kim" ; 
+    cb:title "Assistant Professor, American and African Art" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 115D" ; 
+    cb:email "linda.kim@drexel.edu" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2158951677" .
+
+<#Jim-Klein>
+    cb:name "Jim Klein" ; 
+    cb:title "Associate Professor and Program Director, Music Industry" ; 
+    cb:room "URBN Center, 260E" ; 
+    cb:email "jlk57@drexel.edu" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2158951380" .
+
+<#Nicole-Koltick>
+    cb:name "Nicole Koltick" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "Design Futures Lab, URBN Center, 430" ; 
+    cb:email "nrk37@drexel.edu" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2158954992" .
+
+<#Marc-Krawitz>
+    cb:name "Marc Krawitz" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Design Futures Lab, URBN Center, 430" ; 
+    cb:website "http://www.cuetokearney.com/" ; 
+    cb:phone "2158954992" .
+
+<#Jeffery-Krieger>
+    cb:name "Jeffery Krieger" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Design Futures Lab, URBN Center, 430" ; 
+    cb:email "jkrieger@kriegerarchitects.com" ; 
+    cb:website "http://www.kriegerarchitects.com/" ; 
+    cb:phone "2152472020" .
+
+<#Karin-S.>
+    cb:name "Karin S. Kuenstler" ; 
+    cb:title "Associate Dean, Research and Associate Professor" ; 
+    cb:room "URBN Center, 1A10E" ; 
+    cb:email "kuenstls@drexel.edu" ; 
+    cb:website "http://www.kriegerarchitects.com/" ; 
+    cb:phone "2158952383" .
+
+<#Anish-Kumar>
+    cb:name "Anish Kumar" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 1A10E" ; 
+    cb:email "Anishkumar2311@gmail.com" ; 
+    cb:website "http://www.studioUD.com" ; 
+    cb:phone "215-645-2783" .
+
+<#Maria-Kuttruff>
+    cb:name "Maria Kuttruff" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 1A10E" ; 
+    cb:email "maria.louise.kuttruff@drexel.edu" ; 
+    cb:website "http://www.studioUD.com" ; 
+    cb:phone "2158952071" .
+
+<#Efecem-Kutuk>
+    cb:name "Efecem Kutuk" ; 
+    cb:room "URBN Center, 1A10E" ; 
+    cb:website "http://www.studioUD.com" ; 
+    cb:phone "2158952071" .
+
+<#John-Langdon>
+    cb:name "John Langdon" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 4A10C" ; 
+    cb:email "langdojw@drexel.edu" ; 
+    cb:website "http://www.studioUD.com" ; 
+    cb:phone "2158952071" .
+
+<#Bruce-Laverty>
+    cb:name "Bruce Laverty" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "UBRN Center, 4A10C" ; 
+    cb:website "http://www.philaathenaeum.org/" ; 
+    cb:phone "2159252688" .
+
+<#Joshua-Lawrence>
+    cb:name "Joshua Lawrence" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "joshua.d.lawrence@drexel.edu" ; 
+    cb:website "joshlawrencejazz.com" ; 
+    cb:phone "2158952451" .
+
+<#Kendra-Lawton-Ajuba>
+    cb:name "Kendra Lawton-Ajuba" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:website "joshlawrencejazz.com" ; 
+    cb:phone "2158952451" .
+
+<#Lucinda-Lea>
+    cb:name "Lucinda Lea" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "ll52@drexel.edu" ; 
+    cb:website "joshlawrencejazz.com" ; 
+    cb:phone "2158952451" .
+
+<#Yvonne-Leach>
+    cb:name "Yvonne Leach" ; 
+    cb:title "Associate Professor, Cinema & Television" ; 
+    cb:room "Drexel UniversityCinema & TelevisionUniversity Crossings, 0453175 JFK Blvd.Philadelphia, PA 19104" ; 
+    cb:email "leachyd@drexel.edu" ; 
+    cb:website "joshlawrencejazz.com" ; 
+    cb:phone "2158951960" .
+
+<#Frank-J.>
+    cb:name "Frank J. Lee" ; 
+    cb:title "Associate Professor, Digital Media" ; 
+    cb:room "Drexel UniversityCinema & TelevisionUniversity Crossings, 0453175 JFK Blvd.Philadelphia, PA 19104" ; 
+    cb:email "fjl@drexel.edu" ; 
+    cb:website "​h​t​t​p​:​/​/​w​w​w​.​p​a​g​e​s​.​d​r​e​x​e​l​.​e​d​u​/​~​f​j​l​2​4​/" ; 
+    cb:phone "2158954953" .
+
+<#Jay-Leistner>
+    cb:name "Jay Leistner" ; 
+    cb:title "Adjunct Associate Teaching Professor" ; 
+    cb:room "Drexel UniversityCinema & TelevisionUniversity Crossings, 0453175 JFK Blvd.Philadelphia, PA 19104" ; 
+    cb:email "jay@phaseiidesigns.com" ; 
+    cb:website "​h​t​t​p​:​/​/​w​w​w​.​p​a​g​e​s​.​d​r​e​x​e​l​.​e​d​u​/​~​f​j​l​2​4​/" ; 
+    cb:phone "2158952071" .
+
+<#Laura-Lenhart>
+    cb:name "Laura Lenhart" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Drexel UniversityCinema & TelevisionUniversity Crossings, 0453175 JFK Blvd.Philadelphia, PA 19104" ; 
+    cb:website "​h​t​t​p​:​/​/​w​w​w​.​p​a​g​e​s​.​d​r​e​x​e​l​.​e​d​u​/​~​f​j​l​2​4​/" ; 
+    cb:phone "2158952071" .
+
+<#Susan-Lerner>
+    cb:name "Susan Lerner" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "susan.v.lerner@drexel.edu" ; 
+    cb:website "​h​t​t​p​:​/​/​w​w​w​.​p​a​g​e​s​.​d​r​e​x​e​l​.​e​d​u​/​~​f​j​l​2​4​/" ; 
+    cb:phone "2158952451" .
+
+<#Joshua-T.>
+    cb:name "Joshua T. Lessard" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "jtl44@drexel.edu" ; 
+    cb:website "​h​t​t​p​:​/​/​w​w​w​.​p​a​g​e​s​.​d​r​e​x​e​l​.​e​d​u​/​~​f​j​l​2​4​/" ; 
+    cb:phone "2154400190" .
+
+<#Robert-Lloyd>
+    cb:name "Robert Lloyd" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "220-D URBN Center" ; 
+    cb:email "reml@drexel.edu" ; 
+    cb:website "http://about.me/reml" ; 
+    cb:phone "2155714434" .
+
+<#Anthony-LoCicero>
+    cb:name "Anthony LoCicero" ; 
+    cb:title "Adjunct Asst. Professor" ; 
+    cb:room "URBN Center, 410" ; 
+    cb:email "ahl25@drexel.edu" ; 
+    cb:website "http://about.me/reml" ; 
+    cb:phone "2155714434" .
+
+<#Andrew-Long>
+    cb:name "Andrew Long" ; 
+    cb:title "Assistant Adjunct Professorg" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "andrew.dasliss.long@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "8569520615" .
+
+<#Josh-Longo>
+    cb:name "Josh Longo" ; 
+    cb:title "Make Lab Manager, Teaching Faculty" ; 
+    cb:room "URBN Center, 261" ; 
+    cb:email "joshua.b.longo@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "8569520615" .
+
+<#Jesse-Lundy>
+    cb:name "Jesse Lundy" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 261" ; 
+    cb:email "jesse@pointentertainment.com" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "8569520615" .
+
+<#Matthew-Lutz>
+    cb:name "Matthew Lutz" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 261" ; 
+    cb:email "mjl96@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158952071" .
+
+<#Marcello-Luzi>
+    cb:name "Marcello Luzi" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 261" ; 
+    cb:email "mluzi@comcast.net" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158952071" .
+
+<#Bridget-Lynch>
+    cb:name "Bridget Lynch" ; 
+    cb:title "Program Administrator, Arts & Entertainment Enterprise" ; 
+    cb:room "URBN Center, 210A" ; 
+    cb:email "Bridget.lynch@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158956402" .
+
+<#Janice-Lyons>
+    cb:name "Janice Lyons" ; 
+    cb:title "Assistant the the Department Head" ; 
+    cb:room "UBRN Center, 410K" ; 
+    cb:email "lyonsjh@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158952071" .
+
+<#Michelle-Macinsky>
+    cb:name "Michelle Macinsky" ; 
+    cb:title "Art & Art History" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 109. 101 N. 33rd Street." ; 
+    cb:email "mlm549@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158952546" .
+
+<#Adrienne-Mackey>
+    cb:name "Adrienne Mackey" ; 
+    cb:title "Adjunct - Voice and Diction" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 109. 101 N. 33rd Street." ; 
+    cb:email "adrienne.m.mackey@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158952451" .
+
+<#Terrence-T.>
+    cb:name "Terrence T. Maher" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 109. 101 N. 33rd Street." ; 
+    cb:email "ttm34@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158952408" .
+
+<#Natalie-Malawey-Ednie>
+    cb:name "Natalie Malawey-Ednie" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 109. 101 N. 33rd Street." ; 
+    cb:email "nmalawey@gmail.com" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2154094250" .
+
+<#William-Mangold>
+    cb:name "William Mangold" ; 
+    cb:title "ProfessorAssistant Professor, Department of Architecture + Interiors" ; 
+    cb:room "URBN Center, 410A" ; 
+    cb:email "wjm78@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2154094250" .
+
+<#Karine-Manillier>
+    cb:name "Karine Manillier" ; 
+    cb:room "URBN Center, 1A 10K" ; 
+    cb:email "karine@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2155714097" .
+
+<#Jan-Marshall>
+    cb:name "Jan Marshall" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 310J" ; 
+    cb:email "marshajs@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158954423" .
+
+<#Joe-Marsini>
+    cb:name "Joe Marsini" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 310J" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158954423" .
+
+<#Kathi-Martin>
+    cb:name "Kathi Martin" ; 
+    cb:title "Associate Professor, Associate Director of Graduate Fashion Design" ; 
+    cb:room "URBN Center, 310D" ; 
+    cb:email "martink@drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158954941" .
+
+<#Susan-Matyas>
+    cb:name "Susan Matyas" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 310D" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158954941" .
+
+<#Dave-Mauriello>
+    cb:name "Dave Mauriello" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "URBN Center, 230E" ; 
+    cb:email "Mauriello@Drexel.edu" ; 
+    cb:website "andrewdlong.com" ; 
+    cb:phone "2158953674" .
+
+<#George-McCardle>
+    cb:name "George McCardle" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "george@yeahnoproblem.com" ; 
+    cb:website "www.yeahnoproblem.com" ; 
+    cb:phone "2158953674" .
+
+<#Alphonso-McClendon>
+    cb:name "Alphonso McClendon" ; 
+    cb:title "Associate Professor, Fashion DesignProgram Director" ; 
+    cb:room "URBN Center, 110C" ; 
+    cb:email "mcclena@drexel.edu" ; 
+    cb:website "www.yeahnoproblem.com" ; 
+    cb:phone "2158954937" .
+
+<#Michael-McCloskey>
+    cb:name "Michael McCloskey" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 110C" ; 
+    cb:website "www.yeahnoproblem.com" ; 
+    cb:phone "2158954937" .
+
+<#Daniel-McCoubrey>
+    cb:name "Daniel McCoubrey" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Venturi Scott Brown Associates" ; 
+    cb:email "mccoubrey@vsba.com" ; 
+    cb:website "http://www.vsba.com/" ; 
+    cb:phone "2154870400" .
+
+<#Patrick-McDade>
+    cb:name "Patrick McDade" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:room "Venturi Scott Brown Associates" ; 
+    cb:website "http://www.vsba.com/" ; 
+    cb:phone "2154870400" .
+
+<#Lawrence-McEwen>
+    cb:name "Lawrence McEwen" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Lawrence D.McEwen, Architects" ; 
+    cb:email "larry.mcewen@mcewenarch.com" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158444880" .
+
+<#Debbie-McGrody>
+    cb:name "Debbie McGrody" ; 
+    cb:title "Assistant Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "debbie.a.mcgrody@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158444880" .
+
+<#Murray-McKay>
+    cb:name "Murray McKay" ; 
+    cb:title "Assistant Dean of Recruitment and Retention" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "murray.mckay@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "+12158951675" .
+
+<#Adam-McKinnon>
+    cb:name "Adam McKinnon" ; 
+    cb:title "Assistant Adjunct Teaching Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "abm27@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158952071" .
+
+<#Beth-McNamara>
+    cb:name "Beth McNamara" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "mary.b.mcnamara@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158952071" .
+
+<#William-McNulty>
+    cb:name "William McNulty" ; 
+    cb:title "Equipment Manager" ; 
+    cb:room "University Crossings, 004/006" ; 
+    cb:email "wmm23@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158950279" .
+
+<#Ethan-Meillier>
+    cb:name "Ethan Meillier" ; 
+    cb:title "Assistant Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "ethan.p.meillier@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158950279" .
+
+<#Cecillia-Meisner>
+    cb:name "Cecillia Meisner" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "cmm456@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158950279" .
+
+<#Jacquelyn-Mendoza>
+    cb:name "Jacquelyn Mendoza" ; 
+    cb:title "Administrative AssistantDepartment of Cinema & Television" ; 
+    cb:room "University Crossings, 057" ; 
+    cb:email "jam665@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158952408" .
+
+<#Olivia-Menta>
+    cb:name "Olivia Menta" ; 
+    cb:title "Executive Assistant to the Dean, Communications Coordinator" ; 
+    cb:room "URBN Center, 1A20C" ; 
+    cb:email "ofm23@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2158952386" .
+
+<#Elizabeth-Milroy>
+    cb:name "Elizabeth Milroy" ; 
+    cb:title "Professor and Department Head" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 109A" ; 
+    cb:email "em678@drexel.edu" ; 
+    cb:website "http://www.mcewenarch.com" ; 
+    cb:phone "2155713588" .
+
+<#Andrea-Modica>
+    cb:name "Andrea Modica" ; 
+    cb:title "Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 424" ; 
+    cb:email "alm@together.net" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158951324" .
+
+<#Brian-Moore>
+    cb:name "Brian Moore" ; 
+    cb:title "Entertainment & Arts Management Program DirectorProgram Director of Entertainment & Arts Management and Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 210C" ; 
+    cb:email "bpm22@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2155713589" .
+
+<#Jennifer-Morley>
+    cb:name "Jennifer Morley" ; 
+    cb:title "Drexel Pilates Training Program DirectorAssistant Teaching Professor" ; 
+    cb:room "MacAlister Hall, 3017" ; 
+    cb:email "jsm76@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158952018" .
+
+<#Charles-Morscheck>
+    cb:name "Charles Morscheck" ; 
+    cb:title "Professor, Renaissance Art" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 109B" ; 
+    cb:email "morschcr@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158951749" .
+
+<#Ryan-Moys>
+    cb:name "Ryan Moys" ; 
+    cb:title "Facilities Manager" ; 
+    cb:room "URBN Center, 260G" ; 
+    cb:email "rpm69@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158954412" .
+
+<#Chip-Murphy>
+    cb:name "Chip Murphy" ; 
+    cb:title "Adjunct FacultyAdjunct Faculty" ; 
+    cb:room "URBN Center, 260G" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158954412" .
+
+<#Rosemary-Murphy>
+    cb:name "Rosemary Murphy" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "rosemary.murphy@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2159777093" .
+
+<#Shannon-Murphy>
+    cb:name "Shannon Murphy" ; 
+    cb:title "Assistant Director, Dance Ensemble, Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "shannon.a.murphy@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158952451" .
+
+<#Terry-Murphy>
+    cb:name "Terry Murphy" ; 
+    cb:title "Director of Academic Scheduling and Services" ; 
+    cb:room "URBN Center, 103F" ; 
+    cb:email "tlm54@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158952163" .
+
+<#Glen-Muschio>
+    cb:name "Glen Muschio" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "URBN Center, 220E" ; 
+    cb:email "muschio@drexel.edu" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158952056" .
+
+<#John-Mussoni>
+    cb:name "John Mussoni" ; 
+    cb:title "Adjunct ProfessorAdjunct Professor" ; 
+    cb:room "URBN Center, 220E" ; 
+    cb:website "http://www.andreamodica.com" ; 
+    cb:phone "2158952056" .
+
+<#Shell-Myers>
+    cb:name "Shell Myers" ; 
+    cb:title "Administrative Coordinator, Art & Art History" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 109. 101 N. 33rd Street." ; 
+    cb:email "msm382@drexel.edu" ; 
+    cb:website "www.shellmyers.com" ; 
+    cb:phone "2158951336" .
+
+<#Robert-Nalls>
+    cb:name "Robert Nalls" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, Room 109. 101 N. 33rd Street." ; 
+    cb:email "nallsre@drexel.edu" ; 
+    cb:website "http://www.nallsarch.com/" ; 
+    cb:phone "6106679551" .
+
+<#Nicholas-Natalicchio>
+    cb:name "Nicholas Natalicchio" ; 
+    cb:title "Post-Production Facility ManagerDepartment of Cinema & Television" ; 
+    cb:room "University Crossings, 011" ; 
+    cb:email "njn27@drexel.edu" ; 
+    cb:website "http://www.nallsarch.com/" ; 
+    cb:phone "2155714068" .
+
+<#D.S.-Nicholas>
+    cb:name "D.S. Nicholas RA" ; 
+    cb:title "Assistant Professor,Director, MS Design Research,Associate Director, MS Interior Architecture + Design Program,Coordinator, Sustainability in the Built Environment Minor" ; 
+    cb:room "URBN Center, 410B" ; 
+    cb:email "dsn35@drexel.edu" ; 
+    cb:website "switchedondesign.com" ; 
+    cb:phone "2155714432" .
+
+<#Jacklynn-Niemiec>
+    cb:name "Jacklynn Niemiec" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 4A20D" ; 
+    cb:email "jacklynn.n.niemiec@drexel.edu" ; 
+    cb:website "switchedondesign.com" ; 
+    cb:phone "2158954631" .
+
+<#Janice-O'Connor>
+    cb:name "Janice O'Connor" ; 
+    cb:title "Assistant Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "janice.k.oconnor@drexel.edu" ; 
+    cb:website "switchedondesign.com" ; 
+    cb:phone "2158954631" .
+
+<#Becky-Oehlers>
+    cb:name "Becky Oehlers" ; 
+    cb:title "Private Lesson Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "katrina.rebecca.oehlers@drexel.edu" ; 
+    cb:website "switchedondesign.com" ; 
+    cb:phone "2158952451" .
+
+<#Marc-Offenbach>
+    cb:name "Marc Offenbach" ; 
+    cb:title "Assistant Professor, Music Industry" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "marc.s.offenbach@drexel.edu" ; 
+    cb:website "switchedondesign.com" ; 
+    cb:phone "2155713529" .
+
+<#Santiago-Ontanon>
+    cb:name "Santiago Ontanon" ; 
+    cb:title "Assistant Professor, Computer Science" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "santiago.ontanon@drexel.edu" ; 
+    cb:website "switchedondesign.com" ; 
+    cb:phone "2155713529" .
+
+<#Kenneth-Oum>
+    cb:name "Kenneth Oum" ; 
+    cb:title "Professor, Interactive Digital Media" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:website "http://oumagency.com" ; 
+    cb:phone "2155713529" .
+
+<#Claire-Owen>
+    cb:name "Claire Owen" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "claireowen@verizon.net" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158951649" .
+
+<#Roberto-Pace>
+    cb:name "Roberto Pace" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "roberto.j.pace@drexel.edu" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158952451" .
+
+<#Kerri-Padgett>
+    cb:name "Kerri Padgett" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158952451" .
+
+<#Rich-Paleski>
+    cb:name "Rich Paleski" ; 
+    cb:title "Director of Broadcast Operations & Engineering CBS-3 CW-57Adjunct Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "rap96@drexel.edu" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2159775201" .
+
+<#Carolyn-Pearson>
+    cb:name "Carolyn Pearson" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "cpearson@cpearsondesign.com" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158952071" .
+
+<#Orlando-Pelliccia>
+    cb:name "Orlando Pelliccia" ; 
+    cb:title "Associate Teaching Professor, Director of Leonard Pearlstein Gallery" ; 
+    cb:room "Paul Peck Problem Solving & Research Center Annex, 108" ; 
+    cb:email "op26@drexel.edu" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158956340" .
+
+<#Karen-Pelzer>
+    cb:name "Karen Pelzer" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "UBRN Center, 410A" ; 
+    cb:email "karen.burke.pelzer@drexel.edu" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158951376" .
+
+<#Beth-Phillips>
+    cb:name "Beth Phillips" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "URBN Center, 110B" ; 
+    cb:email "bp32@drexel.edu" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158950363" .
+
+<#Robert-Piasecki>
+    cb:name "Robert Piasecki" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 110B" ; 
+    cb:email "rmp23@drexel.edu" ; 
+    cb:website "http://claireowenturtleislandpress.com" ; 
+    cb:phone "2158950363" .
+
+<#Bruce-Pollock>
+    cb:name "Bruce Pollock" ; 
+    cb:title "Assistant Professor, Painting Area Coordinator, Fine Arts Minor Adviser" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 114" ; 
+    cb:email "bwp22@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158951336" .
+
+<#Steven-Powell>
+    cb:name "Steven Powell" ; 
+    cb:title "Professor, Director of Choral Music Ensembles" ; 
+    cb:room "Mandell Theater Lobby, 1037" ; 
+    cb:email "powellss@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158954912" .
+
+<#Timothy-Powell>
+    cb:name "Timothy Powell" ; 
+    cb:title "Adjunct Assistant Teaching Professor" ; 
+    cb:room "Mandell Theater Lobby, 1037" ; 
+    cb:email "timothy.m.powell@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158952071" .
+
+<#Peter-Pracilio>
+    cb:name "Peter Pracilio" ; 
+    cb:title "Assistant Teaching Professor, Product Design" ; 
+    cb:room "Mandell Theater Lobby, 1037" ; 
+    cb:email "peter@peterpracilio.com" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158952071" .
+
+<#Olive-Prince>
+    cb:name "Olive Prince" ; 
+    cb:title "Touring Ensemble DirectorAdjunct Assistant Professor" ; 
+    cb:room "Mandell Theater Lobby 1035(Dance Ensemble Production Office)" ; 
+    cb:email "okp23@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158952451" .
+
+<#Victoria-Prizzia>
+    cb:name "Victoria Prizzia" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Mandell Theater Lobby 1035(Dance Ensemble Production Office)" ; 
+    cb:email "victoria@habitheque.com" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158952451" .
+
+<#Thomas-Quinn>
+    cb:name "Thomas Quinn" ; 
+    cb:title "Program Director, Film & Video" ; 
+    cb:room "University Crossings, 061" ; 
+    cb:email "teq23@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158956676" .
+
+<#Allen-Radway>
+    cb:name "Allen Radway" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "University Crossings, 061" ; 
+    cb:email "allen.p.radway@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158952451" .
+
+<#Meredith-Rainey>
+    cb:name "Meredith Rainey" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "mkr38@drexel.edu" ; 
+    cb:website "http://www.brucepollock.com" ; 
+    cb:phone "2158952451" .
+
+<#David-Raizman>
+    cb:name "David Raizman" ; 
+    cb:title "Professor, History of Design; Medieval Art" ; 
+    cb:room "UBRN Center, 4A10D" ; 
+    cb:email "raizmand@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158951622" .
+
+<#Marion-Ramírez>
+    cb:name "Marion Ramírez" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "mir32@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158952451" .
+
+<#Stefan-Rank>
+    cb:name "Stefan Rank" ; 
+    cb:title "Assistant Professor, Game Art & Production" ; 
+    cb:room "URBN Center, 220H" ; 
+    cb:email "stefan.rank@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2155714429" .
+
+<#Jay-Rappaport>
+    cb:name "Jay Rappaport" ; 
+    cb:title "Assistant Dean of Information Technology and Facilities" ; 
+    cb:room "URBN Center, 244" ; 
+    cb:email "jasonrap@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158951680" .
+
+<#Jeffrey-Ray>
+    cb:name "Jeffrey Ray" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 244" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158951680" .
+
+<#Steven-Rea>
+    cb:name "Steven Rea" ; 
+    cb:room "URBN Center, 244" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158951680" .
+
+<#Amy-Rees>
+    cb:name "Amy Rees" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "ar83@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "6103242883" .
+
+<#Bill-Rees>
+    cb:name "Bill Rees" ; 
+    cb:title "Associate Teaching ProfessorAssociate Program Director, Graphic Design" ; 
+    cb:room "UBRN Center, 4A10B" ; 
+    cb:email "wbr24@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158951836" .
+
+<#Lydia-Reeves>
+    cb:name "Lydia Reeves Timmins" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 4A10B" ; 
+    cb:email "lrt33@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "3025214784" .
+
+<#Danielle-Rice>
+    cb:name "Danielle Rice" ; 
+    cb:title "Teaching Professor and Program Director, Museum Leadership" ; 
+    cb:room "URBN Center, 134" ; 
+    cb:email "danielle.rice@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158952888" .
+
+<#Patrick-Richardson>
+    cb:name "Patrick Richardson" ; 
+    cb:title "Professor, Interactive Digital Media" ; 
+    cb:room "URBN Center, 134" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158952888" .
+
+<#Madeleine-Riley>
+    cb:name "Madeleine Riley" ; 
+    cb:title "Adjunct Instructor, Fusion Band Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "madeleine.carol.riley@drexel.edu" ; 
+    cb:website "pages.drexel.edu/~raizmand" ; 
+    cb:phone "2158952451" .
+
+<#Stuart-Rome>
+    cb:name "Stuart Rome" ; 
+    cb:title "Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 425" ; 
+    cb:email "romesa@drexel.edu" ; 
+    cb:website "http://www.stuartrome.com" ; 
+    cb:phone "2158952385" .
+
+<#Marilynne-Rose>
+    cb:name "Marilynne Rose" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "URBN Center, 410K" ; 
+    cb:email "rosem@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~rosem/" ; 
+    cb:phone "2158954939" .
+
+<#Gregory-Ross>
+    cb:name "Gregory Ross" ; 
+    cb:title "Adjunct Instructor, Gospel Choir Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "gregory.ross@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~rosem/" ; 
+    cb:phone "2158952451" .
+
+<#Diana-Rossi>
+    cb:name "Diana Rossi" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "dianarossiphotography@gmail.com" ; 
+    cb:website "www.dianarossiphotography.com" ; 
+    cb:phone "2158952451" .
+
+<#James-Rowe>
+    cb:name "James Rowe" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "jrowe@agooslovera.com" ; 
+    cb:website "http://www.agooslovera.com/" ; 
+    cb:phone "2157350100" .
+
+<#Debra-Ruben>
+    cb:name "Debra Ruben" ; 
+    cb:title "Associate ProfessorProgram Director, Interior Design" ; 
+    cb:room "UBRN Center, 410B" ; 
+    cb:email "Dhruben@drexel.edu" ; 
+    cb:website "http://www.agooslovera.com/" ; 
+    cb:phone "2158951388" .
+
+<#David-Rubinsohn>
+    cb:name "David Rubinsohn" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 410B" ; 
+    cb:email "drubinsohn@comcast.net" ; 
+    cb:website "http://www.agooslovera.com/" ; 
+    cb:phone "2158951388" .
+
+<#Greg-Ruggiero>
+    cb:name "Greg Ruggiero" ; 
+    cb:title "IT Support Specialist" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "gjr38@drexel.edu" ; 
+    cb:website "http://www.agooslovera.com/" ; 
+    cb:phone "2158952906" .
+
+<#Paul-Runyon>
+    cb:name "Paul Runyon" ; 
+    cb:title "Photography Program DirectorProgram Director, Photography and Associate Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 408" ; 
+    cb:email "paul.runyon@drexel.edu" ; 
+    cb:website "http://www.paulrunyon.com" ; 
+    cb:phone "2158952932" .
+
+<#Eric-Rymshaw>
+    cb:name "Eric Rymshaw" ; 
+    cb:title "Adjunct Teaching Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 408" ; 
+    cb:email "erymshaw@furydesigninc.com" ; 
+    cb:website "http://www.paulrunyon.com" ; 
+    cb:phone "2158952071" .
+
+<#Allen-Sabinson>
+    cb:name "Allen Sabinson" ; 
+    cb:title "Dean, Westphal College" ; 
+    cb:room "URBN Center, 1A20A" ; 
+    cb:email "allensabinson@drexel.edu" ; 
+    cb:website "http://www.paulrunyon.com" ; 
+    cb:phone "2158951621" .
+
+<#Phillip-Salas>
+    cb:name "Phillip Salas" ; 
+    cb:title "Westphal Representative to Faculty SenateAssistant Teaching Professor" ; 
+    cb:room "URBN Center, 1A20A" ; 
+    cb:email "pws25@drexel.edu" ; 
+    cb:website "http://www.paulrunyon.com" ; 
+    cb:phone "2155714241" .
+
+<#Paul-Salvaggio>
+    cb:name "Paul Salvaggio" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "URBN Center, 1A20A" ; 
+    cb:email "psalvaggio@arcusdg.com" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "610-458-9900" .
+
+<#Clare-Sauro>
+    cb:name "Clare Sauro" ; 
+    cb:title "Curator Historic Costume Collection, History of Costume" ; 
+    cb:room "URBN Center, 310N" ; 
+    cb:email "cms393@drexel.edu" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "2155713504" .
+
+<#Derrick-Savage>
+    cb:name "Derrick Savage" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 310N" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "2155713504" .
+
+<#Raja-Schaar>
+    cb:name "Raja Schaar" ; 
+    cb:title "Assistant ProfessorAssistant Professor" ; 
+    cb:room "URBN Center, 270B" ; 
+    cb:email "raja.schaar@drexel.edu" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "2158954421" .
+
+<#Rachel-Schade>
+    cb:name "Rachel Schade" ; 
+    cb:title "Program Director, Architecture; Associate Teaching Professor; Associate Director for Student Placement" ; 
+    cb:room "UBRN Center, 4A20A" ; 
+    cb:email "schadesr@drexel.edu" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "2155714369" .
+
+<#Amy-Scheidegger>
+    cb:name "Amy Scheidegger" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:room "UBRN Center, 4A20A" ; 
+    cb:email "als336@drexel.edu" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "2155714369" .
+
+<#David-Schneider>
+    cb:name "David Schneider" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "david.schneider@drexel.edu" ; 
+    cb:website "http://www.arcusdg.com/" ; 
+    cb:phone "2158952451" .
+
+<#Ryan-Schwabe>
+    cb:name "Ryan Schwabe" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "URBN Center, 260G" ; 
+    cb:email "rjs22@drexel.edu" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "2158951897" .
+
+<#David-A.>
+    cb:name "David A. Schwartz" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "University Crossing, 023" ; 
+    cb:email "david.a.schwartz@drexel.edu" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "2158955956" .
+
+<#Scott-Schwartz>
+    cb:name "Scott Schwartz" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "University Crossing, 023" ; 
+    cb:email "scott.schwartz@dansko.com" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "6108698335 extension 1161" .
+
+<#Toby-Seay>
+    cb:name "Toby Seay" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "URBN Center, 260F" ; 
+    cb:email "js553@drexel.edu" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "2158955880" .
+
+<#Sally-Seligman>
+    cb:name "Sally Seligman" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 260F" ; 
+    cb:email "sally.m.seligman@drexel.edu" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "215-895-0546" .
+
+<#Janice-Selinger>
+    cb:name "Janice Selinger" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 260F" ; 
+    cb:email "janiceselinger@verizon.net" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "215-895-0546" .
+
+<#Lisa-Serpico>
+    cb:name "Lisa Serpico" ; 
+    cb:title "Academic Advisor for Graphic Design, Film & Video, Product Design, Screenwriting & Playwriting, and TV Production & Media Management" ; 
+    cb:room "URBN Center, 103E" ; 
+    cb:email "lisa25@drexel.edu" ; 
+    cb:website "www.RyanSchwabe.com" ; 
+    cb:phone "2158952396" .
+
+<#Paul-Shapiro>
+    cb:name "Paul Shapiro" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "URBN Center, 103E" ; 
+    cb:email "pshapiro@ballinger-ae.com" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2154460900" .
+
+<#Mike-Sheehey>
+    cb:name "Mike Sheehey" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "URBN Center, 103E" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2154460900" .
+
+<#Jamielyn-Sheldon>
+    cb:name "Jamielyn Sheldon" ; 
+    cb:title "Equipment Room Technician" ; 
+    cb:room "University Crossings, 004" ; 
+    cb:email "jdm79@drexel.edu" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "215-895-0279" .
+
+<#Jordan-Shue>
+    cb:name "Jordan Shue" ; 
+    cb:title "Assistant to the Director" ; 
+    cb:room "University Crossings, 004" ; 
+    cb:email "gallery@drexel.edu" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2158952548" .
+
+<#Rebecca-Siler>
+    cb:name "Rebecca Siler" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "rebecca.l.siler@drexel.edu" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2158952451" .
+
+<#Marie-Sims>
+    cb:name "Marie Sims" ; 
+    cb:title "Administrative Coordinator II, Department of Design" ; 
+    cb:room "URBN Center, 310P" ; 
+    cb:email "mds92@drexel.edu" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2158952334" .
+
+<#Philip-Sinatra>
+    cb:name "Philip Sinatra" ; 
+    cb:title "Professor, Interactive Digital Media" ; 
+    cb:room "URBN Center, 310P" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2158952334" .
+
+<#Heather-Smalley>
+    cb:name "Heather Smalley" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Dance Production Office, Mandell Theatre Lobby 1035" ; 
+    cb:email "heather.smalley@drexel.edu" ; 
+    cb:website "http://www.ballinger-ae.com/" ; 
+    cb:phone "2158952451" .
+
+<#Ashley-Smith>
+    cb:name "Ashley Smith" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "acs57@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952451" .
+
+<#Virginia-S.>
+    cb:name "Virginia S. Smith" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "virginia.s.smith@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952451" .
+
+<#Denise-Snow>
+    cb:name "Denise Snow" ; 
+    cb:title "Academic AdvisorAcademic Advisor for Art History, Dance, Entertainment & Arts Management, Music Industry" ; 
+    cb:room "URBN Center, Suite 103" ; 
+    cb:email "dms546@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952396" .
+
+<#Delia-Solomons>
+    cb:name "Delia Solomons" ; 
+    cb:title "Assistant Professor, Modern and Contemporary Art" ; 
+    cb:room "Paul Peck Problem Solving & Research Center 115B" ; 
+    cb:email "delia.solomons@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158955906" .
+
+<#Isaac-Southard>
+    cb:name "Isaac Southard" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center 115B" ; 
+    cb:email "ips22@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2159250100" .
+
+<#Paula-Spilner>
+    cb:name "Paula Spilner" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center 115B" ; 
+    cb:email "pspilner@comcast.net" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952071" .
+
+<#Alexander-Stadel>
+    cb:name "Alexander Stadel" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center 115B" ; 
+    cb:email "ajs83@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "7174683780" .
+
+<#George-Starks>
+    cb:name "George Starks" ; 
+    cb:title "Director of Jazz EnsemblesProfessor & Jazz Orchestra Director" ; 
+    cb:room "MacAlister Hall, 2013" ; 
+    cb:email "starksgl@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158951732" .
+
+<#Leah-Stein>
+    cb:name "Leah Stein" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "MacAlister Hall, 3017" ; 
+    cb:email "leah.c.stein@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952451" .
+
+<#Harris-M.>
+    cb:name "Harris M. Steinberg" ; 
+    cb:title "Distinguished Teaching Professor; Executive Director, Lindy Institute for Urban Innovation" ; 
+    cb:room "URBN Center, 132" ; 
+    cb:email "hms88@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2155714419" .
+
+<#Sarah-Steinwachs>
+    cb:name "Sarah Steinwachs" ; 
+    cb:title "Associate Professor, and Visual Studies Area Coordinator" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115A" ; 
+    cb:email "Sarah.Jennifer.Steinwachs@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158956984" .
+
+<#Lauren-Stepanski>
+    cb:name "Lauren Stepanski" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "l​a​u​r​e​n​.​m​.​s​t​e​p​a​n​s​k​i​@​d​r​e​x​e​l​.​e​d​u​" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158956984" .
+
+<#Monica-Stevens>
+    cb:name "Monica Stevens Smyth" ; 
+    cb:title "Collection Manager" ; 
+    cb:room "Ellen Forman Dance Studio Office, Mandell Theater Lobby 1032" ; 
+    cb:email "mbs63@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2155713504" .
+
+<#Brian-Stewart>
+    cb:name "Brian Stewart" ; 
+    cb:title "Administrative Assistant" ; 
+    cb:room "URBN Center, 1A10K" ; 
+    cb:email "bls37@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158951645" .
+
+<#Sandy-Stewart>
+    cb:name "Sandy Stewart" ; 
+    cb:title "Associate ProfessorAssociate Dean, Academics" ; 
+    cb:room "UBRN Center, 1A20B" ; 
+    cb:email "stewarts@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952393" .
+
+<#Mark-Stockton>
+    cb:name "Mark Stockton" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115A" ; 
+    cb:email "mts66@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952547" .
+
+<#Arin-Sullivan>
+    cb:name "Arin Sullivan" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115A" ; 
+    cb:email "arindenise@gmail.com" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952547" .
+
+<#Laura-Sullivan>
+    cb:name "Laura Sullivan" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 115A" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952547" .
+
+<#Erik-P.>
+    cb:name "Erik P. Sundquist" ; 
+    cb:title "Assistant Teaching Professor, Director of the Hybrid Making Lab" ; 
+    cb:room "URBN Center, 105B" ; 
+    cb:email "eps49@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158950239" .
+
+<#Wilson-Surratt>
+    cb:name "Wilson Surratt" ; 
+    cb:title "Network ProgrammingAdjunct Professor" ; 
+    cb:room "URBN Center, 105B" ; 
+    cb:email "jwsurratt@mac.com" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952408" .
+
+<#Andrew-Susskind>
+    cb:name "Andrew Susskind" ; 
+    cb:title "Program Director, TV Production and Media Management, and Associate Teaching Professor" ; 
+    cb:room "Uinversity Crossings, 053" ; 
+    cb:email "susskind@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952339" .
+
+<#Rosalind-Sutkowski>
+    cb:name "Rosalind Sutkowski" ; 
+    cb:title "Director of Administrative Services" ; 
+    cb:room "URBN Center, 1A10F" ; 
+    cb:email "rsutkowski@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952398" .
+
+<#Danielle-Swan>
+    cb:name "Danielle Swan" ; 
+    cb:title "Department Assistant - Arts and Entertainment Enterprise & Performing ArtsDepartment Assistant" ; 
+    cb:room "URBN Center, 210M" ; 
+    cb:email "ds893@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952453" .
+
+<#Ken-Szovati>
+    cb:name "Ken Szovati" ; 
+    cb:title "IT Support Specialist" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "ks894@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952906" .
+
+<#Cyrille-Taillandier>
+    cb:name "Cyrille Taillandier" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "URBN Center, 260F" ; 
+    cb:email "cyrille.l.taillandier@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158956603" .
+
+<#Jocelyn-Tarquini>
+    cb:name "Jocelyn Tarquini" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "University Crossings, 025D" ; 
+    cb:email "jt495@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2155714240" .
+
+<#Albert-S.>
+    cb:name "Albert S. Tedesco" ; 
+    cb:title "Program DirectorProgram Director, Television Management, and Teaching Professor" ; 
+    cb:room "University Crossings, 047" ; 
+    cb:email "ast33@drexel.edu" ; 
+    cb:website "www.ashleycatharinesmith.com" ; 
+    cb:phone "2158952180" .
+
+<#Jervis-Thompson>
+    cb:name "Jervis Thompson" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "URBN Center, 230A" ; 
+    cb:email "jervis.thompson@drexel.edu" ; 
+    cb:website "http://www.jervo.com" ; 
+    cb:phone "2158955937" .
+
+<#Simon-J.>
+    cb:name "Simon J. Tickell" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "URBN Center, 230A" ; 
+    cb:email "sjt32@drexel.edu" ; 
+    cb:phone "2155714431" .
+
+<#Amanda-Tinker>
+    cb:name "Amanda Tinker" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 426" ; 
+    cb:email "amanda.k.tinker@drexel.edu" ; 
+    cb:website "http://www.amandatinker.com" ; 
+    cb:phone "2158950401" .
+
+<#Blaise-Tobia>
+    cb:name "Blaise Tobia" ; 
+    cb:title "Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 109B" ; 
+    cb:email "tobiabj@drexel.edu" ; 
+    cb:website "http://tandm.us" ; 
+    cb:phone "2158952395" .
+
+<#Nancy-Trainer>
+    cb:name "Nancy Trainer" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 109B" ; 
+    cb:email "nrt23@drexel.edu" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "2158952870" .
+
+<#Ada-M.>
+    cb:name "Ada M. Tremonte" ; 
+    cb:title "Associate Program Director, Interiors, and Associate Teaching Professor" ; 
+    cb:room "UBRN Center, 410C" ; 
+    cb:email "amt42@drexel.edu" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "2158956931" .
+
+<#Allison-Trimarco-White>
+    cb:name "Allison Trimarco-White" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 410C" ; 
+    cb:email "atrimarco@drexel.edu" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "6092983478" .
+
+<#Dave-Trimber>
+    cb:name "Dave Trimber" ; 
+    cb:title "Adjunct FacultyAdjunct Faculty" ; 
+    cb:room "UBRN Center, 410C" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "6092983478" .
+
+<#Tashia-Tucker>
+    cb:name "Tashia Tucker" ; 
+    cb:room "UBRN Center, 410C" ; 
+    cb:email "tlt55@drexel.edu" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "2158952071" .
+
+<#Theodore-Ullrich>
+    cb:name "Theodore Ullrich" ; 
+    cb:room "UBRN Center, 410C" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "2158952071" .
+
+<#Neville-Vakharia>
+    cb:name "Neville Vakharia" ; 
+    cb:title "Assistant Professor and Research Director" ; 
+    cb:room "URBN Center, 210H" ; 
+    cb:email "nvakharia@drexel.edu" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "2155714439" .
+
+<#Julie-Van>
+    cb:name "Julie Van Blarcom" ; 
+    cb:title "Asst VP, Institutional Advance, Major Gifts" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "jwv32@drexel.edu" ; 
+    cb:website "vsba.com" ; 
+    cb:phone "2158951387" .
+
+<#Stephen-Varenhorst>
+    cb:name "Stephen Varenhorst" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "stephen@varenhorst.com" ; 
+    cb:website "http://www.varenhorst.com/" ; 
+    cb:phone "2159401128" .
+
+<#Jason-Varney>
+    cb:name "Jason Varney" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:email "jason@varneyphoto.com" ; 
+    cb:website "www.varneyphoto.com" ; 
+    cb:phone "2159401128" .
+
+<#Henry-Vazquez>
+    cb:name "Henry Vazquez" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 406" ; 
+    cb:website "www.varneyphoto.com" ; 
+    cb:phone "6106685777" .
+
+<#Lisa-Visco>
+    cb:name "Lisa Visco" ; 
+    cb:title "Director, Communications & Events" ; 
+    cb:room "URBN Center, 1A10B" ; 
+    cb:email "lmv47@drexel.edu" ; 
+    cb:website "http://drexel.edu/westphal" ; 
+    cb:phone "2158951029" .
+
+<#Kelly-Vresilovic>
+    cb:name "Kelly Vresilovic" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "CaVA architects, llp" ; 
+    cb:email "Kelly.F.Vresilovic@drexel.edu" ; 
+    cb:website "http://drexel.edu/westphal" ; 
+    cb:phone "2157328525" .
+
+<#Michael-Wagner>
+    cb:name "Michael Wagner" ; 
+    cb:title "ProfessorDepartment Head, Digital Media; Program Director, Graduate Digital Media" ; 
+    cb:room "URBN Center, 220C" ; 
+    cb:email "wagner@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158952554" .
+
+<#Kate-Walbert>
+    cb:name "Kate Walbert" ; 
+    cb:title "Academic Advisor for Architecture, Interior Design" ; 
+    cb:room "URBN Center, Suite 103" ; 
+    cb:email "kcw52@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158952396" .
+
+<#Sharon-Walker>
+    cb:name "Sharon Walker" ; 
+    cb:title "Assistant to the Department HeadCinema & Television" ; 
+    cb:room "University Crossings, 057" ; 
+    cb:email "walkersv@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158952407" .
+
+<#John-Walp>
+    cb:name "John Walp" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "University Crossings, 057" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158952407" .
+
+<#Darren-Walters>
+    cb:name "Darren Walters" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "URBN Center, 260J" ; 
+    cb:email "dmw62@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158951315" .
+
+<#Robert-Warkulwiz>
+    cb:name "Robert Warkulwiz" ; 
+    cb:title "Assistant Adjunct Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "robert.j.warkulwiz@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158951315" .
+
+<#Jerry-Waters>
+    cb:name "Jerry Waters" ; 
+    cb:title "IT Support Specialist" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "jww56@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158952906" .
+
+<#David-Weiss>
+    cb:name "David Weiss" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "david_m_weiss@yahoo.com" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2674141214" .
+
+<#Joshua-Weiss>
+    cb:name "Joshua Weiss" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "jaw95@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2674141214" .
+
+<#Robert-Weitzner>
+    cb:name "Robert Weitzner" ; 
+    cb:title "Assistant Professor, Music Industry" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "robert.o.weitzner@drexel.edu" ; 
+    cb:website "about.me/michaelgwagner" ; 
+    cb:phone "2158952453" .
+
+<#Jered-Widmer>
+    cb:name "Jered Widmer" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "jew28@drexel.edu" ; 
+    cb:website "http://thelightingpractice.com/" ; 
+    cb:phone "2152381644" .
+
+<#Brannon-Wiles>
+    cb:name "Brannon Wiles" ; 
+    cb:title "Assistant Professor, Entertainment & Arts Management" ; 
+    cb:room "URBN Center, 3A20" ; 
+    cb:email "mbwiles@drexel.edu" ; 
+    cb:website "http://thelightingpractice.com/" ; 
+    cb:phone "2158952453" .
+
+<#Mark-Willie>
+    cb:name "Mark Willie" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "UBRN Center, 4A10H" ; 
+    cb:email "mew26@drexel.edu" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2158951093" .
+
+<#Justin-Wineburgh>
+    cb:name "Justin Wineburgh" ; 
+    cb:title "Adjunct Professor" ; 
+    cb:room "UBRN Center, 4A10H" ; 
+    cb:email "Justin@alkemy-x.com" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2158951093" .
+
+<#Dennis-Wint>
+    cb:name "Dennis Wint" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "URBN Center, 136" ; 
+    cb:email "dmw345@drexel.edu" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2155714579" .
+
+<#Gregory-Wolmart>
+    cb:name "Gregory Wolmart" ; 
+    cb:title "Assistant Professor of Cinema StudiesAssistant Professor" ; 
+    cb:room "University Crossings, 025B" ; 
+    cb:email "gsw29@drexel.edu" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2155714579" .
+
+<#Daphney-Wright>
+    cb:name "Daphney Wright" ; 
+    cb:title "Administrative Assistant, Digital Media" ; 
+    cb:room "UBRN Center, 220A" ; 
+    cb:email "dbw37@drexel.edu" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2158952554" .
+
+<#Gregory-Wright>
+    cb:name "Gregory Wright" ; 
+    cb:title "Adjunct Instructor, Rock and Guitar Ensemble Director" ; 
+    cb:room "MacAlister Hall, Suite 2018" ; 
+    cb:email "gregory.j.wright@drexel.edu" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2158952451" .
+
+<#Kylie-Wright>
+    cb:name "Kylie Wright" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 426" ; 
+    cb:email "lkw39@drexel.edu" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2158952915" .
+
+<#Ed-Yakovich>
+    cb:name "Ed Yakovich" ; 
+    cb:title "Professor, Interactive Digital Media" ; 
+    cb:room "Paul Peck Problem Solving & Research Center, 426" ; 
+    cb:website "markwilliegraphicdesign.com" ; 
+    cb:phone "2158952915" .
+
+<#Alex-Yampolsky>
+    cb:name "Alex Yampolsky" ; 
+    cb:title "Adjunct Assistant ProfessorAdjunct Assistant Professor" ; 
+    cb:room "URBN Center, 4A10C" ; 
+    cb:email "yampolsky@drexel.edu" ; 
+    cb:website "AlexYampolsky.com" ; 
+    cb:phone "2158952915" .
+
+<#Shushi-Yoshinaga>
+    cb:name "Shushi Yoshinaga" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "UBRN Center, 4A10G" ; 
+    cb:email "shushi.yoshinaga@drexel.edu" ; 
+    cb:website "AlexYampolsky.com" ; 
+    cb:phone "2158954938" .
+
+<#Karl-Yrjanainen>
+    cb:name "Karl Yrjanainen" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "UBRN Center, 4A10G" ; 
+    cb:email "karlyrjanainen@hdrinc.com" ; 
+    cb:website "http://www.hdrinc.com/" ; 
+    cb:phone "6098441212" .
+
+<#Michael-Ytterberg>
+    cb:name "Michael Ytterberg" ; 
+    cb:title "Adjunct Associate Professor" ; 
+    cb:room "UBRN Center, 4A10G" ; 
+    cb:email "mry@blta.com" ; 
+    cb:website "http://www.blta.com/" ; 
+    cb:phone "2155633900" .
+
+<#Max-Zahniser>
+    cb:name "Max Zahniser" ; 
+    cb:title "Adjunct Assistant Professor" ; 
+    cb:room "UBRN Center, 4A10G" ; 
+    cb:website "praxis-buildingsolutions.com" ; 
+    cb:phone "2158163190" .
+
+<#Michelle-Zatta>
+    cb:name "Michelle Zatta" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "UBRN Center, 4A10G" ; 
+    cb:website "praxis-buildingsolutions.com" ; 
+    cb:phone "2158163190" .
+
+<#Diane-Zatz>
+    cb:name "Diane Zatz" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:room "URBN Center" ; 
+    cb:email "dsz23@drexel.edu" ; 
+    cb:website "praxis-buildingsolutions.com" ; 
+    cb:phone "2158163190" .
+
+<#Jichen-Zhu>
+    cb:name "Jichen Zhu Ph.D." ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "URBN Center, 220G" ; 
+    cb:email "jichen.zhu@drexel.edu" ; 
+    cb:website "digm.drexel.edu/jzhu" ; 
+    cb:phone "2155714220" .
+
+<#Marty-Zied>
+    cb:name "Marty Zied" ; 
+    cb:title "Documentary/Reality Producer" ; 
+    cb:room "URBN Center, 220G" ; 
+    cb:email "msz35@drexel.edu" ; 
+    cb:website "digm.drexel.edu/jzhu" ; 
+    cb:phone "2158950445" .
+
+<#Andrew-Zitcer>
+    cb:name "Andrew Zitcer" ; 
+    cb:title "Assistant Professor and Thesis Director" ; 
+    cb:room "URBN Center, 210K" ; 
+    cb:email "andrew.w.zitcer@drexel.edu" ; 
+    cb:website "digm.drexel.edu/jzhu" ; 
+    cb:phone "2155713703" .
+

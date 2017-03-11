@@ -6,6 +6,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 585" ; 
     cb:education "PhD" ; 
     cb:email "pva23@drexel.edu" ; 
     cb:phone "215.895.0301" ; 
@@ -16,6 +17,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1035" ; 
     cb:education "PhD" ; 
     cb:email "ma639@drexel.edu" ; 
     cb:phone "215.895.6982" ; 
@@ -26,6 +28,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Management, Decision Sciences & MIS" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -36,6 +39,7 @@
     cb:property "faculty" ; 
     cb:title "Royal H. Gibson, Sr. Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 837" ; 
     cb:education "PhD" ; 
     cb:email "andersre@drexel.edu" ; 
     cb:phone "215.895.2103" ; 
@@ -46,6 +50,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Marketing" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -56,6 +61,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 526" ; 
     cb:education "PhD" ; 
     cb:email "arinzeob@drexel.edu" ; 
     cb:phone "215.895.1798" .
@@ -65,6 +71,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 925" ; 
     cb:email "patricia.m.awerbuch@drexel.edu" ; 
     cb:phone "215.571.4365" ; 
     cb:interests "Agricultural and Natural Resource Economics, Health Economics" .
@@ -74,6 +81,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 737" ; 
     cb:education "PhD" ; 
     cb:email "banerjea@drexel.edu" ; 
     cb:phone "215.895.1449" ; 
@@ -84,6 +92,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1028" ; 
     cb:education "PhD" ; 
     cb:email "rcb63@drexel.edu" ; 
     cb:phone "215.895.6972" ; 
@@ -94,6 +103,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "David Cohen Research Scholar in Finance" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -104,6 +114,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1135" ; 
     cb:education "PhD,FRM, CAIA, CFA" ; 
     cb:email "ecb49@drexel.edu" ; 
     cb:phone "215.895.2944" ; 
@@ -114,6 +125,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Department Head, Decision Sciences & MIS" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -124,6 +136,7 @@
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1128" ; 
     cb:education "Ph.D." ; 
     cb:email "flb32@drexel.edu" ; 
     cb:phone "215.895.2308" .
@@ -133,6 +146,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1023" ; 
     cb:education "PhD" ; 
     cb:email "sjb355@drexel.edu" ; 
     cb:phone "215.571.4193" ; 
@@ -143,6 +157,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 923" ; 
     cb:email "maureen.patricia.breen@drexel.edu" ; 
     cb:phone "215.571.3672" .
 
@@ -151,6 +166,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "General Business" ; 
+    cb:room "Gerri C. LeBow Hall 535" ; 
     cb:email "beb33@drexel.edu" ; 
     cb:phone "215.571.4663" .
 
@@ -159,6 +175,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1119" ; 
     cb:education "PhD" ; 
     cb:email "jc468@drexel.edu" ; 
     cb:phone "215.895.1755" ; 
@@ -169,6 +186,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
+    cb:room "Gerri C. LeBow Hall 525" ; 
     cb:email "jodi.kathleen.cataline@drexel.edu" ; 
     cb:phone "215.571.4660" ; 
     cb:interests "Accounting and Business History, Banking and Bank Regulation, General Business" .
@@ -178,6 +196,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 738" ; 
     cb:education "PhD" ; 
     cb:email "oc43@drexel.edu" ; 
     cb:phone "215.895.2815" ; 
@@ -188,6 +207,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 528" ; 
     cb:education "PhD" ; 
     cb:email "suresh.chandran@drexel.edu" ; 
     cb:phone "215.571.4409" ; 
@@ -198,6 +218,7 @@
     cb:property "faculty" ; 
     cb:title "KPMG Professor of Accounting" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 937" ; 
     cb:education "PhD, CPA" ; 
     cb:email "hc336@drexel.edu" ; 
     cb:phone "215.895.6979" ; 
@@ -208,6 +229,7 @@
     cb:property "faculty" ; 
     cb:title "Marshall M. Austin Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1137" ; 
     cb:education "PhD" ; 
     cb:email "chiangtc@drexel.edu" ; 
     cb:phone "215.895.1745" ; 
@@ -218,6 +240,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 927" ; 
     cb:education "PhD" ; 
     cb:email "hc349@drexel.edu" ; 
     cb:phone "215.895.2147" .
@@ -227,6 +250,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Legal Studies" ; 
+    cb:room "Gerri C. LeBow Hall 845" ; 
     cb:education "JD, DBA" ; 
     cb:email "collonrd@drexel.edu" ; 
     cb:phone "215.895.6971" ; 
@@ -237,6 +261,7 @@
     cb:property "faculty" ; 
     cb:title "Joseph F. Ford Professor of Accounting" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 922" ; 
     cb:education "PhD" ; 
     cb:email "curatola@drexel.edu" ; 
     cb:phone "215.895.1453" ; 
@@ -247,6 +272,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "General Business" ; 
+    cb:room "Gerri C. LeBow Hall 523" ; 
     cb:email "dangeldc@drexel.edu" ; 
     cb:phone "215.895.2954" ; 
     cb:interests "Accounting and Business History, Business Communication, Business Education, Capital Budgeting, Corporate Finance, Experiential Learning, General Business, Global Classrooms, Leadership Development, Service Learning" .
@@ -256,6 +282,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 629" ; 
     cb:education "PhD" ; 
     cb:email "led73@drexel.edu" ; 
     cb:phone "215.895.1796" ; 
@@ -266,6 +293,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1043" ; 
     cb:education "PhD" ; 
     cb:email "md598@drexel.edu" ; 
     cb:phone "215.895.2536" ; 
@@ -276,6 +304,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 620" ; 
     cb:education "PhD" ; 
     cb:email "qd24@drexel.edu" ; 
     cb:phone "215.895.2121" ; 
@@ -286,6 +315,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 929" ; 
     cb:education "PhD" ; 
     cb:email "xd45@drexel.edu" ; 
     cb:phone "215.571.4822" ; 
@@ -296,6 +326,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Denis O’Brien Research Scholar in Finance" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -306,6 +337,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Dean, Close School of Entrepreneurship" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -316,6 +348,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 919" ; 
     cb:education "PhD" ; 
     cb:email "pcd32@drexel.edu" ; 
     cb:phone "215.571.6779" .
@@ -325,6 +358,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1034" ; 
     cb:education "PhD" ; 
     cb:email "pd358@drexel.edu" ; 
     cb:phone "215.571.4194" ; 
@@ -335,6 +369,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 581" ; 
     cb:education "PhD" ; 
     cb:email "bd328@drexel.edu" ; 
     cb:phone "215.571.3509" ; 
@@ -345,6 +380,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1143" ; 
     cb:education "PhD" ; 
     cb:email "dd79@drexel.edu" ; 
     cb:phone "215.895.1744" ; 
@@ -355,6 +391,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1125" ; 
     cb:education "PhD" ; 
     cb:email "cmd433@drexel.edu" ; 
     cb:phone "215.571.4595" .
@@ -364,6 +401,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 827" ; 
     cb:education "PhD" ; 
     cb:email "draganska@drexel.edu" ; 
     cb:phone "215.571.4195" ; 
@@ -374,6 +412,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 820" ; 
     cb:email "lkd26@drexel.edu" ; 
     cb:phone "215.895.1033" ; 
     cb:interests "Global Capital Markets, Global Marketing, Marketing Strategy, New Markets in Emerging Countries, New Media Marketing" .
@@ -383,6 +422,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
+    cb:room "Gerri C. LeBow Hall 524" ; 
     cb:email "chambesa@drexel.edu" ; 
     cb:phone "215.895.0231" ; 
     cb:interests "General Business, Groups/Teams, Leadership, Organizational Culture and Fit, Personality" .
@@ -392,6 +432,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 828" ; 
     cb:education "PhD" ; 
     cb:email "emf75@drexel.edu" ; 
     cb:phone "215.571.4054" ; 
@@ -402,6 +443,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1120" ; 
     cb:education "PhD" ; 
     cb:email "emf35@drexel.edu" ; 
     cb:phone "215.895.2304" .
@@ -411,6 +453,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Director of General Business Studies" ; 
+    cb:room "Location" ; 
     cb:education "EdD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -421,6 +464,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
+    cb:room "Location" ; 
     cb:education "JD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -431,6 +475,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 838" ; 
     cb:education "PhD" ; 
     cb:email "ctg39@drexel.edu" ; 
     cb:phone "215.571.4615" ; 
@@ -441,6 +486,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Provost Distinguished Research Professor" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -451,6 +497,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Legal Studies" ; 
+    cb:room "Gerri C. LeBow Hall 839" ; 
     cb:education "JD" ; 
     cb:email "asg32@drexel.edu" ; 
     cb:phone "215.571.4689" .
@@ -460,6 +507,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 944" ; 
     cb:education "PhD" ; 
     cb:email "hdg26@drexel.edu" ; 
     cb:phone "215.895.4981" ; 
@@ -470,6 +518,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Finance" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -480,6 +529,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 583" ; 
     cb:education "PhD" ; 
     cb:email "cg624@drexel.edu" ; 
     cb:phone "215.895.1606" ; 
@@ -490,6 +540,7 @@
     cb:property "faculty" ; 
     cb:title "William A. Mackie Professor of Commerce and Engineering" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 626" ; 
     cb:education "PhD" ; 
     cb:email "jhg23@drexel.edu" ; 
     cb:phone "215.895.2139" ; 
@@ -500,6 +551,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department Head, Accounting" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -510,6 +562,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 934" ; 
     cb:education "PhD" ; 
     cb:email "cmh463@drexel.edu" ; 
     cb:phone "215.571.4678" .
@@ -519,6 +572,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1042" ; 
     cb:education "PhD" ; 
     cb:email "hammousm@drexel.edu" ; 
     cb:phone "215.895.6673" ; 
@@ -529,6 +583,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Associate Dean for Academic Affairs" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -539,6 +594,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 819" ; 
     cb:education "PA-C, PhD" ; 
     cb:email "mjh73@drexel.edu" ; 
     cb:phone "215.895.2091" ; 
@@ -549,6 +605,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 825" ; 
     cb:education "PhD" ; 
     cb:email "yh364@drexel.edu" ; 
     cb:phone "215.895.2809" ; 
@@ -559,6 +616,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Associate Dean for Graduate and Undergraduate Programs, Dornsife Office for Experiential Learning" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -569,6 +627,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1041" ; 
     cb:education "PhD" ; 
     cb:email "jeonbana@drexel.edu" ; 
     cb:phone "215.895.2125" ; 
@@ -579,6 +638,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1040" ; 
     cb:email "sj55@drexel.edu" ; 
     cb:phone "215.895.1339" ; 
     cb:interests "Economic Development, Technological Change, and Growth, Education and Human Capital, Industrial Organization, Labor Economics, Microeconomics" .
@@ -588,6 +648,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 625" ; 
     cb:education "PhD" ; 
     cb:email "keidel@drexel.edu" ; 
     cb:phone "215.895.2881" ; 
@@ -598,6 +659,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 942" ; 
     cb:education "PhD" ; 
     cb:email "nvk24@drexel.edu" ; 
     cb:phone "215.895.2118" ; 
@@ -608,6 +670,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 744" ; 
     cb:education "PhD" ; 
     cb:email "kimsl@drexel.edu" ; 
     cb:phone "215.895.2181" ; 
@@ -618,6 +681,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 920" ; 
     cb:education "CPA" ; 
     cb:email "Klinesa@drexel.edu" ; 
     cb:phone "215.895.5866" ; 
@@ -628,6 +692,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Stephen Cozen Research Scholar in Marketing" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -638,6 +703,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1118" ; 
     cb:email "kratchal@drexel.edu" ; 
     cb:phone "215.895.1742" ; 
     cb:interests "Investments, Portfolio Management" .
@@ -647,6 +713,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Department Head" ; 
+    cb:room "Location" ; 
     cb:education "JD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -657,6 +724,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1036" ; 
     cb:education "PhD" ; 
     cb:email "ak3386@drexel.edu" ; 
     cb:phone "215.571.4681" ; 
@@ -667,6 +735,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 527" ; 
     cb:education "EdD" ; 
     cb:email "dbk37@drexel.edu" ; 
     cb:phone "215.571.4616" ; 
@@ -677,6 +746,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 821" ; 
     cb:education "PhD" ; 
     cb:email "hk47@drexel.edu" ; 
     cb:phone "215.895.6006" ; 
@@ -687,6 +757,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Director, Ph.D. Program" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -697,6 +768,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
+    cb:room "Gerri C. LeBow Hall 539" ; 
     cb:email "jl386@drexel.edu" ; 
     cb:phone "215.571.4665" ; 
     cb:interests "General Business, Health Care Marketing, Marketing and Entrepreneurship, Marketing Research, Peer mentoring, Student leadership development, Supporting international student acculturation" .
@@ -706,6 +778,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 644" ; 
     cb:education "PhD" ; 
     cb:email "jl3543@drexel.edu" ; 
     cb:phone "215.571.4676" ; 
@@ -716,6 +789,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 834" ; 
     cb:education "PhD" ; 
     cb:email "jl3539@drexel.edu" ; 
     cb:phone "215.571.4672" ; 
@@ -726,6 +800,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 943" ; 
     cb:education "PhD" ; 
     cb:email "johnny.lee@drexel.edu" ; 
     cb:phone "215.571.4680" ; 
@@ -736,6 +811,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Trustee Professor" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -746,6 +822,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 835" ; 
     cb:education "PhD" ; 
     cb:email "merrill@drexel.edu" ; 
     cb:phone "215.895.2459" ; 
@@ -756,6 +833,7 @@
     cb:property "faculty" ; 
     cb:title "R. John Chapel Jr., Dean" ; 
     cb:department "Dean" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -766,6 +844,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 736" ; 
     cb:education "PhD" ; 
     cb:email "cl998@drexel.edu" ; 
     cb:phone "215.895.2132" ; 
@@ -776,6 +855,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 628" ; 
     cb:education "PhD" ; 
     cb:email "yl663@drexel.edu" ; 
     cb:phone "215.571.4441" ; 
@@ -786,6 +866,7 @@
     cb:property "faculty" ; 
     cb:title "TD Bank Endowed Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1121" ; 
     cb:education "PhD" ; 
     cb:email "ml3237@drexel.edu" ; 
     cb:phone "215.895.6070" .
@@ -795,6 +876,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 645" ; 
     cb:education "PhD" ; 
     cb:email "dali.ma@drexel.edu" ; 
     cb:phone "215.895.1733" ; 
@@ -805,6 +887,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Director, School of Economics" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -815,6 +898,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 728" ; 
     cb:education "PhD" ; 
     cb:email "Maragahh@drexel.edu" ; 
     cb:phone "215.895.6996" ; 
@@ -825,6 +909,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 639" ; 
     cb:education "DBA" ; 
     cb:email "mkm55@drexel.edu" ; 
     cb:phone "215.895.1939" ; 
@@ -835,6 +920,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 640" ; 
     cb:education "PhD" ; 
     cb:email "meb359@drexel.edu" ; 
     cb:phone "215.895.1792" ; 
@@ -845,6 +931,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1037" ; 
     cb:education "PhD" ; 
     cb:email "mccainra@drexel.edu" ; 
     cb:phone "215.895.2176" ; 
@@ -855,6 +942,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 742" ; 
     cb:education "PhD" ; 
     cb:email "BDMcCullough@drexel.edu" ; 
     cb:phone "215.895.2134" ; 
@@ -865,6 +953,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1027" ; 
     cb:education "PhD" ; 
     cb:email "im99@drexel.edu" ; 
     cb:phone "215.895.6007" ; 
@@ -875,6 +964,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 639" ; 
     cb:education "PhD" ; 
     cb:email "rn362@drexel.edu" ; 
     cb:phone "215.571.4675" ; 
@@ -885,6 +975,7 @@
     cb:property "faculty" ; 
     cb:title "Deloitte Touche Jones Stubbs Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 622" ; 
     cb:education "PhD" ; 
     cb:email "vkn22@drexel.edu" ; 
     cb:phone "215.895.6763" ; 
@@ -895,6 +986,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 941" ; 
     cb:education "PhD" ; 
     cb:email "ndubizga@drexel.edu" ; 
     cb:phone "215.895.2120" .
@@ -904,6 +996,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1144" ; 
     cb:education "PhD" ; 
     cb:email "en26@drexel.edu" ; 
     cb:phone "215.895.2117" ; 
@@ -914,6 +1007,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1129" ; 
     cb:education "PhD" ; 
     cb:email "gpn26@drexel.edu" ; 
     cb:phone "215.571.4596" ; 
@@ -924,6 +1018,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1045" ; 
     cb:education "PhD" ; 
     cb:email "maria.p.olivero@drexel.edu" ; 
     cb:phone "215.895.4908" ; 
@@ -934,6 +1029,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1039" ; 
     cb:email "eeo42@drexel.edu" ; 
     cb:phone "215.895.6619" ; 
     cb:interests "Financial Institution Management, International Finance, Macroeconomics, New Markets in Emerging Countries, Politcal Economy" .
@@ -943,6 +1039,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
+    cb:room "Gerri C. LeBow Hall 844" ; 
     cb:education "JD" ; 
     cb:email "orkinn@drexel.edu" ; 
     cb:phone "215.895.6976" ; 
@@ -953,6 +1050,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 935" ; 
     cb:education "PhD" ; 
     cb:email "dp643@drexel.edu" ; 
     cb:phone "215.895.1396" ; 
@@ -963,6 +1061,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 643" ; 
     cb:education "PhD" ; 
     cb:email "hdp34@drexel.edu" ; 
     cb:phone "215.895.1747" ; 
@@ -973,6 +1072,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Professor of Operations Management" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -983,6 +1083,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Legal Studies" ; 
+    cb:room "Gerri C. LeBow Hall 840" ; 
     cb:email "nbp24@drexel.edu" ; 
     cb:phone "215.571.4192" ; 
     cb:interests "American Law, Contract Law, Labor and Employment Law" .
@@ -992,6 +1093,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1035" ; 
     cb:education "Ph.D." ; 
     cb:email "tlp64@drexel.edu" ; 
     cb:phone "215.895.2540" ; 
@@ -1002,6 +1104,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 921" ; 
     cb:education "PhD, CPA" ; 
     cb:email "ber33@drexel.edu" ; 
     cb:phone "215.895.0222" ; 
@@ -1012,6 +1115,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 577" ; 
     cb:education "PhD" ; 
     cb:email "mjr424@drexel.edu" ; 
     cb:phone "215.571.4671" ; 
@@ -1022,6 +1126,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 635" ; 
     cb:education "PhD" ; 
     cb:email "cresick@drexel.edu" ; 
     cb:phone "215.895.1052" ; 
@@ -1032,6 +1137,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 618" ; 
     cb:education "PhD" ; 
     cb:email "skr37@drexel.edu" ; 
     cb:phone "215.571.4202" ; 
@@ -1042,6 +1148,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 924" ; 
     cb:email "james.william.rinier@drexel.edu" ; 
     cb:phone "215.571.3640" .
 
@@ -1050,6 +1157,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "General Business" ; 
+    cb:room "Gerri C. LeBow Hall 538" ; 
     cb:email "eer24@drexel.edu" ; 
     cb:phone "215.571.4664" .
 
@@ -1058,6 +1166,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1134" ; 
     cb:education "PhD" ; 
     cb:email "pjr43@drexel.edu" ; 
     cb:phone "215.571.4679" ; 
@@ -1068,6 +1177,7 @@
     cb:property "faculty" ; 
     cb:title "J. Donald Rauth Professor of Marketing Management" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 826" ; 
     cb:education "PhD" ; 
     cb:email "rosenblb@drexel.edu" ; 
     cb:phone "215.895.6992" ; 
@@ -1078,6 +1188,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1145" ; 
     cb:email "dfs26@drexel.edu" ; 
     cb:phone "215.895.0584" ; 
     cb:interests "Derivatives, Investments, Risk Management" .
@@ -1087,6 +1198,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 623" ; 
     cb:education "Ph.D." ; 
     cb:email "mjs624@drexel.edu" ; 
     cb:phone "215.895.1939" ; 
@@ -1097,6 +1209,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1044" ; 
     cb:education "PhD" ; 
     cb:email "ks346@drexel.edu" ; 
     cb:phone "215.895.6816" ; 
@@ -1107,6 +1220,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1024" ; 
     cb:education "PhD" ; 
     cb:email "rs3267@drexel.edu" ; 
     cb:phone "215.895.6973" ; 
@@ -1117,6 +1231,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Drexel University’s Provost Fellow India Partnerships" ; 
+    cb:room "Location" ; 
     cb:education "D.P.S." ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -1127,6 +1242,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 735" ; 
     cb:education "PhD" ; 
     cb:email "ws84@drexel.edu" ; 
     cb:phone "215.895.0225" ; 
@@ -1137,6 +1253,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
+    cb:room "Gerri C. LeBow Hall 842" ; 
     cb:education "JD" ; 
     cb:email "shersr@drexel.edu" ; 
     cb:phone "215.895.2128" .
@@ -1146,6 +1263,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 824" ; 
     cb:education "PhD" ; 
     cb:email "ps579@drexel.edu" ; 
     cb:phone "215.895.1392" ; 
@@ -1156,6 +1274,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Director, School of Economics" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -1166,6 +1285,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Associate Dean for Research" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -1176,6 +1296,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 836" ; 
     cb:education "PhD" ; 
     cb:email "swaminas@drexel.edu" ; 
     cb:phone "215.895.2137" ; 
@@ -1186,6 +1307,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Trustee Professor of International Economics" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -1196,6 +1318,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1123" ; 
     cb:education "PhD" ; 
     cb:email "szewczsh@drexel.edu" ; 
     cb:phone "215.895.1746" .
@@ -1205,6 +1328,7 @@
     cb:property "faculty" ; 
     cb:title "George B. Francis Professor" ; 
     cb:department "Finance" ; 
+    cb:room "Gerri C. LeBow Hall 1122" ; 
     cb:education "PhD" ; 
     cb:email "tsetsekos@drexel.edu" ; 
     cb:phone "215.895.1587" ; 
@@ -1215,6 +1339,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 636" ; 
     cb:education "PhD" ; 
     cb:email "dt396@drexel.edu" ; 
     cb:phone "215.571.3825" ; 
@@ -1225,6 +1350,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
+    cb:room "Gerri C. LeBow Hall 928" ; 
     cb:education "PhD" ; 
     cb:email "mev43@drexel.edu" ; 
     cb:phone "215.571.4437" ; 
@@ -1235,6 +1361,7 @@
     cb:property "faculty" ; 
     cb:title "Christopher and Mary Stratakis Professor in Corporate Governance and Accountability" ; 
     cb:department "Founder, Center of Corporate Governance" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 
@@ -1245,6 +1372,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
+    cb:room "Gerri C. LeBow Hall 829" ; 
     cb:education "PhD" ; 
     cb:email "chen.wang635@drexel.edu" ; 
     cb:phone "215.571.3546" ; 
@@ -1255,6 +1383,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 740" ; 
     cb:education "PhD" ; 
     cb:email "mw638@drexel.edu" ; 
     cb:phone "215.571.4203" ; 
@@ -1265,6 +1394,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1029" ; 
     cb:education "PhD" ; 
     cb:email "mcw325@drexel.edu" ; 
     cb:phone "215.571.4168" ; 
@@ -1275,6 +1405,7 @@
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Management" ; 
+    cb:room "Gerri C. LeBow Hall 642" ; 
     cb:education "PhD" ; 
     cb:email "weinerjl@drexel.edu" ; 
     cb:phone "215.895.1797" .
@@ -1284,6 +1415,7 @@
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Assistant Department Head, Accounting" ; 
+    cb:room "Location" ; 
     cb:education "CPA" ; 
     cb:email "Email" ; 
     cb:phone "Phone" .
@@ -1293,6 +1425,7 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
+    cb:room "Gerri C. LeBow Hall 727" ; 
     cb:education "PhD" ; 
     cb:email "cw578@drexel.edu" ; 
     cb:phone "215.571.4590" ; 
@@ -1303,6 +1436,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
+    cb:room "Gerri C. LeBow Hall 1020" ; 
     cb:education "PhD" ; 
     cb:email "yvy23@drexel.edu" ; 
     cb:phone "215.895.2572" ; 
@@ -1313,6 +1447,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Department Head, Management" ; 
+    cb:room "Location" ; 
     cb:education "PhD" ; 
     cb:email "Email" ; 
     cb:phone "Phone" ; 

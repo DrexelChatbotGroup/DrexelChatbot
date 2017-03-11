@@ -5,6 +5,7 @@
     cb:name "Fred Allen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor and Associate Director for Undergraduate Education" ; 
+    cb:room "Bossone 703" ; 
     cb:education "PhD" ; 
     cb:email "fdallen@drexel.edu" ; 
     cb:interests "Tissue Engineering, Cell Engineering, Orthopedics, Bone Remodeling, Wound Healing, Mechanotransduction, Signal Transduction, Adhesion, Migration" .
@@ -13,6 +14,7 @@
     cb:name "Hasan Ayaz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
+    cb:room "Monell 101" ; 
     cb:education "PhD" ; 
     cb:email "hasan.ayaz@drexel.edu" ; 
     cb:interests "Optical brain imaging, cognitive neuroengineering, brain computer interface (BCI), functional near infrared (fNIR), and near infrared spectroscopy (NIRS)." .
@@ -21,6 +23,7 @@
     cb:name "Sriram Balasubramanian" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
+    cb:room "Bossone 713" ; 
     cb:education "PhD" ; 
     cb:email "sri.bala@drexel.edu" ; 
     cb:interests "Orthopedic biomechanics, Pediatric spine and rib cage deformities, Scoliosis, Computational modeling, Pediatric long bones, Animal models, Injury biomechanics, Spinal kinetics and kinematics, and Knee kinematics." .
@@ -29,6 +32,7 @@
     cb:name "Kenneth Barbee" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Senior Associate Dean, and Associate Dean for Research" ; 
+    cb:room "Bossone 714" ; 
     cb:education "PhD" ; 
     cb:email "barbee@drexel.edu" ; 
     cb:interests "Cellular biomechanics of neural and vascular injury, mechanotransduction in the cardiovascular system, mechanical control of growth and development for wound healing and tissue engineering" .
@@ -37,6 +41,7 @@
     cb:name "Paul Brandt-Rauf" ; 
     cb:property "faculty" ; 
     cb:title "Distinguished University Professor and Dean" ; 
+    cb:room "Bossone 718-A" ; 
     cb:education "DrPH, MD, ScD" ; 
     cb:email "pwb35@drexel.edu" ; 
     cb:interests "Environmental health, particularly the molecular biology and molecular epidemiology of environmental carcinogenesis." .
@@ -45,6 +50,7 @@
     cb:name "Donald Buerk" ; 
     cb:property "faculty" ; 
     cb:title "Research Professor" ; 
+    cb:room "LeBow 435-K" ; 
     cb:education "PhD" ; 
     cb:email "dgb28@drexel.edu" ; 
     cb:interests "Biotechnology, physiology, systems biology, blood flow, microcirculation, nitric oxide, oxygen transport" .
@@ -53,6 +59,7 @@
     cb:name "Jaimie Dougherty" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
+    cb:room "Bossone 707" ; 
     cb:education "PhD" ; 
     cb:email "jbd34@drexel.edu" ; 
     cb:interests "Brain-computer interface, neural encoding, electrophysiological signal acquisition and processing." .
@@ -61,6 +68,7 @@
     cb:name "Lin Han" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
+    cb:room "Bossone 711" ; 
     cb:education "PhD" ; 
     cb:email "lh535@drexel.edu" ; 
     cb:interests "Nanoscale structure-property relationships of biological materials, genetic and molecular origins of soft joint tissue diseases, biomaterials under extreme conditions, coupling between stimulus-responsiveness and geometry" .
@@ -69,6 +77,7 @@
     cb:name "Uri Hershberg" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
+    cb:room "Monell 102" ; 
     cb:education "PhD" ; 
     cb:email "uri.hershberg@drexel.edu" ; 
     cb:interests "Bioinformatics, immunology, neural computation, system biology, somatic selection, autoimmunity, genetic stability, germline diversity, dendritic cell, transcription elements, pathogens, computational and mathematical modeling, complex systems, cognition and inflammation" .
@@ -77,6 +86,7 @@
     cb:name "Kurtulus Izzetoglu" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
+    cb:room "Monell 131" ; 
     cb:education "PhD" ; 
     cb:email "ki25@drexel.edu" ; 
     cb:interests "Cognitive neuroengineering, functional brain imaging, near infrared spectroscopy, medical sensor development, biomedical signal processing, human performance assessment, and cognitive aging." .
@@ -85,6 +95,7 @@
     cb:name "Meltem Izzetoglu" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
+    cb:room "Monell 109" ; 
     cb:education "PhD" ; 
     cb:email "meltem@cbis.ece.drexel.edu" ; 
     cb:interests "Cognitive neuroengineering, biomedical signal processing, statistical signal analysis, optimal artifact removal, information processing, optical brain imaging, functional near infrared spectroscopy, working memory, attention, learning, reading and mathematical disabilities, cognitive aging, anesthesia awareness, and social anxiety disorders." .
@@ -93,6 +104,7 @@
     cb:name "Dov Jaron" ; 
     cb:property "faculty" ; 
     cb:title "Calhoun Distinguished Professor of Engineering in Medicine" ; 
+    cb:room "Bossone 704" ; 
     cb:education "PhD" ; 
     cb:email "dov.jaron@drexel.edu" ; 
     cb:interests "Engineering development and optimization of cardiac assist devices, cardiovascular dynamics, cardiovascular function under stress, modeling of biological systems, mechanisms of gas transport in the mivtocirculation, biomedical instrumentation biomatrices, cell-biomaterials interactions, artificial internal organs, endothelial cell biology, hemodynamic forces, atherosclerosis, genomics, signal transduction" .
@@ -101,6 +113,7 @@
     cb:name "Andres Kriete" ; 
     cb:property "faculty" ; 
     cb:title "Associate Director for Graduate Studies and Academic Operations, Associate Teaching Professor" ; 
+    cb:room "Bossone 718-B" ; 
     cb:education "PhD" ; 
     cb:email "ak3652@drexel.edu" ; 
     cb:interests "Systems biology of aging, control theory, aging physiome, and high-content cellular bioimaging." .
@@ -109,6 +122,7 @@
     cb:name "Steven Kurtz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
+    cb:room "3401 Market St, Suite 345" ; 
     cb:education "PhD" ; 
     cb:email "skurtz@drexel.edu" ; 
     cb:interests "Computational biomechanics of bone-implant systems and impact-related injuries, orthopaedic biomechanics, contact mechanics, orthopaedic biomaterials, large-deformation mechanical behavior and wear of polymers, and degradation and crosslinking of polyolefins in implant applications." .
@@ -117,6 +131,7 @@
     cb:name "Ryszard Lec" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
+    cb:room "Monell 115-A" ; 
     cb:education "PhD" ; 
     cb:email "r.lec@coe.drexel.edu" ; 
     cb:interests "Medical and biomedical sensors, surface acoustic wave (SAW) devices, new sensing mechanisms, sensor intelligence and micro machining." .
@@ -125,6 +140,7 @@
     cb:name "Peter Lewin" ; 
     cb:property "faculty" ; 
     cb:title "Richard B. Beard Distinguished University Professor" ; 
+    cb:room "Bossone 701" ; 
     cb:education "PhD" ; 
     cb:email "lewin@coe.drexel.edu" ; 
     cb:interests "Ultrasonic characterization of materials, propagation of ultrasonic waves in inhomogeneous media, electro-acoustic transducers, biological effects of ultrasound, physical acoustics, and underwater acoustics" .
@@ -133,6 +149,7 @@
     cb:name "Hualou Liang" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
+    cb:room "Monell 103" ; 
     cb:education "PhD" ; 
     cb:email "hualou.liang@drexel.edu" ; 
     cb:interests "Neuroengineering, neuroinfomatics, cognitive and computational neuroscience, neural data analysis and computational modeling, biomedical signal processing" .
@@ -141,6 +158,7 @@
     cb:name "Donald McEachron" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor and Coordinator for Academic Assessment and Quality Improvement" ; 
+    cb:room "Bossone 719" ; 
     cb:education "PhD" ; 
     cb:email "mceachdl@drexel.edu" ; 
     cb:interests "Animal behavior, autoradiography, biological rhythms, cerebral metabolism, evolutionary theory, image processing, neuroendocrinology" .
@@ -149,6 +167,7 @@
     cb:name "Karen Moxon" ; 
     cb:property "faculty" ; 
     cb:title "Part-time Research Professor" ; 
+    cb:room "Bossone 718" ; 
     cb:education "PhD" ; 
     cb:email "karen.moxon@drexel.edu" ; 
     cb:interests "Computational modeling, neural modeling, neurorobotics, neuromimetics, neurocontrol, multiple,single neuron recording." .
@@ -157,6 +176,7 @@
     cb:name "Michael Neidrauer" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
+    cb:room "Bossone 625" ; 
     cb:education "PhD" ; 
     cb:email "mtn33@drexel.edu" ; 
     cb:interests "Wound healing, near infrared, spectroscopy, cell culture, data analysis, optical coherence tomography (OCT), matlab, life sciences assay development, confocal microscopy, biomaterials, in-vivo, medical devices" .
@@ -165,6 +185,7 @@
     cb:name "Banu Onaral" ; 
     cb:property "faculty" ; 
     cb:title "H. H. Sun Professor and Senior Advisor to the President, Global Partnerships" ; 
+    cb:room "Monell 106" ; 
     cb:education "PhD" ; 
     cb:email "banu.onaral@drexel.edu" ; 
     cb:interests "Functional optical brain imaging, biomedical signal processing, complexity and scaling in biomedical signals, systems, and imaging" .
@@ -173,6 +194,7 @@
     cb:name "Kambiz Pourrezaei" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
+    cb:room "Monell 105" ; 
     cb:education "PhD" ; 
     cb:email "kambiz@drexel.edu" ; 
     cb:interests "Nanotechnology, near infrared imaging (NIR), medical devices" .
@@ -181,6 +203,7 @@
     cb:name "Ahmet Sacan" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
+    cb:room "Bossone 702" ; 
     cb:education "PhD" ; 
     cb:email "as3344@drexel.edu" ; 
     cb:interests "Bioinformatics, structural bioinformatics, databases, data mining, protein folding, protein structure alignment, protein-protein interactions, computational drug design, graphical user interfaces, gene expression analysis, image processing, computer vision, automated cell tracking, online education tools." .
@@ -189,6 +212,7 @@
     cb:name "Joseph Sarver" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
+    cb:room "Gerri C. LeBow 619" ; 
     cb:education "PhD" ; 
     cb:email "joseph.j.sarver@drexel.edu" ; 
     cb:interests "Neuromuscular adaptation to changes in the myo-mechanical environment" .
@@ -197,6 +221,7 @@
     cb:name "Rahamim Seliktar" ; 
     cb:property "faculty" ; 
     cb:title "Professor and Vice Director" ; 
+    cb:room "Bossone 718-A" ; 
     cb:education "PhD" ; 
     cb:email "seliktar@drexel.edu" ; 
     cb:interests "Rehabilitation engineering, Limb prosthetics, biomechanics, human motion, orthopedic biomechanics, assistive technology" .
@@ -205,6 +230,7 @@
     cb:name "Patricia Shewokis" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
+    cb:room "Bellet Building 523" ; 
     cb:education "PhD" ; 
     cb:email "shewokis@drexel.edu" ; 
     cb:interests "Movement science, smart prosthetics, "brain-in-the-loop" cognitive technologies, motor learning, human performance, biofeedback, neural imaging, statistics and measurement, and brain-computer interface (BCI)." .
@@ -213,6 +239,7 @@
     cb:name "Adrian Shieh" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
+    cb:room "Bossone 710" ; 
     cb:education "PhD" ; 
     cb:email "adrian.c.shieh@drexel.edu" ; 
     cb:interests "Biomechanics, cancer, cellular engineering, extracellular matrix, fibroblasts, interstitial flow, mechanobiology, tissue engineering, tumor invasion and metastasis, and tumor microenvironment." .
@@ -221,6 +248,7 @@
     cb:name "Wan Shih" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
+    cb:room "Monell 104" ; 
     cb:education "PhD" ; 
     cb:email "wan.y.shih@drexel.edu" ; 
     cb:interests "Piezoelectric microcantilever biosensors development, piezoelectric finger development, quantum dots development, tissue elasticity imaging, and piezoelectric microcantilever force probes." .
@@ -229,6 +257,7 @@
     cb:name "Kara Spiller" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
+    cb:room "Papadakis Integrated Sciences Building (PISB) 316" ; 
     cb:education "PhD" ; 
     cb:email "kls35@drexel.edu" ; 
     cb:interests "Macrophage-biomaterial interactions, drug delivery systems, and chronic wound healing." .
@@ -237,6 +266,7 @@
     cb:name "Marek Swoboda" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
+    cb:room "Bossone 707" ; 
     cb:education "PhD" ; 
     cb:email "ms354@drexel.edu" ; 
     cb:interests "Cardiovascular engineering, cardiovascular system, diagnostic devices in cardiology, piezoelectric biosensors, and pathogen detection." .
@@ -245,6 +275,7 @@
     cb:name "Amy Throckmorton" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
+    cb:room "Gerri C. LeBow 621" ; 
     cb:education "PhD" ; 
     cb:email "alt82@drexel.edu" ; 
     cb:interests "Computational and experimental fluid dynamics; cardiovascular modeling, including transient, fluid-structure interaction, and patient-specific anatomical studies; bench-to-bedside development of medical devices; artificial organs research; prediction and quantification of blood trauma and thrombosis in medical devices; design of therapeutic alternatives for patients with dysfunctional single ventricle physiology; human factors engineering of mechanical circulatory assist devices" .
@@ -253,6 +284,7 @@
     cb:name "Catherine von Reyn" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
+    cb:room "Bossone 707" ; 
     cb:education "PhD" ; 
     cb:email "catherine.r.vonreyn@drexel.edu" ; 
     cb:interests "Cell type-specific genetic engineering, whole-cell patch clamp in behaving animals, modeling, and detailed behavioral analysis to identify and characterize sensorimotor circuits." .
@@ -261,6 +293,7 @@
     cb:name "Margaret Wheatley" ; 
     cb:property "faculty" ; 
     cb:title "John M. Reid Professor" ; 
+    cb:room "LeBow 48-A" ; 
     cb:education "PhD" ; 
     cb:email "wheatley@coe.drexel.edu" ; 
     cb:interests "Ultrasound contrast agent development (tumor targeting and triggered drug delivery), controlled release technology (bioactive compounds), and microencapsulated allografts (ex vivo gene therapy) for spinal cord repair." .
@@ -269,6 +302,7 @@
     cb:name "Ming Xiao" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
+    cb:room "New College Building (NCB) 17-115" ; 
     cb:education "PhD" ; 
     cb:email "mx44@drexel.edu" ; 
     cb:interests "Nanotechnology, single molecule detection, single molecule fluorescent imaging, genomics, genetics, genome mapping, DNA sequencing, DNA biochemistry, and biophysics." .
@@ -277,6 +311,7 @@
     cb:name "Yinghui Zhong" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
+    cb:room "Bossone 716" ; 
     cb:education "PhD" ; 
     cb:email "yz348@drexel.edu" ; 
     cb:interests "Neural tissue engineering, biomaterials, neural electrode/tissue interface, spinal cord repair, stem cells, surface modification, and drug delivery." .
@@ -285,6 +320,7 @@
     cb:name "Leonid Zubkov" ; 
     cb:property "faculty" ; 
     cb:title "Research Professor" ; 
+    cb:room "Bossone 437" ; 
     cb:education "PhD" ; 
     cb:email "leonid.a.zubkov@drexel.edu" ; 
     cb:interests "Physiology, wound healing, physiologic neovascularization, near-infrared spectroscopy, optical tomography, histological techniques, computer-assisted diagnosis, infrared spectrophotometry, physiologic monitoring, experimental diabetes mellitus, penetrating wounds, diabetes complications, skin, animal models, radiation scattering, failure analysis" .
@@ -293,6 +329,7 @@
     cb:name "Jahan Ara" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
+    cb:room "jara@drexelmed.edu" ; 
     cb:education "PhD" ; 
     cb:interests "Neonatal hypoxia; neurodegeneration" .
 
@@ -300,6 +337,7 @@
     cb:name "Ibraheem Badejo" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Research Professor" ; 
+    cb:room "ibadejo@its.jnj.com" ; 
     cb:education "PhD" ; 
     cb:interests "Biomaterials, biomechanics, biochemical engineering" .
 
@@ -307,6 +345,7 @@
     cb:name "Ellen Bass" ; 
     cb:property "faculty" ; 
     cb:title "Professor & Head, Department of Information Science" ; 
+    cb:room "Rush 426" ; 
     cb:education "PhD" ; 
     cb:email "ellen.j.bass@drexel.edu" ; 
     cb:interests "Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering" .
@@ -315,6 +354,7 @@
     cb:name "Baruch Ben Dor" ; 
     cb:property "faculty" ; 
     cb:title "Entrepreneur-in-Residence" ; 
+    cb:room "Monell 127" ; 
     cb:education "ScD" ; 
     cb:email "bbendor@infrascanner.com" ; 
     cb:interests "electro optics, medical device development, opthalmic digital photography, entrepreneurship" .
@@ -323,6 +363,7 @@
     cb:name "John Bethea" ; 
     cb:property "faculty" ; 
     cb:title "Professor & Head, Department of Biology" ; 
+    cb:room "PISB 123.04" ; 
     cb:education "PhD" ; 
     cb:email "jrb445@drexel.edu" ; 
     cb:interests "Spinal Cord Injury, Astrocytes, Experimental Autoimmune Encephalomyelitis, Neuroinflammation, Traumatic Brain Injury, Neuroimmunology, Acquired Brain Injury, Multiple Sclerosis, Neurodegeneration, Neurodegenerative Diseases, Neuroprotection, Neurological Diseases, Immunohistochemistry, Neuroimmunomodulation, Neurobiology, Glioma, Neuron-Glia Interaction, Cognitive Rehabilitation, Cellular Neuroscience, Brain Diseases, EAE, CNS Demyelinating Autoimmune Diseases, Demyelinating Diseases, Molecular Neuroscience, Neuron Culture, Molecular Neurobiology, Neurogenesis, Nervous System Autoimmune Diseases, Neurobiochemistry" .
@@ -331,6 +372,7 @@
     cb:name "Michael Boyce-Jacino" ; 
     cb:property "faculty" ; 
     cb:title "Entrepreneur at Large" ; 
+    cb:room "michael@netscientific.net" ; 
     cb:education "PhD" ; 
     cb:interests "Diagnostics, nanotechnology, molecular genetics" .
 
@@ -338,6 +380,7 @@
     cb:name "David Breen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Computer Science" ; 
+    cb:room "University Crossings 143" ; 
     cb:education "PhD" ; 
     cb:email "david@cs.drexel.edu" ; 
     cb:interests "Self-organization, biomedical image informatics, geometric modeling, computer-aided design and visualization" .
@@ -346,6 +389,7 @@
     cb:name "Scott Bunce" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
+    cb:room "Eastern Pennsylvania Psychiatric Institute" ; 
     cb:education "PhD" ; 
     cb:email "scott.bunce@drexel.edu" ; 
     cb:interests "Algorithms, Brain, Brain Diseases, Brain Mapping, Case-Control Studies, Classical Conditioning, Computer-Assisted Diagnosis, Electromyography, Evoked Potentials, Face, Hemoglobins, Opioid-Related Disorders, Oxygen Pattern Recognition, Automated Personality Disorders, Problem Solving, Signal Processing, Computer-Assisted Spectrophotometry, Infrared Spectroscopy, Near-Infrared Sublimation Unconscious (Psychology), Vocational Guidance" .
@@ -354,6 +398,7 @@
     cb:name "Thomas Caltagirone" ; 
     cb:property "faculty" ; 
     cb:title "Owner, Aptagen, LLC" ; 
+    cb:room "tom@aptagen.com" ; 
     cb:education "PhD" ; 
     cb:interests "Aptamers, riboswitches, allosteric ribozymes" .
 
@@ -361,6 +406,7 @@
     cb:name "Roy Carriker" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor and Director of Technology Entrepreneurship" ; 
+    cb:room "rcc47@drexel.edu" ; 
     cb:education "PhD" ; 
     cb:interests "Neuro-trauma in athletics, Technology innovation and commercialization" .
 
@@ -368,6 +414,7 @@
     cb:name "Hao Cheng" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Materials Science and Engineering" ; 
+    cb:room "hcheng@coe.drexel.edu" ; 
     cb:education "PhD" ; 
     cb:interests "Nanobiomaterials, cell engineering, translational research, nanomaterial-cell interactions, inflammation-tracking delivery, cancer, cardiovascular disease, engineering stem cells, intelligent drug nanocarriers, inflammation-responsive wound healing patches, Drug delivery, molecular self-assembly, cell-nanomaterial interactions, regenerative medicine and cell membrane engineering" .
 
@@ -375,6 +422,7 @@
     cb:name "Todd Doehring" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Research Professor" ; 
+    cb:room "tcd@abemis.com" ; 
     cb:education "PhD" ; 
     cb:interests "Microscopy and Imaging, Automation and custom scanning microscopy, 3-D printing and model design, Blender3D, SolidWorks, Cinema4D, Finite Element Analysis, Advanced multi-domain mesh generation, Matlab, Python, and C#, automation of complex organic shape meshing" .
 
@@ -382,6 +430,7 @@
     cb:name "Gregory Fridman" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
+    cb:room "C. & J. Nyheim Plasma Institute" ; 
     cb:education "PhD" ; 
     cb:email "greg.fridman@drexel.edu" ; 
     cb:interests "Non-equilibrium plasma for processing of biomaterials, polymer treatment and surface modification for wettability and biocompatibility, applications of non-equilibrium discharges in medicine and biology, characterization of physical, biochemical, and mechanical properties of the treated material, plasma characterization, and plasma power supply design and development." .
@@ -390,6 +439,7 @@
     cb:name "Michael Frohbergh" ; 
     cb:property "faculty" ; 
     cb:title "Associate, Biomedical Engineering Practice" ; 
+    cb:room "Exponent, 3440 Market Street, Sutie 600" ; 
     cb:education "PhD" ; 
     cb:email "mfrohbergh@exponent.com" ; 
     cb:interests "Bone and cartilage tissue engineering" .
@@ -398,6 +448,7 @@
     cb:name "J. Yasha Kresh" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Cardiothoracic Surgery, Medicine and Biomedical Engineering; Research Director, Cardiothoracic Surgery and Cardiovascular Biophysics" ; 
+    cb:room "245 N. 15th Street, MS 111" ; 
     cb:education "PhD" ; 
     cb:email "JYasha.Kresh@DrexelMed.edu" ; 
     cb:interests "Cardiac repair and regeneration, tissue engineering, cardiovascular system dynamics, systems biology, cellular networks, cardiovascular engineering, telerobotics." .
@@ -406,6 +457,7 @@
     cb:name "Frank Lee" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Digital Media" ; 
+    cb:room "URBN 220" ; 
     cb:education "PhD" ; 
     cb:email "fjl@drexel.edu" ; 
     cb:interests "Game design, serious games, game industry, technology" .
@@ -414,6 +466,7 @@
     cb:name "Peter Lelkes" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Research Professor and Distinguished Calhoun Scholar" ; 
+    cb:room "Professor & Chair, Bioengineering" ; 
     cb:education "PhD" ; 
     cb:email "pilelkes@temple.edu" ; 
     cb:interests "3-D Tissue Engineering: scaffolds, solid-free-form fabrication, smart biomaterials, decelluarized matrices,tissue-specific differentiation, vascularization of engineered tissues,bioreactors. Stem Cell Research: Target differentiation of embryonic and adult stem cells for lung, cardiac, spinal cord and musculoskeletal tisue engineering and regenerative medicine. Space biology: (simulated) microgravity, space flight, NASA Other interests: neurodegenerative diseases, cardiovascular pathophysiology, biomatrices, cell-biomaterials interactions, artificial internal organs, endothelial cell biology, hemodynamic forces, atherosclerosis, genomics, signal transduction." .
@@ -422,6 +475,7 @@
     cb:name "Anna Rodriguez" ; 
     cb:property "faculty" ; 
     cb:title "Research Assistant Professor" ; 
+    cb:room "3120-24 Market St Ste 100" ; 
     cb:education "PhD" ; 
     cb:email "annacaterina.merzagora@drexel.edu" ; 
     cb:interests "Biomedical signal processing, neurophysiological signals, functional near infrared spectroscopy (fNIRS), electroencephalography (EEG), transcranial direct current stimulation (tDCS), event related potentials (ERPs), somatosensory evoked potentials (SEPs) and electromyography (EMG)" .
@@ -430,6 +484,7 @@
     cb:name "Marla Steinbeck" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
+    cb:room "mjs348@drexel.edu" ; 
     cb:education "PhD" ; 
     cb:interests "Orthopaedic total joint replacement biocompatibility, biomarker panel development for diagnosis and therapeutic monitoring of joint replacement failures, medical use of dielectric barrier discharge plasma to enhance skeletal stem cell differentiation and tissue regeneration" .
 
@@ -437,6 +492,7 @@
     cb:name "Christopher Yang" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Information Science" ; 
+    cb:room "3401 Market Street 318" ; 
     cb:education "PhD" ; 
     cb:email "chris.yang@drexel.edu" ; 
     cb:interests "Web search and mining, security informatics, knowledge management, cross-lingual information retrieval, text summarization, multimedia retrieval, information visualization, information sharing and privacy, digital library, and electronic commerce. His teaching interests include data mining, artificial intelligence, information retrieval, information systems analysis and design." .
