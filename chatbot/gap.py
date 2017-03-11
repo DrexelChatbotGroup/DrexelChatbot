@@ -17,6 +17,7 @@ class GenericAnswerPopulation:
 
     def __queryDatabase(self):
         ans_dictionary = self.db.query(self.query)
+        print(str(ans_dictionary))
         return ans_dictionary
 
 
@@ -29,6 +30,7 @@ class GenericAnswerPopulation:
     def __populateFromDictionary(self, dictionary):
         rep_list = self.__getWordsInsideParenthesis(self.genericAnswer)
         genericAnswer = self.genericAnswer
+        #print(str(dictionary))
         for rep in rep_list:
                 if not(rep in dictionary):
                     print("[Error!!! when populating final answer]")
@@ -46,6 +48,7 @@ class GenericAnswerPopulation:
 
     def __populateQuery(self, dictionary):
         var_list = self.__getWordsInsideParenthesis(self.query)
+        print(str(dictionary))
         for key in var_list:
             if not (key in dictionary):
                 print("[Error!!! when constructing query from generic query]")
