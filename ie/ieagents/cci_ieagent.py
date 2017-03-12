@@ -11,7 +11,7 @@ Department
 Interests
 Email
 Phone
-Office
+Room
 
 """
 
@@ -28,6 +28,7 @@ import ttl
 
 class CciIEAgent(IEAgent):
 
+    _flink = "http://drexel.edu/"
     _link = "http://drexel.edu/cci/contact/Faculty/"
     ttl_filename = "ttl/cci.ttl"
 
@@ -44,10 +45,12 @@ class CciIEAgent(IEAgent):
         elems = soup.select('tr')
         for i in range(1, len(elems)):
             data = elems[i].select('div')
+            img_src = data[0].select('img')[0]['src']
             data = list(map(lambda x: x.getText(), data))
 
             prof = ttl.TtlFileEntry()
-
+            
+            prof.picture = self._flink + img_src
             prof.name = data[1]
             prof.property = "faculty"
             prof.title = data[2]
