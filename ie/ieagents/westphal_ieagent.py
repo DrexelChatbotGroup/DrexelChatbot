@@ -94,6 +94,7 @@ class WestphalIEAgent(IEAgent):
                 #print (infoStr)
                 
                 prof.name = nameStr.split(',', 1)[0]
+                prof.property = "faculty"
                 if titleStr:
                     prof.title = titleStr
                 prof.phone = phoneStr
