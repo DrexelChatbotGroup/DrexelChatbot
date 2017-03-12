@@ -3,6 +3,7 @@
 
 <#Lloyd-Ackert>
     cb:name "Lloyd Ackert" ; 
+    cb:name "Ackert" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of History" ; 
     cb:department "Department of History" ; 
@@ -10,8 +11,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Lloyd2010.ashx?h=150&la=en&w=122&hash=97C5A48C939136B0709BC266A1D8129E49286730" ; 
     cb:phone "215.895.0993" .
 
-<#Anthony-W.>
+<#Anthony-Addison>
     cb:name "Anthony W. Addison" ; 
+    cb:name "Addison" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -21,6 +23,7 @@
 
 <#Stacey-Ake>
     cb:name "Stacey Ake" ; 
+    cb:name "Ake" ; 
     cb:property "faculty" ; 
     cb:title "Co-Director, Certificate Program in Medical Humanities; Associate Teaching Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -30,6 +33,7 @@
 
 <#Michael-Akins>
     cb:name "Michael Akins" ; 
+    cb:name "Akins" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Biology" ; 
@@ -39,6 +43,7 @@
 
 <#Peter-Amato>
     cb:name "Peter Amato" ; 
+    cb:name "Amato" ; 
     cb:property "faculty" ; 
     cb:title "Director, Programs in Philosophy; Teaching Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -46,8 +51,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/amato.ashx?h=150&la=en&w=125&hash=172C30C00D0D2014E98827D55C319F96AE7843D6" ; 
     cb:phone "215.895.1353" .
 
-<#David-M.>
+<#David-Ambrose>
     cb:name "David M. Ambrose" ; 
+    cb:name "Ambrose" ; 
     cb:property "faculty" ; 
     cb:title "Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -57,6 +63,7 @@
 
 <#Shivanthi-Anandan>
     cb:name "Shivanthi Anandan" ; 
+    cb:name "Anandan" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Biology" ; 
@@ -66,6 +73,7 @@
 
 <#Alexey-Aprelev>
     cb:name "Alexey Aprelev" ; 
+    cb:name "Aprelev" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Physics" ; 
@@ -73,8 +81,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/aprelev-alexey.ashx?h=150&la=en&w=125&hash=9A60E8CB58CFB3B2291334D9C1AE91DD9CD10B65" ; 
     cb:phone "215.895.2716" .
 
-<#Jason-S.>
+<#Jason-Aran>
     cb:name "Jason S. Aran" ; 
+    cb:name "Aran" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -84,6 +93,7 @@
 
 <#Loren-Argabright>
     cb:name "Loren Argabright" ; 
+    cb:name "Argabright" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -91,6 +101,7 @@
 
 <#Jan-Armon>
     cb:name "Jan Armon" ; 
+    cb:name "Armon" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -100,6 +111,7 @@
 
 <#Valarie-Arms>
     cb:name "Valarie Arms" ; 
+    cb:name "Arms" ; 
     cb:property "faculty" ; 
     cb:title "Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -109,6 +121,7 @@
 
 <#Richard-Astro>
     cb:name "Richard Astro" ; 
+    cb:name "Astro" ; 
     cb:property "faculty" ; 
     cb:title "Department Head; Provost Emeritus; Distinguished Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -117,6 +130,7 @@
 
 <#Phillip-Ayoub>
     cb:name "Phillip Ayoub" ; 
+    cb:name "Ayoub" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Politics" ; 
@@ -126,6 +140,7 @@
 
 <#Jesse-Ballenger>
     cb:name "Jesse Ballenger" ; 
+    cb:name "Ballenger" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of Health Administration" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -134,6 +149,7 @@
 
 <#Scott-Barclay>
     cb:name "Scott Barclay" ; 
+    cb:name "Barclay" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Politics" ; 
@@ -143,6 +159,7 @@
 
 <#Susan-Bell>
     cb:name "Susan Bell" ; 
+    cb:name "Bell" ; 
     cb:property "faculty" ; 
     cb:title "Department Head and Professor of Sociology" ; 
     cb:department "Department of Sociology" ; 
@@ -152,6 +169,7 @@
 
 <#Joseph-Bentz>
     cb:name "Joseph Bentz" ; 
+    cb:name "Bentz" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Biology" ; 
@@ -161,6 +179,7 @@
 
 <#Donald-Bersoff>
     cb:name "Donald Bersoff" ; 
+    cb:name "Bersoff" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Psychology" ; 
@@ -170,6 +189,7 @@
 
 <#John-Bethea>
     cb:name "John Bethea" ; 
+    cb:name "Bethea" ; 
     cb:property "faculty" ; 
     cb:title "Department Head, Professor" ; 
     cb:department "Department of Biology" ; 
@@ -179,6 +199,7 @@
 
 <#Debjani-Bhattacharyya>
     cb:name "Debjani Bhattacharyya" ; 
+    cb:name "Bhattacharyya" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of History" ; 
     cb:department "Department of History" ; 
@@ -186,8 +207,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bhattacharyya_debjani.ashx?h=150&la=en&w=125&hash=02850CB234AC9B72DF34872351CBCFAD27A20A24" ; 
     cb:phone "215.895.0992" .
 
-<#Walter-F.>
+<#Walter-Bien>
     cb:name "Walter F. Bien" ; 
+    cb:name "Bien" ; 
     cb:property "faculty" ; 
     cb:title "Research Professor, Department of Biodiversity, Earth and Environmental Science; Director, Laboratory of Pinelands Research" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -197,6 +219,7 @@
 
 <#Kenneth-Bingham>
     cb:name "Kenneth Bingham" ; 
+    cb:name "Bingham" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -206,6 +229,7 @@
 
 <#Ronald-Bishop>
     cb:name "Ronald Bishop" ; 
+    cb:name "Bishop" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -215,6 +239,7 @@
 
 <#Carolyn-Bitzer>
     cb:name "Carolyn Bitzer" ; 
+    cb:name "Bitzer" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Faculty, Women's and Gender Studies" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -224,6 +249,7 @@
 
 <#Jonah-Blasiak>
     cb:name "Jonah Blasiak" ; 
+    cb:name "Blasiak" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -233,6 +259,7 @@
 
 <#Joan-Blumberg>
     cb:name "Joan Blumberg" ; 
+    cb:name "Blumberg" ; 
     cb:property "faculty" ; 
     cb:title "Instructor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -242,6 +269,7 @@
 
 <#Cathy-Bolton>
     cb:name "Cathy Bolton" ; 
+    cb:name "Bolton" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -251,6 +279,7 @@
 
 <#Valerie-Booth>
     cb:name "Valerie Booth" ; 
+    cb:name "Booth" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -260,6 +289,7 @@
 
 <#Shyamalendu-Bose>
     cb:name "Shyamalendu Bose" ; 
+    cb:name "Bose" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -267,8 +297,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/shyamalendu_bose.ashx?h=166&la=en&w=125&hash=A6D9AE24AA63CFC8EFA90DA1017014A608028867" ; 
     cb:phone "215.895.2718" .
 
-<#Robert-P.>
+<#Robert-Boyer>
     cb:name "Robert P. Boyer" ; 
+    cb:name "Boyer" ; 
     cb:property "faculty" ; 
     cb:title "Undergraduate Adviser; Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -276,8 +307,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robert-boyer.ashx?h=150&la=en&w=125&hash=0134E1510BE8F8459583712469C84C1B7F7D18CF" ; 
     cb:phone "215.895.1854" .
 
-<#Hon.-Brendan>
+<#Hon.-Boyle>
     cb:name "Hon. Brendan Boyle" ; 
+    cb:name "Boyle" ; 
     cb:property "faculty" ; 
     cb:title "Pennsylvania State Representative, District 170; Adjunct Professor" ; 
     cb:department "Center for Public Policy" ; 
@@ -286,6 +318,7 @@
 
 <#Valerie-Bracchi-Ricard>
     cb:name "Valerie Bracchi-Ricard" ; 
+    cb:name "Bracchi-Ricard" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:department "Department of Biology" ; 
@@ -295,6 +328,7 @@
 
 <#Raymond-Brebach>
     cb:name "Raymond Brebach" ; 
+    cb:name "Brebach" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -304,6 +338,7 @@
 
 <#Eric-Brewe>
     cb:name "Eric Brewe" ; 
+    cb:name "Brewe" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Physics and Science Education" ; 
     cb:department "Department of Physics" ; 
@@ -311,8 +346,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/brewe-eric.ashx?h=150&la=en&w=125&hash=8784223913EC026C36B176430E86DB9A2974441F" ; 
     cb:phone "215.895.2779" .
 
-<#Eric-Dorn>
+<#Eric-Brose>
     cb:name "Eric Dorn Brose" ; 
+    cb:name "Brose" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of History" ; 
@@ -322,6 +358,7 @@
 
 <#Robert-Brulle>
     cb:name "Robert Brulle" ; 
+    cb:name "Brulle" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Sociology and Environmental Science; Associate Professor of Public Health (School of PH)" ; 
     cb:department "Department of Sociology" ; 
@@ -331,6 +368,7 @@
 
 <#Robert-Busby>
     cb:name "Robert Busby" ; 
+    cb:name "Busby" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -338,6 +376,7 @@
 
 <#Meghan-Butryn>
     cb:name "Meghan Butryn" ; 
+    cb:name "Butryn" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -347,6 +386,7 @@
 
 <#Zoltán-Búzás>
     cb:name "Zoltán Búzás" ; 
+    cb:name "Búzás" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Politics" ; 
@@ -356,6 +396,7 @@
 
 <#André-Carrington>
     cb:name "André Carrington" ; 
+    cb:name "Carrington" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -365,6 +406,7 @@
 
 <#Jacques-Catudal>
     cb:name "Jacques Catudal" ; 
+    cb:name "Catudal" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -374,6 +416,7 @@
 
 <#Anne-Cecil>
     cb:name "Anne Cecil" ; 
+    cb:name "Cecil" ; 
     cb:property "faculty" ; 
     cb:title "Director, Design & Merchandising, Westphal" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -383,6 +426,7 @@
 
 <#Dorothy-Charbonnier>
     cb:name "Dorothy Charbonnier" ; 
+    cb:name "Charbonnier" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -390,8 +434,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/charbonnier_dorothy.ashx?h=150&la=en&w=125&hash=0DD94EBCBCA2315AE7F3CB8C558034B6BFB3C338" ; 
     cb:phone "215.571.4407" .
 
-<#Don-F.>
+<#Don-Charles>
     cb:name "Don F. Charles" ; 
+    cb:name "Charles" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor, Department of Biodiversity, Earth & Environmental Science; Senior Scientist and Section Leader, Phycology Section, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -401,6 +446,7 @@
 
 <#Douglas-Chute>
     cb:name "Douglas Chute" ; 
+    cb:name "Chute" ; 
     cb:property "faculty" ; 
     cb:title "Louis and Bessie Stein Fellow; Professor of Neuropsychology; Faculty Coordinator of ePsychology" ; 
     cb:department "Department of Psychology" ; 
@@ -410,6 +456,7 @@
 
 <#George-Ciccariello-Maher>
     cb:name "George Ciccariello-Maher" ; 
+    cb:name "Ciccariello-Maher" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Politics" ; 
@@ -419,6 +466,7 @@
 
 <#Patrick-Clarke>
     cb:name "Patrick Clarke" ; 
+    cb:name "Clarke" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -428,6 +476,7 @@
 
 <#Rebecca-Clothey>
     cb:name "Rebecca Clothey" ; 
+    cb:name "Clothey" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, School of Education; Case Study Advisor; Center for Public Policy" ; 
     cb:department "Center for Public Policy" ; 
@@ -437,6 +486,7 @@
 
 <#Jessica-Cohen>
     cb:name "Jessica Cohen" ; 
+    cb:name "Cohen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Sociology" ; 
@@ -444,8 +494,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/cohen-jessica.ashx?h=150&la=en&w=125&hash=6323D8AF1067EF8F23FB3518374331B347329F5F" ; 
     cb:phone "215.895.0482" .
 
-<#Paula-Marantz>
+<#Paula-Cohen>
     cb:name "Paula Marantz Cohen" ; 
+    cb:name "Cohen" ; 
     cb:property "faculty" ; 
     cb:title "Distinguished Professor of English; Dean of the Pennoni Honors College; Co-Editor of the Journal of Modern Literature; Host of The Drexel InterView" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -455,6 +506,7 @@
 
 <#Ilker-Colak>
     cb:name "Ilker Colak" ; 
+    cb:name "Colak" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -464,14 +516,16 @@
 
 <#Carol-Collier>
     cb:name "Carol Collier" ; 
+    cb:name "Collier" ; 
     cb:property "faculty" ; 
     cb:title "Director, Environmental Studies and Sustainability Program (ENSS), Department of Biodiversity, Earth & Environmental ScienceSenior Advisor for Watershed Management & Policy, Patrick Center for Environmental Research, The Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
     cb:email "crc92@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/carol-collier.ashx?h=150&la=en&w=125&hash=2EFF68534E9B0BF625EF02951AB7724A2A49119D" .
 
-<#John-P.>
+<#John-Coppola>
     cb:name "John P. Coppola" ; 
+    cb:name "Coppola" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -481,6 +535,7 @@
 
 <#Rose-Corrigan>
     cb:name "Rose Corrigan" ; 
+    cb:name "Corrigan" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Politics" ; 
@@ -490,6 +545,7 @@
 
 <#Karen-Cristiano>
     cb:name "Karen Cristiano" ; 
+    cb:name "Cristiano" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Department Head of Communication; Associate Teaching Professor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -499,6 +555,7 @@
 
 <#Jason-Cross>
     cb:name "Jason Cross" ; 
+    cb:name "Cross" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -508,6 +565,7 @@
 
 <#Luis-Cruz>
     cb:name "Luis Cruz Cruz" ; 
+    cb:name "Cruz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Physics" ; 
@@ -517,6 +575,7 @@
 
 <#Ted-Daeschler>
     cb:name "Ted Daeschler" ; 
+    cb:name "Daeschler" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Associate Curator of Vertebrate Zoology, Vice President for Systematic Biology and the Library, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -524,8 +583,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/daeschler_ted_web.ashx?h=150&la=en&w=125&hash=18E3F326239EBFA806499A308802178AF80C0C83" ; 
     cb:phone "215.299.1133" .
 
-<#Brian-P.>
+<#Brian-Daly>
     cb:name "Brian P. Daly" ; 
+    cb:name "Daly" ; 
     cb:property "faculty" ; 
     cb:title "Director, Clinical Training; Associate Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -535,6 +595,7 @@
 
 <#Peter-DeCarlo>
     cb:name "Peter DeCarlo" ; 
+    cb:name "DeCarlo" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -544,6 +605,7 @@
 
 <#David-DeMatteo>
     cb:name "David DeMatteo" ; 
+    cb:name "DeMatteo" ; 
     cb:property "faculty" ; 
     cb:title "Director of JD/PhD Program; Associate Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -553,6 +615,7 @@
 
 <#Albert-DiBartolomeo>
     cb:name "Albert DiBartolomeo" ; 
+    cb:name "DiBartolomeo" ; 
     cb:property "faculty" ; 
     cb:title "Co-Director, Drexel Publishing Group; Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -562,6 +625,7 @@
 
 <#Ashley-Dickinson>
     cb:name "Ashley Dickinson" ; 
+    cb:name "Dickinson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Criminology and Justice Studies" ; 
@@ -571,6 +635,7 @@
 
 <#Richardson-Dilworth>
     cb:name "Richardson Dilworth" ; 
+    cb:name "Dilworth" ; 
     cb:property "faculty" ; 
     cb:title "Interim Department Head, Department of Politics; Director, Center for Public Policy; Professor" ; 
     cb:department "Department of Politics" ; 
@@ -580,14 +645,16 @@
 
 <#Lisa-DiMaio>
     cb:name "Lisa DiMaio" ; 
+    cb:name "DiMaio" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "dimaiola@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/farley.ashx?h=150&la=en&w=125&hash=14D06B99B50B261CDB76763CF390D439BECEAFD1" .
 
-<#N.-John>
+<#N.-DiNardo>
     cb:name "N. John DiNardo" ; 
+    cb:name "DiNardo" ; 
     cb:property "faculty" ; 
     cb:title "Senior Vice Provost for Academic Affairs; Professor" ; 
     cb:department "Department of Physics" ; 
@@ -597,6 +664,7 @@
 
 <#Michelle-Dolinski>
     cb:name "Michelle Dolinski" ; 
+    cb:name "Dolinski" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Physics" ; 
@@ -606,6 +674,7 @@
 
 <#Robert-D'Ovidio>
     cb:name "Robert D'Ovidio" ; 
+    cb:name "D'Ovidio" ; 
     cb:property "faculty" ; 
     cb:title "Associate Dean for Humanities and Social Science Research and Graduate Education; Associate Professor of Criminology and Justice Studies" ; 
     cb:department "Department of Criminology and Justice Studies" ; 
@@ -615,6 +684,7 @@
 
 <#Dan-Driscoll>
     cb:name "Dan Driscoll" ; 
+    cb:name "Driscoll" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor of English; Associate Director, Writing Center" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -624,6 +694,7 @@
 
 <#Daniel-Duran>
     cb:name "Daniel Duran" ; 
+    cb:name "Duran" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -633,6 +704,7 @@
 
 <#Laura-Duwel>
     cb:name "Laura Duwel" ; 
+    cb:name "Duwel" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Department Head, Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -642,6 +714,7 @@
 
 <#Brenda-Dyer>
     cb:name "Brenda Dyer" ; 
+    cb:name "Dyer" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of French" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -651,6 +724,7 @@
 
 <#Mary-Ebeling>
     cb:name "Mary Ebeling" ; 
+    cb:name "Ebeling" ; 
     cb:property "faculty" ; 
     cb:title "Director, Women's and Gender Studies; Associate Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -660,6 +734,7 @@
 
 <#Felice-Elefant>
     cb:name "Felice Elefant" ; 
+    cb:name "Elefant" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Biology" ; 
@@ -669,6 +744,7 @@
 
 <#Anne-Erickson>
     cb:name "Anne Erickson" ; 
+    cb:name "Erickson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -678,14 +754,16 @@
 
 <#Nomi-Eve>
     cb:name "Nomi Eve" ; 
+    cb:name "Eve" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "nae28@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/eve.ashx?h=150&la=en&w=125&hash=B210AEAAA6309710BBB3C632234B8B619F1A4DC1" .
 
-<#Aaron-T.>
+<#Aaron-Fafarman>
     cb:name "Aaron T. Fafarman" ; 
+    cb:name "Fafarman" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Department of Chemical & Biological Engineering" ; 
     cb:department "Department of Chemistry" ; 
@@ -693,8 +771,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fafarman.ashx?h=128&la=en&w=117&hash=9E27CEAD4A80D239A58A6B8D8B3C8F2D6B07DE11" ; 
     cb:phone "215.895.5818" .
 
-<#Daryl-L.>
+<#Daryl-Falco>
     cb:name "Daryl L. Falco" ; 
+    cb:name "Falco" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -702,8 +781,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/daryl-falco.ashx?h=150&la=en&w=125&hash=295240594189660781E2096711D7317E80C629F5" ; 
     cb:phone "215.571.3585" .
 
-<#Raymond-J.>
+<#Raymond-Favocci>
     cb:name "Raymond J. Favocci" ; 
+    cb:name "Favocci" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -713,6 +793,7 @@
 
 <#Frank-Ferrone>
     cb:name "Frank Ferrone" ; 
+    cb:name "Ferrone" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -722,6 +803,7 @@
 
 <#Ewaugh-Fields>
     cb:name "Ewaugh Fields" ; 
+    cb:name "Fields" ; 
     cb:property "faculty" ; 
     cb:title "Dean Emeritus; Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -729,6 +811,7 @@
 
 <#Robert-Finegan>
     cb:name "Robert Finegan" ; 
+    cb:name "Finegan" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -738,6 +821,7 @@
 
 <#Leonard-Finegold>
     cb:name "Leonard Finegold" ; 
+    cb:name "Finegold" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -747,6 +831,7 @@
 
 <#Alexis-Finger>
     cb:name "Alexis Finger" ; 
+    cb:name "Finger" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -756,6 +841,7 @@
 
 <#Roman-Fischer>
     cb:name "Roman Fischer" ; 
+    cb:name "Fischer" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:department "Department of Biology" ; 
@@ -765,6 +851,7 @@
 
 <#Fraser-Fleming>
     cb:name "Fraser Fleming" ; 
+    cb:name "Fleming" ; 
     cb:property "faculty" ; 
     cb:title "Department Head and Professor of Chemistry" ; 
     cb:department "Department of Chemistry" ; 
@@ -772,8 +859,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fleming-fraser.ashx?h=150&la=en&w=125&hash=C74C77440D927C772B2B857A6C5DF5804796524C" ; 
     cb:phone "215.895.2644" .
 
-<#Joe-P.>
+<#Joe-Foley>
     cb:name "Joe P. Foley" ; 
+    cb:name "Foley" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -783,6 +871,7 @@
 
 <#Evan-Forman>
     cb:name "Evan Forman" ; 
+    cb:name "Forman" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -792,6 +881,7 @@
 
 <#Richard-Forney>
     cb:name "Richard Forney" ; 
+    cb:name "Forney" ; 
     cb:property "faculty" ; 
     cb:title "Instructor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -801,6 +891,7 @@
 
 <#Valerie-Fox>
     cb:name "Valerie Fox" ; 
+    cb:name "Fox" ; 
     cb:property "faculty" ; 
     cb:title "Founding Editor, Press 1; Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -810,6 +901,7 @@
 
 <#Alexander-Friedlander>
     cb:name "Alexander Friedlander" ; 
+    cb:name "Friedlander" ; 
     cb:property "faculty" ; 
     cb:title "Associate Dean for Undergraduate Education in the College of Arts and Sciences; Interim Department Head, Department of Communication; Associate Professor of Rhetoric and Communication" ; 
     cb:department "Department of Communication" ; 
@@ -819,6 +911,7 @@
 
 <#Edward-Fristrom>
     cb:name "Edward Fristrom" ; 
+    cb:name "Fristrom" ; 
     cb:property "faculty" ; 
     cb:title "Co-Director, Certificate Program in Medical Humanities; Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -828,6 +921,7 @@
 
 <#David-Fryer>
     cb:name "David Fryer" ; 
+    cb:name "Fryer" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor, Women's and Gender Studies" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -835,8 +929,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" ; 
     cb:phone "215.895.1408" .
 
-<#Jennifer-L.>
+<#Jennifer-Gallo>
     cb:name "Jennifer L. Gallo" ; 
+    cb:name "Gallo" ; 
     cb:property "faculty" ; 
     cb:title "Director, Neuropsychology Concentration; Associate Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -846,6 +941,7 @@
 
 <#Denise-Garcia>
     cb:name "Denise Garcia" ; 
+    cb:name "Garcia" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Biology" ; 
@@ -853,8 +949,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/denise_garcia_small.ashx?h=150&la=en&w=125&hash=213CADC32206F58F99CB882F0E8F7D3163ED13D7" ; 
     cb:phone "215.571.4534" .
 
-<#Marilyn-Gaye>
+<#Marilyn-Piety>
     cb:name "Marilyn Gaye Piety" ; 
+    cb:name "Piety" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -864,6 +961,7 @@
 
 <#Jon-Gelhaus>
     cb:name "Jon Gelhaus" ; 
+    cb:name "Gelhaus" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Department of Biodiversity, Earth & Environmental Science; Curator, Department of Entomology, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -873,6 +971,7 @@
 
 <#Pamela-Geller>
     cb:name "Pamela Geller" ; 
+    cb:name "Geller" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Ob/Gyn and Public Health" ; 
     cb:department "Department of Psychology" ; 
@@ -882,6 +981,7 @@
 
 <#Maureen-Gibney>
     cb:name "Maureen Gibney" ; 
+    cb:name "Gibney" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -891,6 +991,7 @@
 
 <#Tali-Gidalevitz>
     cb:name "Tali Gidalevitz" ; 
+    cb:name "Gidalevitz" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Biology" ; 
@@ -898,8 +999,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Gidalevitz.ashx?h=150&la=en&w=125&hash=A0FEC2DBFAC210EEA24EDF9B422649D11B118B3B" ; 
     cb:phone "215.571.4219" .
 
-<#Harold-D.>
+<#Harold-Gilman>
     cb:name "Harold D. Gilman" ; 
+    cb:name "Gilman" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -909,6 +1011,7 @@
 
 <#Robert-Gilmore>
     cb:name "Robert Gilmore" ; 
+    cb:name "Gilmore" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -918,6 +1021,7 @@
 
 <#William-Goh>
     cb:name "William Goh" ; 
+    cb:name "Goh" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -926,6 +1030,7 @@
 
 <#David-Goldberg>
     cb:name "David Goldberg" ; 
+    cb:name "Goldberg" ; 
     cb:property "faculty" ; 
     cb:title "Associate Dean for Research & Graduate Education, Associate Department Head for Undergraduate Studies; Professor" ; 
     cb:department "Department of Physics" ; 
@@ -933,8 +1038,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/goldberg_dave.ashx?h=150&la=en&w=125&hash=5D87FA53B1EBA5E6771EF723751BC631CB2B06A8" ; 
     cb:phone "215.895.2715" .
 
-<#Naomi-E.>
+<#Naomi-Goldstein>
     cb:name "Naomi E. Goldstein" ; 
+    cb:name "Goldstein" ; 
     cb:property "faculty" ; 
     cb:title "Co-Director of the JD/PhD Program in Law and Psychology; Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -942,8 +1048,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/naomi-goldstein.ashx?h=150&la=en&w=125&hash=84AF34E57E2724AA1CD3DC5719F6D2B893E0E47D" ; 
     cb:phone "215.571.4299" .
 
-<#Mary-Katherine>
+<#Mary-Gonder>
     cb:name "Mary Katherine Gonder" ; 
+    cb:name "Gonder" ; 
     cb:property "faculty" ; 
     cb:title "Director, Bioko Biodiversity Protection Program; Co-Founder, Central African Biodiversity Alliance; Associate Professor" ; 
     cb:department "Department of Biology" ; 
@@ -953,6 +1060,7 @@
 
 <#Cecilie-Goodrich>
     cb:name "Cecilie Goodrich" ; 
+    cb:name "Goodrich" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Biology" ; 
@@ -960,8 +1068,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/goodrich.ashx?h=150&la=en&w=125&hash=8D9CF8FB39C68EBBD1FF06351C399FDB2710563A" ; 
     cb:phone "215.895.2626" .
 
-<#June-K.>
+<#June-Gordon>
     cb:name "June K. Gordon" ; 
+    cb:name "Gordon" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -971,6 +1080,7 @@
 
 <#Erin-Graham>
     cb:name "Erin Graham" ; 
+    cb:name "Graham" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Politics" ; 
@@ -980,6 +1090,7 @@
 
 <#Pavel-Grinfeld>
     cb:name "Pavel Grinfeld" ; 
+    cb:name "Grinfeld" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -989,6 +1100,7 @@
 
 <#Anatolii-Grinshpan>
     cb:name "Anatolii Grinshpan" ; 
+    cb:name "Grinshpan" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -998,6 +1110,7 @@
 
 <#Patricia-Grosse>
     cb:name "Patricia Grosse" ; 
+    cb:name "Grosse" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1007,6 +1120,7 @@
 
 <#Yixin-Guo>
     cb:name "Yixin Guo" ; 
+    cb:name "Guo" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1016,6 +1130,7 @@
 
 <#Susan-Gurney>
     cb:name "Susan Gurney" ; 
+    cb:name "Gurney" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1023,8 +1138,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Gurney.ashx?h=150&la=en&w=125&hash=C01859924CD6B0D24C8A76C23FEE9859829A1299" ; 
     cb:phone "215.895.5802" .
 
-<#Julia-Hagemann>
+<#Julia-May>
     cb:name "Julia Hagemann May" ; 
+    cb:name "May" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -1034,6 +1150,7 @@
 
 <#Ernest-Hakanen>
     cb:name "Ernest Hakanen" ; 
+    cb:name "Hakanen" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Communication" ; 
@@ -1043,6 +1160,7 @@
 
 <#Keunah-Han>
     cb:name "Keunah Han" ; 
+    cb:name "Han" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1052,6 +1170,7 @@
 
 <#Nathan-Hanna>
     cb:name "Nathan Hanna" ; 
+    cb:name "Hanna" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1061,6 +1180,7 @@
 
 <#Richard-Haracz>
     cb:name "Richard Haracz" ; 
+    cb:name "Haracz" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -1070,6 +1190,7 @@
 
 <#Maher-Harb>
     cb:name "Maher Harb" ; 
+    cb:name "Harb" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1079,6 +1200,7 @@
 
 <#Kirk-Heilbrun>
     cb:name "Kirk Heilbrun" ; 
+    cb:name "Heilbrun" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1088,6 +1210,7 @@
 
 <#Claire-Herbert>
     cb:name "Claire Herbert" ; 
+    cb:name "Herbert" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Sociology" ; 
@@ -1097,6 +1220,7 @@
 
 <#James-Herbert>
     cb:name "James Herbert" ; 
+    cb:name "Herbert" ; 
     cb:property "faculty" ; 
     cb:title "Dean, Graduate College; Executive Vice Provost; Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1106,6 +1230,7 @@
 
 <#Thomas-Hewett>
     cb:name "Thomas Hewett" ; 
+    cb:name "Hewett" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Psychology" ; 
@@ -1113,8 +1238,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/hewett_thomas.ashx?h=150&la=en&w=125&hash=9BB88C4B6E36D30F4BE362C165086BD98B74F429" ; 
     cb:phone "215.895.2461" .
 
-<#R.-Andrew>
+<#R.-Hicks>
     cb:name "R. Andrew Hicks" ; 
+    cb:name "Hicks" ; 
     cb:property "faculty" ; 
     cb:title "Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1124,6 +1250,7 @@
 
 <#Cassandra-Hirsch>
     cb:name "Cassandra Hirsch" ; 
+    cb:name "Hirsch" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1133,6 +1260,7 @@
 
 <#Pawel-Hitczenko>
     cb:name "Pawel Hitczenko" ; 
+    cb:name "Hitczenko" ; 
     cb:property "faculty" ; 
     cb:title "Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1142,6 +1270,7 @@
 
 <#Barbara-Hoekje>
     cb:name "Barbara Hoekje" ; 
+    cb:name "Hoekje" ; 
     cb:property "faculty" ; 
     cb:title "Director Undergraduate Programs in Communication; Associate Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Communication" ; 
@@ -1151,6 +1280,7 @@
 
 <#Lee-Hoffman>
     cb:name "Lee Hoffman" ; 
+    cb:name "Hoffman" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1158,8 +1288,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Lee Hoffman.ashx?h=150&la=en&w=125&hash=4ADCCAFD1B9E55D307886AEF39C9AE6BDCE5E59D" ; 
     cb:phone "215.895.1784" .
 
-<#Amelia-Hoover>
+<#Amelia-Green>
     cb:name "Amelia Hoover Green" ; 
+    cb:name "Green" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Politics" ; 
@@ -1169,6 +1300,7 @@
 
 <#Barbara-Hornum>
     cb:name "Barbara Hornum" ; 
+    cb:name "Hornum" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Anthropology; Director, Center of Academic Excellence" ; 
     cb:department "Department of Anthropology" ; 
@@ -1178,6 +1310,7 @@
 
 <#Richard-Horwitz>
     cb:name "Richard Horwitz" ; 
+    cb:name "Horwitz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Senior Scientist, Fisheries Section Leader, Ruth Patrick Chair of Environmental Sciences, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1187,6 +1320,7 @@
 
 <#Frederick-House>
     cb:name "Frederick House" ; 
+    cb:name "House" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -1196,6 +1330,7 @@
 
 <#Christian-Hunold>
     cb:name "Christian Hunold" ; 
+    cb:name "Hunold" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Politics" ; 
@@ -1205,6 +1340,7 @@
 
 <#Meshagae-Hunte-Brown>
     cb:name "Meshagae Hunte-Brown" ; 
+    cb:name "Hunte-Brown" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1214,6 +1350,7 @@
 
 <#Jordan-Hyatt>
     cb:name "Jordan Hyatt" ; 
+    cb:name "Hyatt" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Criminology and Justice Studies" ; 
@@ -1223,6 +1360,7 @@
 
 <#Gabriella-Ibieta>
     cb:name "Gabriella Ibieta" ; 
+    cb:name "Ibieta" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1232,6 +1370,7 @@
 
 <#Monica-Ilies>
     cb:name "Monica Ilies" ; 
+    cb:name "Ilies" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1241,6 +1380,7 @@
 
 <#Robert-Immordino>
     cb:name "Robert Immordino" ; 
+    cb:name "Immordino" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -1250,6 +1390,7 @@
 
 <#Henry-Israeli>
     cb:name "Henry Israeli" ; 
+    cb:name "Israeli" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor; Associate Director, Certificate in Writing and Publishing" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1259,14 +1400,16 @@
 
 <#Kirk-Jalbert>
     cb:name "Kirk Jalbert" ; 
+    cb:name "Jalbert" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Research Professor" ; 
     cb:department "Center for Science, Technology and Society" ; 
     cb:email "kirkjalbert@gmail.com" ; 
     cb:picture "http://drexel.edu/~/media/Images/sts/faculty/jalbert_kirk.ashx?h=150&la=en&w=125&hash=1678AB5DF86AE2C07CACF0FC58B1442100439295" .
 
-<#Hai-Feng-(Frank)>
+<#Hai-Feng-Ji>
     cb:name "Hai-Feng (Frank) Ji" ; 
+    cb:name "Ji" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1276,6 +1419,7 @@
 
 <#Jiu-Jiang>
     cb:name "Jiu Jiang" ; 
+    cb:name "Jiang" ; 
     cb:property "faculty" ; 
     cb:title "Research Associate Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1285,6 +1429,7 @@
 
 <#Lallen-Johnson>
     cb:name "Lallen Johnson" ; 
+    cb:name "Johnson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of Criminal Justice" ; 
     cb:department "Department of Criminology and Justice Studies" ; 
@@ -1294,6 +1439,7 @@
 
 <#Timothy-Jones>
     cb:name "Timothy Jones" ; 
+    cb:name "Jones" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1302,6 +1448,7 @@
 
 <#Kelly-Joyce>
     cb:name "Kelly Joyce" ; 
+    cb:name "Joyce" ; 
     cb:property "faculty" ; 
     cb:title "Director, Center for Science, Technology & Society; Professor of Sociology" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -1311,6 +1458,7 @@
 
 <#Adrienne-Juarascio>
     cb:name "Adrienne Juarascio" ; 
+    cb:name "Juarascio" ; 
     cb:property "faculty" ; 
     cb:title "Director, Practicum Training; Assistant Research Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1320,6 +1468,7 @@
 
 <#Karen-Kabnick>
     cb:name "Karen Kabnick" ; 
+    cb:name "Kabnick" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1329,6 +1478,7 @@
 
 <#Dmitry-Kaliuzhnyi-Verbovetskyi>
     cb:name "Dmitry Kaliuzhnyi-Verbovetskyi" ; 
+    cb:name "Kaliuzhnyi-Verbovetskyi" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1336,8 +1486,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/dmitry-kaliuzhnyi-verbovetskyi.ashx?h=150&la=en&w=125&hash=AFB26BBF3D4AB2C715AEFE16F28306FD748A1A1F" ; 
     cb:phone "215.895.6798" .
 
-<#Robert-J.>
+<#Robert-Kane>
     cb:name "Robert J. Kane" ; 
+    cb:name "Kane" ; 
     cb:property "faculty" ; 
     cb:title "Director and Professor, Criminology and Justice Studies Program" ; 
     cb:department "Department of Criminology and Justice Studies" ; 
@@ -1347,6 +1498,7 @@
 
 <#Goran-Karapetrov>
     cb:name "Goran Karapetrov" ; 
+    cb:name "Karapetrov" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1356,6 +1508,7 @@
 
 <#Kirsten-Kaschock>
     cb:name "Kirsten Kaschock" ; 
+    cb:name "Kaschock" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1365,6 +1518,7 @@
 
 <#Frank-Kelley>
     cb:name "Frank Kelley" ; 
+    cb:name "Kelley" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -1374,6 +1528,7 @@
 
 <#Alison-Kenner>
     cb:name "Alison Kenner" ; 
+    cb:name "Kenner" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Politics" ; 
@@ -1381,8 +1536,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Kenner_Alison.ashx?h=150&la=en&w=125&hash=5279BD93DAE6DCBB002C3D0D5E91ECFCBCA7DD7D" ; 
     cb:phone "215.895.1040" .
 
-<#Boris-L.>
+<#Boris-Kheyfets>
     cb:name "Boris L. Kheyfets" ; 
+    cb:name "Kheyfets" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -1392,6 +1548,7 @@
 
 <#Michael-Khoo>
     cb:name "Michael Khoo" ; 
+    cb:name "Khoo" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, College of Computing and Informatics" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -1401,6 +1558,7 @@
 
 <#Susan-Kilham>
     cb:name "Susan Kilham" ; 
+    cb:name "Kilham" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1410,6 +1568,7 @@
 
 <#Marlin-Killen>
     cb:name "Marlin Killen" ; 
+    cb:name "Killen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor; Faculty Coordinator of Online Education in Psychology; Faculty Fellow" ; 
     cb:department "Department of Psychology" ; 
@@ -1419,6 +1578,7 @@
 
 <#Daniel-King>
     cb:name "Daniel King" ; 
+    cb:name "King" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1428,6 +1588,7 @@
 
 <#Daniel-Kleier>
     cb:name "Daniel Kleier" ; 
+    cb:name "Kleier" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1437,6 +1598,7 @@
 
 <#Adam-Knowles>
     cb:name "Adam Knowles" ; 
+    cb:name "Knowles" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1446,6 +1608,7 @@
 
 <#Scott-Knowles>
     cb:name "Scott Knowles" ; 
+    cb:name "Knowles" ; 
     cb:property "faculty" ; 
     cb:title "Interim Department Head; Associate Professor" ; 
     cb:department "Department of History" ; 
@@ -1455,6 +1618,7 @@
 
 <#Emmanuel-Koku>
     cb:name "Emmanuel Koku" ; 
+    cb:name "Koku" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Sociology" ; 
@@ -1464,6 +1628,7 @@
 
 <#Miriam-Kotzin>
     cb:name "Miriam Kotzin" ; 
+    cb:name "Kotzin" ; 
     cb:property "faculty" ; 
     cb:title "Founding Editor, Per Contra; Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1471,8 +1636,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/miriamkotzin.ashx?h=150&la=en&w=125&hash=BE1E7D3EC31F9CAC87D8B0F049C497487B9DCC43" ; 
     cb:phone "215.895.2445" .
 
-<#Elana-M.>
+<#Elana-Koublanova>
     cb:name "Elana M. Koublanova" ; 
+    cb:name "Koublanova" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -1482,6 +1648,7 @@
 
 <#John-Kounios>
     cb:name "John Kounios" ; 
+    cb:name "Kounios" ; 
     cb:property "faculty" ; 
     cb:title "Director, PhD Program in Applied Cognitive & Brain Sciences; Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1491,6 +1658,7 @@
 
 <#Hiromi-Koyama>
     cb:name "Hiromi Koyama" ; 
+    cb:name "Koyama" ; 
     cb:property "faculty" ; 
     cb:title "Instructor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -1500,6 +1668,7 @@
 
 <#Rachael-Kratzer>
     cb:name "Rachael Kratzer" ; 
+    cb:name "Kratzer" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1509,6 +1678,7 @@
 
 <#Danielle-Kreeger>
     cb:name "Danielle Kreeger" ; 
+    cb:name "Kreeger" ; 
     cb:property "faculty" ; 
     cb:title "Research Associate Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1516,8 +1686,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kreeger.ashx?h=150&la=en&w=125&hash=0C02EDFEEB175D32979030C4C7D9286A5789F83F" ; 
     cb:phone "215.895.1270" .
 
-<#Stefanie-A.>
+<#Stefanie-Kroll>
     cb:name "Stefanie A. Kroll" ; 
+    cb:name "Kroll" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor, Department of Biodiversity, Earth & Environmental Science; Project Science Director, Acting Macroinvertebrate Section Leader, Patrick Center of Environmental Research, Academy of Natural Sciences" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1527,6 +1698,7 @@
 
 <#Sharon-Ku>
     cb:name "Sharon Ku" ; 
+    cb:name "Ku" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:department "Department of History" ; 
@@ -1534,8 +1706,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Ku_Sharon.ashx?h=150&la=en&w=125&hash=6D5025D075A7AE45B7C659A1C3F3F0461835BA10" ; 
     cb:phone "215.895.0327" .
 
-<#Naoko-Kurahashi>
+<#Naoko-Neilson>
     cb:name "Naoko Kurahashi Neilson" ; 
+    cb:name "Neilson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1543,8 +1716,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kurahashi-neilson-naoko.ashx?h=150&la=en&w=125&hash=F7F59ABEA5414123684280D81ABA5A3B0F54411E" ; 
     cb:phone "215.895.2725" .
 
-<#Marie-J.>
+<#Marie-Kurz>
     cb:name "Marie J. Kurz" ; 
+    cb:name "Kurz" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor, Department of Biodiversity, Earth & Environmental Science; Research Scientist & Biogeochemistry Section Leader, Patrick Center for the Environment, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1554,6 +1728,7 @@
 
 <#David-Kutzik>
     cb:name "David Kutzik" ; 
+    cb:name "Kutzik" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Anthropology" ; 
@@ -1563,6 +1738,7 @@
 
 <#Jake-Lahne>
     cb:name "Jake Lahne" ; 
+    cb:name "Lahne" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of Food Science, Department of Culinary Arts and Food Science, Center for Hospitality and Sport Management" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -1571,6 +1747,7 @@
 
 <#Christopher-Laincz>
     cb:name "Christopher Laincz" ; 
+    cb:name "Laincz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, LeBow College of Business" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -1578,8 +1755,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/laincz-christopher.ashx?h=150&la=en&w=125&hash=83D4B4C27FD75A29EAF443B21684907CA94EDCCA" ; 
     cb:phone "215.895.2503" .
 
-<#Leo-W.>
+<#Leo-Lampone>
     cb:name "Leo W. Lampone" ; 
+    cb:name "Lampone" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -1587,8 +1765,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/leo-lampone.ashx?h=150&la=en&w=125&hash=39B77C00FAF63F90B76926379B5F8F78047F2B4E" ; 
     cb:phone "215.895.2668" .
 
-<#Charles-E.>
+<#Charles-Lane>
     cb:name "Charles E. Lane" ; 
+    cb:name "Lane" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1598,6 +1777,7 @@
 
 <#Donald-Larson>
     cb:name "Donald Larson" ; 
+    cb:name "Larson" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -1605,8 +1785,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/donald_larson.ashx?h=166&la=en&w=125&hash=2C4E112AEF9A4A850E4E212C53AAC54CF87F02B7" ; 
     cb:phone "215.895.2724" .
 
-<#Hwan-Yong>
+<#Hwan-Lee>
     cb:name "Hwan Yong Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -1616,14 +1797,16 @@
 
 <#Hyunmin-Lee>
     cb:name "Hyunmin Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Communication" ; 
     cb:email "hl586@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lee-hyunmin.ashx?h=150&la=en&w=125&hash=B719D1001DF36EB12825731E078F54DBB3C2076E" .
 
-<#Nancy-Raitano>
+<#Nancy-Lee>
     cb:name "Nancy Raitano Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Director of MS and BS/MS Programs; Assistant Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1631,8 +1814,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nancy_raitano.ashx?h=150&la=en&w=125&hash=1956064DA86EC58B3FB86021AE569C9AD6D62B45" ; 
     cb:phone "215.895.2937" .
 
-<#Teck-Kah>
+<#Teck-Lim>
     cb:name "Teck Kah Lim" ; 
+    cb:name "Lim" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1642,6 +1826,7 @@
 
 <#Joy-Little>
     cb:name "Joy Little" ; 
+    cb:name "Little" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1651,6 +1836,7 @@
 
 <#Tatyana-Livshultz>
     cb:name "Tatyana Livshultz" ; 
+    cb:name "Livshultz" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science; Assistant Curator of Botany, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1660,6 +1846,7 @@
 
 <#Robert-Loudon>
     cb:name "Robert Loudon" ; 
+    cb:name "Loudon" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1669,6 +1856,7 @@
 
 <#Amanda-Lough>
     cb:name "Amanda Lough" ; 
+    cb:name "Lough" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1678,6 +1866,7 @@
 
 <#Christina-Love>
     cb:name "Christina Love" ; 
+    cb:name "Love" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1687,6 +1876,7 @@
 
 <#Michael-Lowe>
     cb:name "Michael Lowe" ; 
+    cb:name "Lowe" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1694,8 +1884,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/lowe_michael.ashx?h=150&la=en&w=125&hash=D58A6EB427E4A272E3CAA44560BD18F22D6EA90D" ; 
     cb:phone "215.553.7116" .
 
-<#John-G.>
+<#John-Lundberg>
     cb:name "John G. Lundberg" ; 
+    cb:name "Lundberg" ; 
     cb:property "faculty" ; 
     cb:title "Emeritus Professor, Department of Biodiversity, Earth & Environmental Science; Emeritus Curator, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1705,6 +1896,7 @@
 
 <#Brent-Luvaas>
     cb:name "Brent Luvaas" ; 
+    cb:name "Luvaas" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Anthropology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Anthropology" ; 
@@ -1714,6 +1906,7 @@
 
 <#Joanna-Lyskowicz>
     cb:name "Joanna Lyskowicz" ; 
+    cb:name "Lyskowicz" ; 
     cb:property "faculty" ; 
     cb:title "Instructor of Spanish" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -1723,6 +1916,7 @@
 
 <#Susan-Magee>
     cb:name "Susan Magee" ; 
+    cb:name "Magee" ; 
     cb:property "faculty" ; 
     cb:title "Instructor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -1732,6 +1926,7 @@
 
 <#Stephen-Mandell>
     cb:name "Stephen Mandell" ; 
+    cb:name "Mandell" ; 
     cb:property "faculty" ; 
     cb:title "Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1741,6 +1936,7 @@
 
 <#Daniel-Marenda>
     cb:name "Daniel Marenda" ; 
+    cb:name "Marenda" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor; Director of the Biology Graduate Program; Co-Director of the Cell Imaging Center" ; 
     cb:department "Department of Biology" ; 
@@ -1750,14 +1946,16 @@
 
 <#Ilana-Margolis>
     cb:name "Ilana Margolis" ; 
+    cb:name "Margolis" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Professor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
     cb:email "ilana.margolis@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Copy of no-photo.ashx?h=150&la=en&w=125&hash=A9356F6625E17C6F5D1D59E34119BA4265124B56" .
 
-<#Dionicio-Martinez>
+<#Dionicio-Solorio>
     cb:name "Dionicio Martinez Solorio" ; 
+    cb:name "Solorio" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1765,8 +1963,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/martinez-solorio-dionicio.ashx?h=150&la=en&w=125&hash=F5EF4F270D9AE79C99E90D8AADA57CE997D37CAC" ; 
     cb:phone "215.895.3561" .
 
-<#Maria-de>
+<#Maria-Matus-Mendoza>
     cb:name "Maria de la luz Matus-Mendoza" ; 
+    cb:name "Matus-Mendoza" ; 
     cb:property "faculty" ; 
     cb:title "Director of Modern Languages; Associate Professor of Spanish" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -1776,6 +1975,7 @@
 
 <#Jordan-McClain>
     cb:name "Jordan McClain" ; 
+    cb:name "McClain" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Communication" ; 
@@ -1785,6 +1985,7 @@
 
 <#Craig-McClure>
     cb:name "Craig McClure" ; 
+    cb:name "McClure" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -1794,6 +1995,7 @@
 
 <#Richard-McCourt>
     cb:name "Richard McCourt" ; 
+    cb:name "McCourt" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Department of Biodiversity, Earth & Environmental Science; Associate Curator of Botany, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -1803,6 +2005,7 @@
 
 <#James-McCray>
     cb:name "James McCray" ; 
+    cb:name "McCray" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
@@ -1810,8 +2013,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/james_mccray.ashx?h=166&la=en&w=125&hash=601398E0E880B46807E6BDD258A88601F8E57958" ; 
     cb:phone "215.895.6868" .
 
-<#Elizabeth-McGhee>
+<#Elizabeth-Hassrick>
     cb:name "Elizabeth McGhee Hassrick" ; 
+    cb:name "Hassrick" ; 
     cb:property "faculty" ; 
     cb:title "Assistant ProfessorA.J. Drexel Autism Institute" ; 
     cb:department "Department of Sociology" ; 
@@ -1821,14 +2025,16 @@
 
 <#Deirdre-McMahon>
     cb:name "Deirdre McMahon" ; 
+    cb:name "McMahon" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "deirdre.h.mcmahon@drexel.edu" ; 
     cb:phone "215.895.2703" .
 
-<#Stephen-L.W.>
+<#Stephen-McMillan>
     cb:name "Stephen L.W. McMillan" ; 
+    cb:name "McMillan" ; 
     cb:property "faculty" ; 
     cb:title "Department Head; Professor" ; 
     cb:department "Department of Physics" ; 
@@ -1836,8 +2042,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mcmillan-stephen.ashx?h=150&la=en&w=125&hash=72A55B9DB2981CD0481646A34F7D7857EEA00347" ; 
     cb:phone "215.895.2709" .
 
-<#Georgi-S.>
+<#Georgi-Medvedev>
     cb:name "Georgi S. Medvedev" ; 
+    cb:name "Medvedev" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1847,6 +2054,7 @@
 
 <#Carol-Mele>
     cb:name "Carol Mele" ; 
+    cb:name "Mele" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1856,6 +2064,7 @@
 
 <#Marianallet-Mendez-Rivera>
     cb:name "Marianallet Mendez-Rivera" ; 
+    cb:name "Mendez-Rivera" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1865,6 +2074,7 @@
 
 <#Usha-Menon>
     cb:name "Usha Menon" ; 
+    cb:name "Menon" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Anthropology" ; 
     cb:department "Department of Anthropology" ; 
@@ -1872,8 +2082,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/menon_usha.ashx?h=150&la=en&w=125&hash=770AFD0E9A61CFA6538EB035DA7BFA2F3D94D46B" ; 
     cb:phone "215.895.1023" .
 
-<#Harriet-Levin>
+<#Harriet-Millan>
     cb:name "Harriet Levin Millan" ; 
+    cb:name "Millan" ; 
     cb:property "faculty" ; 
     cb:title "Director, Certificate Program in Writing and Publishing; Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1883,6 +2094,7 @@
 
 <#Jonson-Miller>
     cb:name "Jonson Miller" ; 
+    cb:name "Miller" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of History" ; 
     cb:department "Department of History" ; 
@@ -1892,6 +2104,7 @@
 
 <#Rogelio-Miñana>
     cb:name "Rogelio Miñana" ; 
+    cb:name "Miñana" ; 
     cb:property "faculty" ; 
     cb:title "Department Head and Professor of Spanish" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -1901,6 +2114,7 @@
 
 <#Charles-Mode>
     cb:name "Charles Mode" ; 
+    cb:name "Mode" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -1909,6 +2123,7 @@
 
 <#Franco-Montalto>
     cb:name "Franco Montalto" ; 
+    cb:name "Montalto" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Center for Public Policy" ; 
@@ -1918,6 +2133,7 @@
 
 <#Danette-Morrison>
     cb:name "Danette Morrison" ; 
+    cb:name "Morrison" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -1927,6 +2143,7 @@
 
 <#Eric-Morschhauser>
     cb:name "Eric Morschhauser" ; 
+    cb:name "Morschhauser" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -1936,6 +2153,7 @@
 
 <#Jennifer-Morse>
     cb:name "Jennifer Morse" ; 
+    cb:name "Morse" ; 
     cb:property "faculty" ; 
     cb:title "Undergraduate Advisor; Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1943,8 +2161,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jennifer-morse.ashx?h=150&la=en&w=125&hash=0BEE54E9DDFFAB2889B1185FDEFD1279404ADFBE" ; 
     cb:phone "215.571.4101" .
 
-<#Kevin-M.>
+<#Kevin-Moseby>
     cb:name "Kevin M. Moseby" ; 
+    cb:name "Moseby" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of Sociology" ; 
     cb:department "Department of Sociology" ; 
@@ -1954,6 +2173,7 @@
 
 <#Jill-Moses>
     cb:name "Jill Moses" ; 
+    cb:name "Moses" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -1963,6 +2183,7 @@
 
 <#Shari-Moskow>
     cb:name "Shari Moskow" ; 
+    cb:name "Moskow" ; 
     cb:property "faculty" ; 
     cb:title "Department Head; Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -1972,6 +2193,7 @@
 
 <#Julie-Mostov>
     cb:name "Julie Mostov" ; 
+    cb:name "Mostov" ; 
     cb:property "faculty" ; 
     cb:title "Vice Provost for Global Initiatives" ; 
     cb:department "Department of Politics" ; 
@@ -1981,6 +2203,7 @@
 
 <#Marna-Mozeff>
     cb:name "Marna Mozeff" ; 
+    cb:name "Mozeff" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -1990,6 +2213,7 @@
 
 <#Stephen-Mullin>
     cb:name "Stephen Mullin" ; 
+    cb:name "Mullin" ; 
     cb:property "faculty" ; 
     cb:title "President and Principal, Econsult Solutions; Adjunct Instructor" ; 
     cb:department "Center for Public Policy" ; 
@@ -1998,6 +2222,7 @@
 
 <#Donna-Murasko>
     cb:name "Donna Murasko" ; 
+    cb:name "Murasko" ; 
     cb:property "faculty" ; 
     cb:title "Dean College of Arts and Sciences; Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2007,6 +2232,7 @@
 
 <#Russell-Neilson>
     cb:name "Russell Neilson" ; 
+    cb:name "Neilson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Physics" ; 
@@ -2014,8 +2240,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/neilson_russell.ashx?h=167&la=en&w=125&hash=CD5B08A795586A659F76E342F326D67D367372D5" ; 
     cb:phone "215.895.2729" .
 
-<#Arthur-M.>
+<#Arthur-Nezu>
     cb:name "Arthur M. Nezu" ; 
+    cb:name "Nezu" ; 
     cb:property "faculty" ; 
     cb:title "Distinguished University Professor of Psychology; Professor of Medicine; Professor of Community Health and Prevention" ; 
     cb:department "Department of Psychology" ; 
@@ -2023,8 +2250,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/nezu_arthur.ashx?h=150&la=en&w=125&hash=E0D502765115A6CE32CE19E13898D23B80162FE0" ; 
     cb:phone "215.629.6275 (cell)" .
 
-<#Christine-Maguth>
+<#Christine-Nezu>
     cb:name "Christine Maguth Nezu" ; 
+    cb:name "Nezu" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Psychology; Professor of Medicine" ; 
     cb:department "Department of Psychology" ; 
@@ -2034,6 +2262,7 @@
 
 <#Christopher-Nielson>
     cb:name "Christopher Nielson" ; 
+    cb:name "Nielson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Department Head; Director of Programs in English; Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2043,6 +2272,7 @@
 
 <#Alexander-Nikolaev>
     cb:name "Alexander Nikolaev" ; 
+    cb:name "Nikolaev" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -2052,6 +2282,7 @@
 
 <#Karen-Nulton>
     cb:name "Karen Nulton" ; 
+    cb:name "Nulton" ; 
     cb:property "faculty" ; 
     cb:title "Director, Writing Assessment; Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2061,6 +2292,7 @@
 
 <#Michael-O'Connor>
     cb:name "Michael O'Connor" ; 
+    cb:name "O'Connor" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2068,8 +2300,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/oconnor.ashx?h=150&la=en&w=125&hash=45C99D7582BC0776D467A621621E465414A490E3" ; 
     cb:phone "215.895.2637" .
 
-<#Oksana-P.>
+<#Oksana-Odintsova>
     cb:name "Oksana P. Odintsova" ; 
+    cb:name "Odintsova" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2079,6 +2312,7 @@
 
 <#Sean-O'Donnell>
     cb:name "Sean O'Donnell" ; 
+    cb:name "O'Donnell" ; 
     cb:property "faculty" ; 
     cb:title "Associate Department Head, Department of Biodiversity, Earth & Environmental Science; Professor" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2088,6 +2322,7 @@
 
 <#Joel-Oestreich>
     cb:name "Joel Oestreich" ; 
+    cb:name "Oestreich" ; 
     cb:property "faculty" ; 
     cb:title "Director, Global Studies Major; Associate Professor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -2097,6 +2332,7 @@
 
 <#Sunmi-Oh>
     cb:name "Sunmi Oh" ; 
+    cb:name "Oh" ; 
     cb:property "faculty" ; 
     cb:title "Instructor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -2106,6 +2342,7 @@
 
 <#Jason-Orne>
     cb:name "Jason Orne" ; 
+    cb:name "Orne" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Sociology" ; 
@@ -2113,8 +2350,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/orne-jason.ashx?h=150&la=en&w=125&hash=2DE15CD02C6684BCFA6EEB460F6AC278C641B0FC" ; 
     cb:phone "215.571.4349" .
 
-<#Elva-Orozco>
+<#Elva-Mendoza>
     cb:name "Elva Orozco Mendoza" ; 
+    cb:name "Mendoza" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Politics" ; 
@@ -2124,6 +2362,7 @@
 
 <#Karol-Osipowicz>
     cb:name "Karol Osipowicz" ; 
+    cb:name "Osipowicz" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Director of Undergraduate Studies;Assistant Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2133,6 +2372,7 @@
 
 <#Daniel-Otte>
     cb:name "Daniel Otte" ; 
+    cb:name "Otte" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus, Department of Biodiversity, Earth & Environmental Science; Senior Curator, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2142,14 +2382,16 @@
 
 <#Gwen-Ottinger>
     cb:name "Gwen Ottinger" ; 
+    cb:name "Ottinger" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Politics" ; 
     cb:email "ottinger@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ottinger-gwen-150x180.ashx?h=180&la=en&w=150&hash=8048A7643F40621FBA2DB00C7DFFE266CDF8F300" .
 
-<#Kevin-G.>
+<#Kevin-Owens>
     cb:name "Kevin G. Owens" ; 
+    cb:name "Owens" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -2159,6 +2401,7 @@
 
 <#Flavia-Padovani>
     cb:name "Flavia Padovani" ; 
+    cb:name "Padovani" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of Philosophy" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2168,6 +2411,7 @@
 
 <#Dimitrios-Papadopoulos>
     cb:name "Dimitrios Papadopoulos" ; 
+    cb:name "Papadopoulos" ; 
     cb:property "faculty" ; 
     cb:title "Instructor | Teaching" ; 
     cb:department "Department of Mathematics" ; 
@@ -2177,6 +2421,7 @@
 
 <#Rakhmiel-Peltz>
     cb:name "Rakhmiel Peltz" ; 
+    cb:name "Peltz" ; 
     cb:property "faculty" ; 
     cb:title "Director, Judaic Studies Program; Professor of Sociolinguistics; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Anthropology" ; 
@@ -2184,8 +2429,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Peltz_Rakhmiel.ashx?h=150&la=en&w=125&hash=B7F00ACEE3859B192E07011827666B16A6F2CD06" ; 
     cb:phone "215.895.1499" .
 
-<#Lynn-S.>
+<#Lynn-Penn>
     cb:name "Lynn S. Penn" ; 
+    cb:name "Penn" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -2195,6 +2441,7 @@
 
 <#Joel-Pereira>
     cb:name "Joel Pereira" ; 
+    cb:name "Pereira" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2202,8 +2449,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/joel-pereira.ashx?h=180&la=en&w=150&hash=58209774FB0E98E65835420A34774E51A11758B3" ; 
     cb:phone "215.571.3686" .
 
-<#Ronald-K.>
+<#Ronald-Perline>
     cb:name "Ronald K. Perline" ; 
+    cb:name "Perline" ; 
     cb:property "faculty" ; 
     cb:title "Associate Department Head; Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -2211,8 +2459,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ronald-perline.ashx?h=150&la=en&w=125&hash=8AEC9FFF6E17F6A07E5E83C683C374A8A422F0EA" ; 
     cb:phone "215.895.6623" .
 
-<#Marci-A.>
+<#Marci-Perlstadt>
     cb:name "Marci A. Perlstadt" ; 
+    cb:name "Perlstadt" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -2222,6 +2471,7 @@
 
 <#Margene-Petersen>
     cb:name "Margene Petersen" ; 
+    cb:name "Petersen" ; 
     cb:property "faculty" ; 
     cb:title "Instructor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2230,6 +2480,7 @@
 
 <#Ryan-Petrie>
     cb:name "Ryan Petrie" ; 
+    cb:name "Petrie" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2239,6 +2490,7 @@
 
 <#Brianna-Pezzato>
     cb:name "Brianna Pezzato" ; 
+    cb:name "Pezzato" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2247,6 +2499,7 @@
 
 <#Joshua-Plencner>
     cb:name "Joshua Plencner" ; 
+    cb:name "Plencner" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Politics" ; 
@@ -2256,6 +2509,7 @@
 
 <#Douglas-Porpora>
     cb:name "Douglas Porpora" ; 
+    cb:name "Porpora" ; 
     cb:property "faculty" ; 
     cb:title "Director, Graduate Programs in Communication, Culture & Media; Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Anthropology" ; 
@@ -2265,6 +2519,7 @@
 
 <#Abioseh-Porter>
     cb:name "Abioseh Porter" ; 
+    cb:name "Porter" ; 
     cb:property "faculty" ; 
     cb:title "Professor of English; Editor, JALA, Journal of the African Literature Association" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2274,6 +2529,7 @@
 
 <#Marina-Potapova>
     cb:name "Marina Potapova" ; 
+    cb:name "Potapova" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science; Assistant Curator, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2283,6 +2539,7 @@
 
 <#Robert-Powell>
     cb:name "Robert Powell" ; 
+    cb:name "Powell" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of Anthropology" ; 
     cb:department "Department of Anthropology" ; 
@@ -2292,6 +2549,7 @@
 
 <#Anna-Pun>
     cb:name "Anna Pun" ; 
+    cb:name "Pun" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2300,6 +2558,7 @@
 
 <#Jun-Qiao>
     cb:name "Jun Qiao" ; 
+    cb:name "Qiao" ; 
     cb:property "faculty" ; 
     cb:title "Instructor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -2309,6 +2568,7 @@
 
 <#Amber-Reed>
     cb:name "Amber Reed" ; 
+    cb:name "Reed" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor of Anthropology" ; 
     cb:department "Department of Anthropology" ; 
@@ -2318,6 +2578,7 @@
 
 <#Rachel-Reynolds>
     cb:name "Rachel Reynolds" ; 
+    cb:name "Reynolds" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Anthropology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Anthropology" ; 
@@ -2327,6 +2588,7 @@
 
 <#Jerome-Ricard>
     cb:name "Jerome Ricard" ; 
+    cb:name "Ricard" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2334,8 +2596,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/ricard_jerome.ashx?h=150&la=en&w=125&hash=4B51B3C41F1BDF25AEC3A2273D7ABBD7257300D4" ; 
     cb:phone "215.571.3785" .
 
-<#Gordon-T.>
+<#Gordon-Richards>
     cb:name "Gordon T. Richards" ; 
+    cb:name "Richards" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -2345,6 +2608,7 @@
 
 <#Cyndi-Rickards>
     cb:name "Cyndi Rickards" ; 
+    cb:name "Rickards" ; 
     cb:property "faculty" ; 
     cb:title "Senior Assistant Dean for Community Engagement; Assistant Teaching Professor of Criminology & Justice Studies" ; 
     cb:department "Department of Criminology and Justice Studies" ; 
@@ -2352,8 +2616,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/criminology/faculty-staff/rickards-cyndi.ashx?h=150&la=en&w=125&hash=1A16934E7475B2946A48FCFEC1895934204E47D4" ; 
     cb:phone "215.571.3734" .
 
-<#Adam-C.>
+<#Adam-Rickert>
     cb:name "Adam C. Rickert" ; 
+    cb:name "Rickert" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2363,6 +2628,7 @@
 
 <#Donald-Riggs>
     cb:name "Donald Riggs" ; 
+    cb:name "Riggs" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2370,8 +2636,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/riggs.ashx?h=150&la=en&w=125&hash=588664A143FA9FD90709397B8953416D274E9A8B" ; 
     cb:phone "215.895.2441" .
 
-<#Jody-A.>
+<#Jody-Roberts>
     cb:name "Jody A. Roberts" ; 
+    cb:name "Roberts" ; 
     cb:property "faculty" ; 
     cb:title "Research Faculty, Center for Science, Technology & Society; Director, Center for Contemporary History and Policy, Chemical Heritage Foundation" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -2381,6 +2648,7 @@
 
 <#Diana-Robins>
     cb:name "Diana Robins" ; 
+    cb:name "Robins" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2388,8 +2656,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robins_diana.ashx?h=150&la=en&w=125&hash=B96BB242CA79C905E2CA14ACED14E1DF3810ED97" ; 
     cb:phone "215.571.3439" .
 
-<#Gabriel-de>
+<#Gabriel-Rocha>
     cb:name "Gabriel de Avilez Rocha" ; 
+    cb:name "Rocha" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of History" ; 
     cb:department "Department of History" ; 
@@ -2399,6 +2668,7 @@
 
 <#Donna-Rondolone>
     cb:name "Donna Rondolone" ; 
+    cb:name "Rondolone" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2408,14 +2678,16 @@
 
 <#Chris-Rorres>
     cb:name "Chris Rorres" ; 
+    cb:name "Rorres" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
     cb:email "crorres@math.drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/rorres-chris.ashx?h=180&la=en&w=150&hash=F310F8F22B5E5C9682434E19AFFB0230FFFFB6ED" .
 
-<#Gerald-(Harris)>
+<#Gerald-Rosen>
     cb:name "Gerald (Harris) Rosen" ; 
+    cb:name "Rosen" ; 
     cb:property "faculty" ; 
     cb:title "M.R. Wehr Professor Emeritus of Physics" ; 
     cb:department "Department of Physics" ; 
@@ -2424,6 +2696,7 @@
 
 <#Gail-Rosen>
     cb:name "Gail Rosen" ; 
+    cb:name "Rosen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2433,6 +2706,7 @@
 
 <#Gary-Rosenberg>
     cb:name "Gary Rosenberg" ; 
+    cb:name "Rosenberg" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Department of Biodiversity, Earth & Environmental Science; Pilsbry Chair of Malacology, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2442,6 +2716,7 @@
 
 <#William-Rosenberg>
     cb:name "William Rosenberg" ; 
+    cb:name "Rosenberg" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Politics" ; 
@@ -2451,6 +2726,7 @@
 
 <#John-Rossi>
     cb:name "John Rossi" ; 
+    cb:name "Rossi" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor, School of Public Health" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -2458,8 +2734,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/RossiJohn.ashx?h=150&la=en&w=125&hash=E81E70C817026806A280B4FC4C45B09F2334A868" ; 
     cb:phone "215.762.4652" .
 
-<#Patricia-Henry>
+<#Patricia-Russell>
     cb:name "Patricia Henry Russell" ; 
+    cb:name "Russell" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor; Teaching Professor Emerita Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -2468,6 +2745,7 @@
 
 <#Jacob-Russell>
     cb:name "Jacob Russell" ; 
+    cb:name "Russell" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2477,6 +2755,7 @@
 
 <#Susan-Rutkowsky>
     cb:name "Susan Rutkowsky" ; 
+    cb:name "Rutkowsky" ; 
     cb:property "faculty" ; 
     cb:title "Associate Department Head, Associate Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -2486,6 +2765,7 @@
 
 <#Rosemary-Rys>
     cb:name "Rosemary Rys" ; 
+    cb:name "Rys" ; 
     cb:property "faculty" ; 
     cb:title "Instructor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -2493,8 +2773,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Rys_Rosemary.ashx?h=150&la=en&w=125&hash=CC94AFFEB953B88A9559B44B7F190A69663B65D4" ; 
     cb:phone "215.571.4333" .
 
-<#Doreen-Alvarez>
+<#Doreen-Saar>
     cb:name "Doreen Alvarez Saar" ; 
+    cb:name "Saar" ; 
     cb:property "faculty" ; 
     cb:title "American Literature Editor, Rocky Mountain Review of Language and Literature; Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2504,6 +2785,7 @@
 
 <#Jacqueline-Sadashige>
     cb:name "Jacqueline Sadashige" ; 
+    cb:name "Sadashige" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Professor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -2512,6 +2794,7 @@
 
 <#Sheila-Sandapen>
     cb:name "Sheila Sandapen" ; 
+    cb:name "Sandapen" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2521,6 +2804,7 @@
 
 <#Nianli-Sang>
     cb:name "Nianli Sang" ; 
+    cb:name "Sang" ; 
     cb:property "faculty" ; 
     cb:title "Co-Director of the Cell Imaging Center; Associate Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2530,6 +2814,7 @@
 
 <#Tiago-Saraiva>
     cb:name "Tiago Saraiva" ; 
+    cb:name "Saraiva" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of History" ; 
@@ -2539,6 +2824,7 @@
 
 <#Aleister-Saunders>
     cb:name "Aleister Saunders" ; 
+    cb:name "Saunders" ; 
     cb:property "faculty" ; 
     cb:title "Senior Vice Provost for Research; Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2548,6 +2834,7 @@
 
 <#Ludo-Scheffer>
     cb:name "Ludo Scheffer" ; 
+    cb:name "Scheffer" ; 
     cb:property "faculty" ; 
     cb:title "Chair, Faculty Senate; Director of Undergraduate Studies; Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2557,6 +2844,7 @@
 
 <#Eric-Scheidly>
     cb:name "Eric Scheidly" ; 
+    cb:name "Scheidly" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Professor" ; 
     cb:department "Department of Physics" ; 
@@ -2565,6 +2853,7 @@
 
 <#Simone-Schlichting-Artur>
     cb:name "Simone Schlichting-Artur" ; 
+    cb:name "Schlichting-Artur" ; 
     cb:property "faculty" ; 
     cb:title "Senior Assistant Dean of Global Initiatives; Teaching Professor of German" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -2572,8 +2861,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/SchlichtingArtur_Simone.ashx?h=150&la=en&w=125&hash=BEBF3E006F51AE7DF2A6E104A0347903469A0B9E" ; 
     cb:phone "215.895.2443" .
 
-<#Eric-J.>
+<#Eric-Schmutz>
     cb:name "Eric J. Schmutz" ; 
+    cb:name "Schmutz" ; 
     cb:property "faculty" ; 
     cb:title "Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -2581,8 +2871,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/eric-schmutz.ashx?h=150&la=en&w=125&hash=F7DAD90A82D9D608E1FD4F82AFB1F8262D8700FB" ; 
     cb:phone "215.895.1948" .
 
-<#Maria-T.>
+<#Maria-Schultheis>
     cb:name "Maria T. Schultheis" ; 
+    cb:name "Schultheis" ; 
     cb:property "faculty" ; 
     cb:title "Department Head; Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2592,6 +2883,7 @@
 
 <#Jennifer-Schwartz>
     cb:name "Jennifer Schwartz" ; 
+    cb:name "Schwartz" ; 
     cb:property "faculty" ; 
     cb:title "Director, Psychological Services Center; Associate Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2601,6 +2893,7 @@
 
 <#Reinhard-Schweitzer-Stenner>
     cb:name "Reinhard Schweitzer-Stenner" ; 
+    cb:name "Schweitzer-Stenner" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -2610,6 +2903,7 @@
 
 <#Jonathan-Seitz>
     cb:name "Jonathan Seitz" ; 
+    cb:name "Seitz" ; 
     cb:property "faculty" ; 
     cb:title "Director of Undergraduate Studies; Associate Teaching Professor of History" ; 
     cb:department "Department of History" ; 
@@ -2619,6 +2913,7 @@
 
 <#Nicholas-Shapiro>
     cb:name "Nicholas Shapiro" ; 
+    cb:name "Shapiro" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Research Professor" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -2627,6 +2922,7 @@
 
 <#Mimi-Sheller>
     cb:name "Mimi Sheller" ; 
+    cb:name "Sheller" ; 
     cb:property "faculty" ; 
     cb:title "Director, Center for Mobilities Research and Policy; Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Center for Mobilities, Research and Policy" ; 
@@ -2636,6 +2932,7 @@
 
 <#Li-Sheng>
     cb:name "Li Sheng" ; 
+    cb:name "Sheng" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -2645,6 +2942,7 @@
 
 <#Natsumi-Shor>
     cb:name "Natsumi Shor" ; 
+    cb:name "Shor" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor of Japanese" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
@@ -2654,6 +2952,7 @@
 
 <#Wesley-Shumar>
     cb:name "Wesley Shumar" ; 
+    cb:name "Shumar" ; 
     cb:property "faculty" ; 
     cb:title "Department Head, Anthropology; Professor; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Anthropology" ; 
@@ -2663,6 +2962,7 @@
 
 <#Myrna-Shure>
     cb:name "Myrna Shure" ; 
+    cb:name "Shure" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Psychology" ; 
@@ -2672,6 +2972,7 @@
 
 <#Diane-Sicotte>
     cb:name "Diane Sicotte" ; 
+    cb:name "Sicotte" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of Sociology" ; 
     cb:department "Department of Sociology" ; 
@@ -2681,6 +2982,7 @@
 
 <#Fred-Siegel>
     cb:name "Fred Siegel" ; 
+    cb:name "Siegel" ; 
     cb:property "faculty" ; 
     cb:title "Director, First-Year Writing Program; Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2690,6 +2992,7 @@
 
 <#Chloe-Silverman>
     cb:name "Chloe Silverman" ; 
+    cb:name "Silverman" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Politics" ; 
@@ -2698,6 +3001,7 @@
 
 <#Gideon-Simpson>
     cb:name "Gideon Simpson" ; 
+    cb:name "Simpson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -2707,6 +3011,7 @@
 
 <#Chris-Sims>
     cb:name "Chris Sims" ; 
+    cb:name "Sims" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2716,6 +3021,7 @@
 
 <#Amy-Slaton>
     cb:name "Amy Slaton" ; 
+    cb:name "Slaton" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of History" ; 
@@ -2725,6 +3031,7 @@
 
 <#Julia-Sluzenski>
     cb:name "Julia Sluzenski" ; 
+    cb:name "Sluzenski" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2734,6 +3041,7 @@
 
 <#Ron-Smith>
     cb:name "Ron Smith" ; 
+    cb:name "Smith" ; 
     cb:property "faculty" ; 
     cb:title "Instructor, Department of Biodiversity, Earth and Environmental Science Director, DESLA Summer Program" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2742,6 +3050,7 @@
 
 <#Andrew-Smith>
     cb:name "Andrew Smith" ; 
+    cb:name "Smith" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2751,6 +3060,7 @@
 
 <#Kevin-Smith>
     cb:name "Kevin Smith" ; 
+    cb:name "Smith" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2760,6 +3070,7 @@
 
 <#Karl-Sohlberg>
     cb:name "Karl Sohlberg" ; 
+    cb:name "Sohlberg" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -2769,6 +3080,7 @@
 
 <#Jian-Song>
     cb:name "Jian Song" ; 
+    cb:name "Song" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2778,6 +3090,7 @@
 
 <#Xiaoming-Song>
     cb:name "Xiaoming Song" ; 
+    cb:name "Song" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -2787,6 +3100,7 @@
 
 <#Lawrence-Souder>
     cb:name "Lawrence Souder" ; 
+    cb:name "Souder" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -2794,8 +3108,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Souder_Lawrence.ashx?h=150&la=en&w=125&hash=2FC7E9B606E630F0099832A8957B7AF7B34AD0FB" ; 
     cb:phone "215.895.2730" .
 
-<#Jonathan-E.>
+<#Jonathan-Spanier>
     cb:name "Jonathan E. Spanier" ; 
+    cb:name "Spanier" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Materials Science & Engineering, Affiliated Faculty" ; 
     cb:department "Department of Physics" ; 
@@ -2803,8 +3118,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/JonSpanier.ashx?h=160&la=en&w=125&hash=39AF8BC338E8AC0A8D1EFDB8B263202DABD0DD82" ; 
     cb:phone "215.895.2301" .
 
-<#Mary-V.>
+<#Mary-Spiers>
     cb:name "Mary V. Spiers" ; 
+    cb:name "Spiers" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -2814,6 +3130,7 @@
 
 <#Elias-Spiliotis>
     cb:name "Elias Spiliotis" ; 
+    cb:name "Spiliotis" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor; Director of the Cell Imaging Center" ; 
     cb:department "Department of Biology" ; 
@@ -2823,6 +3140,7 @@
 
 <#James-Spotila>
     cb:name "James Spotila" ; 
+    cb:name "Spotila" ; 
     cb:property "faculty" ; 
     cb:title "L. Drew Betz Chair Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -2832,6 +3150,7 @@
 
 <#Jennifer-Stanford>
     cb:name "Jennifer Stanford" ; 
+    cb:name "Stanford" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2841,6 +3160,7 @@
 
 <#Kathryn-Steen>
     cb:name "Kathryn Steen" ; 
+    cb:name "Steen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of History" ; 
@@ -2850,6 +3170,7 @@
 
 <#Allan-Stegeman>
     cb:name "Allan Stegeman" ; 
+    cb:name "Stegeman" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor" ; 
     cb:department "Department of Communication" ; 
@@ -2859,6 +3180,7 @@
 
 <#Mark-Stehr>
     cb:name "Mark Stehr" ; 
+    cb:name "Stehr" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Center for Public Policy" ; 
@@ -2868,6 +3190,7 @@
 
 <#Scott-Stein>
     cb:name "Scott Stein" ; 
+    cb:name "Stein" ; 
     cb:property "faculty" ; 
     cb:title "Founding Editor, When Falls the Coliseum: a journal of American culture (or lack thereof); Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2877,6 +3200,7 @@
 
 <#Susan-Stein>
     cb:name "Susan Stein" ; 
+    cb:name "Stein" ; 
     cb:property "faculty" ; 
     cb:title "Director, Professional MS Communication Programs; Associate Teaching Professor" ; 
     cb:department "Department of Communication" ; 
@@ -2886,6 +3210,7 @@
 
 <#Jerry-Steinberg>
     cb:name "Jerry Steinberg" ; 
+    cb:name "Steinberg" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Professor" ; 
     cb:department "Department of Physics" ; 
@@ -2894,6 +3219,7 @@
 
 <#Richard-Steinberg>
     cb:name "Richard Steinberg" ; 
+    cb:name "Steinberg" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -2901,8 +3227,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richard_steinberg.ashx?h=166&la=en&w=125&hash=926FC7D6A16C8BA9320494050837C11A85509AD6" ; 
     cb:phone "215.895.2727" .
 
-<#Jeanne-M.>
+<#Jeanne-Steuber>
     cb:name "Jeanne M. Steuber" ; 
+    cb:name "Steuber" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2910,8 +3237,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jeanne-steuber.ashx?h=150&la=en&w=125&hash=CEF4DA7F73E3A4AB64458DFD26B2D54F0B552616" ; 
     cb:phone "215.895.1957" .
 
-<#Donald-F.>
+<#Donald-Stevens>
     cb:name "Donald F. Stevens" ; 
+    cb:name "Stevens" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of History" ; 
@@ -2921,6 +3249,7 @@
 
 <#Judith-Storniolo>
     cb:name "Judith Storniolo" ; 
+    cb:name "Storniolo" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor of Anthropology" ; 
     cb:department "Department of Anthropology" ; 
@@ -2928,8 +3257,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/storniolo_judith.ashx?h=150&la=en&w=125&hash=7A8F1DF0A82D8C5C04EDE1F2FF20AFC01CCADEC2" ; 
     cb:phone "215.895.2186" .
 
-<#Kenneth-P.>
+<#Kenneth-Swartz>
     cb:name "Kenneth P. Swartz" ; 
+    cb:name "Swartz" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -2939,6 +3269,7 @@
 
 <#Jose-Tapia>
     cb:name "Jose Tapia" ; 
+    cb:name "Tapia" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Politics" ; 
@@ -2948,6 +3279,7 @@
 
 <#Scott-Tattar>
     cb:name "Scott Tattar" ; 
+    cb:name "Tattar" ; 
     cb:property "faculty" ; 
     cb:title "Instructor of Communication" ; 
     cb:department "Department of Communication" ; 
@@ -2957,6 +3289,7 @@
 
 <#Elizabeth-Thorpe>
     cb:name "Elizabeth Thorpe" ; 
+    cb:name "Thorpe" ; 
     cb:property "faculty" ; 
     cb:title "Coordinator of English Senior Projects; Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2966,6 +3299,7 @@
 
 <#Eva-Thury>
     cb:name "Eva Thury" ; 
+    cb:name "Thury" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -2975,6 +3309,7 @@
 
 <#Monica-Togna>
     cb:name "Monica Togna" ; 
+    cb:name "Togna" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Biology" ; 
@@ -2982,8 +3317,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/monica_togna_01.ashx?h=150&la=en&w=125&hash=17C9F1C176DC081015FDB0007A5541EAFEF6B7DC" ; 
     cb:phone "215.895.2684" .
 
-<#Ambassador-(Ret.)>
+<#Ambassador-Torsella>
     cb:name "Ambassador (Ret.) Joseph M. Torsella" ; 
+    cb:name "Torsella" ; 
     cb:property "faculty" ; 
     cb:title "Distinguished Visiting Fellow" ; 
     cb:department "Center for Public Policy" ; 
@@ -2992,6 +3328,7 @@
 
 <#Somdev-Tyagi>
     cb:name "Somdev Tyagi" ; 
+    cb:name "Tyagi" ; 
     cb:property "faculty" ; 
     cb:title "Associate Department Head for Non-Major Studies, Professor" ; 
     cb:department "Department of Physics" ; 
@@ -3001,6 +3338,7 @@
 
 <#Kristene-Unsworth>
     cb:name "Kristene Unsworth" ; 
+    cb:name "Unsworth" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, College of Computing and Informatics" ; 
     cb:department "Center for Science, Technology and Society" ; 
@@ -3010,6 +3348,7 @@
 
 <#Brigita-Urbanc>
     cb:name "Brigita Urbanc" ; 
+    cb:name "Urbanc" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Physics" ; 
@@ -3019,6 +3358,7 @@
 
 <#Michel-Vallières>
     cb:name "Michel Vallières" ; 
+    cb:name "Vallières" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -3028,6 +3368,7 @@
 
 <#Loÿc-Vanderkluysen>
     cb:name "Loÿc Vanderkluysen" ; 
+    cb:name "Vanderkluysen" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -3037,6 +3378,7 @@
 
 <#David-Velinsky>
     cb:name "David Velinsky" ; 
+    cb:name "Velinsky" ; 
     cb:property "faculty" ; 
     cb:title "Department Head; Professor, Department of Biodiversity, Earth & Environmental Science; VP for Environmental Research; Director and Senior Scientist, Patrick Center for Environmental Research; Section Leader, Biogeochemistry, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -3044,8 +3386,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/velinsky_david_web.ashx?h=150&la=en&w=125&hash=999A92B81BFD7D4E3FBFD2DA1AC46A901FE69879" ; 
     cb:phone "215.299.1147" .
 
-<#Michael-S.>
+<#Michael-Vogeley>
     cb:name "Michael S. Vogeley" ; 
+    cb:name "Vogeley" ; 
     cb:property "faculty" ; 
     cb:title "Associate Department Head for Graduate Studies; Professor" ; 
     cb:department "Department of Physics" ; 
@@ -3053,8 +3396,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/michaelsvogeley.ashx?h=166&la=en&w=125&hash=90A0A12D65A265E074328C0E6D8A5A1C2F80E4B1" ; 
     cb:phone "215.895.2710" .
 
-<#Kathleen-Volk>
+<#Kathleen-Miller>
     cb:name "Kathleen Volk Miller" ; 
+    cb:name "Miller" ; 
     cb:property "faculty" ; 
     cb:title "Director Graduate Program in Publishing; Director, Drexel Publishing Group; Co-Editor, PBQ; Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -3064,14 +3408,16 @@
 
 <#Maria-Volynsky>
     cb:name "Maria Volynsky" ; 
+    cb:name "Volynsky" ; 
     cb:property "faculty" ; 
     cb:title "Associate Director, First-Year Writing Program; ESL Coordinator; Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "mv396@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Maria Volynsky.ashx?h=150&la=en&w=125&hash=A8621AAD2F46053CA63473F06D60EF6C7008BF50" .
 
-<#Peter-A.>
+<#Peter-Wade>
     cb:name "Peter A. Wade" ; 
+    cb:name "Wade" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -3079,8 +3425,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/no-photo-available.ashx?h=150&la=en&w=125&hash=04B0E5393FBA75D76C47C9A9BEC4172E5BCE76B5" ; 
     cb:phone "215.895.2652" .
 
-<#Vaishalee-T.>
+<#Vaishalee-Wadke>
     cb:name "Vaishalee T. Wadke" ; 
+    cb:name "Wadke" ; 
     cb:property "faculty" ; 
     cb:title "Instructor | Teaching" ; 
     cb:department "Department of Mathematics" ; 
@@ -3090,6 +3437,7 @@
 
 <#Anthony-Wambsgans>
     cb:name "Anthony Wambsgans" ; 
+    cb:name "Wambsgans" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -3099,6 +3447,7 @@
 
 <#Scott-Warnock>
     cb:name "Scott Warnock" ; 
+    cb:name "Warnock" ; 
     cb:property "faculty" ; 
     cb:title "Director, Drexel Writing Center; Director, University Writing Program; Associate Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -3106,8 +3455,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/warnock.ashx?h=150&la=en&w=125&hash=88FDCD642B38460549B6101D5B03573FDDB45F8C" ; 
     cb:phone "215.895.0377" .
 
-<#Elizabeth-Burke>
+<#Elizabeth-Watson>
     cb:name "Elizabeth Burke Watson" ; 
+    cb:name "Watson" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of Wetlands Science, Department of Biodiversity, Earth and Environmental Science; Wetlands Section Leader, Patrick Center for the Environment, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -3117,6 +3467,7 @@
 
 <#Robert-Watts>
     cb:name "Robert Watts" ; 
+    cb:name "Watts" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -3124,8 +3475,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/watts.ashx?h=150&la=en&w=125&hash=FE287C258129E7301FE52F674C38D89F1BCF3447" ; 
     cb:phone "215.895.2441" .
 
-<#Jason-D.>
+<#Jason-Weckstein>
     cb:name "Jason D. Weckstein" ; 
+    cb:name "Weckstein" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Associate Curator of Ornithology, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
@@ -3135,6 +3487,7 @@
 
 <#Rachel-Wenrick>
     cb:name "Rachel Wenrick" ; 
+    cb:name "Wenrick" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -3142,8 +3495,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wenrick-rachel.ashx?h=150&la=en&w=125&hash=E34BB941FAD7B181CB387E6AC845C3B1DE2925EF" ; 
     cb:phone "215.895.4364" .
 
-<#Richard-D.>
+<#Richard-White>
     cb:name "Richard D. White" ; 
+    cb:name "White" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -3153,6 +3507,7 @@
 
 <#Vincent-Williams>
     cb:name "Vincent Williams" ; 
+    cb:name "Williams" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -3162,6 +3517,7 @@
 
 <#Jet-Wimp>
     cb:name "Jet Wimp" ; 
+    cb:name "Wimp" ; 
     cb:property "faculty" ; 
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Mathematics" ; 
@@ -3169,6 +3525,7 @@
 
 <#Hugo-Woerdeman>
     cb:name "Hugo Woerdeman" ; 
+    cb:name "Woerdeman" ; 
     cb:property "faculty" ; 
     cb:title "Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -3178,6 +3535,7 @@
 
 <#Ezra-Wood>
     cb:name "Ezra Wood" ; 
+    cb:name "Wood" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "College of Arts and Sciences" ; 
@@ -3185,8 +3543,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wood_evan.ashx?h=150&la=en&w=125&hash=97FC722CA6857668DA1F650382316B0B775C4FE5" ; 
     cb:phone "215.895.1681" .
 
-<#J.-Douglas>
+<#J.-Wright>
     cb:name "J. Douglas Wright" ; 
+    cb:name "Wright" ; 
     cb:property "faculty" ; 
     cb:title "Associate Department Head; Associate Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -3196,6 +3555,7 @@
 
 <#Jun-Xi>
     cb:name "Jun Xi" ; 
+    cb:name "Xi" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Department of Chemistry" ; 
@@ -3203,8 +3563,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/jun_xi.ashx?h=150&la=en&w=125&hash=D3C6F1EA8D2688DFA4C1BBDF57EEA67BD87166D1" ; 
     cb:phone "215.895.2648" .
 
-<#Dennis-G.>
+<#Dennis-Yang>
     cb:name "Dennis G. Yang" ; 
+    cb:name "Yang" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -3214,6 +3575,7 @@
 
 <#Yun-Yoo>
     cb:name "Yun Yoo" ; 
+    cb:name "Yoo" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -3223,6 +3585,7 @@
 
 <#Alden-Young>
     cb:name "Alden Young" ; 
+    cb:name "Young" ; 
     cb:property "faculty" ; 
     cb:title "Director of Africana Studies; Assistant Professor" ; 
     cb:department "Department of History" ; 
@@ -3230,8 +3593,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/alden-young.ashx?h=150&la=en&w=125&hash=A825495251EB79D42F130F52E084961EB557472E" ; 
     cb:phone "215.571.3626" .
 
-<#Thomas-P.-Y.>
+<#Thomas-Yu>
     cb:name "Thomas P.-Y. Yu" ; 
+    cb:name "Yu" ; 
     cb:property "faculty" ; 
     cb:title "Professor Tenure" ; 
     cb:department "Department of Mathematics" ; 
@@ -3241,6 +3605,7 @@
 
 <#Jian-Min-Yuan>
     cb:name "Jian-Min Yuan" ; 
+    cb:name "Yuan" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of Physics" ; 
@@ -3250,6 +3615,7 @@
 
 <#Michael-Yudell>
     cb:name "Michael Yudell" ; 
+    cb:name "Yudell" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, School of Public Health; Affiliated Faculty, Department of History" ; 
     cb:department "Department of History" ; 
@@ -3259,6 +3625,7 @@
 
 <#Jennifer-Yusin>
     cb:name "Jennifer Yusin" ; 
+    cb:name "Yusin" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
@@ -3268,6 +3635,7 @@
 
 <#Robert-Zaller>
     cb:name "Robert Zaller" ; 
+    cb:name "Zaller" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department of History" ; 
@@ -3277,6 +3645,7 @@
 
 <#Sergio-Zefelippo>
     cb:name "Sergio Zefelippo" ; 
+    cb:name "Zefelippo" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -3286,6 +3655,7 @@
 
 <#Asta-Zelenkauskaite>
     cb:name "Asta Zelenkauskaite" ; 
+    cb:name "Zelenkauskaite" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Communication" ; 
@@ -3295,6 +3665,7 @@
 
 <#Yihong-Zhang>
     cb:name "Yihong Zhang" ; 
+    cb:name "Zhang" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Instructor" ; 
     cb:department "Department of Mathematics" ; 
@@ -3302,8 +3673,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/yihong-zhang.ashx?h=150&la=en&w=125&hash=B6A9729A791078AAD52F06439F56AE98BED48679" ; 
     cb:phone "215.895.2668" .
 
-<#Fengqing-Zoe>
+<#Fengqing-Zhang>
     cb:name "Fengqing Zoe Zhang" ; 
+    cb:name "Zhang" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Department of Psychology" ; 
@@ -3313,6 +3685,7 @@
 
 <#Matthew-Ziemke>
     cb:name "Matthew Ziemke" ; 
+    cb:name "Ziemke" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Department of Mathematics" ; 
@@ -3320,8 +3693,9 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/matt-ziemke.ashx?h=180&la=en&w=150&hash=19C1D3EF181DAE462C894BA8C9924429799210E0" ; 
     cb:phone "215.571.3586" .
 
-<#Eric-A.>
+<#Eric-Zillmer>
     cb:name "Eric A. Zillmer" ; 
+    cb:name "Zillmer" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Neuropsychology; Director of Athletics" ; 
     cb:department "Department of Psychology" ; 

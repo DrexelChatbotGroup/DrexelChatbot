@@ -3,6 +3,7 @@
 
 <#Fred-Allen>
     cb:name "Fred Allen" ; 
+    cb:name "Allen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor and Associate Director for Undergraduate Education" ; 
     cb:room "Bossone 703" ; 
@@ -12,6 +13,7 @@
 
 <#Hasan-Ayaz>
     cb:name "Hasan Ayaz" ; 
+    cb:name "Ayaz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
     cb:room "Monell 101" ; 
@@ -21,6 +23,7 @@
 
 <#Sriram-Balasubramanian>
     cb:name "Sriram Balasubramanian" ; 
+    cb:name "Balasubramanian" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:room "Bossone 713" ; 
@@ -30,6 +33,7 @@
 
 <#Kenneth-Barbee>
     cb:name "Kenneth Barbee" ; 
+    cb:name "Barbee" ; 
     cb:property "faculty" ; 
     cb:title "Professor, Senior Associate Dean, and Associate Dean for Research" ; 
     cb:room "Bossone 714" ; 
@@ -39,6 +43,7 @@
 
 <#Paul-Brandt-Rauf>
     cb:name "Paul Brandt-Rauf" ; 
+    cb:name "Brandt-Rauf" ; 
     cb:property "faculty" ; 
     cb:title "Distinguished University Professor and Dean" ; 
     cb:room "Bossone 718-A" ; 
@@ -48,6 +53,7 @@
 
 <#Donald-Buerk>
     cb:name "Donald Buerk" ; 
+    cb:name "Buerk" ; 
     cb:property "faculty" ; 
     cb:title "Research Professor" ; 
     cb:room "LeBow 435-K" ; 
@@ -57,6 +63,7 @@
 
 <#Jaimie-Dougherty>
     cb:name "Jaimie Dougherty" ; 
+    cb:name "Dougherty" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:room "Bossone 707" ; 
@@ -66,6 +73,7 @@
 
 <#Lin-Han>
     cb:name "Lin Han" ; 
+    cb:name "Han" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:room "Bossone 711" ; 
@@ -75,6 +83,7 @@
 
 <#Uri-Hershberg>
     cb:name "Uri Hershberg" ; 
+    cb:name "Hershberg" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:room "Monell 102" ; 
@@ -84,6 +93,7 @@
 
 <#Kurtulus-Izzetoglu>
     cb:name "Kurtulus Izzetoglu" ; 
+    cb:name "Izzetoglu" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
     cb:room "Monell 131" ; 
@@ -93,6 +103,7 @@
 
 <#Meltem-Izzetoglu>
     cb:name "Meltem Izzetoglu" ; 
+    cb:name "Izzetoglu" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
     cb:room "Monell 109" ; 
@@ -102,6 +113,7 @@
 
 <#Dov-Jaron>
     cb:name "Dov Jaron" ; 
+    cb:name "Jaron" ; 
     cb:property "faculty" ; 
     cb:title "Calhoun Distinguished Professor of Engineering in Medicine" ; 
     cb:room "Bossone 704" ; 
@@ -111,6 +123,7 @@
 
 <#Andres-Kriete>
     cb:name "Andres Kriete" ; 
+    cb:name "Kriete" ; 
     cb:property "faculty" ; 
     cb:title "Associate Director for Graduate Studies and Academic Operations, Associate Teaching Professor" ; 
     cb:room "Bossone 718-B" ; 
@@ -120,6 +133,7 @@
 
 <#Steven-Kurtz>
     cb:name "Steven Kurtz" ; 
+    cb:name "Kurtz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
     cb:room "3401 Market St, Suite 345" ; 
@@ -129,6 +143,7 @@
 
 <#Ryszard-Lec>
     cb:name "Ryszard Lec" ; 
+    cb:name "Lec" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:room "Monell 115-A" ; 
@@ -138,6 +153,7 @@
 
 <#Peter-Lewin>
     cb:name "Peter Lewin" ; 
+    cb:name "Lewin" ; 
     cb:property "faculty" ; 
     cb:title "Richard B. Beard Distinguished University Professor" ; 
     cb:room "Bossone 701" ; 
@@ -147,6 +163,7 @@
 
 <#Hualou-Liang>
     cb:name "Hualou Liang" ; 
+    cb:name "Liang" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:room "Monell 103" ; 
@@ -156,6 +173,7 @@
 
 <#Donald-McEachron>
     cb:name "Donald McEachron" ; 
+    cb:name "McEachron" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor and Coordinator for Academic Assessment and Quality Improvement" ; 
     cb:room "Bossone 719" ; 
@@ -165,6 +183,7 @@
 
 <#Karen-Moxon>
     cb:name "Karen Moxon" ; 
+    cb:name "Moxon" ; 
     cb:property "faculty" ; 
     cb:title "Part-time Research Professor" ; 
     cb:room "Bossone 718" ; 
@@ -174,6 +193,7 @@
 
 <#Michael-Neidrauer>
     cb:name "Michael Neidrauer" ; 
+    cb:name "Neidrauer" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:room "Bossone 625" ; 
@@ -183,6 +203,7 @@
 
 <#Banu-Onaral>
     cb:name "Banu Onaral" ; 
+    cb:name "Onaral" ; 
     cb:property "faculty" ; 
     cb:title "H. H. Sun Professor and Senior Advisor to the President, Global Partnerships" ; 
     cb:room "Monell 106" ; 
@@ -192,6 +213,7 @@
 
 <#Kambiz-Pourrezaei>
     cb:name "Kambiz Pourrezaei" ; 
+    cb:name "Pourrezaei" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:room "Monell 105" ; 
@@ -201,6 +223,7 @@
 
 <#Ahmet-Sacan>
     cb:name "Ahmet Sacan" ; 
+    cb:name "Sacan" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:room "Bossone 702" ; 
@@ -210,6 +233,7 @@
 
 <#Joseph-Sarver>
     cb:name "Joseph Sarver" ; 
+    cb:name "Sarver" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:room "Gerri C. LeBow 619" ; 
@@ -219,6 +243,7 @@
 
 <#Rahamim-Seliktar>
     cb:name "Rahamim Seliktar" ; 
+    cb:name "Seliktar" ; 
     cb:property "faculty" ; 
     cb:title "Professor and Vice Director" ; 
     cb:room "Bossone 718-A" ; 
@@ -228,6 +253,7 @@
 
 <#Patricia-Shewokis>
     cb:name "Patricia Shewokis" ; 
+    cb:name "Shewokis" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:room "Bellet Building 523" ; 
@@ -237,6 +263,7 @@
 
 <#Adrian-Shieh>
     cb:name "Adrian Shieh" ; 
+    cb:name "Shieh" ; 
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:room "Bossone 710" ; 
@@ -246,6 +273,7 @@
 
 <#Wan-Shih>
     cb:name "Wan Shih" ; 
+    cb:name "Shih" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:room "Monell 104" ; 
@@ -255,6 +283,7 @@
 
 <#Kara-Spiller>
     cb:name "Kara Spiller" ; 
+    cb:name "Spiller" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:room "Papadakis Integrated Sciences Building (PISB) 316" ; 
@@ -264,6 +293,7 @@
 
 <#Marek-Swoboda>
     cb:name "Marek Swoboda" ; 
+    cb:name "Swoboda" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Teaching Professor" ; 
     cb:room "Bossone 707" ; 
@@ -273,6 +303,7 @@
 
 <#Amy-Throckmorton>
     cb:name "Amy Throckmorton" ; 
+    cb:name "Throckmorton" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:room "Gerri C. LeBow 621" ; 
@@ -280,8 +311,9 @@
     cb:email "alt82@drexel.edu" ; 
     cb:interests "Computational and experimental fluid dynamics; cardiovascular modeling, including transient, fluid-structure interaction, and patient-specific anatomical studies; bench-to-bedside development of medical devices; artificial organs research; prediction and quantification of blood trauma and thrombosis in medical devices; design of therapeutic alternatives for patients with dysfunctional single ventricle physiology; human factors engineering of mechanical circulatory assist devices" .
 
-<#Catherine-von>
+<#Catherine-Reyn>
     cb:name "Catherine von Reyn" ; 
+    cb:name "Reyn" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:room "Bossone 707" ; 
@@ -291,6 +323,7 @@
 
 <#Margaret-Wheatley>
     cb:name "Margaret Wheatley" ; 
+    cb:name "Wheatley" ; 
     cb:property "faculty" ; 
     cb:title "John M. Reid Professor" ; 
     cb:room "LeBow 48-A" ; 
@@ -300,6 +333,7 @@
 
 <#Ming-Xiao>
     cb:name "Ming Xiao" ; 
+    cb:name "Xiao" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:room "New College Building (NCB) 17-115" ; 
@@ -309,6 +343,7 @@
 
 <#Yinghui-Zhong>
     cb:name "Yinghui Zhong" ; 
+    cb:name "Zhong" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:room "Bossone 716" ; 
@@ -318,6 +353,7 @@
 
 <#Leonid-Zubkov>
     cb:name "Leonid Zubkov" ; 
+    cb:name "Zubkov" ; 
     cb:property "faculty" ; 
     cb:title "Research Professor" ; 
     cb:room "Bossone 437" ; 
@@ -327,6 +363,7 @@
 
 <#Jahan-Ara>
     cb:name "Jahan Ara" ; 
+    cb:name "Ara" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:room "jara@drexelmed.edu" ; 
@@ -335,6 +372,7 @@
 
 <#Ibraheem-Badejo>
     cb:name "Ibraheem Badejo" ; 
+    cb:name "Badejo" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Research Professor" ; 
     cb:room "ibadejo@its.jnj.com" ; 
@@ -343,6 +381,7 @@
 
 <#Ellen-Bass>
     cb:name "Ellen Bass" ; 
+    cb:name "Bass" ; 
     cb:property "faculty" ; 
     cb:title "Professor & Head, Department of Information Science" ; 
     cb:room "Rush 426" ; 
@@ -350,8 +389,9 @@
     cb:email "ellen.j.bass@drexel.edu" ; 
     cb:interests "Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering" .
 
-<#Baruch-Ben>
+<#Baruch-Dor>
     cb:name "Baruch Ben Dor" ; 
+    cb:name "Dor" ; 
     cb:property "faculty" ; 
     cb:title "Entrepreneur-in-Residence" ; 
     cb:room "Monell 127" ; 
@@ -361,6 +401,7 @@
 
 <#John-Bethea>
     cb:name "John Bethea" ; 
+    cb:name "Bethea" ; 
     cb:property "faculty" ; 
     cb:title "Professor & Head, Department of Biology" ; 
     cb:room "PISB 123.04" ; 
@@ -370,6 +411,7 @@
 
 <#Michael-Boyce-Jacino>
     cb:name "Michael Boyce-Jacino" ; 
+    cb:name "Boyce-Jacino" ; 
     cb:property "faculty" ; 
     cb:title "Entrepreneur at Large" ; 
     cb:room "michael@netscientific.net" ; 
@@ -378,6 +420,7 @@
 
 <#David-Breen>
     cb:name "David Breen" ; 
+    cb:name "Breen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Computer Science" ; 
     cb:room "University Crossings 143" ; 
@@ -387,6 +430,7 @@
 
 <#Scott-Bunce>
     cb:name "Scott Bunce" ; 
+    cb:name "Bunce" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:room "Eastern Pennsylvania Psychiatric Institute" ; 
@@ -396,6 +440,7 @@
 
 <#Thomas-Caltagirone>
     cb:name "Thomas Caltagirone" ; 
+    cb:name "Caltagirone" ; 
     cb:property "faculty" ; 
     cb:title "Owner, Aptagen, LLC" ; 
     cb:room "tom@aptagen.com" ; 
@@ -404,6 +449,7 @@
 
 <#Roy-Carriker>
     cb:name "Roy Carriker" ; 
+    cb:name "Carriker" ; 
     cb:property "faculty" ; 
     cb:title "Teaching Professor and Director of Technology Entrepreneurship" ; 
     cb:room "rcc47@drexel.edu" ; 
@@ -412,6 +458,7 @@
 
 <#Hao-Cheng>
     cb:name "Hao Cheng" ; 
+    cb:name "Cheng" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor, Materials Science and Engineering" ; 
     cb:room "hcheng@coe.drexel.edu" ; 
@@ -420,6 +467,7 @@
 
 <#Todd-Doehring>
     cb:name "Todd Doehring" ; 
+    cb:name "Doehring" ; 
     cb:property "faculty" ; 
     cb:title "Adjunct Research Professor" ; 
     cb:room "tcd@abemis.com" ; 
@@ -428,6 +476,7 @@
 
 <#Gregory-Fridman>
     cb:name "Gregory Fridman" ; 
+    cb:name "Fridman" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Research Professor" ; 
     cb:room "C. & J. Nyheim Plasma Institute" ; 
@@ -437,6 +486,7 @@
 
 <#Michael-Frohbergh>
     cb:name "Michael Frohbergh" ; 
+    cb:name "Frohbergh" ; 
     cb:property "faculty" ; 
     cb:title "Associate, Biomedical Engineering Practice" ; 
     cb:room "Exponent, 3440 Market Street, Sutie 600" ; 
@@ -444,8 +494,9 @@
     cb:email "mfrohbergh@exponent.com" ; 
     cb:interests "Bone and cartilage tissue engineering" .
 
-<#J.-Yasha>
+<#J.-Kresh>
     cb:name "J. Yasha Kresh" ; 
+    cb:name "Kresh" ; 
     cb:property "faculty" ; 
     cb:title "Professor of Cardiothoracic Surgery, Medicine and Biomedical Engineering; Research Director, Cardiothoracic Surgery and Cardiovascular Biophysics" ; 
     cb:room "245 N. 15th Street, MS 111" ; 
@@ -455,6 +506,7 @@
 
 <#Frank-Lee>
     cb:name "Frank Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Digital Media" ; 
     cb:room "URBN 220" ; 
@@ -464,6 +516,7 @@
 
 <#Peter-Lelkes>
     cb:name "Peter Lelkes" ; 
+    cb:name "Lelkes" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Research Professor and Distinguished Calhoun Scholar" ; 
     cb:room "Professor & Chair, Bioengineering" ; 
@@ -473,6 +526,7 @@
 
 <#Anna-Rodriguez>
     cb:name "Anna Rodriguez" ; 
+    cb:name "Rodriguez" ; 
     cb:property "faculty" ; 
     cb:title "Research Assistant Professor" ; 
     cb:room "3120-24 Market St Ste 100" ; 
@@ -482,6 +536,7 @@
 
 <#Marla-Steinbeck>
     cb:name "Marla Steinbeck" ; 
+    cb:name "Steinbeck" ; 
     cb:property "faculty" ; 
     cb:title "Associate Research Professor" ; 
     cb:room "mjs348@drexel.edu" ; 
@@ -490,6 +545,7 @@
 
 <#Christopher-Yang>
     cb:name "Christopher Yang" ; 
+    cb:name "Yang" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor, Information Science" ; 
     cb:room "3401 Market Street 318" ; 

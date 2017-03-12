@@ -69,9 +69,12 @@ class TtlFileEntry:
     def write_to(self, ttlFile):
         self._fix_strings()
         name = self.name.split()
-        entry  = "<#%s-%s>\n" % (name[0], name[1])
+        firstname = name[0]
+        lastname = name[len(name)-1]
+        entry  = "<#%s-%s>\n" % (firstname, lastname)
         if self.name:
         	entry += '    cb:name "%s" ; \n' % self.name
+        	entry += '    cb:name "%s" ; \n' % lastname
         if self.property:
         	entry += '    cb:property "%s" ; \n' % self.property
         if self.title:

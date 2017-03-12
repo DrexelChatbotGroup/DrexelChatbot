@@ -3,6 +3,7 @@
 
 <#Pramod-Abichandani>
     cb:name "Pramod Abichandani" ; 
+    cb:name "Abichandani" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -14,6 +15,7 @@
 
 <#Marco-Airaudo>
     cb:name "Marco Airaudo" ; 
+    cb:name "Airaudo" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
@@ -25,6 +27,7 @@
 
 <#Murugan-Anandarajan>
     cb:name "Murugan Anandarajan" ; 
+    cb:name "Anandarajan" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Management, Decision Sciences & MIS" ; 
@@ -36,6 +39,7 @@
 
 <#Rolph-Anderson>
     cb:name "Rolph Anderson" ; 
+    cb:name "Anderson" ; 
     cb:property "faculty" ; 
     cb:title "Royal H. Gibson, Sr. Professor" ; 
     cb:department "Marketing" ; 
@@ -47,6 +51,7 @@
 
 <#Trina-Andras>
     cb:name "Trina Andras" ; 
+    cb:name "Andras" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Marketing" ; 
@@ -56,8 +61,9 @@
     cb:phone "Phone" ; 
     cb:interests "Global Marketing, Inter-Organizational, Marketing Strategy" .
 
-<#Orakwue-B.>
+<#Orakwue-Arinze>
     cb:name "Orakwue B. Arinze" ; 
+    cb:name "Arinze" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -68,6 +74,7 @@
 
 <#Patricia-Awerbuch>
     cb:name "Patricia Awerbuch" ; 
+    cb:name "Awerbuch" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
@@ -78,6 +85,7 @@
 
 <#Avijit-Banerjee>
     cb:name "Avijit Banerjee" ; 
+    cb:name "Banerjee" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -89,6 +97,7 @@
 
 <#Richard-Barnett>
     cb:name "Richard Barnett" ; 
+    cb:name "Barnett" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Economics" ; 
@@ -100,6 +109,7 @@
 
 <#David-Becher>
     cb:name "David Becher" ; 
+    cb:name "Becher" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "David Cohen Research Scholar in Finance" ; 
@@ -111,6 +121,7 @@
 
 <#Erik-Benrud>
     cb:name "Erik Benrud" ; 
+    cb:name "Benrud" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Finance" ; 
@@ -122,6 +133,7 @@
 
 <#Hande-Benson>
     cb:name "Hande Benson" ; 
+    cb:name "Benson" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Department Head, Decision Sciences & MIS" ; 
@@ -133,6 +145,7 @@
 
 <#Fred-Bereskin>
     cb:name "Fred Bereskin" ; 
+    cb:name "Bereskin" ; 
     cb:property "faculty" ; 
     cb:title "Visiting Assistant Professor" ; 
     cb:department "Finance" ; 
@@ -143,6 +156,7 @@
 
 <#Sebastien-Bradley>
     cb:name "Sebastien Bradley" ; 
+    cb:name "Bradley" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
@@ -154,6 +168,7 @@
 
 <#Maureen-Breen>
     cb:name "Maureen Breen" ; 
+    cb:name "Breen" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Accounting" ; 
@@ -163,6 +178,7 @@
 
 <#Beth-Buckman>
     cb:name "Beth Buckman" ; 
+    cb:name "Buckman" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "General Business" ; 
@@ -172,6 +188,7 @@
 
 <#Jie-Cai>
     cb:name "Jie Cai" ; 
+    cb:name "Cai" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
@@ -183,6 +200,7 @@
 
 <#Jodi-Cataline>
     cb:name "Jodi Cataline" ; 
+    cb:name "Cataline" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
@@ -193,6 +211,7 @@
 
 <#Oben-Ceryan>
     cb:name "Oben Ceryan" ; 
+    cb:name "Ceryan" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -204,6 +223,7 @@
 
 <#Suresh-Chandran>
     cb:name "Suresh Chandran" ; 
+    cb:name "Chandran" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
@@ -215,6 +235,7 @@
 
 <#Hsihui-Chang>
     cb:name "Hsihui Chang" ; 
+    cb:name "Chang" ; 
     cb:property "faculty" ; 
     cb:title "KPMG Professor of Accounting" ; 
     cb:department "Accounting" ; 
@@ -226,6 +247,7 @@
 
 <#Thomas-Chiang>
     cb:name "Thomas Chiang" ; 
+    cb:name "Chiang" ; 
     cb:property "faculty" ; 
     cb:title "Marshall M. Austin Professor" ; 
     cb:department "Finance" ; 
@@ -235,8 +257,9 @@
     cb:phone "215.895.1745" ; 
     cb:interests "Behavioral Finance, Financial Market Volatility and Risk Management, Financial Panics and Contagion , International Finance, Time Series Analysis of Financial Series" .
 
-<#Hiu-Lam>
+<#Hiu-Choy>
     cb:name "Hiu Lam Choy" ; 
+    cb:name "Choy" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Accounting" ; 
@@ -247,6 +270,7 @@
 
 <#Rodger-Collons>
     cb:name "Rodger Collons" ; 
+    cb:name "Collons" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Legal Studies" ; 
@@ -258,6 +282,7 @@
 
 <#Anthony-Curatola>
     cb:name "Anthony Curatola" ; 
+    cb:name "Curatola" ; 
     cb:property "faculty" ; 
     cb:title "Joseph F. Ford Professor of Accounting" ; 
     cb:department "Accounting" ; 
@@ -269,6 +294,7 @@
 
 <#Dana-D'Angelo>
     cb:name "Dana D'Angelo" ; 
+    cb:name "D'Angelo" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "General Business" ; 
@@ -279,6 +305,7 @@
 
 <#Lauren-D'Innocenzo>
     cb:name "Lauren D'Innocenzo" ; 
+    cb:name "D'Innocenzo" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
@@ -290,6 +317,7 @@
 
 <#Mian-Dai>
     cb:name "Mian Dai" ; 
+    cb:name "Dai" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
@@ -301,6 +329,7 @@
 
 <#Qizhi-Dai>
     cb:name "Qizhi Dai" ; 
+    cb:name "Dai" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -312,6 +341,7 @@
 
 <#Xin-Dai>
     cb:name "Xin Dai" ; 
+    cb:name "Dai" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
@@ -323,6 +353,7 @@
 
 <#Naveen-Daniel>
     cb:name "Naveen Daniel" ; 
+    cb:name "Daniel" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Denis O’Brien Research Scholar in Finance" ; 
@@ -334,6 +365,7 @@
 
 <#Donna-DeCarolis>
     cb:name "Donna DeCarolis" ; 
+    cb:name "DeCarolis" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Dean, Close School of Entrepreneurship" ; 
@@ -345,6 +377,7 @@
 
 <#Patricia-Derrick>
     cb:name "Patricia Derrick" ; 
+    cb:name "Derrick" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
@@ -353,8 +386,9 @@
     cb:email "pcd32@drexel.edu" ; 
     cb:phone "215.571.6779" .
 
-<#Pia-Di>
+<#Pia-Girolamo>
     cb:name "Pia Di Girolamo" ; 
+    cb:name "Girolamo" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
@@ -366,6 +400,7 @@
 
 <#Boryana-Dimitrova>
     cb:name "Boryana Dimitrova" ; 
+    cb:name "Dimitrova" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Marketing" ; 
@@ -377,6 +412,7 @@
 
 <#Daniel-Dorn>
     cb:name "Daniel Dorn" ; 
+    cb:name "Dorn" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
@@ -388,6 +424,7 @@
 
 <#Casey-Dougal>
     cb:name "Casey Dougal" ; 
+    cb:name "Dougal" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Finance" ; 
@@ -398,6 +435,7 @@
 
 <#Michaela-Draganska>
     cb:name "Michaela Draganska" ; 
+    cb:name "Draganska" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Marketing" ; 
@@ -409,6 +447,7 @@
 
 <#Lawrence-Duke>
     cb:name "Lawrence Duke" ; 
+    cb:name "Duke" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Marketing" ; 
@@ -419,6 +458,7 @@
 
 <#Susan-Epstein>
     cb:name "Susan Epstein" ; 
+    cb:name "Epstein" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
@@ -429,6 +469,7 @@
 
 <#Eleanor-Feit>
     cb:name "Eleanor Feit" ; 
+    cb:name "Feit" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
@@ -440,6 +481,7 @@
 
 <#Eliezer-Fich>
     cb:name "Eliezer Fich" ; 
+    cb:name "Fich" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Finance" ; 
@@ -450,6 +492,7 @@
 
 <#Christopher-Finnin>
     cb:name "Christopher Finnin" ; 
+    cb:name "Finnin" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Director of General Business Studies" ; 
@@ -461,6 +504,7 @@
 
 <#Richard-Freedman>
     cb:name "Richard Freedman" ; 
+    cb:name "Freedman" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
@@ -472,6 +516,7 @@
 
 <#Christopher-Gaffney>
     cb:name "Christopher Gaffney" ; 
+    cb:name "Gaffney" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -483,6 +528,7 @@
 
 <#David-Gefen>
     cb:name "David Gefen" ; 
+    cb:name "Gefen" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Provost Distinguished Research Professor" ; 
@@ -494,6 +540,7 @@
 
 <#Andrew-Genetta>
     cb:name "Andrew Genetta" ; 
+    cb:name "Genetta" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Legal Studies" ; 
@@ -504,6 +551,7 @@
 
 <#Hubert-Glover>
     cb:name "Hubert Glover" ; 
+    cb:name "Glover" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
@@ -515,6 +563,7 @@
 
 <#Michael-Gombola>
     cb:name "Michael Gombola" ; 
+    cb:name "Gombola" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Department Head, Finance" ; 
@@ -526,6 +575,7 @@
 
 <#Cuneyt-Gozu>
     cb:name "Cuneyt Gozu" ; 
+    cb:name "Gozu" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
@@ -537,6 +587,7 @@
 
 <#Jeffrey-Greenhaus>
     cb:name "Jeffrey Greenhaus" ; 
+    cb:name "Greenhaus" ; 
     cb:property "faculty" ; 
     cb:title "William A. Mackie Professor of Commerce and Engineering" ; 
     cb:department "Management" ; 
@@ -548,6 +599,7 @@
 
 <#Barbara-Grein>
     cb:name "Barbara Grein" ; 
+    cb:name "Grein" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Department Head, Accounting" ; 
@@ -559,6 +611,7 @@
 
 <#Curtis-Hall>
     cb:name "Curtis Hall" ; 
+    cb:name "Hall" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
@@ -569,6 +622,7 @@
 
 <#Shawkat-Hammoudeh>
     cb:name "Shawkat Hammoudeh" ; 
+    cb:name "Hammoudeh" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
@@ -580,6 +634,7 @@
 
 <#Teresa-Harrison>
     cb:name "Teresa Harrison" ; 
+    cb:name "Harrison" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Associate Dean for Academic Affairs" ; 
@@ -591,6 +646,7 @@
 
 <#Michael-Howley>
     cb:name "Michael Howley" ; 
+    cb:name "Howley" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Marketing" ; 
@@ -602,6 +658,7 @@
 
 <#Yanliu-Huang>
     cb:name "Yanliu Huang" ; 
+    cb:name "Huang" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
@@ -613,6 +670,7 @@
 
 <#Paul-Jensen>
     cb:name "Paul Jensen" ; 
+    cb:name "Jensen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Associate Dean for Graduate and Undergraduate Programs, Dornsife Office for Experiential Learning" ; 
@@ -624,6 +682,7 @@
 
 <#Bang-Jeon>
     cb:name "Bang Jeon" ; 
+    cb:name "Jeon" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
@@ -635,6 +694,7 @@
 
 <#Stephen-Joyce>
     cb:name "Stephen Joyce" ; 
+    cb:name "Joyce" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Economics" ; 
@@ -645,6 +705,7 @@
 
 <#Robert-Keidel>
     cb:name "Robert Keidel" ; 
+    cb:name "Keidel" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Management" ; 
@@ -656,6 +717,7 @@
 
 <#Natalya-Khimich>
     cb:name "Natalya Khimich" ; 
+    cb:name "Khimich" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
@@ -667,6 +729,7 @@
 
 <#Seung-Lae-Kim>
     cb:name "Seung-Lae Kim" ; 
+    cb:name "Kim" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -678,6 +741,7 @@
 
 <#Stacy-Kline>
     cb:name "Stacy Kline" ; 
+    cb:name "Kline" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Accounting" ; 
@@ -689,6 +753,7 @@
 
 <#Daniel-Korschun>
     cb:name "Daniel Korschun" ; 
+    cb:name "Korschun" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Stephen Cozen Research Scholar in Marketing" ; 
@@ -700,6 +765,7 @@
 
 <#Amy-Kratchman>
     cb:name "Amy Kratchman" ; 
+    cb:name "Kratchman" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
@@ -710,6 +776,7 @@
 
 <#Rosalie-Kreider>
     cb:name "Rosalie Kreider" ; 
+    cb:name "Kreider" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Department Head" ; 
@@ -721,6 +788,7 @@
 
 <#Andre-Kurmann>
     cb:name "Andre Kurmann" ; 
+    cb:name "Kurmann" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
@@ -732,6 +800,7 @@
 
 <#David-Kurz>
     cb:name "David Kurz" ; 
+    cb:name "Kurz" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Management" ; 
@@ -743,6 +812,7 @@
 
 <#Hyokjin-Kwak>
     cb:name "Hyokjin Kwak" ; 
+    cb:name "Kwak" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Marketing" ; 
@@ -754,6 +824,7 @@
 
 <#Christopher-Laincz>
     cb:name "Christopher Laincz" ; 
+    cb:name "Laincz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Director, Ph.D. Program" ; 
@@ -765,6 +836,7 @@
 
 <#Julia-LaRosa>
     cb:name "Julia LaRosa" ; 
+    cb:name "LaRosa" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "General Business" ; 
@@ -775,6 +847,7 @@
 
 <#Jeongsik-Lee>
     cb:name "Jeongsik Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
@@ -786,6 +859,7 @@
 
 <#Jinwook-Lee>
     cb:name "Jinwook Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -797,6 +871,7 @@
 
 <#Johnny-Lee>
     cb:name "Johnny Lee" ; 
+    cb:name "Lee" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Accounting" ; 
@@ -808,6 +883,7 @@
 
 <#Benjamin-Lev>
     cb:name "Benjamin Lev" ; 
+    cb:name "Lev" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Trustee Professor" ; 
@@ -819,6 +895,7 @@
 
 <#Merrill-Liechty>
     cb:name "Merrill Liechty" ; 
+    cb:name "Liechty" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -830,6 +907,7 @@
 
 <#Frank-Linnehan>
     cb:name "Frank Linnehan" ; 
+    cb:name "Linnehan" ; 
     cb:property "faculty" ; 
     cb:title "R. John Chapel Jr., Dean" ; 
     cb:department "Dean" ; 
@@ -841,6 +919,7 @@
 
 <#Chuanren-Liu>
     cb:name "Chuanren Liu" ; 
+    cb:name "Liu" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -852,6 +931,7 @@
 
 <#Yu-Chieh-Lo>
     cb:name "Yu-Chieh Lo" ; 
+    cb:name "Lo" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
@@ -863,6 +943,7 @@
 
 <#Michelle-Lowry>
     cb:name "Michelle Lowry" ; 
+    cb:name "Lowry" ; 
     cb:property "faculty" ; 
     cb:title "TD Bank Endowed Professor" ; 
     cb:department "Finance" ; 
@@ -873,6 +954,7 @@
 
 <#Dali-Ma>
     cb:name "Dali Ma" ; 
+    cb:name "Ma" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
@@ -884,6 +966,7 @@
 
 <#Vibhas-Madan>
     cb:name "Vibhas Madan" ; 
+    cb:name "Madan" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Director, School of Economics" ; 
@@ -895,6 +978,7 @@
 
 <#Hazem-Maragah>
     cb:name "Hazem Maragah" ; 
+    cb:name "Maragah" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -906,6 +990,7 @@
 
 <#Michele-Masterfano>
     cb:name "Michele Masterfano" ; 
+    cb:name "Masterfano" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
@@ -917,6 +1002,7 @@
 
 <#Mary-Mawritz>
     cb:name "Mary Mawritz" ; 
+    cb:name "Mawritz" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
@@ -928,6 +1014,7 @@
 
 <#Roger-McCain>
     cb:name "Roger McCain" ; 
+    cb:name "McCain" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
@@ -939,6 +1026,7 @@
 
 <#Bruce-McCullough>
     cb:name "Bruce McCullough" ; 
+    cb:name "McCullough" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -950,6 +1038,7 @@
 
 <#Irina-Murtazashvili>
     cb:name "Irina Murtazashvili" ; 
+    cb:name "Murtazashvili" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
@@ -961,6 +1050,7 @@
 
 <#Rajiv-Nag>
     cb:name "Rajiv Nag" ; 
+    cb:name "Nag" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
@@ -972,6 +1062,7 @@
 
 <#Vadake-Narayanan>
     cb:name "Vadake Narayanan" ; 
+    cb:name "Narayanan" ; 
     cb:property "faculty" ; 
     cb:title "Deloitte Touche Jones Stubbs Professor" ; 
     cb:department "Management" ; 
@@ -983,6 +1074,7 @@
 
 <#Gordian-Ndubizu>
     cb:name "Gordian Ndubizu" ; 
+    cb:name "Ndubizu" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Accounting" ; 
@@ -993,6 +1085,7 @@
 
 <#Edward-Nelling>
     cb:name "Edward Nelling" ; 
+    cb:name "Nelling" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Finance" ; 
@@ -1004,6 +1097,7 @@
 
 <#Gregory-Nini>
     cb:name "Gregory Nini" ; 
+    cb:name "Nini" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Finance" ; 
@@ -1015,6 +1109,7 @@
 
 <#Maria-Olivero>
     cb:name "Maria Olivero" ; 
+    cb:name "Olivero" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
@@ -1026,6 +1121,7 @@
 
 <#Eydis-Olsen>
     cb:name "Eydis Olsen" ; 
+    cb:name "Olsen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Economics" ; 
@@ -1036,6 +1132,7 @@
 
 <#Neal-Orkin>
     cb:name "Neal Orkin" ; 
+    cb:name "Orkin" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
@@ -1047,6 +1144,7 @@
 
 <#Duri-Park>
     cb:name "Duri Park" ; 
+    cb:name "Park" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
@@ -1058,6 +1156,7 @@
 
 <#Haemin-Park>
     cb:name "Haemin Park" ; 
+    cb:name "Park" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Management" ; 
@@ -1069,6 +1168,7 @@
 
 <#Fariborz-Partovi>
     cb:name "Fariborz Partovi" ; 
+    cb:name "Partovi" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Professor of Operations Management" ; 
@@ -1080,6 +1180,7 @@
 
 <#Natalie-Pedersen>
     cb:name "Natalie Pedersen" ; 
+    cb:name "Pedersen" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Legal Studies" ; 
@@ -1090,6 +1191,7 @@
 
 <#Tristan-Potter>
     cb:name "Tristan Potter" ; 
+    cb:name "Potter" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
@@ -1101,6 +1203,7 @@
 
 <#Bernhard-Reichert>
     cb:name "Bernhard Reichert" ; 
+    cb:name "Reichert" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
@@ -1112,6 +1215,7 @@
 
 <#Matthew-Reindorp>
     cb:name "Matthew Reindorp" ; 
+    cb:name "Reindorp" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -1123,6 +1227,7 @@
 
 <#Christian-Resick>
     cb:name "Christian Resick" ; 
+    cb:name "Resick" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
@@ -1134,6 +1239,7 @@
 
 <#Stanley-Ridgley>
     cb:name "Stanley Ridgley" ; 
+    cb:name "Ridgley" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Management" ; 
@@ -1145,6 +1251,7 @@
 
 <#James-Rinier>
     cb:name "James Rinier" ; 
+    cb:name "Rinier" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Accounting" ; 
@@ -1154,6 +1261,7 @@
 
 <#Eric-Rios>
     cb:name "Eric Rios" ; 
+    cb:name "Rios" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "General Business" ; 
@@ -1163,6 +1271,7 @@
 
 <#Patricia-Robak>
     cb:name "Patricia Robak" ; 
+    cb:name "Robak" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
@@ -1174,6 +1283,7 @@
 
 <#Bert-Rosenbloom>
     cb:name "Bert Rosenbloom" ; 
+    cb:name "Rosenbloom" ; 
     cb:property "faculty" ; 
     cb:title "J. Donald Rauth Professor of Marketing Management" ; 
     cb:department "Marketing" ; 
@@ -1185,6 +1295,7 @@
 
 <#Diana-Sandberg>
     cb:name "Diana Sandberg" ; 
+    cb:name "Sandberg" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Finance" ; 
@@ -1195,6 +1306,7 @@
 
 <#Matthew-Schneider>
     cb:name "Matthew Schneider" ; 
+    cb:name "Schneider" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -1206,6 +1318,7 @@
 
 <#Konstantinos-Serfes>
     cb:name "Konstantinos Serfes" ; 
+    cb:name "Serfes" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Economics" ; 
@@ -1217,6 +1330,7 @@
 
 <#Ricardo-Serrano-Padial>
     cb:name "Ricardo Serrano-Padial" ; 
+    cb:name "Serrano-Padial" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Economics" ; 
@@ -1228,6 +1342,7 @@
 
 <#Samir-Shah>
     cb:name "Samir Shah" ; 
+    cb:name "Shah" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Drexel University’s Provost Fellow India Partnerships" ; 
@@ -1239,6 +1354,7 @@
 
 <#Wenjing-Shen>
     cb:name "Wenjing Shen" ; 
+    cb:name "Shen" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -1250,6 +1366,7 @@
 
 <#Steven-Sher>
     cb:name "Steven Sher" ; 
+    cb:name "Sher" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Legal Studies" ; 
@@ -1260,6 +1377,7 @@
 
 <#Prashant-Srivastava>
     cb:name "Prashant Srivastava" ; 
+    cb:name "Srivastava" ; 
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Marketing" ; 
@@ -1271,6 +1389,7 @@
 
 <#Mark-Stehr>
     cb:name "Mark Stehr" ; 
+    cb:name "Stehr" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Director, School of Economics" ; 
@@ -1282,6 +1401,7 @@
 
 <#Rajneesh-Suri>
     cb:name "Rajneesh Suri" ; 
+    cb:name "Suri" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Associate Dean for Research" ; 
@@ -1293,6 +1413,7 @@
 
 <#Srinivasan-Swaminathan>
     cb:name "Srinivasan Swaminathan" ; 
+    cb:name "Swaminathan" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Marketing" ; 
@@ -1304,6 +1425,7 @@
 
 <#Constantinos-Syropoulos>
     cb:name "Constantinos Syropoulos" ; 
+    cb:name "Syropoulos" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Trustee Professor of International Economics" ; 
@@ -1315,6 +1437,7 @@
 
 <#Samuel-Szewczyk>
     cb:name "Samuel Szewczyk" ; 
+    cb:name "Szewczyk" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Finance" ; 
@@ -1325,6 +1448,7 @@
 
 <#George-Tsetsekos>
     cb:name "George Tsetsekos" ; 
+    cb:name "Tsetsekos" ; 
     cb:property "faculty" ; 
     cb:title "George B. Francis Professor" ; 
     cb:department "Finance" ; 
@@ -1336,6 +1460,7 @@
 
 <#Daniel-Tzabbar>
     cb:name "Daniel Tzabbar" ; 
+    cb:name "Tzabbar" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Management" ; 
@@ -1347,6 +1472,7 @@
 
 <#Mark-Vargus>
     cb:name "Mark Vargus" ; 
+    cb:name "Vargus" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Accounting" ; 
@@ -1358,6 +1484,7 @@
 
 <#Ralph-Walkling>
     cb:name "Ralph Walkling" ; 
+    cb:name "Walkling" ; 
     cb:property "faculty" ; 
     cb:title "Christopher and Mary Stratakis Professor in Corporate Governance and Accountability" ; 
     cb:department "Founder, Center of Corporate Governance" ; 
@@ -1369,6 +1496,7 @@
 
 <#Chen-Wang>
     cb:name "Chen Wang" ; 
+    cb:name "Wang" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Marketing" ; 
@@ -1380,6 +1508,7 @@
 
 <#Min-Wang>
     cb:name "Min Wang" ; 
+    cb:name "Wang" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -1391,6 +1520,7 @@
 
 <#Matthew-Weinberg>
     cb:name "Matthew Weinberg" ; 
+    cb:name "Weinberg" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
@@ -1402,6 +1532,7 @@
 
 <#Joan-Weiner>
     cb:name "Joan Weiner" ; 
+    cb:name "Weiner" ; 
     cb:property "faculty" ; 
     cb:title "Professor" ; 
     cb:department "Management" ; 
@@ -1412,6 +1543,7 @@
 
 <#Jennifer-Wright>
     cb:name "Jennifer Wright" ; 
+    cb:name "Wright" ; 
     cb:property "faculty" ; 
     cb:title "Clinical Professor" ; 
     cb:department "Assistant Department Head, Accounting" ; 
@@ -1422,6 +1554,7 @@
 
 <#Chaojiang-Wu>
     cb:name "Chaojiang Wu" ; 
+    cb:name "Wu" ; 
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
@@ -1433,6 +1566,7 @@
 
 <#Yoto-Yotov>
     cb:name "Yoto Yotov" ; 
+    cb:name "Yotov" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Economics" ; 
@@ -1444,6 +1578,7 @@
 
 <#Jonathan-Ziegert>
     cb:name "Jonathan Ziegert" ; 
+    cb:name "Ziegert" ; 
     cb:property "faculty" ; 
     cb:title "Associate Professor" ; 
     cb:department "Assistant Department Head, Management" ; 
