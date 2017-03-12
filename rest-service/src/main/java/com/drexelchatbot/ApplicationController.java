@@ -24,32 +24,37 @@ public class ApplicationController {
 		log.info("Processing query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
 
 		Process cmdProc = null;
+		String line = null;
+		String ret = null;
 		try {
-			cmdProc = Runtime.getRuntime().exec(new String[] { "python", "./../chatbot/main.py", query});
+			cmdProc = Runtime.getRuntime()
+					.exec(new String[] { "python3", "./../chatbot/main.py", "\"" + query + "\"", "2>/dev/null" });
 
 			BufferedReader stdoutReader = new BufferedReader(new InputStreamReader(cmdProc.getInputStream()));
-			String line;
 			while ((line = stdoutReader.readLine()) != null) {
 				// process standard output here
 				System.out.println(line);
+				if (line != null) {
+					ret += line;
+				}
 			}
 
 			BufferedReader stderrReader = new BufferedReader(new InputStreamReader(cmdProc.getErrorStream()));
 			while ((line = stderrReader.readLine()) != null) {
 				// process standard error here
-				System.out.println(line);
+				// System.out.println(line);
 			}
 			cmdProc.waitFor();
 			int retValue = cmdProc.exitValue();
 			cmdProc.destroy();
 		} catch (IOException | InterruptedException e) {
-			
+
 			e.printStackTrace();
 		}
 
 		log.info("Returning for query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
 
-		return new QueryResponse(String.format("Responding to query: '" + query + "'"));
+		return new QueryResponse(String.format(ret));
 	}
 
 }

@@ -101,7 +101,7 @@ function sendMessage() {
 		success:function(a){
 			console.log(a);
 			$('.message.loading').remove();
-   			$('<div class="message new"><figure class="avatar"><img src="../drexel.png" /></figure>' + a.content + '</div>').appendTo($('.mCSB_container')).addClass('new');
+   			$('<div class="message new"><figure class="avatar"><img src="../drexel.png" /></figure>' + a.content.replace("null", "") + '</div>').appendTo($('.mCSB_container')).addClass('new');
     		setDate();
     		updateScrollbar();
     		enableInput();
