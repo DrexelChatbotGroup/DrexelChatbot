@@ -5,23 +5,31 @@ import gac
 import gap
 from database import stardog
 import sys
+import logging
 
 def _main(question):
     try :
         db = stardog.StardogDB("chatbotDB")
-        answer = "genericAnswers.txt"
-        config = "trained_model.m5"
+        answer = "/home/DrexelChatbot/chatbot/genericAnswers.txt"
+        config = "/home/DrexelChatbot/chatbot/trained_model.m5"
+        logfile = "/home/DrexelChatbot/chatbot/chatbot.log"
+        
+        logging.basicConfig(filename=logfile, level=logging.DEBUG,
+        filemode='w')
+        logging.info('Recieved input question: ' + question)
 
         gqc_object = gqc.GenericQuestionConstruction(question, db)
         genericquestion = gqc_object.getgenericquestion()
-        # print(genericquestion.paddedquestion)
+        logging.info('Generic question: ' + genericquestion.paddedquestion)
 
         gac_object = gac.GenericAnswerConstruction(config, answer)
         genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
-        # print(genericanswer.getAnswer())
+        logging.info('Generic answer: ' + genericanswer.getAnswer())
+        logging.info('Generic answer: ' + genericanswer.getQuery())
 
         gap_object = gap.GenericAnswerPopulation(genericanswer, db)
         answer = gap_object.populate(genericquestion.rep_list)
+        logging.info('Final answer: ' + answer)
         
         print(answer)
     

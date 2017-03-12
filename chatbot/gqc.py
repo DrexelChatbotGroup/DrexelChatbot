@@ -1,6 +1,7 @@
 from postag import NLTKPOSTag
 from genericquestion import GenericQuestion
 from errors import BadQuestionException
+import logging
 
 class GenericQuestionConstruction():
     def __init__(self, question, db):
@@ -13,10 +14,13 @@ class GenericQuestionConstruction():
         #note: the library has been seen to have issue with non-English names (e.g.
         #'Yuan An'). Also, it considers 'Does' to be a proper noun
         self.tag_list = postag_class.getpostag(self.question)
+        logging.debug("tag_list: " + str(self.tag_list))
         rep_list = self.findrepresentation()
+        logging.debug("rep_list: " + str(rep_list))
 
         #if database does not have information about nouns in the question, stop 
         if len(rep_list) == 0:
+            logging.warning("rep_list size 0, throwing exception")
             raise BadQuestionException()
 
         #replace nouns with their genericRepresentations
@@ -73,6 +77,8 @@ class GenericQuestionConstruction():
             }
             """ % noun
             rep = self.db.query(query_string)
+            logging.debug("noun: " + str(noun))
+            logging.debug("rep: " + str(rep))
 
             #for testing purpose
             #rep = "**test**"

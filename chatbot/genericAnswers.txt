@@ -1,5 +1,5 @@
 Error,null
-(faculty)'s office is (room) in (building).,prefix cb: <http://drexelchatbot.com/rdf/> select ?room ?building where { ?s cb:name "(faculty)" . ?s cb:room ?room . ?s cb:building ?building}
+(faculty)'s office is (room).,prefix cb: <http://drexelchatbot.com/rdf/> select ?room where { ?s cb:name "(faculty)" . ?s cb:room ?room }
 (faculty)'s email address is (email).,prefix cb: <http://drexelchatbot.com/rdf/> select ?email where { ?s cb:name "(faculty)" . ?s cb:email ?email }
 (room) in (building) is (faculty)'s office.,prefix cb: <http://drexelchatbot.com/rdf/> select ?name where { ?s cb:name ?name . ?s cb:room "(room)" . ?s cb:building "(building)" }
 (faculty)'s education is as follows: (education).,prefix cb: <http://drexelchatbot.com/rdf/> select ?education where { ?s cb:name "(faculty)" . ?s cb:education ?education}
@@ -10,3 +10,4 @@ this is (faculty)'s bio: (bio),prefix cb: <http://drexelchatbot.com/rdf/> select
 (faculty)'s research interests are as follows: (interests).,prefix cb: <http://drexelchatbot.com/rdf/> select ?interests where { ?s cb:name "(faculty)" . ?s cb:interests ?interests}
 (faculty) is a (title).,prefix cb: <http://drexelchatbot.com/rdf/> select ?title where { ?s cb:name "(faculty)" . ?s cb:title ?title}
 (faculty)'s phone number is (phone).,prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(faculty)" . ?s cb:phone ?phone }
+(faculty)'s office is (room) in (building).,prefix cb: <http://drexelchatbot.com/rdf/> select ?room ?building where { ?s cb:name "(faculty)" . ?s cb:room ?room . ?s cb:building ?building}

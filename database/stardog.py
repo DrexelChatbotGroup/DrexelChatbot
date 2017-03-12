@@ -57,7 +57,7 @@ if __name__ == "__main__":
     """
 
     sdb = StardogDB("chatbotDB")
-    print(sdb.query(test))
+    #print(sdb.query(test))
 
     test2 = """
     prefix cb: <http://drexelchatbot.com/rdf/>
@@ -69,7 +69,7 @@ if __name__ == "__main__":
         ?s cb:email ?email .
     }
     """
-    print(sdb.query(test2))
+    #print(sdb.query(test2))
 
     test3 = """
     prefix cb: <http://drexelchatbot.com/rdf/>
@@ -79,6 +79,17 @@ if __name__ == "__main__":
         ?s cb:name "NOT REAL LOSER" .
         ?s cb:phone ?phone .
         ?s cb:email ?email .
+    }
+    """
+    #print(sdb.query(test3))
+
+    test3 = """
+    prefix cb: <http://drexelchatbot.com/rdf/>
+    SELECT ?p ?o
+    WHERE
+    {
+        ?s cb:name "Mongan" .
+	?s ?p ?o .
     }
     """
     print(sdb.query(test3))
