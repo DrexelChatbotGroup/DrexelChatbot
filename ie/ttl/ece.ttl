@@ -1,0 +1,323 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Suryadevara-Basavaiah>
+    cb:name "Suryadevara Basavaiah" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "Bossone 412" ; 
+    cb:email "basu@coe.drexel.edu" ; 
+    cb:phone "215-895-6922" .
+
+<#Tom-Chmielewski>
+    cb:name "Tom Chmielewski" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching ProfessorDrexel Engineering Core Curriculum" ; 
+    cb:room "Bossone 413E" ; 
+    cb:email "tchmielewski@coe.drexel.edu" ; 
+    cb:phone "215-895-2254" .
+
+<#Andrew-Cohen>
+    cb:name "Andrew Cohen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 110" ; 
+    cb:email "acohen@coe.drexel.edu" ; 
+    cb:phone "215-571-4358" .
+
+<#Fernand-Cohen>
+    cb:name "Fernand Cohen" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 410" ; 
+    cb:email "fscohen@coe.drexel.edu" ; 
+    cb:phone "215-895-1420" .
+
+<#Kapil-R.>
+    cb:name "Kapil R. Dandekar" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Electrical and Computer EngineeringAssociate Dean for Research and Graduate Studies, College of Engineering" ; 
+    cb:room "LeBow 239" ; 
+    cb:email "dandekar@coe.drexel.edu" ; 
+    cb:phone "215-895-2228" .
+
+<#Afshin-Daryoush>
+    cb:name "Afshin Daryoush" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 501" ; 
+    cb:email "daryoush@coe.drexel.edu" ; 
+    cb:phone "215-895-2362" .
+
+<#Jaudelice-Cavalcante>
+    cb:name "Jaudelice Cavalcante de Oliveira" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate ProfessorAssociate Department Head of Undergraduate Affairs" ; 
+    cb:room "Bossone 313b" ; 
+    cb:email "jau@coe.drexel.edu" ; 
+    cb:phone "215-895-2248" .
+
+<#Bruce-Eisenstein>
+    cb:name "Bruce Eisenstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Arthur J. Rowland Professor, Electrical and Computer Engineering" ; 
+    cb:room "Bossone 513b" ; 
+    cb:email "eisens@coe.drexel.edu" ; 
+    cb:phone "215-895-2359" .
+
+<#Robert-Fischl>
+    cb:name "Robert Fischl" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:room "Bossone 513b" ; 
+    cb:email "fischl@coe.drexel.edu" ; 
+    cb:phone "215-895-2359" .
+
+<#Adam-Fontecchio>
+    cb:name "Adam Fontecchio" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Electrical and Computer EngineeringVice Dean, Graduate College.Director, Center for the Advancement ofSTEM Teaching and Learning Excellence (CASTLE)." ; 
+    cb:room "One Drexel Plaza, Room 231" ; 
+    cb:email "fontecchio@coe.drexel.edu" ; 
+    cb:phone "215-895-2047" .
+
+<#Gary-Friedman>
+    cb:name "Gary Friedman" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 510" ; 
+    cb:email "gary@coe.drexel.edu" ; 
+    cb:phone "215-895-2108" .
+
+<#Eli-Fromm>
+    cb:name "Eli Fromm" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Electrical and Computer EngineeringLeRoy A Brothers Professor, Educational Research & Development" ; 
+    cb:room "Bossone 513b" ; 
+    cb:email "fromm@drexel.edu" ; 
+    cb:phone "215-895-2201" .
+
+<#Edwin-Gerber>
+    cb:name "Edwin Gerber" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 411" ; 
+    cb:email "gerber@coe.drexel.edu" ; 
+    cb:phone "215-895-2255" .
+
+<#Allon-Guez>
+    cb:name "Allon Guez" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 101" ; 
+    cb:email "guezal@drexel.edu" ; 
+    cb:phone "215-895-1646" .
+
+<#Peter-Herczfeld>
+    cb:name "Peter Herczfeld" ; 
+    cb:property "faculty" ; 
+    cb:title "Lester A Kraus Professor" ; 
+    cb:room "Bossone 511" ; 
+    cb:email "herczfeld@coe.drexel.edu" ; 
+    cb:phone "215-895-2256" .
+
+<#Leonid-Hrebien>
+    cb:name "Leonid Hrebien" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 310" ; 
+    cb:email "lhrebien@coe.drexel.edu" ; 
+    cb:phone "215-895-6755" .
+
+<#Paul-Kalata>
+    cb:name "Paul Kalata" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 102" ; 
+    cb:email "kalata@coe.drexel.edu" ; 
+    cb:phone "215-895-2251" .
+
+<#Nagarajan-Kandasamy>
+    cb:name "Nagarajan Kandasamy" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate ProfessorAssociate Department Head for Graduate Affairs" ; 
+    cb:room "Bossone 603" ; 
+    cb:email "kandasamy@drexel.edu" ; 
+    cb:phone "215-895-1996" .
+
+<#Youngmoo-Kim>
+    cb:name "Youngmoo Kim" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate ProfessorDirector, Expressive and Creative Interactive Technologies (ExCITe) Center" ; 
+    cb:room "One Drexel Plaza, Room 230" ; 
+    cb:email "ykim@drexel.edu" ; 
+    cb:phone "215-895-5973" .
+
+<#Timothy-Kurzweg>
+    cb:name "Timothy Kurzweg" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "One Drexel Plaza, Room 234" ; 
+    cb:email "kurzweg@coe.drexel.edu" ; 
+    cb:phone "215-895-0549" .
+
+<#Karen-Miu>
+    cb:name "Karen Miu" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 413a" ; 
+    cb:email "miu@coe.drexel.edu" ; 
+    cb:phone "215-895-6207" .
+
+<#Bahram-Nabet>
+    cb:name "Bahram Nabet" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 502" ; 
+    cb:email "bnabet@coe.drexel.edu" ; 
+    cb:phone "215-895-6761" .
+
+<#Prawat-Nagvajara>
+    cb:name "Prawat Nagvajara" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 103" ; 
+    cb:email "nagvajara@coe.drexel.edu" ; 
+    cb:phone "215-895-2378" .
+
+<#Vasileios-Nasis>
+    cb:name "Vasileios Nasis" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "3101 Market St, Room 252b" ; 
+    cb:email "vtn23@drexel.edu" ; 
+    cb:phone "215-895-2257" .
+
+<#Dagmar-E.>
+    cb:name "Dagmar E. Niebur" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 402" ; 
+    cb:email "niebur@coe.drexel.edu" ; 
+    cb:phone "215-895-6749" .
+
+<#Chika-Nwankpa>
+    cb:name "Chika Nwankpa" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head, Professor" ; 
+    cb:room "Bossone 313a" ; 
+    cb:email "nwankpa@coe.drexel.edu" ; 
+    cb:phone "215-895-0364" .
+
+<#Christopher-Peters>
+    cb:name "Christopher Peters" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "Bossone 512" ; 
+    cb:email "cpeters@coe.drexel.edu" ; 
+    cb:phone "215-895-6604" .
+
+<#Karkal-Prabhu>
+    cb:name "Karkal Prabhu" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "Bossone 612" ; 
+    cb:email "Karkal.S.Prabhu@drexel.edu" ; 
+    cb:phone "215-895-6243" .
+
+<#Gail-L.>
+    cb:name "Gail L. Rosen" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 403" ; 
+    cb:email "gailr@coe.drexel.edu" ; 
+    cb:phone "215-895-0400" .
+
+<#Ioannis-Savidis>
+    cb:name "Ioannis Savidis" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "Bossone 610" ; 
+    cb:email "ISavidis@coe.drexel.edu" ; 
+    cb:phone "215-571-4584" .
+
+<#Kevin-J.>
+    cb:name "Kevin J. Scoles" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 413c" ; 
+    cb:email "kscoles@coe.drexel.edu" ; 
+    cb:phone "215-895-2259" .
+
+<#Harish-Sethu>
+    cb:name "Harish Sethu" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 611" ; 
+    cb:email "sethu@drexel.edu" ; 
+    cb:phone "215-895-5876" .
+
+<#James-Shackleford>
+    cb:name "James Shackleford" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "Bossone 211" ; 
+    cb:email "shack@drexel.edu" ; 
+    cb:phone "215-571-4269" .
+
+<#P.-Mohana>
+    cb:name "P. Mohana Shankar" ; 
+    cb:property "faculty" ; 
+    cb:title "Allen Rothwarf Professor" ; 
+    cb:room "Bossone 311" ; 
+    cb:email "pshankar@coe.drexel.edu" ; 
+    cb:phone "215-895-6632" .
+
+<#Matthew-Stamm>
+    cb:name "Matthew Stamm" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "Bossone 413g" ; 
+    cb:email "MStamm@coe.drexel.edu" ; 
+    cb:phone "215-895-5894" .
+
+<#Baris-Taskin>
+    cb:name "Baris Taskin" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 413F" ; 
+    cb:email "taskin@coe.drexel.edu" ; 
+    cb:phone "215-895-5972" .
+
+<#Lazar-Trachtenberg>
+    cb:name "Lazar Trachtenberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 111" ; 
+    cb:email "trachtenberg@coe.drexel.edu" ; 
+    cb:phone "215-895-2282" .
+
+<#Oleh-Tretiak>
+    cb:name "Oleh Tretiak" ; 
+    cb:property "faculty" ; 
+    cb:title "Emeritus Professor" ; 
+    cb:room "Bossone 413j" ; 
+    cb:email "tretiak@drexel.edu" ; 
+    cb:phone "215-895-2214" .
+
+<#John-MacLaren>
+    cb:name "John MacLaren Walsh" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Bossone 203" ; 
+    cb:email "jwalsh@coe.drexel.edu" ; 
+    cb:phone "215-895-2360" .
+
+<#Steven-Weber>
+    cb:name "Steven Weber" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Bossone 413b" ; 
+    cb:email "sweber@coe.drexel.edu" ; 
+    cb:phone "215-571-3579" .
+
