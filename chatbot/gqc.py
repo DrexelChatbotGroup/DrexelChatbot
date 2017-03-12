@@ -54,6 +54,7 @@ class GenericQuestionConstruction():
                         if tag[:3].lower() == 'nnp':
                             noun = noun + ' ' + word
                         else:
+                            count = count - 1
                             break
                 noun_list.append(noun)
             count = count + 1

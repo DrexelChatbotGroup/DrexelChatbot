@@ -36,5 +36,8 @@ def _main(question):
     except ChatbotException as ex:
         ErrorHandler.handle(ex)
 
+    except Exception:
+        print('Our system encountered some error. Hope our future bosses will not see this.')
+
 if __name__ == "__main__":
     _main(sys.argv[1])
