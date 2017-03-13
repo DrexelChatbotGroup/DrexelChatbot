@@ -25,7 +25,7 @@ public class ApplicationController {
 
 		Process cmdProc = null;
 		String line = null;
-		String ret = null;
+		String ret = "";
 		try {
 			cmdProc = Runtime.getRuntime()
 					.exec(new String[] { "python3", "./../chatbot/main.py", "\"" + query + "\"", "2>/dev/null" });
@@ -42,7 +42,7 @@ public class ApplicationController {
 			BufferedReader stderrReader = new BufferedReader(new InputStreamReader(cmdProc.getErrorStream()));
 			while ((line = stderrReader.readLine()) != null) {
 				// process standard error here
-				// System.out.println(line);
+				// System.err.println(line);
 			}
 			cmdProc.waitFor();
 			int retValue = cmdProc.exitValue();
@@ -53,8 +53,10 @@ public class ApplicationController {
 		}
 
 		log.info("Returning for query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
-
-		return new QueryResponse(String.format(ret));
+		if(ret.equals("")){
+			ret = "I'm sorry, I was unable to porcess your request.";
+		}
+		return new QueryResponse(ret);
 	}
 
 }
