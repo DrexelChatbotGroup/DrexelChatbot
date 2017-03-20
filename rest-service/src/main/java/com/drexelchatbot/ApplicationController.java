@@ -25,7 +25,7 @@ public class ApplicationController {
 
 		Process cmdProc = null;
 		String line = null;
-		String ret = null;
+		String ret = "";
 		try {
 			cmdProc = Runtime.getRuntime()
 					.exec(new String[] { "python3", "./../chatbot/main.py", "\"" + query + "\"", "2>/dev/null" });
@@ -54,7 +54,7 @@ public class ApplicationController {
 
 		log.info("Returning for query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
 
-		return new QueryResponse(String.format(ret));
+		return new QueryResponse(ret);
 	}
 
 }

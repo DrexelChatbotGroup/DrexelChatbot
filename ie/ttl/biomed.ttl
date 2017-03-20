@@ -259,7 +259,7 @@
     cb:room "Bellet Building 523" ; 
     cb:education "PhD" ; 
     cb:email "shewokis@drexel.edu" ; 
-    cb:interests "Movement science, smart prosthetics, "brain-in-the-loop" cognitive technologies, motor learning, human performance, biofeedback, neural imaging, statistics and measurement, and brain-computer interface (BCI)." .
+    cb:interests "Movement science, smart prosthetics, brain-in-the-loop cognitive technologies, motor learning, human performance, biofeedback, neural imaging, statistics and measurement, and brain-computer interface (BCI)." .
 
 <#Adrian-Shieh>
     cb:name "Adrian Shieh" ; 
