@@ -12,3 +12,6 @@ Members:
 IE prototype libraries:
 BeautifulSoup (installation: pip install bs4),
 Requests (installation: pip install Requests)
+
+Link for tryout:
+http://10.246.251.67:8080/chatbot

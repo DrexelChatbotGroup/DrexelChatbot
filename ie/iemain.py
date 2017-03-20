@@ -41,6 +41,7 @@ def _main(argv):
     agents.append(lebow_ieagent.LebowIEAgent())
     agents.append(biomed_ieagent.BiomedIEAgent())
     agents.append(westphal_ieagent.WestphalIEAgent())
+    agents.append(ece_ieagent.EceIEAgent())
 
     ttl_files = []
     for agent in agents:
