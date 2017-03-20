@@ -7,8 +7,10 @@ __version__ = '0.1'
 __author__ = 'Tom Amon and Nanxi Zhang'
 
 import subprocess
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 _STARDOG_INSTALL_PATH = "/home/stardog/bin/"
+_STARDOG_ENDPOINT = "http://localhost:5820/chatbotDB/query/"
 
 
 class StardogDB:
@@ -29,6 +31,18 @@ class StardogDB:
         subprocess.call(command + ttl_files)
 
     def query(self, str_query):
+        sparql = SPARQLWrapper(_STARDOG_ENDPOINT)
+        sparql.setQuery(str_query)
+        sparql.setReturnFormat(JSON)
+        results = sparql.query().convert()
+        bindings = results["results"]["bindings"]
+        res = {}
+        if bindings:
+            for key in bindings[0]:
+                res[key] = bindings[0][key]["value"]
+        return res
+
+    def query_commandline(self, str_query):
         #./stardog query chatbotDB query
         path = _STARDOG_INSTALL_PATH + "stardog"
         out = subprocess.check_output([path, "query", self._database_name, "-f",
@@ -89,7 +103,7 @@ if __name__ == "__main__":
     WHERE
     {
         ?s cb:name "Mongan" .
-	?s ?p ?o .
+	    ?s ?p ?o .
     }
     """
     print(sdb.query(test3))
