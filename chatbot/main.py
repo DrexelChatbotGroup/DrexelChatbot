@@ -10,7 +10,7 @@ import logging
 def _main(question):
     try :
         db = stardog.StardogDB("chatbotDB")
-        answer = "/home/DrexelChatbot/chatbot/genericAnswers.txt"
+        answer = "/home/DrexelChatbot/chatbot/genericAnswers.csv"
         config = "/home/DrexelChatbot/chatbot/trained_model.m5"
         logfile = "/home/DrexelChatbot/chatbot/chatbot.log"
         
@@ -25,7 +25,7 @@ def _main(question):
         gac_object = gac.GenericAnswerConstruction(config, answer)
         genericanswer = gac_object.generateGenericAnswer(genericquestion.paddedquestion)
         logging.info('Generic answer: ' + genericanswer.getAnswer())
-        logging.info('Generic answer: ' + genericanswer.getQuery())
+        logging.info('Generic query: ' + genericanswer.getQuery())
 
         gap_object = gap.GenericAnswerPopulation(genericanswer, db)
         answer = gap_object.populate(genericquestion.rep_list)
