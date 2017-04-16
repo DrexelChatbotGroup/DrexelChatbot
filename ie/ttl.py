@@ -111,4 +111,4 @@ class TtlFileEntry:
 
 
 def _fix(string):
-    return " ".join(string.strip(' \t\n\r,').split())
+    return " ".join(string.strip(' \t\n\r,').split()).replace("\"", "\\\"")
