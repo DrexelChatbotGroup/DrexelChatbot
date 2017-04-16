@@ -1,5 +1,6 @@
 import random
 import string
+import csv
 
 adjacency = { # this represents the likelihood of exchanging one letter for another
     'a': ['s'],
@@ -70,7 +71,7 @@ def typoSentence(sentence, model):
     words = sentence.split(' ')
     valid_indexes = []
     for i in range(len(words)): #This bit is for our system specifically.
-        if not words[i][0] == '(': #We don't want typos in the generic representations.
+        if len(words[i]) > 0 and not words[i][0] == '(': #We don't want typos in the generic representations.
             for j in range(len(words[i])):
                 valid_indexes.append(i) #This is a bit hacky, but it is to adjust the probability
 
@@ -83,10 +84,25 @@ def typoSentence(sentence, model):
         out += word + ' '
     return out.strip()
 
-s = "This is an (example) sentence."
-for i in range(100):
-    print(typoSentence(s, adjacency))
+file_name = "gac_data"
 
+try:
+    csvfile = open(file_name + ".csv", newline='')
+    outfile = open(file_name + "_misspelled.csv", 'w', newline='')
+except OSError:
+    print("Error opening file")
+    exit()
+
+reader = csv.reader(csvfile)
+next(reader)
+writer = csv.writer(outfile)
+
+for record in reader:
+    record[2] = typoSentence(record[2], adjacency)
+    writer.writerow(record)
+
+csvfile.close()
+outfile.close()
 
 
 
