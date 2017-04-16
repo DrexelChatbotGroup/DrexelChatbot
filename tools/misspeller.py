@@ -66,12 +66,26 @@ def typo(word, model):
     else:
         return word
 
-w = "hello"
+def typoSentence(sentence, model):
+    words = sentence.split(' ')
+    valid_indexes = []
+    for i in range(len(words)): #This bit is for our system specifically.
+        if not words[i][0] == '(': #We don't want typos in the generic representations.
+            for j in range(len(words[i])):
+                valid_indexes.append(i)
+
+    if len(valid_indexes) > 0:
+        index = random.choice(valid_indexes)
+        words[index] = typo(words[index], model)
+
+    out = ''
+    for word in words:
+        out += word + ' '
+    return out.strip()
+
+s = "This is an (example) sentence."
 for i in range(100):
-    print(typo(w, adjacency))
-        
-
-
+    print(typoSentence(s, adjacency))
 
 
 
