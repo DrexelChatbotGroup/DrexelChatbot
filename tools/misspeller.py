@@ -1,4 +1,5 @@
 import random
+import string
 
 adjacency = { # this represents the likelihood of exchanging one letter for another
     'a': ['s'],
@@ -46,4 +47,34 @@ def check(): #testing function
     line('z')
     print()
 
-check()
+def typo(word, model):
+    valid_indexes = []
+    for i in range(len(word)):
+        if word[i] in string.ascii_letters:
+            valid_indexes.append(i)
+    
+    if len(valid_indexes) > 0:
+        upper = False
+        index = random.choice(valid_indexes)
+        if word[index] in string.ascii_uppercase:
+            upper = True
+        r = random.choice(model[word[index].lower()])
+        if upper:
+            r = r.upper()
+        
+        return word[:index] + r + word[index+1:]
+    else:
+        return word
+
+w = "hello"
+for i in range(100):
+    print(typo(w, adjacency))
+        
+
+
+
+
+
+
+
+        
