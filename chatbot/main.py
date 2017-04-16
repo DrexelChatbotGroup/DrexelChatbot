@@ -10,7 +10,7 @@ import logging
 def _main(question):
     try :
         db = stardog.StardogDB("chatbotDB")
-        answer = "/home/DrexelChatbot/chatbot/genericAnswers.csv"
+        answer = "/home/DrexelChatbot/chatbot/genericAnswers.txt"
         config = "/home/DrexelChatbot/chatbot/trained_model.m5"
         logfile = "/home/DrexelChatbot/chatbot/chatbot.log"
         
