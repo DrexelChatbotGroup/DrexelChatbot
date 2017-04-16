@@ -72,7 +72,7 @@ def typoSentence(sentence, model):
     for i in range(len(words)): #This bit is for our system specifically.
         if not words[i][0] == '(': #We don't want typos in the generic representations.
             for j in range(len(words[i])):
-                valid_indexes.append(i)
+                valid_indexes.append(i) #This is a bit hacky, but it is to adjust the probability
 
     if len(valid_indexes) > 0:
         index = random.choice(valid_indexes)
