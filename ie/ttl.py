@@ -48,6 +48,7 @@ class TtlFileEntry:
         self.publications = ""
         self.phone = ""
         self.interests = ""
+        self.bio = ""
 
     def _fix_strings(self):
         self.name = _fix(self.name)
@@ -65,6 +66,7 @@ class TtlFileEntry:
         self.publications = _fix(self.publications)
         self.phone = _fix(self.phone)
         self.interests = _fix(self.interests)
+        self.bio = _fix(self.bio)
 
     def write_to(self, ttlFile):
         self._fix_strings()
@@ -103,6 +105,8 @@ class TtlFileEntry:
 	        entry += '    cb:phone "%s" ; \n' % self.phone
         if self.interests:
 	        entry += '    cb:interests "%s" ; \n' % self.interests
+        if self.bio:
+            entry += '    cb:bio "%s" ; \n' % self.bio
 
         #remove the last "; \n  and replace with a .
         entry = entry[:-3]

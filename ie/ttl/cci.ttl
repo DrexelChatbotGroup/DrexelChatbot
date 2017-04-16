@@ -8,10 +8,14 @@
     cb:title "Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 214B" ; 
+    cb:education "PhD, Rutgers, The State University of New Jersey, New Brunswick, School of Information. MLIS, The University of Texas at Austin, Graduate School of Library & Information Science. BS (magna cum laude), Georgetown University; Double major: Linguistics and Portuguese." ; 
     cb:email "dea22@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~dea22/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/unavailable.ashx?h=188&la=en&w=125&hash=5F75E9213285FE89655E526EAA4E55DE48FE1421" ; 
+    cb:publications "Agosto, D. E., & Abbas, J. (2016). “Don’t be dumb— That’s the rule I try to live by”: A closer look at older teens’ online privacy and safety attitudes. New Media & Society.. Agosto, D. E., Magee, R. M., Dickard, M., & Forte, A. (2016). Teens, technology, and libraries: An uncertain relationship. Library Quarterly. Winner of the 2016 ALISE/Bohdan S. Wynar Research Paper Award.. Agosto, D. E., Bell, J. P., Bernier, A., & Kuhlmann, L. M. (2015). “This is our library, and it’s a pretty cool place”: A user-centered study of public library YA spaces. Public Library Quarterly, 34, 23-43.." ; 
     cb:phone "215.895.1930" ; 
-    cb:interests "Information behavior, public libraries, social networks, gender, children, and teens" .
+    cb:interests "Information behavior, public libraries, social networks, gender, children, and teens" ; 
+    cb:bio "Dr. Agosto's research interests include youth information behaviors, public libraries, multicultural issues in youth library services, and qualitative research methods. She is responsible for teaching in four areas: youth resources, public libraries, information resources and services, and qualitative research methods." .
 
 <#Larry-Alexander>
     cb:name "Larry Alexander" ; 
@@ -20,10 +24,13 @@
     cb:title "Executive in Residence & Research Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 405B" ; 
+    cb:education "PhD, Systems Engineering, University of Pennsylvania. MS, Electrical Engineering, Rensselaer Polytechnic Institute. BS, Electrical Engineering, Rensselaer Polytechnic Institute." ; 
     cb:email "lda26@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/larry_alexander.ashx?h=160&la=en&w=125&hash=80423F2A609F85D22136059D8833B5B131F1661C" ; 
+    cb:publications "The Information Technology Challenge for the Next Millennium, L.D. Alexander - 10/98. GE Internal Publication.. Intellectual Property Technology Implementation – The R&D Management Process, L.D. Alexander – 5/97. GE Internal Publication.. Design of a Self-Tasking System, L.D. Alexander - 1/89. GE Internal Publication.." ; 
     cb:phone "215.895.6628" ; 
-    cb:interests "Large-scale modeling and simulation, pattern recognition, future of information technology" .
+    cb:interests "Large-scale modeling and simulation, pattern recognition, future of information technology" ; 
+    cb:bio "Alexander’s primary research interests include large-scale modeling and simulation, pattern recognition, and the future of information technology. Prior to joining CCI, Alexander served as the director of advanced technology for Lockheed Martin’s Information Systems and Global Services, where he led research and development in advanced information systems technology. Most recently, he directed a 500-person technology portfolio focused on the development of new products and services for the Department of Defense, the Intelligence Community, NASA and the Civil Government Market Place. Alexander currently serves as site director of the NSF Center for Visual & Decision Informatics." .
 
 <#Yuan-An>
     cb:name "Yuan An" ; 
@@ -32,10 +39,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "3401 Market Street 320" ; 
+    cb:education "PhD, Computer Science University of Toronto. Master of Computer Science, Dalhousie University. Master of Engineering, Systems Engineering, Tsinghua University. Bachelor of Engineering, Tsinghua University." ; 
     cb:email "yuan.an@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/yan" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/an-yuan.ashx?h=160&la=en&w=125&hash=B423FBF264694639B336921F60B6532111C9DC85" ; 
+    cb:publications "I. Burstyn, A. Slutsky, DG. Lee, AB Singer, Y. An, YL. Michael. Beyond crosswalks: Reliability of exposure assessment following automated coding of free-text job descriptions for occupational epidemiology. The Annals of Occupational Hygiene, 2014, 58 (4): 482-492.. Yuan Ling, Yuan An, Mengwen Liu, and Xiaohua Hu. An Error Detecting and Tagging Framework for Reducing Data Entry Errors in Electronic Medical Records (EMR) System. In the IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2013. pages 249-254. Shanghai, China. Dec. 18-21, 2013.. Yuan An, Xiaohua Hu, Il-Yeol Song. Learning to Discover Complex Mappings from Web Forms to Ontologies. In the 21st ACM International Conference on Information and Knowledge Management (CIKM'12), pages 1253-1262, Oct. 29-Nov. 2, 2012, Maui, Hawaii.." ; 
     cb:phone "215.895.2633" ; 
-    cb:interests "Conceptual modeling, schema and ontology mapping, information integration, knowledge representation, requirements engineering, healthcare information systems, semantic web" .
+    cb:interests "Conceptual modeling, schema and ontology mapping, information integration, knowledge representation, requirements engineering, healthcare information systems, semantic web" ; 
+    cb:bio "Dr. An's research interests include health and biomedical information integration, extraction, and analysis; requirements analysis and engineering for healthcare information systems; semantic and ontology mapping; knowledge representation and reasoning. He has conducted research on discovering and using semantic mappings between different data representations including relational schemas, XML DTDs/schemas, ontologies, and other conceptual models. His current projects include helping healthcare providers gather and retrieve healthcare information in structured databases, indexing and searching biological Web interfaces, creating online schema repositories, and developing a case-based approach for schema design. His teaching interests include systems analysis and design, requirements engineering, software development, and database management systems." .
 
 <#David-Augenblick>
     cb:name "David Augenblick" ; 
@@ -44,10 +55,14 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 134" ; 
+    cb:education "Master of Science degree in Chemical Engineering, with concentration in Information Systems Technology from the Wharton School of Business, University of Pennsylvania. Bachelor of Science degree in Chemical Engineering, Columbia University. Elected into Tau Beta Pi and Phi Lambda Upsilon honor societies, Recipient of Faculty Scholar Award (highest GPA in Engineering School – 1967).." ; 
     cb:email "augenbdh@drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~augenbdh" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/augenblick-dave.ashx?h=160&la=en&w=124&hash=4AE49D55B027F0ABBD16536B82ACC7B3804A18C7" ; 
+    cb:publications "Recipient of the Stanley J. Gwiazda Professorship in 2003-2004 for teaching excellence in Drexel's Evening College of Professional Studies." ; 
     cb:phone "215.895.4910" ; 
-    cb:interests "Introductory and object-oriented programming, data structures and database systems, computer application project management, applications to engineering" .
+    cb:interests "Introductory and object-oriented programming, data structures and database systems, computer application project management, applications to engineering" ; 
+    cb:bio "Augenblick's teaching interests include introductory and object-oriented programming, data structures and database systems, computer application project management, the application of computer programming principles and solutions to engineering problems. Augenblick, who joined Drexel University's faculty in 2007, previously taught in Drexel's Evening College of Professional Studies (1984-2006) where he was the recipient of the Stanley J. Gwiazda Professorship in 2003-2004 for teaching excellence. In addition to his experience at Drexel, Augenblick worked in the oil industry at Sunoco for 33 years (1974-2007) as a chemical engineer/systems consultant, where he also held a wide variety of positions, including manager of systems development project management team, manager of numerous major refinery computer application implementation projects and senior business consultant for project justification." .
 
 <#Marcello-Balduccini>
     cb:name "Marcello Balduccini" ; 
@@ -56,10 +71,14 @@
     cb:title "Assistant Research Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "Rush 233C" ; 
+    cb:education "PhD in Computer Science, Texas Tech University, Lubbock, TX. Laurea in Computer Science, Università degli Studi di Milano, Italy." ; 
     cb:email "marcello.balduccini@drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~mb3368" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/balduccini-marcello.ashx?h=160&la=en&w=121&hash=76EC5E029871C954EE46C38DC1CC09B11DCE2E7D" ; 
+    cb:publications "Marcello Balduccini, Duc N. Nguyen, and William C. Regli. An ASP-Based Architecture for Autonomous UAVs in Dynamic Environments: Progress Report. In Sebastien Konieczny and Hans Tompits, editors, Proceedings of the 15th International Workshop on Non-Monotonic Reasoning (NMR 2014), 2014. . Marcello Balduccini. ASP with non-Herbrand Partial Functions: a Language and System for Practical Use. Journal of Theory and Practice of Logic Programming (TPLP), 2013.. Marcello Balduccini and Michael Gelfond. Diagnostic reasoning with A-Prolog. Journal of Theory and Practice of Logic Programming (TPLP), 3(4–5):425–461, Jul 2003.." ; 
     cb:phone "215.571.3603" ; 
-    cb:interests "Knowledge representation, logic programming, constraint programming, planning, diagnosis, agent architectures, cognitive robotics, natural language processing, information retrieval, question answering, malware detection and mitigation, cyber-physical systems" .
+    cb:interests "Knowledge representation, logic programming, constraint programming, planning, diagnosis, agent architectures, cognitive robotics, natural language processing, information retrieval, question answering, malware detection and mitigation, cyber-physical systems" ; 
+    cb:bio "Dr. Balduccini's fundamental research interests are focused on knowledge representation & reasoning, including ontologies, agent architectures, commonsense, natural language understanding, and constraint satisfaction. Application domains of interest include decision-making/decision-support systems, cyber-security and cyber-physical systems, cognitive robotics, intelligent unmanned vehicles, behavior modeling, and model-based user interfaces. He is affiliated with the AJ Drexel Institute for Energy and the Environment and the Isaac L. Auerbach Cybersecurity Institute. Prior to joining Drexel, Dr. Balduccini served as principal research scientist at Kodak Research Labs, Eastman Kodak Company for six years. Dr. Balduccini has authored or co-authored more than 50 refereed technical publications, including three book chapters, and has edited two volumes." .
 
 <#Ellen-Bass>
     cb:name "Ellen Bass" ; 
@@ -68,10 +87,14 @@
     cb:title "Professor & Head, Department of Information Science" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 426" ; 
+    cb:education "PhD, Systems Engineering, Georgia Institute of Technology . MS, Advanced Technology, State University of New York at Binghamton . BS Eng., Bioengineering, University of Pennsylvania . BS Econ., Finance, University of Pennsylvania ." ; 
     cb:email "ellen.j.bass@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/ebass/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/bass-ellen.ashx?h=160&la=en&w=125&hash=B94DBBB5B653B8248BEDDA4B265EC9B2F045685A" ; 
+    cb:publications "Abbate, A.J., Throckmorton, A.L., & Bass, E.J. (2016). A formal task analytic approach to medical device alarm troubleshooting instructions. IEEE Transactions on Human-machine Systems, 46(1), 53-65.. Baumgart, L.A., Bass, E. J., Voss, J., & Lyman, J. A. (2015). Effect of pooled comparative information on judgments of quality. IEEE Transactions on Human-machine Systems, 45(6), 773-781.. Bass, E.J., Baumgart, L.A. & Shepley, K.K. (2013). The effect of information analysis automation display content on human judgment performance in noisy environments. Journal of Cognitive Engineering and Decision Making, 7(1), 49-65.." ; 
     cb:phone "215.571.4416" ; 
-    cb:interests "Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering" .
+    cb:interests "Human-centered design, human-computer interaction, human factors, human performance modeling , judgment and decision making, medical informatics, systems engineering" ; 
+    cb:bio "Ellen Bass has over thirty years of human-centered systems engineering research and design experience in air transportation, healthcare, meteorology and other domains. The focus of her research is to develop theories of human performance, quantitative modeling methodologies, and associated experimental designs that can be used to evaluate human-automation interaction and human-human collaboration in the context of total system performance. The outcomes of the research can be used in the systems engineering process: to inform system requirements, procedures, display designs and training interventions and to support system evaluation. Dr. Bass's research contributions can be decomposed into four synergistic areas: Characterizing human judgment and decision making Modeling human judgment when supported by information automation Computational models of human-human and human-automation interaction These computational models are instantiated via mathematical formulations, simulation, and formal verification methods Design and evaluation of interventions to improve human judgment and decision making" .
 
 <#M.-Blake>
     cb:name "M. Brian Blake" ; 
@@ -80,10 +103,14 @@
     cb:title "Distinguished Professor of Systems and Software Engineering" ; 
     cb:department "Computer Science" ; 
     cb:room "3141 Chestnut Street, Main Building, Suite 102" ; 
+    cb:education "PhD in Information and Software Engineering, George Mason University. MS, Electrical Engineering, Mercer University. BA, Electrical Engineering, Georgia Institute of Technology." ; 
     cb:email "MBrian.Blake@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/bblake" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/blake-brian.ashx?h=160&la=en&w=124&hash=485E3EC91071E4F46AF3BA28B6E4124F3FE0DABD" ; 
+    cb:publications "Jarrett, J., Ferreira-Da-Silva, L., Mello, L., Andere, S., Oliveira da Cruz, G., and Blake, M.B. \"Self-Generating a Labor Force for Crowdsourcing - Is Worker Confidence a Predictor of Quality?\" Third IEEE Workshop on Hot Topics in Web Systems and Technologies (HotWeb2015), November 2015. Wei, Y. and Blake, M.B. “Proactive Virtualized Resource Management and Provisioning for Service Workflows in the Cloud”, Computing, Springer Press, 2014. Tan, W., Blake, M.B., Saleh, I., Dustdar, S. “Social-Network-Sourced Big Data Analytics”, IEEE Internet Computing, Vol. 17, No. 5, pp. 62-69, Sept/Oct 2013 (Top 100 Most Downloaded in IEEE Xplore (#55 Oct 2013, #52 Nov 2013), Featured in Computing Now and IEEE STC on Social Networking)." ; 
     cb:phone "215.895.2200" ; 
-    cb:interests "Software engineering approaches for integration of Web-based systems" .
+    cb:interests "Software engineering approaches for integration of Web-based systems" ; 
+    cb:bio "M. Brian Blake, PhD is Executive Vice President for Academic Affairs and Provost at Drexel University. As the highest ranking academic officer, he oversees all academic programs across the 15 schools and colleges and over 26,000 students. Blake came to Drexel from the University of Miami, where he set research and teaching priorities and led faculty enhancement efforts as vice provost for academic affairs, and oversaw 155 graduate programs serving more than 5,700 students as dean of the Graduate School. Previously he was associate dean for research and graduate studies in the University of Notre Dame College of Engineering, and chaired the Georgetown University Department of Computer Science as it launched its first graduate program. Blake has directed computer science labs funded by more than $10 million in sponsored research awards; authored 170-plus publications and chaired six conferences; edited major journals including his current service as editor-in-chief of IEEE Internet Computing; and advised dozens of students at every level from postdoctoral fellowships through doctoral, master’s and undergraduate studies. Blake is a Senior Member of the IEEE and ACM Distinguished Scientist. Blake’s industry experience includes six years as a software engineer and architect at Lockheed Martin, General Dynamics and The MITRE Corporation before entering academia full time. Blake also holds appointments in the College of Engineering (as professor in the Department of Electrical and Computer Engineering) and in the College of Medicine (as professor of neuroengineering)." .
 
 <#Mark-Boady>
     cb:name "Mark Boady" ; 
@@ -92,10 +119,14 @@
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 138" ; 
+    cb:education "PhD in Computer Science candidate, Drexel University. MS, Computer Science, Drexel University. BA, Computer Science (cum laude), Drexel University." ; 
     cb:email "mwb33@drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~mwb33/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/boady-mark.ashx?h=288&la=en&w=204&hash=217F1A27946189ECE65D77E4C7946BD6FF826BBB" ; 
+    cb:publications "M. Boady, P. Grinfeld, and J. Johnson. 2013. A term rewriting system for the calculus of moving surfaces. In Proceedings of the 38th international symposium on International symposium on symbolic and algebraic computation (ISSAC '13). ACM, New York, NY, USA, 69-76. DOI=10.1145/2465506.2466576 http://doi.acm.org/10.1145/2465506.2466576. PDF Available from ACM. Slides from Presentation at ISSAC 2013. . M. Boady, P. Grinfeld, and J. Johnson. A symbolic computation system for the calculus of moving surfaces. ACM Commun. Comput. Algebra. 45(1/2):109-110. July 2011. http://dl.acm.org/citation.cfm?id=2016580.. M. Boady, P. Grinfeld, and J. Johnson. Boundary variation of Poisson's equation: a model problem for symbolic calculus of moving surfaces. International Journal of Mathematics and Computer Science. Vol. 6. Issue 2. 2011.." ; 
     cb:phone "215.895.2347" ; 
-    cb:interests "Computer algebra, data structures, computations theory, automatic grading, using gaming in education" .
+    cb:interests "Computer algebra, data structures, computations theory, automatic grading, using gaming in education" ; 
+    cb:bio "Mark Boady joined CCI faculty in fall 2015 as assistant teaching professor. His interests include computer algebra, specifically how to automate complex symbolic calculations, and how computer algebra systems can be used to enhance learning. He is currently a PhD candidate at CCI, advised by Professor Jeremy Johnson and Professor Pavel Grinfeld, where he researches automating the computation of problems in the Calculus of Moving Surfaces (CMS). He has taught CCI courses in areas such as the mathematical foundations of computer science and programming languages." .
 
 <#Jennifer-Booker>
     cb:name "Jennifer Booker" ; 
@@ -104,10 +135,14 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 334" ; 
+    cb:education "Doctor of Philosophy, Biomedical Engineering, Drexel University. Basic Emergency Medical Technician course, Thomas Jefferson University. Master of Science, Mechanical Engineering, University of California at Berkeley. Bachelor’s degree in Aerospace Engineering & Mechanics (with a minor in German), University of Minnesota at Minneapolis." ; 
     cb:email "gbooker@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~grb25/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/booker_j.ashx?h=500&la=en&w=500&hash=3FC4BEA6457033D1A89E39F1BBDF0733F7089608" ; 
+    cb:publications "Clearfield, D, Booker, G, and Kriete, A. (Dec 2010) A Top-Down Whole Cell Modeling Approach of Aging. Poster presented at the Systems Biology of Human Aging (SBHA) conference, Philadelphia, PA. Kriete A, Bosl WJ, and Booker G. (2010). Rule-Based Cell Systems Model of Aging using Feedback Loop Motifs Mediated by Stress Responses. PLoS Comput Biol 6(6): e1000820. doi:10.1371/journal.pcbi.1000820. Booker, G, Bosl, W, and Kriete, A. (Aug 2009) Fuzzy Logic Modeling of Stress Responses in Cell Aging. Poster and paper presented at the Foundations of Systems Biology in Engineering (FOSBE) conference, Englewood, CO." ; 
     cb:phone "215.895.1004" ; 
-    cb:interests "Software engineering, systems analysis and design, networking, statistics and measurement, process improvement, object-oriented analysis and design, bioinformatics, and modeling of biological systems" .
+    cb:interests "Software engineering, systems analysis and design, networking, statistics and measurement, process improvement, object-oriented analysis and design, bioinformatics, and modeling of biological systems" ; 
+    cb:bio "Dr. Booker's teaching interests include software engineering, system analysis and design, measurement, networking, and program management. Her research interests primarily center on bioinformatics, particularly on the modeling of biological systems. Her industry background includes analysis, design, development and maintenance of defense and information systems, process improvement, quality management and analysis of aviation safety and security." .
 
 <#David-Breen>
     cb:name "David E. Breen" ; 
@@ -116,10 +151,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 143" ; 
+    cb:education "PhD, Computer and Systems Engineering, Rensselaer Polytechnic Institute. MS, Computer and Systems Engineering, Rensselaer Polytechnic Institute. BA, Physics, Colgate University." ; 
     cb:email "david@cs.drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~david" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/breen-david.ashx?h=160&la=en&w=124&hash=DA039F06F803F6F7A71CE4BF6F0ED58003DE0694" ; 
+    cb:publications "D. Liu, D. Christie, B. Shakibajahromi, C. Knittel, N. Castaneda, D. Breen, G. Dion, and A. Kontsos \"On the Role of Material Architecture in the Mechanical Behavior of Knitted Textiles,\" International Journal of Solids and Structures, Vol. 109, March 2017, pp. 101-111. . M.D. Zarella, D.E. Breen, M.A. Reza, A. Milutinovic, and F.U. Garcia, \"Lymph Node Metastasis Status in Breast Carcinoma Can Be Predicted via Image Analysis of Tumor Histology,\" Analytical and Quantitative Cytology and Histology, Vol. 37, No. 5, October 2015, p. 273-285.. M.A. Reza, S.D. Mhatre, J.C. Morrison, S. Utreja, A.J. Saunders, D.E. Breen and D.R. Marenda, \"Automated Analysis of Courtship Suppression Learning and Memory in Drosophila Melanogaster,\" Fly, Vol. 7, No. 2, 2013, pp. 105-111." ; 
     cb:phone "215.895.1626" ; 
-    cb:interests "Computer-aided design, geometric modeling, biomedical image informatics, self-organization and biological simulation" .
+    cb:interests "Computer-aided design, geometric modeling, biomedical image informatics, self-organization and biological simulation" ; 
+    cb:bio "David E. Breen is an associate professor of computer science in the College of Computing & Informatics at Drexel University. He has held research positions at the Max Planck Institute for the Physics of Complex Systems, the California Institute of Technology, the European Computer-Industry Research Centre, the Fraunhofer Institute for Computer Graphics, and the Rensselaer Design Research Center. Breen's research interests include bio-inspired self-organization algorithms, biomedical image informatics, geometric modeling, computer-aided design and visualization. He leads the Geometric Biomedical Computing Group, which conducts research at the intersection of biology, medicine, engineering and computer science. The group develops algorithms and software that solve geometry-related computing problems for a variety of biomedical applications. He previously served as deputy director of the NSF Center for Visual & Decision Informatics. Currently, he is associated with Drexel's Center for Functional Fabrics. Breen has authored or co-authored over 95 technical papers, articles and book chapters on these and other subjects. He is the co-editor of the book Cloth Modeling and Animation." .
 
 <#Matthew-Burlick>
     cb:name "Matthew Burlick" ; 
@@ -128,10 +167,13 @@
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 137" ; 
+    cb:education "PhD, Computer Science, Stevens Institute of Technology. MS, Computer Science, Stevens Institute of Technology. BS, Electrical Engineering (with a concentration in Computer Engineering), University of Delaware." ; 
     cb:email "mjb528@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Burlick_Matt.ashx?h=160&la=en&w=125&hash=7AB93C7BD1052A5818E93E69058796B97EAF60C0" ; 
+    cb:publications "George Kamberov, Matt Burlick, Lazaros Karydas, Olga Koteogou (2014). Unsupervised Detection of Video Sub-scenes. Pattern Recognition (ICPR), Pages 1934-1939. Matt Burlick, Olga Koteoglou, Lazaros Karydas, George Kamberov (2013). Leveraging Crowdsourced Data for Creating Temporal Segmentation Ground Truths of Subjective Tasks. Computer Vision and Pattern Recognition Workshops (CVPRW), pages 743-750.. Matt Burlick, Dimitrios Dimitriadis, Eric Zavesky (2013). On Improving a Multi-modal Voice Activity Detector. InterSpeech.." ; 
     cb:phone "215.571.4468" ; 
-    cb:interests "Machine learning, computer graphics, data structures and algorithms, discrete structures, computer vision; multi-sensor, multi-model fusion; computer vision and biomedical imaging; unsupervised dynamic class discovery; spatio-temporal tracking and classification" .
+    cb:interests "Machine learning, computer graphics, data structures and algorithms, discrete structures, computer vision; multi-sensor, multi-model fusion; computer vision and biomedical imaging; unsupervised dynamic class discovery; spatio-temporal tracking and classification" ; 
+    cb:bio "Dr. Burlick's research interests include topics in image processing, machine learning, real-time video tracking, object detection and classification, statistics/probability, and acoustics. Dr. Burlick previously served as assistant professor in the Computer Science Department at Stevens Institute of Technology in Hoboken, NJ, where he instructed in undergraduate courses in areas such as scientific computing, discrete structures, algorithms, and interactive computer graphics, and also co-taught their capstone senior design course with a focus on software engineering. His work can be generalized as real-time multi-sensor fusion for detection and classification. This work results in extensive experience choosing feature vectors, building classifiers and creating unique clustering algorithms, often relying on temporally relative data." .
 
 <#Yuanfang-Cai>
     cb:name "Yuanfang Cai" ; 
@@ -140,8 +182,11 @@
     cb:title "Associate Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 104" ; 
+    cb:education "PhD, Computer Science, University of Virginia. MS, Computer Science, University of Virginia. BS, Computer Science, Xidian University, Xi’an, China." ; 
     cb:email "yfcai@cs.drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~yfcai" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/cai-yuanfang.ashx?h=160&la=en&w=124&hash=EDA574AE5C5E22ABA2808A5BE0AF2D835AE6E779" ; 
+    cb:publications "Detecting software modularity violations. Sunny Wong, Yuanfang Cai, Miryung Kim and Michael Dalton. In Proceedings of the 33th International Conference on Software Engineering (ICSE 2011). Honolulu, Hawaii, USA, May 2011. (Acceptance Rate: 14%). May 2011. Page 411-420. Generalizing Evolutionary Coupling with Stochastic Dependencies. Sunny Wong and Yuanfang Cai, In Proceedings of the 26nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2011). Page 293-302. (Acceptance Rate: 15%).. Enhancing Architectural Recovery Using Concerns. Joshua Garcia, Daniel Popescu, Chris Mattmanny, Nenad Medvidovic, and Yuanfang Cai. ASE 2011. Page 552-555.." ; 
     cb:phone "215.895.0298" ; 
     cb:interests "Formal software design modeling and analysis, software economics, software evolution and modularity" .
 
@@ -152,8 +197,10 @@
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 134" ; 
+    cb:education "MS, Computer Science, Drexel University. BA, Mathematics, Minor in Computer Science, Saint Michael’s College." ; 
     cb:email "christopher.john.carroll@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/carroll-chris.ashx?h=160&la=en&w=125&hash=3B4F32299942BF566C15F18C07C47794327484F6" ; 
+    cb:publications "Member of Upsilon Pi Epsilon, Honor Society for the Computing Sciences. Member of IEEE. Member of Internet Society." ; 
     cb:phone "215.571.4306" ; 
     cb:interests "Information security, computer networking and design, IT Infrastructure, server technology, information technology management" .
 
@@ -164,10 +211,14 @@
     cb:title "Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 142" ; 
+    cb:education "PhD, Electrical Engineering and Computer Science, University of California. BA, Mathematics (with Honors), Swarthmore College." ; 
     cb:email "bchar@cs.drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~bchar" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/char-bruce.ashx?h=160&la=en&w=124&hash=14456F1BDCBE6A70CE4DAEB835FA89A9E65D0826" ; 
+    cb:publications "”Representing and characterizing handwritten mathematical symbols through succinct functional approximation” by Bruce Char. Internatiional Conference onDocument Analysis and Recognition. pp. 1198-1202. IEEE Computer Society, 2007.. ”LinBox and future high performance computer algebra” (Extended Abstract),by Bruce W. Char, B. David Saunders, Bryan S. Youse. Proceedings of PASCO 2007, pp. 102-103. ACM Press 2007.. “Redesigning Computer Programming Using Multi-level Online Modules for Mixed Audience”, by Nira Herrmann, Jeffrey L. Popyack, Bruce Char, Paul Zoski, and others. To appear Proceedings of 34th SIGCSE Technical Symposium on Computer Science Education Reno, Nevada, Feb. 2003. ACM Press, 2003." ; 
     cb:phone "215.895.2670" ; 
-    cb:interests "Symbolic mathematical computation, algorithms and systems for computer algebra, parallel and distributed computation, computer science education, use of computing for STEM education." .
+    cb:interests "Symbolic mathematical computation, algorithms and systems for computer algebra, parallel and distributed computation, computer science education, use of computing for STEM education." ; 
+    cb:bio "Dr. Char's research interests include computer algebra (systems, applications, theory); symbolic/numeric computing; scientific computation; parallel and distributed computation; computer environments for technical problem solving; software components for scientific computation; and educational uses of computer technology for computer science and engineering instruction. Dr. Char works in the areas of symbolic and numeric mathematical computation, parallel computation, interactive multimedia for education and problem-solving environments. Dr. Char was instrumental in developing Maple, a general purpose computer algebra system that performs both symbolic and numerical calculations and has facilities for interactive two- and three-dimensional graphics. Prior to joining the Drexel faculty, he was a professor in the Department of Computer Science at the University of Tennessee at Knoxville. Dr. Char is a member of the Association for Computing Machinery, the Mathematical Association of America, the IEEE Computer Society, and the Society for Industrial and Applied Mathematics. He is the author or co-author of five books and more than 70 articles and papers." .
 
 <#Chaomei-Chen>
     cb:name "Chaomei Chen" ; 
@@ -176,10 +227,14 @@
     cb:title "Professor" ; 
     cb:department "Information Science" ; 
     cb:room "3401 Market Street 321" ; 
+    cb:education "PhD, Computer Science, University of Liverpool, UK. MSc, Computation, University of Oxford, UK. BSc, Mathematics, NanKai University, China." ; 
     cb:email "chaomei.chen@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~cc345/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/chen-chaomei.ashx?h=160&la=en&w=125&hash=B84A6172B363E5079CA6878FDA953D48D60202EF" ; 
+    cb:publications "Chen, C. (2014) The Fitness of Information: Quantitative Assessments of Critical Evidence. Wiley.. Chen, C., Leydesdorff, L. (2014) Patterns of connections and movements in dual-map overlays: A new method of publication portfolio analysis.Journal of the American Society for Information Science and Technology, 65(2), 334-351.. Chen, C. (2013) Mapping Scientific Frontiers: The Quest for Knowledge Visualization. 2nd Edition. Springer. ISBN: 978-1-4471-5127-2 (Print) 978-1-4471-5128-9 (Online)." ; 
     cb:phone "215.895.6627" ; 
-    cb:interests "Information visualization, visual analytics, knowledge domain visualization, network analysis and modeling, scientific discovery, science mapping, scientometrics, citation analysis, human-computer interaction" .
+    cb:interests "Information visualization, visual analytics, knowledge domain visualization, network analysis and modeling, scientific discovery, science mapping, scientometrics, citation analysis, human-computer interaction" ; 
+    cb:bio "Dr. Chen's research interests include information visualization, visual analytics, scientific discovery theories, mapping scientific frontiers, quantitative studies of science, and digital libraries. His teaching interests include information visualization, visual analytics, human-computer interaction, programming, and other related topics." .
 
 <#Catherine-Collins>
     cb:name "Catherine D. Collins" ; 
@@ -188,10 +243,14 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 423" ; 
+    cb:education "PhD, Library and Information Science, Indiana University. Visiting student, School of Library, Archival and Information Studies, 2002-2004, University of British Columbia. MSLIS, Simmons College. BA, English Language and Literature, Boston University." ; 
     cb:email "collins@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/ccollins" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/unavailable.ashx?h=188&la=en&w=125&hash=5F75E9213285FE89655E526EAA4E55DE48FE1421" ; 
+    cb:publications "Collins, Catherine. “ipl2: Challenges & Opportunities,” Proceedings, Central Asia 2013, Tashkent, Uzbekistan, 2013.. Collins, Catherine. “Integrating Local Ecological Knowledge into Fisheries Planning and Management: Another Context for Knowledge Management Research?” Proceedings, Canadian Association for Information Science, Montreal, QC, 2007.. Reviewer for Library Journal, 1994-1996; Preview Magazine, 1990-1991.." ; 
     cb:phone "215.895.1902" ; 
-    cb:interests "Knowledge management, collection development, management of information organizations, information sources and services, international development" .
+    cb:interests "Knowledge management, collection development, management of information organizations, information sources and services, international development" ; 
+    cb:bio "Catherine Collins’ major teaching interests include collection development and management, information-seeking, and management of information organizations. Her primary research interests are in knowledge management, communication and international development. Her professional experience includes positions in a variety of academic libraries, including music libraries, anthropology libraries and international libraries." .
 
 <#Prudence-Dalrymple>
     cb:name "Prudence W. Dalrymple" ; 
@@ -200,10 +259,14 @@
     cb:title "Research and Teaching Professor, Director of the Institute for Health Informatics" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 410A" ; 
+    cb:education "MS, Johns Hopkins University School of Medicine, Health Sciences Informatics . Certificate, Health Communications, Bloomberg School of Public Health . PhD, University of Wisconsin Madison, Library and Information Studies . MS, Simmons College, Library Science . AB, cum laude, Clark University, English." ; 
     cb:email "pdalrymple@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/pdalrymple" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/dalrymple-prudence.ashx?h=160&la=en&w=125&hash=6F7BD8E8CA3EC43A8DDEC90AC3B0EC36F8578E42" ; 
+    cb:publications "Dalrymple PW, Simmons D. Health information technology in hospitals: Towards a culture of EI&K sharing, pp. 173-187. In Patient Safety: Perspectives on Evidence, Information and Knowledge, Ed. L. Zipperer, pp. Gower, 2014.. Dalrymple,PW, Zach L, Rogers M, Health literacy and information seeking: Poised for convergence. International Journal of Health Information Management Research 2(1), 2014. Available at https://ijhimr.shef.ac.uk/ojs/index.php/ijhimr. Dalrymple, P, Green, M, Rogers, M, Turner, K, Zach, L. (2013). Collaborating to develop and test an enhanced text messaging system to encourage health information seeking J Med Libr Assoc July; 101(3): 224-227. doi: 10.3163/1536-5050.101.3.014.." ; 
     cb:phone "215.895.2699" ; 
-    cb:interests "User-centered information behaviors, particularly in the health arena, health informatics, evidence based practice, education for the information professions and evaluation, and translation of research into practice" .
+    cb:interests "User-centered information behaviors, particularly in the health arena, health informatics, evidence based practice, education for the information professions and evaluation, and translation of research into practice" ; 
+    cb:bio "Prudence Dalrymple’s research and teaching reflect her interest in user-centered information behaviors, particularly in the health arena. From 2005-2007, she was a National Library of Medicine Fellow in health sciences informatics at the Johns Hopkins University School of Medicine where her research focused on the dissemination of research evidence for improving clinical practice. In addition to her academic career as both an instructor and an administrator, she has practiced as a health sciences librarian in clinical and academic settings. She teaches informatics courses related to health informatics and management. Her cognate interests include evidence-based practice, education for the information professions and assessment. Dalrymple's scholarly activities encompass three major areas: health informatics, information needs and uses, and evaluation. As part of her interest in determining how information use affects health outcomes, she has conducted research on the use of evidence-based guidelines by health professionals and the potential for text messages to improve health literacy of the urban poor. Her work frequently crosses traditional disciplinary boundaries employing both quantitative and qualitative methods. As director of Drexel's inter-disciplinary graduate program in health informatics, Dalrymple continues her interest and involvement in professional education and accreditation and is frequently sought as an author and a consultant in these areas." .
 
 <#Yi-Deng>
     cb:name "Yi Deng" ; 
@@ -211,10 +274,13 @@
     cb:property "faculty" ; 
     cb:title "Dean and Isaac L. Auerbach Professor" ; 
     cb:room "Rush 306" ; 
+    cb:education "1992: PhD (Doctor of Philosophy in Computer Science) University of Pittsburgh. . 1983: BS (Bachelor of Science in Computer Science & Technology) University of Science and Technology of China.." ; 
     cb:email "yd362@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Yi_Deng.ashx?h=160&la=en&w=124&hash=795A0B5D9EDC3A714FA728A5E9E09541D96CC22A" ; 
+    cb:publications "Member, Board of Directors, North Carolina Technology Association. Member, Steering Committee, Envision: Charlotte." ; 
     cb:phone "215.895.2474" ; 
-    cb:interests "Computing & Informatics" .
+    cb:interests "Computing & Informatics" ; 
+    cb:bio "Dr. Deng serves as dean and Isaac L. Auerbach professor at the College of Computing & Informatics (CCI) at Drexel University. He holds a doctoral degree in computer science from the University of Pittsburgh and a bachelor of science degree in computer science & technology from the University of Science and Technology of China. He joined Drexel's faculty in September 2016, previously serving as dean of the College of Computing and Informatics at the University of North Carolina at Charlotte, and as dean and professor at the School of Computing & Information Sciences at Florida International University. He is a respected leader in interdisciplinary computing research with 21 research awards as PI or co-PI totaling over $21 million. He also founded and directed four major research centers." .
 
 <#M.-Drott>
     cb:name "M. Carl Drott" ; 
@@ -223,10 +289,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 336" ; 
+    cb:education "Doctor of Philosophy, Industrial and Operations Engineering, University of Michigan." ; 
     cb:email "drott@drexel.edu" ; 
+    cb:website "http://testbed.cis.drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/drott-carl.ashx?h=160&la=en&w=125&hash=C26F70868AD33B9540746B1D6B84A7C7900A7D9B" ; 
+    cb:publications "Drott, M.C., Open Access. (invited chapter) Annual Review of Information Science and Technology (ARIST) v40 (2006).. Drott, M.C., Indexing Aids at Corporate Websites: The use of Robots.txt and META tags. Information Processing and Management, Vol. 38, Num. 2, March 2002. pp 209-219.. Drott, M.C., Individual Knowledge - Corporate Information: The Challenges for Competitive Intelligence. Business Horizons, March-April 2001, pp 31-37.." ; 
     cb:phone "215.895.2487" ; 
-    cb:interests "Systems analysis techniques, Web usage, competitive intelligence" .
+    cb:interests "Systems analysis techniques, Web usage, competitive intelligence" ; 
+    cb:bio "Dr. Drott's research interests include information resources management; computer programming (Pascal, C, and many others); computerized text processing; computer applications; research design and statistical analysis; information systems analysis; information systems research; scientific communication; cognitive processes; and webpage design and evaluation. Dr. Drott is responsible for teaching search strategy techniques for information retrieval and dissemination. He is also interested in the application of information retrieval and display techniques to supporting end users. His training is in industrial engineering and includes operations research, stochastic processes, decision theory, and computer simulation." .
 
 <#Andrea-Forte>
     cb:name "Andrea Forte" ; 
@@ -235,10 +305,14 @@
     cb:title "Associate Professor and PhD Program Director" ; 
     cb:department "Information Science" ; 
     cb:room "3401 Market Street, Ste 300, Room 324" ; 
+    cb:education "PhD, Human-Centered Computing Georgia Institute of Technology, College of Computing Areas: Social Computing; Learning Sciences and Technology Committee: Amy Bruckman, Chair Beki Grinter, Mark Guzdial, Janet Kolodner, (Georgia Institute of Technology); Jonathan Grudin (Microsoft Research) . Georgia Institute of Technology, College of Computing. Areas: Social Computing; Learning Sciences and Technology. Committee: Amy Bruckman, Chair Beki Grinter, Mark Guzdial, Janet Kolodner, (Georgia Institute of Technology); Jonathan Grudin (Microsoft Research). MLIS, Library and Information Science University of Texas at Austin, Graduate School of Library and Information Science (now School of Information) . University of Texas at Austin, Graduate School of Library and Information Science (now School of Information). BA, Foreign Language and Literature (German), Philosophy Western Michigan University . Western Michigan University ." ; 
     cb:email "andrea.forte@drexel.edu" ; 
+    cb:website "http://www.andreaforte.net" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/forte-andrea.ashx?h=160&la=en&w=125&hash=0F2C80936D8BF8C77218AA953016309042C3B554" ; 
+    cb:publications "Forte, Andrea, Nazanin Andalibi, Thomas Park, Heather Willever-Farr (2014). Designing Information Savvy Societies: An Introduction to Assessability. Proceedings of ACM SIGCHI Conf. on Human Factors in Computing Systems (CHI'14), Toronto, Canada.. Forte, Andrea, Michael Dickard, Rachel Magee, and Denise Agosto (2014). What Do Teens Ask Their Online Social Networks? Social Search Practices among High School Students. Proceedings of Computer-Supported Cooperative Work and Social Computing (CSCW), Baltimore, MD, USA. * best paper honorable mention * . Forte, Andrea and Cliff Lampe. (2013). Defining, Understanding and Supporting Open Collaboration: Lessons from the Literature. American Behavioral Scientist 57(5): 535-547." ; 
     cb:phone "215.839.8414; 215.895.0543" ; 
-    cb:interests "Social computing, human-computer interaction, computer-supported cooperative work, computer-supported collaborative learning, information literacy" .
+    cb:interests "Social computing, human-computer interaction, computer-supported cooperative work, computer-supported collaborative learning, information literacy" ; 
+    cb:bio "Andrea’s research is multidisciplinary and focuses mainly on social computing issues. Her work examines the ways that people interact to create things and learn in socio-technical systems like Wikipedia, online learning environments, family history sites, and social network sites. Some of her research involves designing and building new environments while other work focuses on understanding existing systems and practices." .
 
 <#Susan-Gasson>
     cb:name "Susan Gasson" ; 
@@ -247,10 +321,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 331" ; 
+    cb:education "PhD 1998 Warwick Business School, University of Warwick, UK. Dissertation: Co-operative Information System Design: How Multi-Domain Information System Design Takes Place In UK Organizations. MBA 1991 (Distinction) Warwick Business School, University of Warwick, UK. BSc 1975 (Honors) Electronics/Electrical Engineering, Univ. of Kent at Canterbury, UK." ; 
     cb:email "sgasson@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/sgasson/index.html" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/gasson-susan.ashx?h=160&la=en&w=125&hash=218427BAE94CAAFAA8A40FF0A17CE619FE060417" ; 
+    cb:publications "Khazraee, E.K. & Gasson, S. (2014) Epistemic Objects and Embeddedness: Knowledge Construction and Narratives in Research Networks of Practice. The Information Society, forthcoming (Dec. 2014).. Gasson, S. & Waters, J. (2013) Using A Grounded Theory Approach To Study Online Collaboration Behaviors, European Journal of Information Systems (2013) 22, 95–118.. Gasson, S. (2006) A Genealogical Study of Boundary-Spanning IS Design. European Journal of Information Systems, 15 (1), pp. 1-16. ." ; 
     cb:phone "215.895.6398" ; 
-    cb:interests "Co-design of business and IT-systems, distributed cognition & knowledge management in boundary-spanning groups, human-centered design, social informatics, online learning communities, Grounded Theory" .
+    cb:interests "Co-design of business and IT-systems, distributed cognition & knowledge management in boundary-spanning groups, human-centered design, social informatics, online learning communities, Grounded Theory" ; 
+    cb:bio "Susan Gasson studies the design, use, and impacts of digital technologies for boundary-spanning collaboration. Her studies employ grounded theory, ethnography, and qualitative/mixed methods to investigate domains including Enterprise System design, distributed virtual organizations, peer- and vicarious learning in online education, and research networks of practice. She explores three “big questions”: How can we co-design the processual and technical aspects of information systems to support organizational adaptation, peer-learning, and effective collaboration? Understanding how to manage distributed cognition is critical for boundary-spanning design, which involves wicked problems that span knowledge domain and expertise boundaries. How is knowledge created, communicated, and shared in distributed, virtual collaboration environments? Increasingly, non-human objects mediate human relationships, as these progressively displace people in distributed knowledge networks. We may be able to identify forms of metaknowledge that work across domain boundaries by identifying mediating object roles, e.g. categorization schemes, databases, technology, or routinized practices that embed frameworks for analysis or participation. How can we ensure that technology design is human-centered? Creating new design methods and approaches is only part of the assemblage of professional design practice. The impact of technology platforms for design collaboration, the ways in which methods are implemented, and the approaches used to stakeholder requirements elicitation are all important constraints on human-centered design outcomes. Dr. Gasson is interested in advising doctoral students interested in distributed cognition, knowledge processes and technologies, and post-social theory, that attempts to theorize the role of (material, epistemic, technical, symbolic, mediating) objects in networks of practice. Current (and recent) dissertation students work, for example, on distributed knowledge networks in archaeology research, organization and leadership in technology-mediated FOSS projects, and user involvement in distributed FOSS design, processes. These students use an ethnographic approach to better understand the theoretical and cultural construction and the various dimensions of the respective domains." .
 
 <#Christopher-Geib>
     cb:name "Christopher Geib" ; 
@@ -259,10 +337,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "3401 Market Street 323" ; 
+    cb:education "PhD, Department of Computer and Information Science, University of Pennsylvania. MSE, Department of Computer and Information Science, University of Pennsylvania. BS, Department of Computer Science (Cum Laude, Departmental Honors, Member Upsilon Phi Epsilon), Union College." ; 
     cb:email "cwg33@drexel.edu" ; 
+    cb:website "www.planrec.org/geib" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/geib-christopher.ashx?h=160&la=en&w=125&hash=CF3E56C1DF02BD56EAF0B687AC104FACF1F12AB4" ; 
+    cb:publications "Geib, C. and Goldman, R., Recognizing Plans with Loops Represented in a Lexicalized Grammar, Proceeding of the Twenty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2011, pp. 958-963, 2011.. Geib, C. and Goldman, R., A Probabilistic Plan Recognition Algorithm Based on Plan Tree Grammars, Artificial Intelligence, Vol. 173(11), pp. 1101-1132, 2009.. Sukthankar, G., Goldman, R., Geib, C., Pynadath, D., Bui, H., Plan Activity and Intent Recognition, Theory and Practice, Morgan Kaufman, 2013.." ; 
     cb:phone "215.571.4533" ; 
-    cb:interests "Decision making and reasoning under conditions of uncertainty, planning, scheduling, constraint-based reasoning, human-computer and robot interaction, probabilistic reasoning, network security, process control, user interfaces" .
+    cb:interests "Decision making and reasoning under conditions of uncertainty, planning, scheduling, constraint-based reasoning, human-computer and robot interaction, probabilistic reasoning, network security, process control, user interfaces" ; 
+    cb:bio "Dr. Geib's research focuses broadly on decision making and reasoning about actions under conditions of uncertainty. He has worked in planning, scheduling, constraint based reasoning, human computer and robot interaction and probabilistic reasoning. His recent research focus has been on probabilistic intent recognition through weighted model counting and planning based on grammatical formalisms. This has been applied to computer network security, assistive systems and human robot interaction." .
 
 <#Vasilis-Gkatzelis>
     cb:name "Vasilis Gkatzelis" ; 
@@ -271,10 +353,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100B" ; 
+    cb:education "PhD, Computer Science, New York University, Courant Institute of Mathematical Sciences. MSc, Computer Science, New York University, Courant Institute of Mathematical Sciences. Diploma, University of Patras, Computer Engineering and Informatics Department." ; 
     cb:email "gkatz@drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~gkatz" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/GkatzellisVasilis.ashx?h=160&la=en&w=125&hash=1E7375A90D39171D18EB7E46C7E74562D59324EE" ; 
+    cb:publications "Gkatzelis V., Kollias K., Roughgarden T. (2016). Optimal Cost-Sharing in General Resource Selection Games. Operations Research (forthcoming). Duetting P., Gkatzelis V., and Roughgarden T. (2016). The Performance of Deferred-Acceptance Auctions. Mathematics of Operations Research (forthcoming). Cole, R. and Gkatzelis V. (2015). Approximating the Nash social welfare with indivisible items. In Proceedings of the Forty-Seventh Annual ACM on Symposium on Theory of Computing, pp. 371–380.." ; 
     cb:phone "215.895.5875" ; 
-    cb:interests "Algorithmic Mechanism Design, Multiagent Resource Allocation, Approximation Algorithms" .
+    cb:interests "Algorithmic Mechanism Design, Multiagent Resource Allocation, Approximation Algorithms" ; 
+    cb:bio "Vasilis Gkatzelis is an assistant professor of computer science in the College of Computing & Informatics at Drexel University. Gkatzelis' research interests include algorithmic mechanism design, multiagent resource allocation and approximation algorithms. Prior to joining Drexel's faculty in 2016, Gkatzelis served as a postdoctoral scholar at the University of California, Berkeley's Department of Electrical Engineering and Computer Sciences; at UC Berkeley's International Computer Science Institute and Simons Institute; and at Stanford University. His professional experience includes working for Microsoft Research in Mountain View, CA; HP Labs in Palo Alto, CA; and Google in New York, NY." .
 
 <#Colin-Gordon>
     cb:name "Colin Gordon" ; 
@@ -283,10 +369,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100A" ; 
+    cb:education "PhD, Computer Science (with a focus on formal verification of concurrent programs), University of Washington. MS, Computer Science, University of Washington. ScB, Computer Science, Brown University." ; 
     cb:email "csgordon@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~csgordon/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Staff/unavailable.ashx?h=188&la=en&w=125&hash=BBA263757C57F089E148FC2FA18296E1A751930F" ; 
+    cb:publications "Colin S. Gordon, Werner M. Dietl, Michael D. Ernst, and Dan Grossman. JavaUI: Effects for Controlling UI Object Access. In Proceedings of the 27th European Conference on Object-Oriented Programming (ECOOP 2013), pages 179–204, Montpellier, France. July 2013.. Colin S. Gordon, Michael D. Ernst, and Dan Grossman. Rely-Guarantee References for Refinement Types Over Aliased Mutable Data. In Proceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2013), pages 73—84, Seattle, WA, USA. June 2013.. Colin S. Gordon, Matthew J. Parkinson, Jared Parsons, Aleks Bromfield, and Joe Duffy. Uniqueness and Reference Immutability for Safe Parallelism. In Proceedings of the 27th ACM SIGPLAN Conference on Object Oriented Programming Systems, Languages, and Applications (OOPSLA 2012), pages 21—40, Tucson, AZ, USA. October 2012.." ; 
     cb:phone "215.571.4360" ; 
-    cb:interests "Programming languages and formal methods; type systems and program verification for concurrent programs" .
+    cb:interests "Programming languages and formal methods; type systems and program verification for concurrent programs" ; 
+    cb:bio "Colin Gordon's research interests include finding new ways to improve software reliability, especially providing strong static guarantees about program behavior, for concurrent and systems-level code. His previous work has focused on the formal verification of concurrent programs; he is also interested in other levels of formal assurance, programming models, distributed computing and testing. Gordon, whose industry experience includes working in an operating system incubation group at Microsoft and in Network Appliance Inc.'s filesystem group, previously served as senior research engineer at Samsung Research America." .
 
 <#Jane-Greenberg>
     cb:name "Jane Greenberg" ; 
@@ -295,10 +385,14 @@
     cb:title "Alice B. Kroeger Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 422" ; 
+    cb:education "PhD, Department of Library and Information Science, School of Information Sciences, University of Pittsburgh. MS (specialization in bibliographic control), Columbia University’s School of Library Service. BA (double major in political science and art history), University of Rochester." ; 
     cb:email "jg3243@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/jgreenberg/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Greenberg-Jane.ashx?h=160&la=en&w=125&hash=4AD542AF34F207476CF15BFA24644324AE48B9F6" ; 
+    cb:publications "White, H., Willis, C., and Greenberg, J. (in press). HIVEing: The Effect of a Semantic Web Technology on Inter-Indexer Consistency. Journal of Documentation, 70(3). [Preprint accessible via J. of Doc. site]. Greenberg, J. (in press). Metadata Capital via a Data HIVE. In Campbell, G. (Ed.). Advances in Classification Research. Paper originally delivered at ASIST, SIG/CR 2013 Proceedings, Montreal, Canada, November 3, 2013. Ball, A., Greenberg, J., Perez, C., Chen, C., Jeffery, K., and Koskela, R. (in press). Building a Disciplinary Metadata Standards Directory. 9th International Digital Curation Conference. San Francisco, CA, February 24-27, 2014." ; 
     cb:phone "215.895.2490" ; 
-    cb:interests "Metadata, ontological engineering, data science, knowledge organization, information retrieval" .
+    cb:interests "Metadata, ontological engineering, data science, knowledge organization, information retrieval" ; 
+    cb:bio "Dr. Greenberg's research and teaching interests center on metadata, ontological engineering, and data science, with a foundation in knowledge organization and information retrieval. She currently serves as director of CCI's Metadata Research Center, which advances research in metadata, semantics, and ontologies. Dr. Greenberg is also a senior scientist at the National Evolutionary Synthesis Center (NESCent) in Durham North Carolina, and a 2014 Data Fellow at the National Consortium for Data Science, where she is leading a project targeting fundamental aspects of metadata capital. She also holds a post as a senior associate researcher in Knowledge Organization in the School of Information Studies, University of Wisconsin, Milwaukee. She is the project investigator (PI) on the Helping Interdisciplinary Vocabulary Engineering (HIVE) initiative, which dynamically integrates linked data terminologies and supports automatic indexing; and she is a co-PI of the Dryad repository for data underlying scientific published research." .
 
 <#Rachel-Greenstadt>
     cb:name "Rachel Greenstadt" ; 
@@ -307,10 +401,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 140" ; 
+    cb:education "PhD, Computer Science, Harvard University, School of Engineering and Applied Science. MEng, Electrical Engineering and Computer Science, Massachusetts Institute of Technology. SB, Computer Science and Engineering, Massachusetts Institute of Technology." ; 
     cb:email "greenie@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~greenie" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/greenstadt-rachel.ashx?h=160&la=en&w=124&hash=68D0F00882D48388BAD82E55B692DA88A52C3656" ; 
+    cb:publications "C-2012 A. Caliskan and R. Greenstadt, “Translate once, translate twice, translate thrice and attribute: Identifying authors and machine translation tools in translated text,\"in IEEE Conference on Semantic Computing (ICSC), September 2012.. C-2012 M. Atighetchi and M. Mayhew and R. Greenstadt, “Behavior-Based Access, Control Needs, Benefits, and Concepts,” in Military Communications Conference (MILCOM), October 2012.. C-2012 A. McDonald, S. Afroz, A. Caliskan, A. Stolerman, and R. Greenstadt, “Use Fewer Instances of the Letter “i\": Toward Writing Style Anonymization,\" in Privacy Enhancing Technologies Symposium, July 2012 [AR 22%] (Best Student Paper Award). ." ; 
     cb:phone "215.895.2920" ; 
-    cb:interests "Artificial intelligence, privacy, security, multi-agent systems, economics of electronic privacy and information security" .
+    cb:interests "Artificial intelligence, privacy, security, multi-agent systems, economics of electronic privacy and information security" ; 
+    cb:bio "Dr. Greenstadt's research centers on the privacy and security properties of multi-agent systems and the economics of electronic privacy and information security. Her lab—the Privacy, Security, and Automation Laboratory (PSAL)—focuses on designing more trustworthy intelligent systems that act autonomously and with integrity, so that they can be trusted with important data and decisions. The lab takes a highly interdisciplinary approach to this research, incorporating ideas from artificial intelligence, psychology, economics, data privacy, and system security. However, a common thread of this work has been studying information flow, trustworthiness, and control. Recently, much of PSAL's work has focused on using machine learning to better understand textual communication." .
 
 <#Peter-Grillo>
     cb:name "Peter Grillo" ; 
@@ -319,10 +417,14 @@
     cb:title "Teaching Professor and Associate Department Head for Undergraduate Affairs" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 410" ; 
+    cb:education "PhD, Business Administration ‐ Computer Information Science, Temple University Thesis: A Comparative Investigation of Software Engineering Theory & Practice in Industry & Academia. Advisor: David Lefkovitz, Temple University . Thesis: A Comparative Investigation of Software Engineering Theory & Practice in Industry & Academia. Advisor: David Lefkovitz, Temple University. MS, Computer Science, Rochester Institute of Technology Thesis: The Use of Optical Technology in Current Information Systems . Thesis: The Use of Optical Technology in Current Information Systems . Advanced Graduate Certificate ‐ Multimedia Technology, Rochester Institute of Technology. BS, Chemistry (Minor: Computer Science), State University of New York at Oneonta." ; 
     cb:email "pg54@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/pgrillo" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/grillo-peter.ashx?h=160&la=en&w=125&hash=675070ABDDCEAC13416627A27DF26B2FCBA3C1B6" ; 
+    cb:publications "Project Management Institute,Project Management Professional (PMP Certification currently active). Nov. ‘02 Appointed an eBusiness Fellow Irwin L. Gross eBusiness Institute Temple University . Aug. ‘92 IBM Peer Quality Recognition ." ; 
     cb:phone "215.895.0492" ; 
-    cb:interests "Strategic applications of technology within organizations" .
+    cb:interests "Strategic applications of technology within organizations" ; 
+    cb:bio "Grillo's teaching interests include information systems management, system analysis and design, distributed systems and database management systems. His research interests are in the strategic applications of technology within organizations." .
 
 <#Gregory-Hislop>
     cb:name "Gregory W. Hislop" ; 
@@ -331,10 +433,14 @@
     cb:title "Professor and Senior Associate Dean for Academic Affairs" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 214C" ; 
+    cb:education "PhD, Drexel University, College of Information Science and Technology, 1993 Fields: IS Design and Evaluation; IS Management Dissertation: Assessing the Potential for Software Reuse . Fields: IS Design and Evaluation; IS Management. Dissertation: Assessing the Potential for Software Reuse. MSc, Queen's University, Dept. of Computing, 1976 Field: Computing Science Project: A Simple Clustering Algorithm for Information Retrieval . Field: Computing Science. Project: A Simple Clustering Algorithm for Information Retrieval. BA, Georgetown University, 1975 Major: Economics; Minor: Computer Science . Major: Economics; Minor: Computer Science." ; 
     cb:email "hislop@drexel.edu" ; 
+    cb:website "http://ghmain.ischool.drexel.edu/hislop/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/hislop-gregory.ashx?h=160&la=en&w=125&hash=042CB41AC79CCD4A47A17CAA6B5D3ED5FE78D53E" ; 
+    cb:publications "Ardis, Mark, David Budgen, Gregory W. Hislop, Rene McCauley, Mark J. Sebern. “Revisions to Software Engineering 2004: Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering” ASEE Annual Conference. June, 2012.. Ellis, Heidi J. C., Michelle Purcell, Gregory W. Hislop. “An Approach for Evaluating FOSS Projects for Student Participation.” Proceedings, ACM SIGCSE Symposium. March, 2012.. Hislop, Gregory W. “The Inevitability of Teaching Online.” IEEE Computer. IEEE-CS Press. 42, 12. 94-96. December, 2009.." ; 
     cb:phone "215.895.2179" ; 
-    cb:interests "Information technology for teaching and learning, online education, structure and organization of the information disciplines, computing education research, software evaluation and characterization" .
+    cb:interests "Information technology for teaching and learning, online education, structure and organization of the information disciplines, computing education research, software evaluation and characterization" ; 
+    cb:bio "Dr. Hislop’s disciplinary home at CCI is with the Software Engineering faculty. His scholarly interests span computing education research, technology in education and software engineering. His current efforts focus on humanitarian open source software projects, computing curriculum development and sharing, and online education. As senior associate dean he addresses College-wide issues related to quality, strategy and content of the educational programs." .
 
 <#Xiaohua-Hu>
     cb:name "Xiaohua Tony Hu" ; 
@@ -343,10 +449,14 @@
     cb:title "Professor" ; 
     cb:department "Information Science" ; 
     cb:room "3401 Market Street 325" ; 
+    cb:education "PhD, Computer Science, University of Regina, Canada . MSC, Computer Science, Simon Fraser University, Canada. MEng, Computer Engineering, Institute of Computing Technology, Chinese Academy of Science. BSc, Software, Wuhan University." ; 
     cb:email "xh29@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/thu/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/hu-tony.ashx?h=160&la=en&w=125&hash=89C160ED456899414D27C13DE589955D75C52714" ; 
+    cb:publications "Wang Y. Hu X., AOBA: Recognizing Object Behavior in Pervasive Urban management, IEEE Transactions on Knowledge and Data Engineering, 2013. Lu C., Hu X., J. Park, Exploiting the Social Tagging Network for Web Clustering, IEEE Transactions on Systems, Men and Cybernetics, Part A, Vol 41 (5), Sept., 2011, pp840-852. Hu X., Park, E.K., Zhang X., Microarray Gene Cluster Identification and Annotation through Cluster Ensemble and EM based Informative Textual Summarization, IEEE Transactions on Information Technology in Biomedicine, Sept., 2009, Vol. 13, No. 5, pp832-840." ; 
     cb:phone "215.895.0551" ; 
-    cb:interests "Data mining, text mining, Web searching and mining, information retrieval, bioinformatics and healthcare informatics" .
+    cb:interests "Data mining, text mining, Web searching and mining, information retrieval, bioinformatics and healthcare informatics" ; 
+    cb:bio "Dr. Hu's major research interests include data/Web mining, bioinformatics, information retrieval and rough sets. His teaching interests include data mining, bioinformatics and database systems." .
 
 <#Jeremy-Johnson>
     cb:name "Jeremy Johnson" ; 
@@ -355,22 +465,30 @@
     cb:title "Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 139" ; 
+    cb:education "PhD, Computer and Information Science, The Ohio State University. MS, Computer Science, University of Delaware. BA, Mathematics, University of Wisconsin-Madison." ; 
     cb:email "jjohnson@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~jjohnson" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/johnson-jeremy.ashx?h=160&la=en&w=124&hash=A582A3863F7E5E5669F9DBA56C5E19089F37F392" ; 
+    cb:publications "SDC Testbed: Software Defined Communications Testbed for Wireless Radio and Optical Networking, (with B. Shishkin, D. Pfeil, D. Nguyen, K. Wanuga, J. Chacko, N. Kandasamy, T.P. Kurzweg, and K.R. Dandekar), Proc. 2011 International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt), 2011. . SPIRAL-Generated Modular FFTs, (with Lingchuan Meng, Franz Franchetti, Yevgen Voronenko, Marc Moreno Maza and Yuzhen Xie), Proc. Conference on Parallel Symbolic Computation, PASCO 2010. . Singular Value Decomposition Hardware for MIMO: State of the Art and Custom Design, (with K. Cunningham, P. Nagvajara, Y. Wang), Proc. IEEE International Conference on Reconfigurable Computing and FPGAs (ReConFig), 2010. ." ; 
     cb:phone "215.895.2893" ; 
-    cb:interests "Computer algebra, design and analysis of algorithms, programming languages and compilers, automated performance tuning, algorithms for DSP, parallel processing, and high-performance computing" .
+    cb:interests "Computer algebra, design and analysis of algorithms, programming languages and compilers, automated performance tuning, algorithms for DSP, parallel processing, and high-performance computing" ; 
+    cb:bio "Jeremy Johnson is Professor of Computer Science and Electrical and Computer Engineering at Drexel University. He served as the first Department Head for the newly formed Computer Science department from 2002-2012. His research interests include algebraic algorithms, computer algebra systems, problem solving environments, programming languages and compilers, high performance computing, and automated performance tuning. He directs Drexel's Applied Symbolic Computation lab which focuses on the use of symbolic computation to derive and optimize the implementation of algorithms with mathematical structure. He currently serves as chair of the ACM special interest group on symbolic and algebraic manipulation (SIGSAM) and serves on the editorial board of the journal of Applicable Algebra in Engineering, Communication and Computing. He previously served on the steering committee of the International Symposium on Symbolic and Algebraic Computation (ISSAC). He was guest editor of two issues of the journal of symbolic computation devoted to Computer Algebra and Signal Processing and a collection of papers related to ISSAC 2009 for which he was general chair. He also co-edited a book on Quantifier Elimination and Cylindrical Algebraic Decomposition. He was a founding member of the SPIRAL project on the automatic generation and optimization of digital signal processing algorithms and was a key part of the DARPA funded Very High Dimensionality Study, which developed the mathematical framework and a prototype domain specific language (Tensor Product Language) and special purpose compiler that led to the SPL language. He was also a member of the DoE funded Power grid project which developed hardware to accelerate load flow computation and various sparse linear algebra kernels." .
 
 <#Constantine-Katsinis>
     cb:name "Constantine Katsinis" ; 
     cb:name "Katsinis" ; 
     cb:property "faculty" ; 
-    cb:title "Associate Teaching Professor" ; 
+    cb:title "Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 114" ; 
+    cb:education "PhDEE, University of Rhode Island. MSEE, University of Rhode Island. BSEE, Polytechnic University of Athens, Greece." ; 
     cb:email "katsinis@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~ck47/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/katsinis-constantine.ashx?h=160&la=en&w=125&hash=AF57FE1F5B449FF24BD4D3590A51872050D2F38E" ; 
+    cb:publications "C. Katsinis, \"Performance Analysis of the Simultaneous Optical Multiprocessor Exchange Bus\", Parallel Computing Journal, Vol. 27, No. 8, pp. 1079-1115, July 2001.. C. Katsinis, \"Models of Distributed-shared-memory on An Interconnection Network for Broadcast Communication\", Journal of Interconnection Networks, v. 4, n. 1, March 2003.. C. Katsinis, \"Hot-Spots on an Interconnection Network for Broadcast Communication\", Computer Systems Science and Engineering, v. 19, n. 1, Jan. 2004, pp. 49-56.." ; 
     cb:phone "215.895.0966" ; 
-    cb:interests "Computer Security, network security, parallel computer architectures, mobile computing, information assurance, fault tolerant systems, image processing and pattern recognition" .
+    cb:interests "Computer Security, network security, parallel computer architectures, mobile computing, information assurance, fault tolerant systems, image processing and pattern recognition" ; 
+    cb:bio "Dr. Katsinis' research interests include: Computer Security, Computer Architecture, Parallel Processing Systems, Fault Tolerant Systems, Image Processing and Pattern Recognition. Dr. Katsinis received his B. S. from the Polytechnic University of Athens, Greece, and his M.S. and Ph.D. from the University of Rhode Island, Kingston, RI., all in Electrical Engineering. He has held positions at the University of Denver and the University of Alabama in Huntsville and has been with Drexel since 1998. He is currently Associate Professor of Computer Security at the College of Computing and Informatics. Dr. Katsinis has specialized in computer and network security, parallel computer architectures, fault tolerant systems, image processing and performance analysis. He has been the PI or Co-PI of several research projects supported by NSF, US ARMY MICOM, DARPA, ONR, NASA, IBM, Motorola, and other companies totaling more than $3,000,000. He has supervised 12 MS Students and 5 Ph.D. students. Recently, Dr. Katsinis has been the Co-PI of a one-year contract awarded by the US Army. The purpose of this effort was research and development of computer network capabilities for various mobile devices (such as cell phones) with focus on mobile computing, computer security, information assurance and evaluation of distributed intelligent systems. Currently, Dr. Katsinis is a Co-PI (with faculty from the College of Engineering and the College of Computing & Informatics) of a three-year grant awarded by the National Science Foundation." .
 
 <#Weimao-Ke>
     cb:name "Weimao Ke" ; 
@@ -379,10 +497,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 408" ; 
+    cb:education "PhD, Information Science, University of North Carolina at Chapel Hill. MA, Information Science, Indiana University Bloomington. BE, Chemical Engineering, East China University of Science & Technology." ; 
     cb:email "wk@drexel.edu" ; 
+    cb:website "http://lincs.ischool.drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/WeimaoKe.ashx?h=156&la=en&w=125&hash=500E840DD870ADD0CB14F384395DE2D7D543CE4F" ; 
+    cb:publications "Weimao Ke (2013). Information-theoretic Term Weighting Schemes for Document Clustering. In JCDL’13: Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, pp. 143-152. Indianapolis, IN. . Weimao Ke and Javed Mostafa (2013). Studying the Clustering Paradox and Scalability of Search in Highly Distributed Environments. ACM Transactions on Information Systems, 31(2), pp. 8:1-8:36. ACM Press. . Weimao Ke (2013). A Fitness Model for Scholarly Impact Analysis. Scientometrics, 94(3), pp. 981-998. OnlineFirst July 2012. Springer.." ; 
     cb:phone "215.895.5912" ; 
-    cb:interests "Information retrieval (IR), distributed systems, intelligent filtering/recommendation, information visualization, network science, complex systems, machine learning, text/data mining, multi-agent systems" .
+    cb:interests "Information retrieval (IR), distributed systems, intelligent filtering/recommendation, information visualization, network science, complex systems, machine learning, text/data mining, multi-agent systems" ; 
+    cb:bio "Dr. Ke's research is centered on information retrieval (IR), particularly the investigation of intelligent systems that support better connection and interaction between people and information. His recent focus is on decentralized IR functions that can adapt and scale in continuously growing and increasingly interconnected information spaces. His broad interests also include complex networks/systems, text mining, information visualization, bibliometrics, machine learning, multi-agent systems, and the notion of information. Dr. Ke's major teaching interests include IR, databases, data mining, software/web development, and complex systems." .
 
 <#Michael-Khoo>
     cb:name "Michael Khoo" ; 
@@ -391,10 +513,14 @@
     cb:title "Assistant Teaching Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 406" ; 
+    cb:education "2004 Ph.D.: Department of Communication, University of Colorado at Boulder, USA Graduate School Dean's Student Research and Creative Work Award for 2004. 2000 M.A. (Distinction): Department of Anthropology, University of Colorado at Boulder, USA. 1984 M.A.: Institute of Commonwealth Studies, School of Oriental and African Studies (SOAS), The University of London School of Advanced Study, London, U.K.. 1983 B.A. Honours, First Class (Summa cum laude): Dept. Geography, Bulmershe College of Higher Education, Reading, Berkshire, U.K.." ; 
     cb:email "khoo@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/mkhoo" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/khoo-michael.ashx?h=160&la=en&w=125&hash=CF17E70CC898ACF88417662A2E6FBAC111E0C069" ; 
+    cb:publications "Khoo, M., Tudhope, D., Binding, C., Jones, H., and Orrego, I. (2013). OAI-PMH and Metadata Aggregation From Heterogeneous Digital Libraries: Three Case Studies. Conference Note: iConference 2013, Fort Worth, TX, February 12-15, 2013. . Khoo, M., Hall, C. (2013). Managing metadata: Networks of practice, technological frames, and technical work in a digital library. Forthcoming in Information and Organization. . Khoo, M., Hall, C. (2012). What Would 'Google' Do? Users' Mental Models of a Digital Library Search Engine. Theory and Practice of Digital Libraries (TPDL) 2012, Paphos, Cyprus, September 23-27, 2012. Awarded 1st Prize, Best Paper Competition. ." ; 
     cb:phone "215.895.1230" ; 
-    cb:interests "Understandings and practices that users bring to their interactions with information systems, with a focus on the evaluation of digital libraries and educational technologies" .
+    cb:interests "Understandings and practices that users bring to their interactions with information systems, with a focus on the evaluation of digital libraries and educational technologies" ; 
+    cb:bio "My research investigates the sociotechnical dimensions of information systems. My focus is on understanding libraries, archives, and digital repositories; the digitization of physical artifacts; interoperability; and the role of metadata in describing and classifying resources, and making them accessible to users. I draw on theories of practice and tacit knowing from various domains, including sociotechnical studies, anthropology, philosophy, communication studies, and user-centered design, in order to investigate the different frames and practices that individuals and groups bring to their interactions with repositories and metadata. I use mainly qualitative methods, based on ethnography, observation, and interviews. He has carried out research in the Himalayas with a major telecommunications corporation, and with the National Science Digital Library (nsdl.org)." .
 
 <#Xia-Lin>
     cb:name "Xia Lin" ; 
@@ -403,10 +529,14 @@
     cb:title "Professor and Director of International Programs" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 415" ; 
+    cb:education "PhD in Information Science, 1993, University of Maryland at College Park.. Master of Librarianship, 1986, Emory University, Atlanta, Georgia.. Bachelor of Science in Mathematics, 1982, Fujian Normal University, Fuzhou, China.." ; 
     cb:email "xlin@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/xlin/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/lin-xia.ashx?h=160&la=en&w=125&hash=93079BE759411FFF3191958D037935A2AFFB4A92" ; 
+    cb:publications "Lin, X.; Zhang, M.; Shang, Y.; & An, Y. (2014). An ontology and brain-model-based semantic discovery and visualization system. The sixth International Conference on Advanced Cognitive Technologies and Applications (Cognitive’2014, Venice, Italy, May 25-29, 2014), pp. 72-76. . Lin, X., & Ahn, J. (2013). Challenges of knowledge structure visualization. Proceedings of the International UDC Seminar 2013, Classification & Visualization: Interfaces to Knowledge (The Hague, 24-25, October 2013), pp 73-87.. Lin, X., Kerren, A.; Zhang, J. (2009). Challenges in human-centered information visualization: Introduction to the special issues. Information Visualization Journal, 8(3), 137-138.." ; 
     cb:phone "215.895.2482" ; 
-    cb:interests "Digital libraries, information visualization, knowledge mapping, object-oriented programming, information retrieval, information architecture, information-seeking behaviors in digital environments" .
+    cb:interests "Digital libraries, information visualization, knowledge mapping, object-oriented programming, information retrieval, information architecture, information-seeking behaviors in digital environments" ; 
+    cb:bio "Dr. Lin's major teaching interests include information retrieval, digital libraries, and programming Internet information systems (Java Programming). His research focuses on visual-based information access in the digital environment. He is particularly interested in applying information visualization techniques for information access, content management, and knowledge discovery." .
 
 <#Geoffrey-Mainland>
     cb:name "Geoffrey Mainland" ; 
@@ -415,10 +545,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 106" ; 
+    cb:education "Harvard University PhD in Computer Science, May 2011 Advised by Dr. Greg Morrisett and Dr. Matthew Welsh. . PhD in Computer Science, May 2011. Advised by Dr. Greg Morrisett and Dr. Matthew Welsh.. Harvard University AB in Physics, Magna Cum Laude, June 2000 . AB in Physics, Magna Cum Laude, June 2000." ; 
     cb:email "mainland@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~mainland/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/mainland-geoffrey.ashx?h=160&la=en&w=124&hash=26AD148C3349F45C9E3B950B0266025819D34D73" ; 
+    cb:publications "Geoffrey Mainland. Explicitly heterogeneous metaprogramming with MetaHaskell. In Proceedings of the 17th ACM SIGPLAN International Conferenceon Functional Programming(IFCP ’12), pages 311—322, Copenhagen, Denmark, 2012. . Gavin Bierman, Claudio Russo, Geoffrey Mainland, Erik Meijer, and Mads Torgersen. Pause ’n’ play: Formalizing asynchronous C♯. In Proceeedings of the ƻƿth European Conference on Object-Oriented Programming (ECOOP’12), Lecture Notes in Computer Science, pages 233—257, Beijing, China, jan 2012. . Geoffrey Mainland and Greg Morrisett. Nikola: Embedding compiled GPU functions in Haskell. In Proceedings of the third ACM Symposium on Haskell(Haskell’10), pages 67–78, Baltimore,Maryland, USA, 2010. ." ; 
     cb:phone "215.895.1518" ; 
-    cb:interests "High-level programming languages and runtime support for non-general purpose computation" .
+    cb:interests "High-level programming languages and runtime support for non-general purpose computation" ; 
+    cb:bio "Geoffrey Mainland is an assistant professor of computer science at Drexel University. Mainland's research focuses on high-level programming language and runtime support for non-general purpose computation. His work seeks to make it easier to exploit the power of special-purpose devices, like GPUs, that require specialized programming models for optimal efficiency. After obtaining an bachelor of arts degree in physics from Harvard, Mainland spent three years working in Silicon Valley. He then returned to Harvard, where he completed his doctorate in computer science in 2011. He was also a postdoctoral researcher with the Programming Principles and Tools group at Microsoft Research Cambridge (UK). Mainland's research interests span both the systems and programming languages communities. He has published papers at conferences such as Networked Systems Design and Implementation (NSDI) and the International Conference on Functional programming (ICFP)." .
 
 <#Spiros-Mancoridis>
     cb:name "Spiros Mancoridis" ; 
@@ -427,10 +561,14 @@
     cb:title "Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 146A" ; 
+    cb:education "1996: PhD (Doctor of Philosophy in Computer Science) University of Toronto, Department of Computer Science. Thesis: Controlling the Interactions of Architectural Design Components Using Scoping Rules. Supervisor: Prof. Richard C. Holt . Thesis: Controlling the Interactions of Architectural Design Components Using Scoping Rules. . Supervisor: Prof. Richard C. Holt . 1992: MSc (Master of Science in Computer Science) University of Toronto, Department of Computer Science. Thesis: A Visual Programming Environment for Object-Oriented Turing Supervisor: Prof. Richard C. Holt . Thesis: A Visual Programming Environment for Object-Oriented Turing . Supervisor: Prof. Richard C. Holt . 1990: BCSH (Bachelor of Pure and Applied Science with in Computer Science with Honors) Acadia University, Department of Computer Science. ." ; 
     cb:email "spiros@drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~spiros" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/mancoridis-spiros-2015.ashx?h=160&la=en&w=124&hash=986ACBAE504F30A20B94723F396ED58A3C50B76D" ; 
+    cb:publications "E. Stehle, M. Shevertalov, P. deGrandis, S. Mancoridis, and M. Kam. \"Perception of Utility in Autonomic VoIP Systems\", International Journal On Advances in Intelligent Systems, Volume 2, No 1, 2009, pp. 92-106. . B. S. Mitchell, S. Mancoridis, On the evaluation of the Bunch search-based software modularization algorithm, Springer-Verlag Journal of Soft Computing, Volume12, Number1, 2007, pp. 77-92. . B. S. Mitchell, S. Mancoridis, On the Automatic Modularization of Software Systems Using the Bunch Tool, IEEE Transactions on Software Engineering, Volume 32, Number 3, 2006, pp. 193-208 ." ; 
     cb:phone "215.895.6824" ; 
-    cb:interests "Software engineering, software security, code analysis, evolutionary computation" .
+    cb:interests "Software engineering, software security, code analysis, evolutionary computation" ; 
+    cb:bio "Dr. Mancoridis serves as professor at the College of Computing & Informatics (CCI) at Drexel University. He holds a BCSH in computer science from Acadia University and MSc and PhD degrees from the University of Toronto. He joined Drexel's faculty in 1996, previously serving as interim department head of the Department of Computer Science, and then as senior associate dean of CCI academic affairs. He is the recipient of the National Science Foundation’s 1998 CAREER Award. He served as interim dean of CCI from July 2015 to August 2016. He is a member of the IEEE (senior member), ACM and SIGSOFT. He has authored or co-authored more than 70 refereed technical publications. In 2008, Mancoridis was recognized with an Outstanding Researcher Award from the College of Engineering. His expertise includes autonomic computing, software design and architecture, reverse engineering, software clustering, software visualization, software security, genetic algorithms and software engineering education." .
 
 <#Gabriela-Marcu>
     cb:name "Gabriela Marcu" ; 
@@ -439,10 +577,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 414" ; 
+    cb:education "PhD, Human-Computer Interaction, Carnegie Mellon University. BS (with honors), Informatics, University of California at Irvine." ; 
     cb:email "gmarcu@drexel.edu" ; 
+    cb:website "http://www.gabrielamarcu.com" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/marcu-gabriella.ashx?h=160&la=en&w=125&hash=E4DA89CD8E93979A87FD1AD7C8B74AC3D75261D2" ; 
+    cb:publications "Marcu, G., Dey, A. K., Kiesler, S. (2014) Designing for Collaborative Reflection. Proceedings of the International ICST Conference on Pervasive Computing Technologies for Healthcare (PervasiveHealth). Best Paper Nomination.. Marcu, G., Tassini, K., Carlson, Q., Goodwyn, J., Rivkin, G., Schaefer, K., Dey, A. K., Kiesler, S.(2013). Why Do They Still Use Paper? Understanding Data Collection and Use in Autism Education. Proceedings of the ACM SIGCHI Conference on Human Factors in Computer Systems (CHI). 3177-3186.. Marcu, G., Dey, A. K., and Kiesler, S. Parent-Driven Use of Wearable Cameras for Autism Support: A Field Study with Families. (2012). Proceedings of the ACM International Conference on Ubiquitous Computing (Ubicomp). 401-410. ." ; 
     cb:phone "215.895.2474" ; 
-    cb:interests "Human-computer interaction, health informatics, action research, ethnography, user experience design, designing for social change, organizational information systems, ubiquitous computing, knowledge management" .
+    cb:interests "Human-computer interaction, health informatics, action research, ethnography, user experience design, designing for social change, organizational information systems, ubiquitous computing, knowledge management" ; 
+    cb:bio "Dr. Marcu’s research interests include human-computer interaction, health informatics, ubiquitous computing, action research, ethnography, user experience design, designing for social change, and organizational information systems. She specializes in designing, developing, and deploying collaborative systems through field studies. She is a 2013 Siebel Scholar and a 2010 recipient of a National Science Foundation Graduate Research Fellowship. She recently defended her dissertation titled “Designing for collaborative reflection” which centers on the design of systems to support long-term coordination of health services. She has studied informal collaboration in behavioral and mental health services for children, and designed systems to encourage the use of data along with intuition for decision-making." .
 
 <#Linda-Marion>
     cb:name "Linda Marion" ; 
@@ -451,10 +593,14 @@
     cb:title "Teaching Professor and Associate Department Head for Graduate Affairs" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 216" ; 
+    cb:education "PhD, Information Science, Drexel University. MS, Library and Information Science, Drexel University. MEd, Educational Psychology, Temple University. BS, Social Work, Temple University." ; 
     cb:email "linda.marion@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/lmarion/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/marion-linda.ashx?h=160&la=en&w=125&hash=E7101998D4F868A4C4E761D05EAEF5CBF7D4C6EE" ; 
+    cb:publications "Cornelius, F., Lum,R., Marion, L., Holt, K., Killen, M., Solan, A., Giering, J., Grant, A. (2013). If you build it, will they come? An innovative approach to shift the culture of a university. Challenges and realities of academic integrity: Best practices for instilling sustainable change in students and faculty. INTED 2013 7th International Technology, Education and Development Conference Valencia, Spain, March 4-6, 2013. http://www.iated.org/concrete2/technical_program.php. Grant, A., Holt, K., Cornelius, F., Solan, A., Killen, M., Giering, J., Lum, R., Marion, L. (2013). Challenges and realities of academic integrity: Best practices for instilling sustainable change in students and faculty. INTED 2013 7th International Technology, Education and Development Conference Valencia, Spain, March 4-6, 2013. http://www.iated.org/concrete2/technical_program.php. Park, J., Lu, C., Marion, L. (2009). Cataloging professionals in the digital environment: A content analysis of job descriptions. Journal of the American Society for Information Science and Technology 60(4), 844-857. ." ; 
     cb:phone "215.895.1532" ; 
-    cb:interests "Formal and informal communication, bibliometric studies of scholarly communication, diffusion of information, information use in the social sciences, academic and public libraries, information science education" .
+    cb:interests "Formal and informal communication, bibliometric studies of scholarly communication, diffusion of information, information use in the social sciences, academic and public libraries, information science education" ; 
+    cb:bio "Marion's major teaching areas comprise core courses in the MSLIS program. Her background is in the social sciences, and her professional experience includes academic and corporate libraries. Prior to joining the library and information science profession, Marion was a licensed psychologist. Her primary research interests focus on aspects of formal and informal communication including bibliometric studies of scholarly literatures and analysis of the LIS and IS/IT job market. She is also interested in services to urban and rural populations." .
 
 <#Adelaida-Medlock>
     cb:name "Adelaida Alban Medlock" ; 
@@ -463,8 +609,11 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 107" ; 
+    cb:education "Masters of Science in Information Systems, Drexel University. Masters of Science in Library and Information Science, Drexel University. Bachelor of Science in Computer Engineering, Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil - Ecuador." ; 
     cb:email "aalban@drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~aalban" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/medlock-adelaida-alban.ashx?h=160&la=en&w=124&hash=80B07122F8928450E297179D69B0C2F24110E241" ; 
+    cb:publications "October 1999: ESPOL Teaching Excellence Award for academic year 1998 - 1999. . Award based on superior evaluation from students throughout academic year 1998-1999. . October 1998: Beta-Phi-Mu International Library and Information Studies Honor Society (Member). ." ; 
     cb:phone "215.895.2672" ; 
     cb:interests "Introductory programming, computer science education" .
 
@@ -475,10 +624,14 @@
     cb:title "Associate Teaching Professor & Associate Department Head for Undergraduate Affairs" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100D" ; 
+    cb:education "Dual Masters of Science, Drexel University, Philadelphia, Pennsylvania 2005-2008 MS in Computer Science, College of Engineering MS in Science of Instruction, School of Education Pennsylvania Instructional I Teaching Certificate MS Thesis in Computer Science: A Service-Based Web Portal for Integrated Reverse Engineering and Program Comprehension Earned a Secondary Mathematics (Pennsylvania In-State: Mathematics Grades 7-12) teaching Certification in Pennsylvania . MS in Computer Science, College of Engineering. MS in Science of Instruction, School of Education. Pennsylvania Instructional I Teaching Certificate. MS Thesis in Computer Science: A Service-Based Web Portal for Integrated Reverse Engineering and Program Comprehension. Earned a Secondary Mathematics (Pennsylvania In-State: Mathematics Grades 7-12) teaching Certification in Pennsylvania. Bachelor of Science, Magna Cum Laude Drexel University, Philadelphia, Pennsylvania 2000-2005 Computer Science, College of Engineering . Computer Science, College of Engineering." ; 
     cb:email "wmm24@cs.drexel.edu" ; 
+    cb:website "http://www.cs.drexel.edu/~wmm24" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/mongan-william.ashx?h=160&la=en&w=124&hash=F546D0CFFA6D32441E5988AABB5DE002811E1738" ; 
+    cb:publications "William Regli, Israel Mayk, Christopher Cannon, Joseph Kopena, Robert Lass and William M. Mongan. Development and Specification of a Reference Architecture for Agent-Based Systems. Published in the IEEE Transactions on Human-Machine Systems, 2013.. William M. Mongan, Maxim Shevertalov, Spiros Mancoridis. Re-engineering a Reverse Engineering Portal to a Distributed SOA. Published in the IEEE Proceedings of the 16th International Conference on Program Comprehension (ICPC), 2008.. Quincy Brown, William Mongan, Elaine Garbarine, Dara Kusic, Eli Fromm, Adam Fontecchio. Computer Aided Instruction as a Vehicle for Problem Solving: Scratch Programming Environment in the Middle Years Classroom. Published in Proceedings of the American Society for Engineering Education (ASEE) K-12 Track, 2008.." ; 
     cb:phone "215.895.0286" ; 
-    cb:interests "Service-oriented architectures, program comprehension, reverse engineering, software engineering, computer architecture, computer science education" .
+    cb:interests "Service-oriented architectures, program comprehension, reverse engineering, software engineering, computer architecture, computer science education" ; 
+    cb:bio "Mongan's research interests include service-oriented architectures, reconfigurable computing and program comprehension through software engineering. He also enjoys computer science education and engineering education outreach, and has served as an NSF GK-12 Fellow and holds a secondary mathematics teaching certification in Pennsylvania. Outside of these pursuits, Mongan is a Senior Member of the Association for Computing Machinery (ACM), and an instrument-rated private pilot." .
 
 <#Gaurav-Naik>
     cb:name "Gaurav Naik" ; 
@@ -487,6 +640,7 @@
     cb:title "Assistant Research Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "3401 Market Street, Rm. 319" ; 
+    cb:education "BS/MS, Computer Engineering, Drexel University." ; 
     cb:email "gn23@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/naikgaurav.ashx?h=160&la=en&w=125&hash=2FD300E5FFB814022A762F2208816091D5105F96" ; 
     cb:phone "215.571.4512" ; 
@@ -499,10 +653,14 @@
     cb:title "Professor & Associate Department Head for Graduate Affairs" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100G" ; 
+    cb:education "Ph.D. in Computer Science, Graduate School of Science, The University of Tokyo, 2002. M.S. in Information and Communication Engineering, Graduate School of Engineering, The University of Tokyo, 1999. B.S. in Information and Communication Engineering, Faculty of Engineering, The University of Tokyo, 1997 ." ; 
     cb:email "kon@drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~kon" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/nishino-ko.ashx?h=160&la=en&w=125&hash=9BE7162365D67A784CE7147886BF9232C92AE2AE" ; 
+    cb:publications "\"Modeling, Simulation and Visual Analysis of Crowds: A Multidisciplinary Perspective,\" S. Ali, K. Nishino, D. Manocha, and M. Shah, Eds., ISBN 978-1461484820, Springer, 2013.. \"3D Geometric Scale Variability in Range Images: Features and Descriptors,\" P. Bariya, J. Novatnack, G. Schwartz, and K. Nishino, in Int'l Journal of Computer Vision, vol. 99, no. 2, pp232-255, Sept., 2012.. \"Multiview Shape and Reflectance from Natural Illumination,\" G. Oxholm and K. Nishino, in Proc. of IEEE International Conference on Computer Vision and Pattern Recognition CVPR'14, Jun., 2014.." ; 
     cb:phone "215.895.2678" ; 
-    cb:interests "Computer vision, computer graphics, analysis and synthesis of visual appearance" .
+    cb:interests "Computer vision, computer graphics, analysis and synthesis of visual appearance" ; 
+    cb:bio "Dr. Nishino is an Professor of Computer Science at Drexel University. Prior to joining Drexel in fall 2005, Dr. Nishino was a postdoctoral research scientist at Columbia University. He received all his degrees from The University of Tokyo: both B.E. and M.E. in Information and Communication Engineering in 1997 and 1999, respectively, and Ph.D. in Information Science in 2002. Dr. Nishino's research interests lie primarily in computer vision, specifically in developing novel models and computational algorithms to better extract, understand, and regenerate visual information from photographs and videos. To this end, his work's main focus centers on leveraging intrinsic structures of visual data -- the latent structures that can be found in the geometry, radiometry, and motion of real-world scenes that are not necessarily apparent to the naked eye." .
 
 <#Danuta-Nitecki>
     cb:name "Danuta A. Nitecki" ; 
@@ -511,10 +669,13 @@
     cb:title "Dean of Libraries, Professor" ; 
     cb:department "Information Science" ; 
     cb:room "W.W. Hagerty Library" ; 
+    cb:education "PhD, University of Maryland College Park, Library and Information Science [dissertation: An Assessment of the Applicability of SERVQUAL Dimensions as Customer-Based Criteria for Evaluating Quality of Services in an Academic Library. 1995] . [dissertation: An Assessment of the Applicability of SERVQUAL Dimensions as Customer-Based Criteria for Evaluating Quality of Services in an Academic Library. 1995]. MS, Univerity of Tennessee, Knoxville, Communications. MS, Drexel University, Library Science. BA, Senior Honors, University of Wisconsin, Milwaukee, Art History." ; 
     cb:email "danuta.nitecki@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/nitecki-danuta.ashx?h=160&la=en&w=125&hash=028A49BF49BDADC2F025CC39F8E266065581823E" ; 
+    cb:publications "Modeling information diffusion in university libraries: managing peer engagement as a complex dynamic system [co-authored with W. Michael Johnson] Proceedings of Reinventing Libraries, Reinventing Assessment Innovative Practices and Ideas that Challenge the Status Quo. City University of New York, 2014 [in press]. Exploring the cause and effect of library value [co-authored with Eileen G. Abels] Performance Measurement and Metrics. 14:1, 2013, 17-24 . Viewing Library Metrics from Different Perspectives: Inputs, Outputs, and Outcomes. [co-authored with Robert E. Dugan and Peter Hernon] ABC-CLIO, Santa Barbara CA. 2009." ; 
     cb:phone "215.895.2750" ; 
-    cb:interests "Library metrics and use in management, library as place, and academic library service models" .
+    cb:interests "Library metrics and use in management, library as place, and academic library service models" ; 
+    cb:bio "Dr. Nitecki's primary research interests focus on library metrics and use in management, library as place, and academic library service models. She is currently focusing on her new assignment as Dean of Libraries, but expects to teach in the future in areas related to academic libraries services, research methods and management. Dr. Nitecki's professional experience includes administrative positions in large academic research libraries, publishing, teaching in both classroom settings as well as online professional development programs. Prior to coming to Drexel, Dr. Nitecki has held administrative positions in libraries of the Universities of Tennessee, Illinois, Maryland and Yale. Prior teaching experiences include graduate courses in library research methods and evaluation at universities in US and Parma Italy, and professional online series through ARL." .
 
 <#Krzysztof-Nowak>
     cb:name "Krzysztof Nowak" ; 
@@ -523,10 +684,13 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 109" ; 
+    cb:education "Ph.D. in Mathematics, Washington University, St. Louis, 1991 . M.A. in Mathematics, University of Wroclaw Poland, 1986 . M.S.C. in Computer Science and Management, Technical University of Wroclaw, Poland, 1983 ." ; 
     cb:email "kn33@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/nowak-krzysztof.ashx?h=160&la=en&w=124&hash=7F90662594DC84B5E7F7854A1AE6AB76A4AA3296" ; 
+    cb:publications "With E. Cordero, F. De Mari, A. Tabacco, A dimensional bound for admissible subgroups of the symplectic group, Mathematische Nachrichten 283 (7): 982-993, 2010.. With E. Cordero, F. De Mari, A. Tabacco, Analytic features of reproducing groups for the metaplectic representation, J. Fourier Anal. Appl., 12 (2): 157-180, 2006.. With E. Cordero, F. De Mari, A. Tabacco, Reproducing subgroups for the metaplectic representation, Operator Theory: Advances and Applications, Vol. 164: 227-244, 2006.." ; 
     cb:phone "215.895.6826" ; 
-    cb:interests "Fourier analysis, partial differential equations, image processing, wavelets, asymptotic distribution of eigenvalues, numerical methods and algorithms, computer science education" .
+    cb:interests "Fourier analysis, partial differential equations, image processing, wavelets, asymptotic distribution of eigenvalues, numerical methods and algorithms, computer science education" ; 
+    cb:bio "Krzysztof G. Nowak is an Associate Teaching Professor of Computer Science at Drexel University. Before joining Drexel, he held a position at the Mathematics Department of the University of Wroclaw. Over the years he has taught a wide variety of Math and Computer Science courses, starting at Washington University, and then continuing at the University of Wroclaw, Technical University of Darmstadt, SUNY Purchase, and finally at Drexel. His research interests include harmonic analysis, operator theory and discrete mathematics. He is a recipient of the Lise Meitner Fellowship from the Austrian Science Foundation, and has authored or co-authored more than 20 research papers. Nowak received a M.S.C. in Computer Science and Management from the Technical University of Wroclaw in 1983, an M.A. in Mathematics from the University of Wroclaw in 1986, and a Ph.D. in Mathematics from Washington University in 1991." .
 
 <#Santiago-Ontañón>
     cb:name "Santiago Ontañón" ; 
@@ -535,10 +699,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "3401 Market Street 322" ; 
+    cb:education "PhD, Computer Science (Artificial Intelligence), cum laude, Autonomous University of Barcelona." ; 
     cb:email "santi@cs.drexel.edu" ; 
+    cb:website "https://sites.google.com/site/santiagoontanonvillar" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/ontanon-santiago.ashx?h=160&la=en&w=124&hash=08358DE80F9AE18ACF7DAA0B8BDC58D88500961E" ; 
+    cb:publications "Santiago Ontañón and Enric Plaza (2014) Coordinated Inductive Learning using Argumentation-based Communication. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS). Santiago Ontañón, Jose L. Montaña, Avelino Gonzalez (2014) A Dynamic-Bayesian Network Framework for Modeling and Evaluating Learning from Observation. Expert Systems with Applications Journal. Volume 41, Issue 11, 1 September 2014, Pages 5212–5226. Santiago Ontañón, Gabriel Synnaeve, Alberto Uriarte, Florian Richoux, David Churchill, Mike Preuss (2013) A Survey on Real-Time Strategy Game AI Research and Competition in StarCraft. Transactions of Computational Intelligence and AI in Games (TCIAIG), Volume 5, Issue 4, pages 1 - 19.." ; 
     cb:phone "215.571.4109" ; 
-    cb:interests "Game AI, computer games, artificial intelligence, machine learning, case-based reasoning" .
+    cb:interests "Game AI, computer games, artificial intelligence, machine learning, case-based reasoning" ; 
+    cb:bio "Dr. Ontañón's research focus lies in the intersection of artificial intelligence, computer games, machine learning and case-based reasoning. He has published over 90 scientific articles in these areas. Previous to joining Drexel University, he spent three years at the Georgia Institute of Technology as a postdoctoral researcher, and two years as a researcher at the Artificial Intelligence Research Institute (IIIA) in Barcelona, Spain." .
 
 <#Jung-ran-Park>
     cb:name "Jung-ran Park" ; 
@@ -547,10 +715,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 212" ; 
+    cb:education "Ph.D. Linguistics, University of Hawaii, 2003. MLIS. Library and Information Science, University of Hawaii, 2000. M.A. Korean Linguistics, Sogang University, South Korea, 1994. B.A. Korean Language and Literature, Mokpo National University, South Korea, 1992 ." ; 
     cb:email "jung-ran.park@ischool.drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/jpark/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/park-jung-ran.ashx?h=160&la=en&w=125&hash=AAB5936B1B80F48E34D34A8393C130BD02AABCDB" ; 
+    cb:publications "Yuji Tosaka and Jung-ran Park (2013). RDA: Resource Description & Access—A Survey of the Current State of the Art. Journal of the American Society for Information Science and Technology 64 (4): 651-662.. Caimei Lu, Xiaohua Hu, Jung-ran Park (2011). Exploring the Social Tagging Network for Web Clustering. IEEE Transactions on Systems, Man, and Cybernetics. Part A: Systems and Humans 41 (5): 840 – 852.. Amy Burger, Jung-ran Park and Guisu Li (2010). Assessing the Quality of the Internet Public Library’s (IPL) Virtual Reference Services. Internet Reference Services Quarterly 15 (4): 209-226. December 2010 ." ; 
     cb:phone "215.895.1669" ; 
-    cb:interests "Knowledge organization and representation (cataloging and classification, metadata) computer-mediated communication, cross-cultural communication, multilingual information access, discourse, and pragmatics" .
+    cb:interests "Knowledge organization and representation (cataloging and classification, metadata) computer-mediated communication, cross-cultural communication, multilingual information access, discourse, and pragmatics" ; 
+    cb:bio "Dr. Park's major research interests include knowledge organization and representation (cataloging and classification, metadata, image indexing, thesauri, lexicons, ontologies, Semantic Web), computer-mediated communication, cross-cultural communication, multilingual information access, discourse, and pragmatics. Dr. Park's teaching interests include information organization (cataloging and classification, metadata schemes), information resources in the humanities, academic libraries/librarianship and computer-mediated discourse analysis." .
 
 <#Alex-Poole>
     cb:name "Alex Poole" ; 
@@ -559,10 +731,12 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 410" ; 
+    cb:education "PhD, Library and Information Science (dissertation title: “Forging Our Cultural Commonwealth: the Importance of Digital Curation in the Digital Humanities”), University of North Carolina (UNC) at Chapel Hill. MS, Library Science (Beta Phi Mu), UNC at Chapel Hill. MA, History, Brown University. BA, History (with highest honors), Williams College." ; 
     cb:email "ahp56@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Poole.ashx?h=160&la=en&w=125&hash=D4FA45E2A665D2956637649D1687A4958052388E" ; 
     cb:phone "215.895.6275" ; 
-    cb:interests "Archives and records, digital curation, digital humanities, and diversity, inclusivity, and social justice." .
+    cb:interests "Archives and records, digital curation, digital humanities, and diversity, inclusivity, and social justice." ; 
+    cb:bio "Alex Poole's research interests center on digital curation, digital humanities, pedagogy, diversity and inclusivity in the LIS profession, and all matters archival. Poole previously served as teaching fellow at the UNC Chapel Hill School of Information and Library Science, where he taught in areas such as archives and records management, digital humanities, and information resources and services. Among other venues, his work has been published in Digital Humanities Quarterly, American Archivist, and Archival Science. He received the Theodore Calvin Pease Award from the Society of American Archivists for his article “The Strange Career of Jim Crow Archives: Race, Space, and History in the Mid-Twentieth-Century South.”" .
 
 <#Jeffrey-Popyack>
     cb:name "Jeffrey Popyack" ; 
@@ -571,10 +745,14 @@
     cb:title "Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 141" ; 
+    cb:education "PhD, Applied Mathematics, University of Virginia Thesis: Approximating Large-Scale Markov Decision Processes . Thesis: Approximating Large-Scale Markov Decision Processes . MS, Applied Mathematics, University of Virginia Thesis: Computational Methods for Undiscounted Markov Decision Chains . Thesis: Computational Methods for Undiscounted Markov Decision Chains . BS, Mathematics, George Mason University." ; 
     cb:email "jpopyack@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~jpopyack" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/popyack-jeff.ashx?h=160&la=en&w=124&hash=91B6F36F29FA0A6361EE430DFA32BEDC924CB1A4" ; 
+    cb:publications "Popyack, J.L., “Blackjack-Playing Agents in an Advanced AI Course”, ITiCSE ‘09: Proceedings of the 14th Annual ACM SIGCSE conference on Innovation and Technology in Computer Science Education, July 6-9, 2009, Paris, France, pp. 208-212. Also published in ACM SIGCSE Bulletin,Volume 41, Issue 3, Sept. 2009 . Popyack, J.L., Char, B.W., Dougherty, J.P. “Rapid Prototyping with the Tablet SDK –Software Development Experiences for High School Students”, The First Workshop on the Impact of Pen-based Technology on Education, April 6-7, 2006, Purdue University. . Herrmann, N., Popyack, J.L., Char, B., Zoski, P. “Assessing a Course Redesign: Introductory Computer Programming Using Online Modules”, SIGCSE Bulletin: The Papers of the Thirty-Fifth SIGCSE Technical Symposium on Computer Science Education, Norfolk, VA, Mar., 2004, pp. 286-290. ." ; 
     cb:phone "215.895.1846" ; 
-    cb:interests "Operations research, stochastic optimization, computational methods for Markov decisions processes, artificial intelligence, computer science education" .
+    cb:interests "Operations research, stochastic optimization, computational methods for Markov decisions processes, artificial intelligence, computer science education" ; 
+    cb:bio "Dr. Popyack received his Ph.D. and M.S. degrees in Applied Mathematics from the University of Virginia and B.S. in Mathematics from George Mason University. He served ten years as the Associate Head for Undergraduate Affairs in the Department of Computer Science at Drexel University, where he is an Associate Professor. His research interests are in operations research, artificial intelligence and computer science education. He is primarily responsible for the freshman computer science curriculum and artificial intelligence track courses at Drexel. He is serving his fourth term as an Executive Officer of Upsilon Pi Epsilon, the International Honor Society for the Computing and Information Disciplines, including five years as President. He was the Academic Director for the Pennsylvania Governor’s School for Information, Society, and Technology from 2002-2008, and for the Drexel University Computing Academy since 2009. He has been the Principal Investigator on three NSF-DUE grants and a Microsoft Research University Relations Tablet PC Development Grant for innovation in teaching computer programming courses. In 1999, he received Drexel’s Undergraduate Teaching Award for Senior Faculty, and in 2007, received the College of Engineering Outstanding Service Award." .
 
 <#William-Regli>
     cb:name "William Regli" ; 
@@ -582,9 +760,13 @@
     cb:property "faculty" ; 
     cb:title "Professor (on leave)" ; 
     cb:department "Computer Science" ; 
+    cb:education "PhD, Computer Science, The University of Maryland at College Park. MS, Computer Science, The University of Maryland at College Park. BS, Mathematics and Computer Science (dual major), cum laude, Saint Joseph’s University." ; 
     cb:email "regli@drexel.edu" ; 
+    cb:website "http://gicl.cs.drexel.edu/index.php/William_C._Regli" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/regli-william.ashx?h=160&la=en&w=124&hash=E42C21E0899FD2A8E8F64F83CEE15FDC6F130E3C" ; 
-    cb:interests "Artificial intelligence, computer graphics, engineering design and Internet computing" .
+    cb:publications "Intelligent Support for Product Design: Looking Backward, Looking Forward, with Alice M. Agogino, Ashok K. Goel, Caroline C. Hayes and Irem Y. Tumer. Transactions of the ASME, Journal of Computer and Information Science in Engineering “10th Anniversary Special Issue,” Volume 11, Issue 2, June 2011. pp .9. . A Case Study in Physics-Based Simulation of a Snake Robot, with Richard Primerano and David Wilkie. IEEE Transactions on Automation Science and Engineering, Volume 8, Issue 3, July 2011. pp 664–671.10.. On the long-term retention of geometry-centric digital engineering artifacts, with Joseph Kopena and Michael Grauer. Journal of Computer Aided Design, Special issue from the SIAM/ACM Joint Symposium on Geometric and Physical Modeling. Volume 43, Number 7, July 2011. pp 820–837.." ; 
+    cb:interests "Artificial intelligence, computer graphics, engineering design and Internet computing" ; 
+    cb:bio "William Regli is a Professor of Computer and Information Science in the Drexel University College of Computing & Informatics. He holds departmental appointments in Mechanical Engineering and Mechanics (College of Engineering); Electrical and Computer Engineering (College of Engineering); and in the College of Biomedical Engineering, Science and Health Systems. From 2007-2010 Regli was Senior Science Adviser to the National Institute of Justice's Communications Technologies Center of Excellence. He currently (2010-) serves as Senior Scientific Adviser to the Defense Programs Office of the National Nuclear Security Administration of the U.S. Department of Energy in areas of information technology for design, manufacturing, production in support of the stewardship and surety of the United States' nuclear weapons stockpile. Previously (2008-2010) Dr. Regli served as Executive Director of The AJ Drexel Applied Communications and Information Networking (ACIN) Institute, a University-wide multi-disciplinary research and business entrepreneurship initiative of Drexel University. During his tenure managing ACIN, Dr. Regli doubled the number of full-time technical and research staff; expanded the technical activities to engage four of Drexel's colleges (up from two); and managed to maintain the level of students and increase the number of faculty involved in spite of a 25% reduction in the RDT&E budget (to $2.13M year in 2010). Working with Drexel's Provost and the Drexel Office of Research, Regli transitioned ACIN to operate in accordance with the recommendations of the National Academy of Engineering and the National Science Foundation for operation of interdisciplinary research centers—the first such interdisciplinary research Center of its kind at Drexel University." .
 
 <#Lorraine-Richards>
     cb:name "Lorraine Richards" ; 
@@ -593,10 +775,13 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 405" ; 
+    cb:education "PhD, Information Science, 2014 School of Information and Library Science (SILS), University of North Carolina, Chapel Hill Dissertation Title: “Evidence-as-a-Service: State Government Recordkeeping in the Cloud” Advisor: Christopher A. Lee . School of Information and Library Science (SILS), University of North Carolina, Chapel Hill . Dissertation Title: “Evidence-as-a-Service: State Government Recordkeeping in the Cloud” . Advisor: Christopher A. Lee. 1994-1998, The Committee on Social Thought University of Chicago. MA, Economics, 1992 Department of Economics California State University, East Bay Awarded “Best Graduate Student,” 1992. . Department of Economics California State University, East Bay. Awarded “Best Graduate Student,” 1992.. BA, Economics, 1983 Department of Economics University of California, Santa Cruz Awarded “Honors in the Major.” . Department of Economics University of California, Santa Cruz. Awarded “Honors in the Major.”." ; 
     cb:email "llr43@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Richards Lori.ashx?h=160&la=en&w=125&hash=1B3EFC0CBC80830E34E4843AC9C978811BD9CB21" ; 
+    cb:publications "Hawthorne, Kisha and Lorraine L. Richards. (forthcoming, 2016). \"Personal Health Records: A New Type of Electronic Medical Record.\" Records Management Journal [Refereed Journal Article]. Richards, Lorraine L. (December 2016). \"Teaching Data Creators How to Develop an OAIS-Compliant Digital Curation System: Co-Learning and Breakdowns in Support of Requirements Analysis.\" In American Archivist 79(2) (Fall/Winter 2016). [Refereed Journal Article]. Richards, Lorraine. (2016). \"Collaborative Access Development Strategies in a Big Data Aviation Research Environment.\" In Creating Trustworthy Repositories for Digital Records: Theory and Practice. Edited by Philip Bantin. [Invited Book Chapter] (5240 words)." ; 
     cb:phone "215.895.1903" ; 
-    cb:interests "Archives, digital curation, electronic records management, information technology and digital collections, cloud computing and record keeping, management of information organizations" .
+    cb:interests "Archives, digital curation, electronic records management, information technology and digital collections, cloud computing and record keeping, management of information organizations" ; 
+    cb:bio "Dr. Richards research focuses on two key areas in digital curation: (1) organizational factors that influence digital curation success, primarily in governmental and business organizations, and (2) the educational requirements necessary to ensure that successful digital curation occurs in these organizations. She has examined the incentives and disincentives for sustainable digital curation in organizations, as well as other factors such as the integration of curatorial tools and techniques with everyday work practices. She has also examined the ways in which digital curation experts and organizational personnel engage in co-learning of each other's areas of expertise as a means to achieve curation goals. The two key research areas together provide important insights into how education, work practices, and technological innovation affect the ability to curate digital information in organizations." .
 
 <#Michelle-Rogers>
     cb:name "Michelle L. Rogers" ; 
@@ -605,10 +790,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 420" ; 
+    cb:education "PhD, Industrial Engineering, University of Wisconsin, Madison. MS, Industrial Engineering, University of Wisconsin, Madison. MA, Educational Leadership, Eastern Michigan University. BS and Bachelor of Electrical Engineering (Dual Degree Engineering Program), Spelman College/Georgia Institute of Technology ." ; 
     cb:email "mrogers@drexel.edu" ; 
+    cb:website "http://mrogersphd.wordpress.com/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/rogers-michelle.ashx?h=160&la=en&w=125&hash=692A8648B9ED4084F1DBFB3226744AB4BD676807" ; 
+    cb:publications "Turner, D. and Rogers, ML. (Accepted, 2014). Documents and Diagnosis: A Ugandan Case Study. 11th Annual Meeting of the Document Academy. Kent, Ohio. August 4-6, 2014.. Sockolow, PS, Rogers, ML, Bowles, KH, Hand, K, & George, J.* (2014) Challenges and facilitators to nurse use of a guideline-based nursing information system: Recommendations for nurse executives. Applied Nursing Research, 27.1: 25-32.*Hand, K & George, J: MS students at University of Pennsylvania.. Rogers, ML, Sockolow,PS, Bowles,KH, Hand, K, & George, J. (2013), Use of a Human Factors Approach to Uncover Informatics Needs of Nurses in Documentation of care. International Journal for Medical Informatics, 82(11), pp. 1068-1074.." ; 
     cb:phone "215.895.2922" ; 
-    cb:interests "Human-computer interaction, healthcare informatics, human factors engineering, socio-technical systems, health services research, patient safety" .
+    cb:interests "Human-computer interaction, healthcare informatics, human factors engineering, socio-technical systems, health services research, patient safety" ; 
+    cb:bio "Dr. Rogers' primary research interests center on how people's use of information technology in complex settings changes their work. Her current work is focused on understanding the impact of clinical information systems on the work processes of health care practitioners. She is particularly interested in the role of technology in patient safety, job design and user centered design. Her major teaching areas are healthcare informatics, human-computer interaction and human factors engineering. Dr. Rogers' professional experiences include time as a research scientist for the Department of Veteran Affairs (VA) Getting at Patient Safety (GAPS) Center. There she worked on applying scenario-based usability testing and cognitive work analysis to study how electronic medical records impacted patient safety and clinicians work flow." .
 
 <#Jeffrey-Salvage>
     cb:name "Jeffrey Salvage" ; 
@@ -617,8 +806,11 @@
     cb:title "Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 112" ; 
+    cb:education "Drexel University – Masters of Science & Bachelor of Science in Computer Science, Philadelphia, PA.." ; 
     cb:email "jsalvage@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~jsalvage" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/salvage-jeffrey.ashx?h=160&la=en&w=124&hash=645196DAEE8EAB5FD77EF2C207550C55CBBF3C84" ; 
+    cb:publications "The Visual Basic .Net Coach, 2002, Addison-Wesley. The Visual Basic Coach, 2001, Addison-Wesley. The C++ Coach, October 2000, Addison-Wesley." ; 
     cb:phone "215-895-2679" ; 
     cb:interests "Object-oriented programming, multi-agent systems, software engineering, database theory, introductory programming, data structures" .
 
@@ -629,10 +821,14 @@
     cb:title "Professor & Department Head" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100C" ; 
+    cb:education "PhD, Computer Science, Carnegie Mellon University. MS, Computer Science, Carnegie Mellon University . BSE, Computer Science, summa cum laude, Princeton University." ; 
     cb:email "salvucci@drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~salvucci" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/salvucci-dario.ashx?h=160&la=en&w=124&hash=9786E44342E8BA6F3E27C233EA4AEA4DD5E7795F" ; 
+    cb:publications "Salvucci, D. D. (2013). Distraction beyond the driver: Predicting the effects of in-vehicle interaction on surrounding traffic. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems: CHI 2013. New York: ACM Press. [Best of CHI Award Honorable Mention]. Salvucci, D. D., & Taatgen, N. A. (2011). The Multitasking Mind. New York: Oxford University Press.. Salvucci, D. D. (2009). Rapid prototyping and evaluation of in-vehicle interfaces. ACM Transactions on Human-Computer Interaction, 16, 9:1-9:33.." ; 
     cb:phone "215.895.2674" ; 
-    cb:interests "Cognitive science, cognitive architectures, human-computer interaction, human factors, multitasking and interruptions, applications to driving and driver distraction" .
+    cb:interests "Cognitive science, cognitive architectures, human-computer interaction, human factors, multitasking and interruptions, applications to driving and driver distraction" ; 
+    cb:bio "Salvucci's research focuses on computational models of human cognition and behavior, with a particular emphasis on multitasking and driving. His recent book, The Multitasking Mind (with Niels Taatgen), describes a new theory for how people manage multiple tasks in everyday situations. He has received a number of awards including the National Science Foundation CAREER Award, the Drexel College of Engineering Outstanding Teaching Award, the Fred Burggraf Prize at the Transportation Research Board Annual Meeting, and the Siegel-Wolf Prize at the International Conference on Cognitive Modeling. He has also served on the Franklin Institute Committee on Science and the Arts and the editorial boards of ACM Transactions on Computer-Human Interaction (ToCHI), Human Factors and Psychological Review." .
 
 <#Aleksandra-Sarcevic>
     cb:name "Aleksandra Sarcevic" ; 
@@ -641,10 +837,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 416" ; 
+    cb:education "PhD, Communication, Information and Library Studies School of Communication & Information (SC&I) Rutgers University, New Brunswick, NJ . MLIS, Library and Information Science School of Communication & Information (SC&I) Rutgers University, New Brunswick, NJ . BA, Film and TV Production University of Arts, Belgrade, Serbia." ; 
     cb:email "aleksarc@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/aSarcevic/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/sarcevic-aleksandra.ashx?h=160&la=en&w=125&hash=5A4A5DC2D46FC09DE427B964C5C2BD2B8DF7E5A3" ; 
+    cb:publications "Drexel University. “Drexel University Career Development Award: Designing Cognitive Aids for Emergency Medical Teams,” Aleksandra Sarcevic (PI). 07/01/2013-06/30/2014: $6,805. . National Science Foundation. “CAREER: Supporting Fast-Response Medical Teams Through Interactive Information Displays,” [IIS-1253285], Aleksandra Sarcevic (PI). 02/01/2013-01/31/2018: $522,985. . National Institutes of Health. “R21: A Paper-Digital Interface for Time-Critical Information Management,” Randall S. Burd, MD (PI), Aleksandra Sarcevic (Co-PI), James D. Hollan (Co-PI), Ivan Marsic (Co-PI), Nadir Weibel (Postdoc). 09/15/2012-09/14/2014: $412,607 (Sarcevic: $98,550). ." ; 
     cb:phone "215.895.0460" ; 
-    cb:interests "Computer-supported cooperative work, human-computer interaction, healthcare informatics; crisis informatics; social analysis of information & communications technology (ICT)" .
+    cb:interests "Computer-supported cooperative work, human-computer interaction, healthcare informatics; crisis informatics; social analysis of information & communications technology (ICT)" ; 
+    cb:bio "Dr. Sarcevic's research areas of interest include computer-supported cooperative work, human computer interaction, and healthcare informatics. She has particular interest in understanding how individuals within large collocated teams in high-risk environments interact and communicate while solving problems Dr. Sarcevic's past work has focused on understanding collaboration, teamwork errors, and information behavior of trauma teams while treating severely injured patients immediately after injury." .
 
 <#Kurt-Schmidt>
     cb:name "Kurt Schmidt" ; 
@@ -653,22 +853,30 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 105" ; 
+    cb:education "Drexel University, Philadelphia, PA June 1996 MS Computer Science MS Mathematics . Glassboro State College, Glassboro, NJ January 1993 BA Mathematics ." ; 
     cb:email "kschmidt@cs.drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~kschmidt" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/schmidt-kurt.ashx?h=160&la=en&w=124&hash=8DD2D4B08DC28E573F41FC657FB154C626D29EC1" ; 
+    cb:publications "Upsilon Pi Epsilon − Honors Society for computer science ACM SIGCSE." ; 
     cb:phone "215.895.1848" ; 
-    cb:interests "Data structures, math foundation for computer science, programming tools, programming languages" .
+    cb:interests "Data structures, math foundation for computer science, programming tools, programming languages" ; 
+    cb:bio "Kurt Schmidt is an Associate Teaching Professor of Computer Science at Drexel University. He received two M.S. degrees, one in Computer Science and one in Mathematics, from Drexel University after receiving a B.A. degree in Mathematics from Glassboro State College. He has worked in industry and as a contractor for Army CECOM on tactical network planning, monitoring systems, and message switches." .
 
 <#Ali-Shokoufandeh>
     cb:name "Ali Shokoufandeh" ; 
     cb:name "Shokoufandeh" ; 
     cb:property "faculty" ; 
-    cb:title "Professor & Senior Associate Dean of Research" ; 
+    cb:title "Professor & Senior Associate Dean of Research and Operations" ; 
     cb:department "Computer Science" ; 
     cb:room "Rush 313" ; 
+    cb:education "PhD, Computer Science, Rutgers University. Diploma Certiﬁcate in Cognitive Science, Rutgers University. MS, Computer Science, Rutgers University. BS, Computer Science, University of Tehran." ; 
     cb:email "ashokouf@drexel.edu" ; 
+    cb:website "https://www.cs.drexel.edu/~ashokouf" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/shokoufandeh-ali.ashx?h=160&la=en&w=124&hash=0FA3C9FC21A25BC6AF3A6A8A0B3460B4CC8533FA" ; 
+    cb:publications "D. Bespalov, B. Bai, Y. Qi, and A. Shokoufandeh, “ Sentiment classification based on supervised latent n-gram analysis”, Proceedings of the 20th ACM Conference on Information and Knowledge Management, CIKM 2011, Glasgow, United Kingdom, October 24-28, 2011, 375-382.. K. Aryafar, A. Shokoufandeh, “Music genre classification using explicit semantic analysis”, Proceedings of the 1st international ACM workshop on Music information retrieval with user-centered and multimodal strategies, MIRUM 2011, Scottsdale, AZ, USA, November28- December01, 2011, 33-38.. D. Bespalov, A. Lindbjerg Dahl, B. Bai, A. Shokoufandeh, “On Inferring Image Label Information Using Rank Minimization for Supervised Concept Embedding”, Image Analysis -17th Scandinavian Conference, SCIA 2011, Ystad, Sweden, May 2011,103-113.." ; 
     cb:phone "215.895.2671" ; 
-    cb:interests "Theory of algorithms, graph theory, combinatorial optimization, computer vision" .
+    cb:interests "Theory of algorithms, graph theory, combinatorial optimization, computer vision" ; 
+    cb:bio "Ali Shokoufandeh's research interests revolve around the design and analysis of algorithms for combinatorial and geometric problems and their applications to generic object recognition, shape representations as hierarchical graphs and inexact graph indexing and matching. He currently serves as professor and senior associate dean of research at the College of Computing & Informatics. He has held affiliations with the Department of Computer and Information Science, University of Pennsylvania (visiting assistant professor, 1999-2002), The Wistar Institute, University of Pennsylvania (visiting assistant professor, 2003-2005). He currently serves on the editorial boards of Pattern Recognition Letters and IET Computer Vision. Shokoufandeh received a bachelor of science degree in computer science from Tehran University in 1989, and both master of science and doctoral degrees in computer science from Rutgers the State University of New Jersey in 1996 and 1999, respectively." .
 
 <#Erin-Solovey>
     cb:name "Erin Solovey" ; 
@@ -677,10 +885,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 108" ; 
+    cb:education "Tufts University, Medford, MA Ph.D. in Computer Science 2012 Thesis Title: Real-time fNIRS Brain Input for Enhancing Interactive Systems Advisor: Robert J.K. Jacob . Ph.D. in Computer Science 2012 . Thesis Title: Real-time fNIRS Brain Input for Enhancing Interactive Systems . Advisor: Robert J.K. Jacob . Tufts University, Medford, MA M.S. in Computer Science 2007 . M.S. in Computer Science 2007 . Harvard University, Cambridge, MA A.B. Cum Laude in Computer Science . A.B. Cum Laude in Computer Science ." ; 
     cb:email "erin.solovey@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/esolovey" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/solovey-erin.ashx?h=160&la=en&w=125&hash=3704E4BD272496E4B94C25B6F3FA1A37ECB80E94" ; 
+    cb:publications "E.T. Solovey, M. Zec, E. Garcia Perez, B. Reimer, B. Mehler. Classifying Driver Workload Using Physiological and Driving Performance Data: Two Field Studies. Proc. ACM Conference on Human Factors in Computing Systems CHI ’14, ACM Press (2014). Best Paper Award Honorable Mention. [Awarded to top 5%]. D. Afergan, E. Peck, E.T. Solovey, A. Jenkins, S. Hincks, E.T. Brown, R. Chang, R.J.K. Jacob. Dynamic Difficulty Using Brain Metrics of Workload. Proc. ACM Conference on Human Factors in Computing Systems CHI ’14, ACM Press (2014). Best Paper Award Honorable Mention. [Awarded to top 5%]. F. Gao, M.L. Cummings, E.T. Solovey, “Modeling Teamwork in Supervisory Control of Multiple Robots,\" IEEE Transactions on Human-Machine Systems. (in press)." ; 
     cb:phone "215.895.4598" ; 
-    cb:interests "Human-computer interaction, brain-computer interfaces, tangible interaction, machine learning, human interaction with complex and autonomous systems" .
+    cb:interests "Human-computer interaction, brain-computer interfaces, tangible interaction, machine learning, human interaction with complex and autonomous systems" ; 
+    cb:bio "Dr. Erin Solovey is an Assistant Professor of Computer Science at Drexel University. Dr. Solovey’s main research area is human-computer interaction, with a focus on emerging interaction modes and techniques, such as brain-computer interfaces and tangible interaction. She is particularly interested in designing, building and evaluating systems to support users dealing with high workload and multitasking, as well as systems that provide novel learning experiences. She also investigates effective human interaction with complex and autonomous systems. She has received several awards including the NSF/CRA Computing Innovation Fellowship and a CHI Best Paper Honorable Mention Award, and her work has been covered in MIT Technology Review, Slashdot, Engadget and others. She has conducted research at MIT Lincoln Laboratory and Microsoft Research. Previously, she was a software engineer at Oracle, and has experience at several startups. She received her bachelor’s degree in computer science from Harvard University, and her M.S. and Ph.D. in computer science from Tufts University, working in the Human-Computer Interaction Lab. After her graduate studies, she was a postdoctoral fellow in the Humans and Automation Lab (HAL) at MIT." .
 
 <#Il-Yeol-Song>
     cb:name "Il-Yeol Song" ; 
@@ -689,10 +901,14 @@
     cb:title "Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 332" ; 
+    cb:education "PhD, Computer Science, Louisiana State University, August 1988.. MS, Systems Sciences, Louisiana State University, December 1984.. BS, Nuclear Engineering, Han-Yang University, Seoul, Korea, March 1975.." ; 
     cb:email "song@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/song/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/song-yeol.ashx?h=160&la=en&w=125&hash=CE39C3C35D5BD63FEF2BDB11921F4074455C40A8" ; 
+    cb:publications "Sergio Lujan-Mora, Juan Trujillo, and Il-Yeol Song, (2006). “A UML Profile for Multidimensional Modeling in Data Warehouses.” Data & Knowledge Engineering. V. 59, pp725-769, December 2006. (THE MOST WIDELY CITED paper among all the papers published in DKE between 2006 to July 2011, SCOPUS).. Ornsiri Thonggoom, Il-Yeol Song, and Yuan An, “Semi-Automatic Conceptual Data Modeling Using Entity and Relationship Instance Repositories”, in the Proceedings of the 30th International Conference on Conceptual Modeling (ER 2011), Brussels, Belgium, Oct. 31-Nov. 3, 2011, pp. 219-232.. James Dullea, Il-Yeol Song, and Ioanna Lamprou. “An Analysis of Structural Validity in Entity-Relationship Modeling,\" Data and Knowledge Engineering, Vol. 47, No.3, 2003, pp. 167-205.." ; 
     cb:phone "215.895.2489" ; 
-    cb:interests "Conceptual modeling, data warehousing, big data technologies and analytics, object-oriented analysis and design with UML, healthcare informatics, smart health" .
+    cb:interests "Conceptual modeling, data warehousing, big data technologies and analytics, object-oriented analysis and design with UML, healthcare informatics, smart health" ; 
+    cb:bio "Song's research focuses on the practical application of modeling & design theory to real-world problems. His current research areas include conceptual modeling, data warehousing, big data technologies and analytics, object-oriented analysis and design with UML, healthcare informatics and smart health." .
 
 <#Julia-Stoyanovich>
     cb:name "Julia Stoyanovich" ; 
@@ -701,10 +917,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100E" ; 
+    cb:education "PhD, Computer Science, Columbia University. MS, Computer Science, Columbia University. BS (magna cum laude), Computer Science, University of Massachusetts Amherst. BS (magna cum laude), Mathematics and Statistics, University of Massachusetts Amherst." ; 
     cb:email "stoyanovich@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/jstoy" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/stoyanovich-julia.ashx?h=160&la=en&w=125&hash=B1D5E86E849B7DE73AAC52168E0B39141E323032" ; 
+    cb:publications "\"Search and Result Presentation in Scientific Workflow Repositories\", Susan Davidson, Xiaocheng Huang, Julia Stoyanovich, Xiaojie Yuan. Proceedings of SSDBM 2013. pdf . \"Efficient Network-Aware Search in Collaborative Tagging Sites\", Sihem Amer Yahia, Michael Benedikt, Laks V.S. Lakshmanan, Julia Stoyanovich. Proceedings of the VLDB Endowment, 1(1), 2008. pdf. \"Putting Lipstick on Pig: Enabling Database-style Workflow Provenance\", Yael Amsterdamer, Susan B. Davidson, Daniel Deutch, Tova Milo, Julia Stoyanovich, Val Tannen. Proceedings of the VLDB Endowment, 5(4), 2011. pdf." ; 
     cb:phone "215.895.6273" ; 
-    cb:interests "Data and knowledge management, software development, database management, data-intensive workflow, social context search and ranking, information discovery" .
+    cb:interests "Data and knowledge management, software development, database management, data-intensive workflow, social context search and ranking, information discovery" ; 
+    cb:bio "Dr. Stoyanovich's research is in the area of data and knowledge management. She focuses on developing novel information discovery approaches, with the goal of helping the user identify relevant information, and ultimately transform that information into knowledge. She is particularly excited about the challenges that arise in life sciences applications and in social information processing - domains that are experiencing unprecedented growth in the amount and richness of available data. Having graduated from college, Dr. Stoyanovich spent 5 years in the start-up industry, as a software developer, data architect and database administrator. This experience has motivated her to work with real datasets whenever possible, and to deliver results of her research to the communities of target users, as part of open-source systems or as stand-alone prototypes. Dr. Stoyanovich teaches courses in the data management curriculum at CCI." .
 
 <#Brian-Stuart>
     cb:name "Brian Stuart" ; 
@@ -713,10 +933,13 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 100K" ; 
+    cb:education "PhD, Computer Science, Purdue University . MS, Electrical Engineering, Notre Dame University. BS (cum laude), Computer Science and Electrical Engineering, Rose-Hulman Institute of Technology." ; 
     cb:email "brian.l.stuart@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Stuart_Brian.ashx?h=160&la=en&w=125&hash=29689F98813F9E6A9C342AFA967E17C5BA006622" ; 
+    cb:publications "“Inferno in Embedded Space: Porting to the Sun SPOT,” Proceedings of the 8th International Workshop on Plan 9, 2013.. “A File System for Laptops,” Proceedings of the 4th International Workshop on Plan 9, 2009.. “Two Enhancements for Native Inferno,” Proceedings of the 4th International Workshop on Plan 9, 2009.." ; 
     cb:phone "215.895.3921" ; 
-    cb:interests "Machine learning, networking, robotics, image processing, data storage, operating systems, data communications, distributed/operating systems, accelerated computer programming, computer graphics" .
+    cb:interests "Machine learning, networking, robotics, image processing, data storage, operating systems, data communications, distributed/operating systems, accelerated computer programming, computer graphics" ; 
+    cb:bio "Dr. Stuart's research and development experience has spanned a wide variety of disciplines including, machine learning, networking, robotics, image processing, simulation, interpreters, data storage, and operating systems. Dr. Stuart previously served as a senior engineer at Coraid, a computer data storage company that provides storage solutions for cloud service providers and enterprises that are experiencing rapid, unpredictable data growth. Dr. Stuart also previously served as an adjunct instructor at the University of Memphis, where he led a research collaboration between FedEx and the University of Memphis, and authored an operating systems textbook. His teaching experience includes areas such as computer science, data communications, distributed/operating systems, accelerated computer programming, and computer graphics." .
 
 <#Deborah-Turner>
     cb:name "Deborah Turner" ; 
@@ -725,10 +948,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 411" ; 
+    cb:education "PhD, Information School, University of Washington, 2009 Dissertation title: Conceptualizing Oral Documents Advisor: Dean Harry Bruce . Dissertation title: Conceptualizing Oral Documents. Advisor: Dean Harry Bruce . MILS, University of Michigan, Ann Arbor . AB, University of California, Berkeley Area of specialization: Native American Studies . Area of specialization: Native American Studies ." ; 
     cb:email "turned@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/dturner/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/deborahturner.ashx?h=160&la=en&w=125&hash=95D8C195C0E84597CC8785FB2E987B1BDD61A7E3" ; 
+    cb:publications "Turner, Deborah. (forthcoming). Approaching diversity, methodologically. Conceptions of Library and Information Science (CoLIS). Uppsala, Sweden. June 2016.. Turner, Deborah, & Gorichanaz, Tim. (forthcoming). Old skills, new practices mean radical change for library education (ALISE 2016 conference proceeding). Journal of Education for Library and Information Science, 57, 3.. Turner, Deborah. (2015). Reconsidering library collections: Community services as documents<http://ideaexchange.uakron.edu/docam/vol2/iss1/17/>. Proceedings from the Document Academy, 2, Article 17.." ; 
     cb:phone "215.895.0493" ; 
-    cb:interests "Information behavior/interaction, management of information institutions, orality and information" .
+    cb:interests "Information behavior/interaction, management of information institutions, orality and information" ; 
+    cb:bio "Dr. Turner’s research interests lie in the areas of human information behavior, including interactions with oral information; community informatics; document studies; and public libraries and other information organizations. Her teaching responsibilities include management of information organizations, academic library services, international issues for information professionals and applied information retrieval. Dr. Turner’s previous professional work in reference, manuscripts, senior management and special libraries inform her research and teaching. For additional information, please see www.deborahturner.info." .
 
 <#Kristene-Unsworth>
     cb:name "Kristene Unsworth" ; 
@@ -737,10 +964,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 409" ; 
+    cb:education "PhD, Information Science, University of Washington – Information School Dissertation: Identifying the enemy: social categorization and national security policy . Dissertation: Identifying the enemy: social categorization and national security policy. MS, Library and Information Science, University of Washington – Information School Master's Project: \"Multilingual issues in information behavior\" . Master's Project: \"Multilingual issues in information behavior\". BA, Comparative History of Ideas and German Area Studies, University of Washington – Comparative History of Ideas and Germanics Honor's Thesis: \"Questions on memory, performance and gender: An examination of gender ambiguity as allegory for the city\" . Honor's Thesis: \"Questions on memory, performance and gender: An examination of gender ambiguity as allegory for the city\"." ; 
     cb:email "unsworth@drexel.edu" ; 
+    cb:website "https://unsworthk.com/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/unsworth-kris.ashx?h=160&la=en&w=125&hash=8200F794170BB6D084BA055090F44851B2DE8E4E" ; 
+    cb:publications "Khazraee, E. and Unsworth, K. (2013). Social media: The new opiate of the masses? International Review of Information Ethics: New ICTs and Social Media: Revolution, Counter-Revolution and Social Change. 18. Coenen, C., Hofkirchner, W., and Nafría, José María Díaz (Eds.) (5,016 words).. Unsworth, K., Axelsson, A-S., Goggins, S. and Mascaro, C. (2012). Selected Papers of Internet Research (SPIR). (Click to view online.). (7,119 words). Unsworth, K. and Townes, A. (2012). Transparency, participation, cooperation: A case study evaluating Twitter as a social media interaction tool in the US open government initiative. Proceedings of the 13th Annual International Conference on Digital Government Research. Bertot, J., Luna-Reyes, L.F. and Mellouli, S. (Eds.). New York: ACM.(Available at: http://dl.acm.org/citation.cfm?id=2307745&CFID=175185430&CFTOKEN=36523038) (5,337 words)." ; 
     cb:phone "215.895.6016" ; 
-    cb:interests "Information policy, ethics, government information" .
+    cb:interests "Information policy, ethics, government information" ; 
+    cb:bio "Dr. Unsworth's research interests are in the areas of information policy, ethics, government information and surveillance studies. She has conducted research on the use of social categorization in national security policy in historical, international and contemporary contexts. Her work examines the ethical issues behind social categorization, information use and retrieval in government contexts. Current projects include examining the role of citizen participation in government See something, Say something campaigns and the ethical implications of and such participation. Her teaching interests focus on issues of access to and critique of government information, information policy and ethics." .
 
 <#Filippos-Vokolos>
     cb:name "Filippos Vokolos" ; 
@@ -749,10 +980,13 @@
     cb:title "Associate Teaching Professor" ; 
     cb:department "Computer Science" ; 
     cb:room "University Crossings 131" ; 
+    cb:education "PhD, Computer Science, Polytechnic University. MS, Computer Science, New Jersey Institute of Technology. BS, Computer Science, New Jersey Institute of Technology." ; 
     cb:email "filippos.i.vokolos@drexel.edu" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/vokolos-filippos.ashx?h=147&la=en&w=121&hash=D3B1E4F6D20BA9D90F3A1E0A5FC145D24A570813" ; 
+    cb:publications "“Scenariographer: A Tool for Reverse Engineering Class Usage Scenarios from Method Invocation Sequences”, Proceedings 21st IEEE International Conference on Software Maintenance (ICSM 2005), Budapest, Hungary, Sept. 2005. [Co-authors: M. Salah, T. Denton, S. Mancoridis, and A. Shokoufandeh] . “An AGENDA for Testing Relational Database Applications”, Journal of Software Testing, Verification, and Reliability, 14:17‐44, March 2004. [Co‐authors: D. Chays, Y. Deng, P.G. Frankl, and E. J. Weyuker] . “An Empirical Comparison of Two Safe Regression Test Selection Techniques”, Proc. IEEE International Symposium on Empirical Software Engineering (ISESE 2003), Rome, Italy, Sept. 2003. [Co‐authors: P.G. Frankl, G. Rothermel, and K. Sayre] ." ; 
     cb:phone "215.895.3935" ; 
-    cb:interests "System architecture, software engineering, principles of software design and construction, software verification & validation, programming languages, dependable software systems" .
+    cb:interests "System architecture, software engineering, principles of software design and construction, software verification & validation, programming languages, dependable software systems" ; 
+    cb:bio "Dr. Vokolos' teaching and research interests include system architecture, principles of software design and construction, and verification and validation methods for the development of large software systems with strict quality requirements. Dr. Vokolos previously served as Assistant Professor and Director of Software Engineering Undergraduate and Graduate programs at Drexel University from 2002 to 2006, then joining SRI International where he has served as Technical Manager since 2006. His teaching experience includes courses in the foundations of software engineering, software verification & validation, software design, programming languages, and dependable software systems." .
 
 <#Rosina-Weber>
     cb:name "Rosina Weber" ; 
@@ -761,10 +995,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 233B" ; 
+    cb:education "Doctorate in Production Engineering at the Federal University of Santa Catarina, Brazil, 1998 in a “sandwich” program with the Department of Industrial & Management Systems at the University of South Florida . Master’s in Production Engineering (Operations Research), Federal University of Santa Catarina, Brazil. Bachelor’s in Business Administration at the Federal University of Rio Grande do Sul, Brazil." ; 
     cb:email "rosina@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/rweber" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/weber-rosina.ashx?h=160&la=en&w=125&hash=5C94B217A44379EC840438CC964B15FBC214F0AE" ; 
+    cb:publications "Black, A. E. & Weber, R. O. Introducing Supplemental Context for Word Sense Disambiguation. ICTAI 2016: The annual IEEE International Conference on Tools with Artificial Intelligence. November 2016. IEEE.. Duarte, K., Weber, R. O., Pacheco, R.C.S.: Purpose-oriented metrics to assess re-searcher quality. In 21st International Conference on Science and Technology Indicators (STI2016). Valencia, Spain. (2016). Ceci, F., Weber, R. O., Goncalvez, A., & Pacheco, R. (2015). Adapting Sentiments with Context. In Mirjam Minor and E Huellermeyer (Eds.): ICCBR 2015, pp. 44-59. Springer-Verlag Berlin Heidelberg.." ; 
     cb:phone "215.895.1911" ; 
-    cb:interests "Case-based reasoning, machine learning, text analytics, natural language understanding, technological aspects of knowledge management, project management, and requirements engineering." .
+    cb:interests "Case-based reasoning, machine learning, text analytics, natural language understanding, technological aspects of knowledge management, project management, and requirements engineering." ; 
+    cb:bio "Dr. Weber's main research interests are in engineering knowledge from text, context, metadata, and humans for knowledge identification, extraction, sharing, reuse, adaptation and learning and applications for cyberinfrastructure and e-Science through intelligent methods such as case-based reasoning, neural networks, information extraction, natural language understanding, and genetic algorithms. Some of the domains in which she has worked are software assurance, finance, military, law, microbiology, and health sciences. Her background is in engineering and management, and her professional experience includes analysis and design of information systems and corporate finance." .
 
 <#Jake-Williams>
     cb:name "Jake Williams" ; 
@@ -772,10 +1010,15 @@
     cb:property "faculty" ; 
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
-    cb:room "TBA" ; 
+    cb:room "Rush 417" ; 
+    cb:education "PhD, Mathematical Science, University of Vermont (2015). MS, Applied Mathematics, University of Vermont (2011). BA, Physics, University of Vermont (2007)." ; 
     cb:email "jake.williams@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~jw3477/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/jakewilliams_web.ashx?h=160&la=en&w=125&hash=68670118D3FF11F6CB8D0BBADB8DA5BC735A9867" ; 
-    cb:interests "Data science, scientific programming, computational social science, computational linguistics and natural language processing, mathematics, machine learning, algorithms, and scalability." .
+    cb:publications "Williams, J. R., Bagrow, J. P., Danforth, C. M., and Dodds, P.S. Text mixing shapes the anatomy of rank-frequency distributions. Physical Review E (2015) . Williams, J. R., Lessard, P. R., Desu, S., Clark, E. M., Bagrow, J. P., Danforth, C. M., and Dodds, P.S. Zipf's law holds for phrases, not words. Scientific Reports (2015). Williams, J. R., Bagrow, J. P., Danforth, C. M., and Dodds, P.S. Identifying missing dictionary entries with frequency-conserving context models. Physical Review E (2015)." ; 
+    cb:phone "215.895.2589" ; 
+    cb:interests "Data science, scientific programming, computational social science, computational linguistics and natural language processing, mathematics, machine learning, algorithms, and scalability." ; 
+    cb:bio "Dr. Williams is an assistant professor of information science at Drexel University. Prior to joining Drexel in the fall of 2016, he was a postdoctoral researcher and faculty instructor at the University of California, Berkeley. He holds a PhD in mathematical science, in addition to an MS in applied mathematics and a BA in physics from the University of Vermont. His research and teaching interests center around data science, computational social science, natural language processing, mathematics, machine learning, scientific programming, and algorithms design. His published contributions to date have yielded a scalable framework for the extraction of generalized lexical units (phrases), which has opened the field of phrase-based text analysis, and led to the development of a current state-of-the-art algorithm for multiword expressions segmentation. His work has also successfully challenged the current major statistical theory of language production, dating back over 15 years. In addition to extending his work in linguistics and natural language processing, a large component of his current research is applied to social science, and is focused on understanding collective action and political events through social media. He has taught a number of courses in undergraduate mathematics, and graduate coursework in scalable machine learning. His current teaching focus is on the development of curricula in undergraduate data science and scientific programming." .
 
 <#Erjia-Yan>
     cb:name "Erjia Yan" ; 
@@ -784,10 +1027,14 @@
     cb:title "Assistant Professor" ; 
     cb:department "Information Science" ; 
     cb:room "Rush 412" ; 
+    cb:education "PhD, Information Science, Indiana University Bloomington. Master of Information Science, Indiana University Bloomington. Bachelor of Science, Nanjing University." ; 
     cb:email "erjia.yan@drexel.edu" ; 
+    cb:website "http://www.pages.drexel.edu/~ey86/index.html" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/yan-erjia.ashx?h=160&la=en&w=125&hash=5223D1B90F0D0E05D87DEFDEEB858372B7B95A9D" ; 
+    cb:publications "Yan, E. (in press). Research dynamics, impact, and dissemination: A topic-level analysis. Journal of the Association for Information Science & Technology.. Yan, E. (in press). Finding knowledge paths among scientific disciplines. Journal of the Association for Information Science & Technology.. Yan, E. & Guns, R. (2014). Predicting and recommending collaborations: An author-, institution-, and country-level analysis. Journal of Informetrics, 8(2), 295-309.." ; 
     cb:phone "215.895.1459" ; 
-    cb:interests "Network science, information analysis and retrieval, scholarly communication methods and applications" .
+    cb:interests "Network science, information analysis and retrieval, scholarly communication methods and applications" ; 
+    cb:bio "Dr. Yan’s research interests lie in network science, informetrics, and scholarly data analysis, in the area of using scholarly networks to study scholarly communication, with a focus on its methods (e.g., ranking, clustering, topic modeling, and path finding) as well as its applications (e.g., evaluating research impact, studying scientific collaboration, addressing issues related to disciplinarity and interdisciplinarity, and exploring knowledge flow and transfer patterns)." .
 
 <#Christopher-Yang>
     cb:name "Christopher C. Yang" ; 
@@ -796,10 +1043,14 @@
     cb:title "Associate Professor" ; 
     cb:department "Information Science" ; 
     cb:room "3401 Market Street 318" ; 
+    cb:education "PhD, Computer Engineering, University of Arizona. MSc, Computer Engineering, University of Arizona. BSc, Computer Engineering, University of Arizona." ; 
     cb:email "chris.yang@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/cyang" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/yang-chris.ashx?h=160&la=en&w=125&hash=516D70BF32E1B2E9403DE11F7D20095270829882" ; 
+    cb:publications "C. C. Yang, H. Yang, and L. Jiang, “Postmarketing Drug Safety Surveillance using Publicly Available Health Consumer Contributed Content in Social Media,” ACM Transactions on Management Information Systems, vol.5, no.1, April, 2014.. Z. Hai, K. Chang, J. Ki, and C. C. Yang, “Identifying Features in Opinion Mining via Intrinsic and Extrinsic Domain Relevance,” IEEE Transactions on Knowledge and Data Engineering, Vol.26, Issue.3, March, 2014, pp.623-634.. C. C. Yang, X. Tang, H. Yang, and L. Jiang, “Identifying Implicit and Explicit Relationships in Social Commerce Activities,” International Journal of Electronic Commerce, vol.18, no.2, Winter, 2013-2014, pp.73-96.." ; 
     cb:phone "215.895.1631" ; 
-    cb:interests "Healthcare informatics, social media analytics, knowledge discovery, Web search and mining, recommendation systems, pharmacovigilance, drug repositioning, electronic commerce, intelligence and security informatics" .
+    cb:interests "Healthcare informatics, social media analytics, knowledge discovery, Web search and mining, recommendation systems, pharmacovigilance, drug repositioning, electronic commerce, intelligence and security informatics" ; 
+    cb:bio "Dr. Yang's research interests include Web search and mining, security informatics, knowledge management, cross-lingual information retrieval, text summarization, multimedia retrieval, information visualization, information sharing and privacy, digital library, and electronic commerce. His teaching interests include data mining, artificial intelligence, information retrieval, information systems analysis and design." .
 
 <#Valerie-Yonker>
     cb:name "Valerie Ann Yonker" ; 
@@ -807,8 +1058,12 @@
     cb:property "faculty" ; 
     cb:title "Associate Teaching Professor" ; 
     cb:department "Information Science" ; 
+    cb:education "PhD, Information Systems Design and Evaluation, Drexel University. MS, Evaluation and Applied Social Research, Hahnemann University. BA, Psychology, Magna Cum Laude, West Chester University." ; 
     cb:email "vay22@drexel.edu" ; 
+    cb:website "http://cci.drexel.edu/faculty/vyonker" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/yonker-valerie.ashx?h=160&la=en&w=125&hash=2BDC5188565EFBA4DE70891A807003622766A709" ; 
+    cb:publications "Beta Phi Mu, International Honor Society in Library Science. Psi Chi, National Honor Society in Psychology. Pi Gamma Mu, National Social Science Honor Society." ; 
     cb:phone "215.895.6397" ; 
-    cb:interests "Human service information systems, systems analysis and design, measurement in software evaluation, knowledge engineering" .
+    cb:interests "Human service information systems, systems analysis and design, measurement in software evaluation, knowledge engineering" ; 
+    cb:bio "Dr. Yonker teaches in the area of information systems, with a special interest in the applications of research methods and statistics to all areas of information science. Her research interests include information systems in human services, with a focus on the use of technology in treatment settings; remote technology, including telemedicine; and measurement issues in software evaluation. She has professional experience in needs analysis, knowledge engineering, user workstations, and system evaluation." .
 

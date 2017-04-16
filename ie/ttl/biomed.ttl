@@ -47,7 +47,7 @@
     cb:property "faculty" ; 
     cb:title "Distinguished University Professor and Dean" ; 
     cb:room "Bossone 718-A" ; 
-    cb:education "DrPH, MD, ScD" ; 
+    cb:education "ScD, MD, DrPH" ; 
     cb:email "pwb35@drexel.edu" ; 
     cb:interests "Environmental health, particularly the molecular biology and molecular epidemiology of environmental carcinogenesis." .
 
@@ -259,7 +259,7 @@
     cb:room "Bellet Building 523" ; 
     cb:education "PhD" ; 
     cb:email "shewokis@drexel.edu" ; 
-    cb:interests "Movement science, smart prosthetics, brain-in-the-loop cognitive technologies, motor learning, human performance, biofeedback, neural imaging, statistics and measurement, and brain-computer interface (BCI)." .
+    cb:interests "Movement science, smart prosthetics, \"brain-in-the-loop\" cognitive technologies, motor learning, human performance, biofeedback, neural imaging, statistics and measurement, and brain-computer interface (BCI)." .
 
 <#Adrian-Shieh>
     cb:name "Adrian Shieh" ; 
@@ -523,6 +523,16 @@
     cb:education "PhD" ; 
     cb:email "pilelkes@temple.edu" ; 
     cb:interests "3-D Tissue Engineering: scaffolds, solid-free-form fabrication, smart biomaterials, decelluarized matrices,tissue-specific differentiation, vascularization of engineered tissues,bioreactors. Stem Cell Research: Target differentiation of embryonic and adult stem cells for lung, cardiac, spinal cord and musculoskeletal tisue engineering and regenerative medicine. Space biology: (simulated) microgravity, space flight, NASA Other interests: neurodegenerative diseases, cardiovascular pathophysiology, biomatrices, cell-biomaterials interactions, artificial internal organs, endothelial cell biology, hemodynamic forces, atherosclerosis, genomics, signal transduction." .
+
+<#Alisa-Clyne>
+    cb:name "Alisa Morss Clyne" ; 
+    cb:name "Clyne" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Department of Mechanical Engineering and Mechanics" ; 
+    cb:room "Alumni Engineering Labs 170C" ; 
+    cb:education "PhD" ; 
+    cb:email "asm67@drexel.edu" ; 
+    cb:interests "Microfluidic devices to measure cell biochemical and mechanical responses; Auto-fluorescent mechanosensors; Flow and strain effects on endothelial cell – basement membrane interaction; Endothelial cell – smooth muscle cell interactions in diabetes; Plasma angiogenesis; advanced materials for accelerated wound healing; Nanoparticles for cardiovascular disease; sickle cell interactions with the vascular wall." .
 
 <#Anna-Rodriguez>
     cb:name "Anna Rodriguez" ; 
