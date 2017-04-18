@@ -84,6 +84,25 @@ def typoSentence(sentence, model):
         out += word + ' '
     return out.strip()
 
+def allTypoSentences(sentence, model):
+    sentences = []
+    parens = False
+
+    for i in range(len(sentence)):
+        char = sentence[i]
+        if char == '(':
+            parens = True
+        elif char == ')':
+            parens = False
+        elif not parens and char.isalpha():
+            for r in model[char.lower()]:
+                if char.isupper():
+                    sentences.append(sentence[:i] + r.upper() + sentence[i+1:])
+                else:
+                    sentences.append(sentence[:i] + r + sentence[i+1:])
+
+    return sentences
+
 file_name = "gac_data"
 
 try:
@@ -98,13 +117,10 @@ next(reader)
 writer = csv.writer(outfile)
 
 for record in reader:
-    record[2] = typoSentence(record[2], adjacency)
-    writer.writerow(record)
+    sentences = allTypoSentences(record[2], adjacency)
+    for sentence in sentences:
+        record[2] = sentence
+        writer.writerow(record)
 
 csvfile.close()
 outfile.close()
-
-
-
-
-        
