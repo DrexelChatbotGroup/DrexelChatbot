@@ -1,5 +1,5 @@
-file_name = "gac_data.csv"
-#file_name = "gac_data_combined.csv"
+#file_name = "gac_data.csv"
+file_name = "gac_data_combined.csv"
 out_name = "trained_model.m5"
 num_of_gas = 9
 max_question_length = 25 #used to be 100
@@ -60,7 +60,15 @@ except ValueError:
 
 csvfile.close()
 
-random.shuffle(x)
+indexes = list(range(len(x)))
+random.shuffle(indexes)
+new_x = []
+new_y = []
+for i in indexes:
+    new_x.append(x[i])
+    new_y.append(y[i])
+x = new_x
+y = new_y
 
 x = sequence.pad_sequences(x, maxlen=max_question_length)
 
@@ -78,7 +86,9 @@ model.add(Dense(num_of_gas, activation='softmax'))
 model.compile(optimizer='rmsprop', loss='categorical_crossentropy', metrics=['accuracy'])
 print(model.summary())
 
-model.fit(x_train, y_train, validation_data=(x_test, y_test), nb_epoch=8, batch_size=64)
+#best so far for extended data set: nb_epoch ~= 16
+#best so far for basic data set: nb_epoch ~= 32
+model.fit(x_train, y_train, validation_data=(x_test, y_test), nb_epoch=16, batch_size=64)
 
 scores = model.evaluate(x_test, y_test, verbose=0)
 print("Accuracy: %.2f%%" % (scores[1]*100))
