@@ -10,7 +10,7 @@ import logging
 def _main(question):
     try :
         db = stardog.StardogDB("chatbotDB")
-        answer = "/home/DrexelChatbot/chatbot/genericAnswers.txt"
+        answer = "/home/DrexelChatbot/chatbot/genericAnswers.csv"
         config = "/home/DrexelChatbot/chatbot/trained_model.m5"
         logfile = "/home/DrexelChatbot/chatbot/chatbot.log"
         
@@ -36,8 +36,9 @@ def _main(question):
     except ChatbotException as ex:
         ErrorHandler.handle(ex)
 
-    except Exception:
+    except Exception as ex:
         print('Our system encountered some error. Hope our future bosses will not see this.')
+        logging.error(ex)
 
 if __name__ == "__main__":
     _main(sys.argv[1])
