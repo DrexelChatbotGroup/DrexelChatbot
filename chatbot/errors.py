@@ -8,8 +8,12 @@ class ErrorHandler():
             query = "prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name \"(target)\" . ?s cb:website ?website}"
             for key in ex.dictionary.keys():
                 new_query = query.replace("(target)", dictionary[key])
-                website = ex.db.query(new_query)[key]
-                print("%s: %s" % (dictionary[key], website))
+                returned_dict = ex.db.query(new_query)
+                if key is in returned_dict:
+                    website = returned_dict[key]
+                    print("%s: %s" % (dictionary[key], website))
+                else:
+                    print("My apology. We don't have a website for %s" % dictionary[key])
         else:
             print("I don't know what happened. I have error in my system and the programmers did not catch that error. They are not cool.")
 
