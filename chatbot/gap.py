@@ -2,6 +2,7 @@ import re
 from errors import BadQuestionException
 from errors import BadAnswerException
 import sys
+import logging
 
 class GenericAnswerPopulation:
     def __init__(self, _genericAnswer, db):
@@ -19,8 +20,8 @@ class GenericAnswerPopulation:
     def __queryDatabase(self):
         ans_dictionary = self.db.query(self.query)
         if(len(ans_dictionary) == 0):
-            # sys.stderr.write("[Error!!! The database query returned empty dictionary]")
-            # sys.stderr.write("[The query was:\n" +  self.query);
+            logging.error("Error!!! The database query returned empty dictionary")
+            logging.error("The query was:\n" +  self.query);
             pass
         return ans_dictionary
 
@@ -36,12 +37,11 @@ class GenericAnswerPopulation:
         genericAnswer = self.genericAnswer
         for rep in rep_list:
                 if not(rep in dictionary):
-                    # sys.stderr.write("[Error!!! when populating final answer]")
+                    logging.error("Error!!! when populating final answer")
                     raise BadAnswerException(db, dictionary)
                 genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
 
-        #TODO: log should be used here, not stderr
-        # sys.stderr.write("[final answer populated] " +  genericAnswer + "\n")
+        logging.info("final answer populated: " +  genericAnswer + "\n")
         return genericAnswer
 
     def __getWordsStartingWithDollar(self, sentence):
@@ -52,12 +52,10 @@ class GenericAnswerPopulation:
 
     def __populateQuery(self, dictionary):
         var_list = self.__getWordsInsideParenthesis(self.query)
-        # print(str(dictionary))
         for key in var_list:
             if not (key in dictionary):
-                # sys.stderr.write("[Error!!! when constructing query from generic query]")
+                logging.error("Error!!! when constructing query from generic query")
                 raise BadQuestionException()
             self.query = self.query.replace("(" + key + ")", dictionary[key]);
 
-        #TODO: log should be used here, not stderr
-        # sys.stderr.write("[query populated] " + self.query)
+        logging.info("query populated: " + self.query)
