@@ -37,7 +37,7 @@ class GenericAnswerPopulation:
         for rep in rep_list:
                 if not(rep in dictionary):
                     # sys.stderr.write("[Error!!! when populating final answer]")
-                    raise BadAnswerException()
+                    raise BadAnswerException(db, dictionary)
                 genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
 
         #TODO: log should be used here, not stderr
