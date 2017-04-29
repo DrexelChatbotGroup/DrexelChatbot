@@ -1,7 +1,7 @@
 from errors import ErrorHandler
 from errors import ChatbotException 
 import gqc
-import gac
+import liveGac as gac
 import gap
 from database import stardog
 import sys
