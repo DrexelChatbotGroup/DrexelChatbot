@@ -42,8 +42,9 @@ def _main(argv):
 #   agents.append(biomed_ieagent.BiomedIEAgent())
 #   agents.append(westphal_ieagent.WestphalIEAgent())
 #   agents.append(ece_ieagent.EceIEAgent())
-    agents.append(cae_ieagent.CaeIEAgent())
-    agents.append(cbe_ieagent.CbeIEAgent())
+    #agents.append(cae_ieagent.CaeIEAgent())
+    #agents.append(cbe_ieagent.CbeIEAgent())
+    agents.append(buildings_ieagent.BuildingsIEAgent())
 
     ttl_files = []
     for agent in agents:

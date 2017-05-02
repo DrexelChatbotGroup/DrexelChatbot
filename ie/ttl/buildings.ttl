@@ -1,0 +1,1074 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Alumni-Labs>
+    cb:name "Alumni Engineering Labs" ; 
+    cb:name "AEL" ; 
+    cb:property "building" ; 
+    cb:department "Engineering" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Baiada-Center>
+    cb:name "Baiada Center" ; 
+    cb:name "BAIADA" ; 
+    cb:property "building" ; 
+    cb:department "Entrepreneurship" ; 
+    cb:address "3218 Market Street" ; 
+    cb:website "http://drexel.edu/baiada/about/overview/" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Bossone-Center>
+    cb:name "Bossone Research Enterprise Center" ; 
+    cb:name "School of Biomedical Engineering Science and Health Systems" ; 
+    cb:name "BSONE" ; 
+    cb:property "building" ; 
+    cb:department "Scientific Research; Biomedical Engineering" ; 
+    cb:address "3140 Market Street" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Center-Technology>
+    cb:name "Center for Automation Technology" ; 
+    cb:name "CAT" ; 
+    cb:property "building" ; 
+    cb:department "Instructional" ; 
+    cb:address "3139 Ludlow St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Design-Annex>
+    cb:name "Design Arts Annex" ; 
+    cb:name "CODANX" ; 
+    cb:property "building" ; 
+    cb:department "Art and Design" ; 
+    cb:address "101 N 33rd St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Curtis-Hall>
+    cb:name "Curtis Hall" ; 
+    cb:name "CURTIS" ; 
+    cb:property "building" ; 
+    cb:department "Engineering" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Disque-Hall>
+    cb:name "Disque Hall" ; 
+    cb:name "DISQUE" ; 
+    cb:property "building" ; 
+    cb:department "College of Science" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:picture "http://biomed.drexel.edu/labs/biocirc-lab/images/facilities_disquehall.jpg" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Drexel-Center>
+    cb:name "Drexel Recreation Center" ; 
+    cb:name "Gym" ; 
+    cb:name "Recreation Center" ; 
+    cb:name "Rec Center" ; 
+    cb:name "DRC" ; 
+    cb:property "building" ; 
+    cb:department "Athletics and Recreation" ; 
+    cb:address "3301 Market St" ; 
+    cb:website "http://drexel.edu/recathletics/facilities" ; 
+    cb:picture "http://drexel.edu/~/media/Images/recathletics/rec-facilities/rec-center.ashx?h=198&w=652&la=en&hash=AEED382CC275320C17F2FCF5D53E2E42AA013A82" ; 
+    cb:mStartTime "5:30 a.m." ; 
+    cb:tStartTime "5:30 a.m." ; 
+    cb:wStartTime "5:30 a.m." ; 
+    cb:thStartTime "5:30 a.m." ; 
+    cb:fStartTime "5:30 a.m." ; 
+    cb:saStartTime "5:30 a.m." ; 
+    cb:suStartTime "5:30 a.m." ; 
+    cb:mEndTime "12:00 a.m." ; 
+    cb:tEndTime "12:00 a.m." ; 
+    cb:wEndTime "12:00 a.m." ; 
+    cb:thEndTime "12:00 a.m." ; 
+    cb:fEndTime "12:00 a.m." ; 
+    cb:saEndTime "12:00 a.m." ; 
+    cb:suEndTime "12:00 a.m." .
+
+<#One-Plaza>
+    cb:name "One Drexel Plaza" ; 
+    cb:name "School of Education" ; 
+    cb:name "DXLPLZ" ; 
+    cb:property "building" ; 
+    cb:department "Evening and Professional Studies" ; 
+    cb:address "3001 Market St" ; 
+    cb:picture "http://drexel.edu/~/media/Images/cci/Facilities/one-drexel-plaze-front.ashx?h=339&w=570&hash=08DDA2B2113FF226E515DE95AD3429FFCED792EE" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#LeBow-Business>
+    cb:name "LeBow Business" ; 
+    cb:name "Goodwin College of Professional Studies" ; 
+    cb:name "LeBow College of Business" ; 
+    cb:name "GHALL" ; 
+    cb:property "building" ; 
+    cb:department "Academic" ; 
+    cb:address "3220 Market St" ; 
+    cb:website "www.lebow.drexel.edu" ; 
+    cb:picture "https://www2.lebow.drexel.edu/support/podcast/jpg/Building_thumbnail.jpg" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#W.W.-Library>
+    cb:name "W.W. Hagerty Library" ; 
+    cb:name "Hagerty" ; 
+    cb:name "HAGRTY" ; 
+    cb:property "building" ; 
+    cb:department "Library" ; 
+    cb:address "3300 Market St" ; 
+    cb:website "https://www.library.drexel.edu/about-drexel-university-libraries" ; 
+    cb:picture "https://www.library.drexel.edu/sites/default/files/styles/panopoly_image_original/public/pages/hagerty-building.jpg?itok=_sONol_3" ; 
+    cb:mStartTime "7:30 a.m." ; 
+    cb:tStartTime "7:30 a.m." ; 
+    cb:wStartTime "7:30 a.m." ; 
+    cb:thStartTime "7:30 a.m." ; 
+    cb:fStartTime "7:30 a.m." ; 
+    cb:saStartTime "7:30 a.m." ; 
+    cb:suStartTime "7:30 a.m." ; 
+    cb:mEndTime "10:00 p.m." ; 
+    cb:tEndTime "10:00 p.m." ; 
+    cb:wEndTime "10:00 p.m." ; 
+    cb:thEndTime "10:00 p.m." ; 
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
+
+<#James-Center>
+    cb:name "James E. Marks Intercultural Center" ; 
+    cb:name "Newman Center" ; 
+    cb:name "Intercultural Center" ; 
+    cb:name "Marks Intercultural Center" ; 
+    cb:name "INTCUL" ; 
+    cb:property "building" ; 
+    cb:department "Interfaith Spiritual Center" ; 
+    cb:address "101 N 33rd St" ; 
+    cb:website "http://drexel.edu/diversity/center/overview/" ; 
+    cb:picture "http://deptapp08.drexel.edu/ia/philanthropyjournal/11/images_donor/p10-3.jpg" ; 
+    cb:mStartTime "8 a.m." ; 
+    cb:tStartTime "8 a.m." ; 
+    cb:wStartTime "8 a.m." ; 
+    cb:thStartTime "8 a.m." ; 
+    cb:fStartTime "8 a.m." ; 
+    cb:saStartTime "8 a.m." ; 
+    cb:suStartTime "8 a.m." ; 
+    cb:mEndTime "5 p.m." ; 
+    cb:tEndTime "5 p.m." ; 
+    cb:wEndTime "5 p.m." ; 
+    cb:thEndTime "5 p.m." ; 
+    cb:fEndTime "5 p.m." ; 
+    cb:saEndTime "5 p.m." ; 
+    cb:suEndTime "5 p.m." .
+
+<#Korman-Center>
+    cb:name "Korman Center" ; 
+    cb:name "University Library" ; 
+    cb:name "KORMAN" ; 
+    cb:property "building" ; 
+    cb:department "Information Science and Technology; Education" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:mStartTime "7:30 a.m." ; 
+    cb:tStartTime "7:30 a.m." ; 
+    cb:wStartTime "7:30 a.m." ; 
+    cb:thStartTime "7:30 a.m." ; 
+    cb:fStartTime "7:30 a.m." ; 
+    cb:saStartTime "7:30 a.m." ; 
+    cb:suStartTime "7:30 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Language-Center>
+    cb:name "Language and Communication Center" ; 
+    cb:name "Language Center" ; 
+    cb:name "LANGCC" ; 
+    cb:property "building" ; 
+    cb:department "Language" ; 
+    cb:address "229 N 33rd St" ; 
+    cb:website "http://drexel.edu/elc/" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#College-Building>
+    cb:name "College of Law Building" ; 
+    cb:name "Kline Law Building and Library" ; 
+    cb:name "Kline School of Law" ; 
+    cb:name "LAWBDG" ; 
+    cb:property "building" ; 
+    cb:department "Law" ; 
+    cb:address "3320 Market St" ; 
+    cb:website "http://drexel.edu/law/studentLife/studentAffairs/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Admissions/IMG_6228.ashx?h=756&w=1200&hash=BB4CB4F3DF8453ED0212232D22402551F8764F41" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#LeBow-Center>
+    cb:name "LeBow Engineering Center" ; 
+    cb:name "College of Engineering" ; 
+    cb:name "CoE" ; 
+    cb:name "LEBOW" ; 
+    cb:property "building" ; 
+    cb:department "Engineering" ; 
+    cb:address "3120 Market St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#MacAlister-Hall>
+    cb:name "MacAlister Hall" ; 
+    cb:name "College of Arts and Sciences" ; 
+    cb:name "Pennoni Honors College" ; 
+    cb:name "Educational Activiites Center" ; 
+    cb:name "MACALS" ; 
+    cb:property "building" ; 
+    cb:department "Humanities and Social Science" ; 
+    cb:address "3250 Chestnut St" ; 
+    cb:picture "http://www.pages.drexel.edu/~jef22/myweb4/ext5.JPG" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Main-Building>
+    cb:name "Main Building" ; 
+    cb:name "MAIN" ; 
+    cb:property "building" ; 
+    cb:department "Administration" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coresite/backgrounds/pt3/General/main-building.ashx" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Mandell-Theater>
+    cb:name "Mandell Theater" ; 
+    cb:name "MNDELL" ; 
+    cb:property "building" ; 
+    cb:department "Performance" ; 
+    cb:address "3201 Chestnut Street" ; 
+    cb:website "http://drexel.edu/performingarts/about/facilities/mandell-theater/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/performingArts/About/Facilities/Mandell%20Theater/Mandell%20Theater.ashx?h=300&w=570&hash=DE6D4FAEBBB3CC119D45C0CCEB5961F58FFCDBB0" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Nesbitt-Hall>
+    cb:name "Nesbitt Hall" ; 
+    cb:name "Dornsife School of Public Health" ; 
+    cb:name "NSBITT" ; 
+    cb:property "building" ; 
+    cb:department "Home Economics" ; 
+    cb:address "3215 Market St" ; 
+    cb:picture "http://digm.drexel.edu/acelab/wp-content/uploads/2016/02/Nesbitt_Exterior-2015_04_29_4x3.jpg" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Pearlstein-Center>
+    cb:name "Pearlstein Business Learning Center" ; 
+    cb:name "Close School of Entrepreneurship" ; 
+    cb:name "Pearlstein" ; 
+    cb:name "PEARL" ; 
+    cb:property "building" ; 
+    cb:department "Business" ; 
+    cb:address "3218 Market Street" ; 
+    cb:picture "https://www2.lebow.drexel.edu/support/podcast/jpg/Building_thumbnail.jpg" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Constantine-Building>
+    cb:name "Constantine N. Papadakis Integrated Sciences Building" ; 
+    cb:name "Papadakis Integrated Sciences Building" ; 
+    cb:name "Papadakis" ; 
+    cb:name "PISB" ; 
+    cb:property "building" ; 
+    cb:department "Academic" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:website "http://drexel.edu/coas/academics/departments-centers/biology/Papadakis-Integrated-Sciences-Building/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/now/release_images/September%202012/PISB_Exterior_crop.ashx" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Neuropsychology-Laboratory>
+    cb:name "Neuropsychology Laboratory" ; 
+    cb:name "PSA Building" ; 
+    cb:name "Psych-Soc-Anthro" ; 
+    cb:name "PSA" ; 
+    cb:property "building" ; 
+    cb:department "Research" ; 
+    cb:address "33rd and Powelton Streets" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Paul-Building>
+    cb:name "Paul Peck Problem Solving and Research Building" ; 
+    cb:name "Academic Building" ; 
+    cb:name "PSRC" ; 
+    cb:property "building" ; 
+    cb:department "Administration" ; 
+    cb:address "101 N 33rd St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Randell-Hall>
+    cb:name "Randell Hall" ; 
+    cb:name "RANDEL" ; 
+    cb:property "building" ; 
+    cb:department "Engineering" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#Rush-Building>
+    cb:name "Rush Building" ; 
+    cb:name "College of Computing & Informatics" ; 
+    cb:name "CCI Building" ; 
+    cb:name "RUSH" ; 
+    cb:property "building" ; 
+    cb:department "Information Science and Technology; Library Science" ; 
+    cb:address "30 N 33rd St" ; 
+    cb:website "http://drexel.edu/cci/about/our-facilities/rush-building/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/cci/Facilities/rush.ashx?h=324&w=570&hash=5933ACFA25EADC7F9533F7CC7C461C1C30ACBBA0" ; 
+    cb:mStartTime "7:30 a.m." ; 
+    cb:tStartTime "7:30 a.m." ; 
+    cb:wStartTime "7:30 a.m." ; 
+    cb:thStartTime "7:30 a.m." ; 
+    cb:fStartTime "7:30 a.m." ; 
+    cb:saStartTime "7:30 a.m." ; 
+    cb:suStartTime "7:30 a.m." ; 
+    cb:mEndTime "9:30 p.m." ; 
+    cb:tEndTime "9:30 p.m." ; 
+    cb:wEndTime "9:30 p.m." ; 
+    cb:thEndTime "9:30 p.m." ; 
+    cb:fEndTime "9:30 p.m." ; 
+    cb:saEndTime "9:30 p.m." ; 
+    cb:suEndTime "9:30 p.m." .
+
+<#Stratton-Hall>
+    cb:name "Stratton Hall" ; 
+    cb:name "STRATN" ; 
+    cb:property "building" ; 
+    cb:department "Biological Sciences" ; 
+    cb:address "3141 Chestnut St" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#University-Crossings>
+    cb:name "University Crossings" ; 
+    cb:name "UCROSS" ; 
+    cb:property "building" ; 
+    cb:department "Computer Science; Cinema and Television" ; 
+    cb:address "3175 John F Kennedy Blvd" ; 
+    cb:website "http://drexel.edu/cci/about/our-facilities/university-crossings/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/cci/Facilities/university-crossings-bridge.ashx?h=358&w=600&hash=25FE0B281E5C81F4B1432E2DB98480F075447F33" ; 
+    cb:mStartTime "7:00 a.m." ; 
+    cb:tStartTime "7:00 a.m." ; 
+    cb:wStartTime "7:00 a.m." ; 
+    cb:thStartTime "7:00 a.m." ; 
+    cb:fStartTime "7:00 a.m." ; 
+    cb:saStartTime "7:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
+    cb:mEndTime "9:00 p.m." ; 
+    cb:tEndTime "9:00 p.m." ; 
+    cb:wEndTime "9:00 p.m." ; 
+    cb:thEndTime "9:00 p.m." ; 
+    cb:fEndTime "9:00 p.m." ; 
+    cb:saEndTime "9:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
+
+<#URBN-Center>
+    cb:name "URBN Center" ; 
+    cb:name "Westphal College of Media Arts & Design" ; 
+    cb:name "Westphal" ; 
+    cb:name "URBN" ; 
+    cb:property "building" ; 
+    cb:department "Media Arts and Design" ; 
+    cb:address "35th and Market Streets" ; 
+    cb:website "http://drexel.edu/westphal/about/overview/making_spaces/WestphalPrintCenter/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/now/release_images/October%202011%20photos/URBN%20Center%20image.ashx?h=280&w=270&hash=2B29A1732D7047A4B580B3BA4C19CFABB1A1CCA8" ; 
+    cb:mStartTime "12:00 a.m." ; 
+    cb:tStartTime "12:00 a.m." ; 
+    cb:wStartTime "12:00 a.m." ; 
+    cb:thStartTime "12:00 a.m." ; 
+    cb:fStartTime "12:00 a.m." ; 
+    cb:saStartTime "12:00 a.m." ; 
+    cb:suStartTime "12:00 a.m." ; 
+    cb:mEndTime "12:00 p.m." ; 
+    cb:tEndTime "12:00 p.m." ; 
+    cb:wEndTime "12:00 p.m." ; 
+    cb:thEndTime "12:00 p.m." ; 
+    cb:fEndTime "12:00 p.m." ; 
+    cb:saEndTime "12:00 p.m." ; 
+    cb:suEndTime "12:00 p.m." .
+
+<#Creese-Center>
+    cb:name "Creese Student Center" ; 
+    cb:name "Drexel Activities Center" ; 
+    cb:name "Creese" ; 
+    cb:property "building" ; 
+    cb:department "Student Center" ; 
+    cb:address "3210 Chestnut St" ; 
+    cb:website "http://drexel.edu/campusservices/studentCenters/creeseCenter/" ; 
+    cb:mStartTime "7:00 a.m" ; 
+    cb:tStartTime "7:00 a.m" ; 
+    cb:wStartTime "7:00 a.m" ; 
+    cb:thStartTime "7:00 a.m" ; 
+    cb:fStartTime "7:00 a.m" ; 
+    cb:saStartTime "7:00 a.m" ; 
+    cb:suStartTime "7:00 a.m" ; 
+    cb:mEndTime "10:00 p.m." ; 
+    cb:tEndTime "10:00 p.m." ; 
+    cb:wEndTime "10:00 p.m." ; 
+    cb:thEndTime "10:00 p.m." ; 
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
+
+<#Daskalakis-Center>
+    cb:name "Daskalakis Athletic Center" ; 
+    cb:name "Physical Education Center" ; 
+    cb:property "building" ; 
+    cb:department "Athletics" ; 
+    cb:address "3301 Market St" ; 
+    cb:website "http://drexel.edu/recathletics/facilities" ; 
+    cb:picture "http://drexel.edu/~/media/Images/recathletics/rec-facilities/rec-center.ashx?h=198&w=652&la=en&hash=AEED382CC275320C17F2FCF5D53E2E42AA013A82" ; 
+    cb:mStartTime "5:30 a.m." ; 
+    cb:tStartTime "5:30 a.m." ; 
+    cb:wStartTime "5:30 a.m." ; 
+    cb:thStartTime "5:30 a.m." ; 
+    cb:fStartTime "5:30 a.m." ; 
+    cb:saStartTime "5:30 a.m." ; 
+    cb:suStartTime "5:30 a.m." ; 
+    cb:mEndTime "12:00 a.m." ; 
+    cb:tEndTime "12:00 a.m." ; 
+    cb:wEndTime "12:00 a.m." ; 
+    cb:thEndTime "12:00 a.m." ; 
+    cb:fEndTime "12:00 a.m." ; 
+    cb:saEndTime "12:00 a.m." ; 
+    cb:suEndTime "12:00 a.m." .
+
+<#General-Parking>
+    cb:name "General Services and Parking" ; 
+    cb:name "General Services" ; 
+    cb:name "General Services Building" ; 
+    cb:property "building" ; 
+    cb:department "Administration; Parking" ; 
+    cb:address "3141 Chestnut St" .
+
+<#Van-Hall>
+    cb:name "Van Rensselaer Hall" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "3320 Powelton Avenue" .
+
+<#Ross-Commons>
+    cb:name "Ross Commons" ; 
+    cb:name "Early Childhood Center" ; 
+    cb:name "Ross" ; 
+    cb:property "building" ; 
+    cb:department "Domestic Science" ; 
+    cb:address "34th and Powelton" .
+
+<#Kelly-Hall>
+    cb:name "Kelly Hall" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "203 N 34th St" .
+
+<#Calhoun-Hall>
+    cb:name "Calhoun Hall" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "3301 Arch Street" .
+
+<#Myers-Hall>
+    cb:name "Myers Hall" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "3301 Race Street" .
+
+<#New-Hall>
+    cb:name "New Tower Residence Hall" ; 
+    cb:name "Towers" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "101 N. 34th Street" .
+
+<#The-Summit>
+    cb:name "The Summit" ; 
+    cb:property "building" ; 
+    cb:address "3400 Lancaster Ave" .
+
+<#North-Hall>
+    cb:name "North Residence Hall" ; 
+    cb:name "North Hall" ; 
+    cb:name "North" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "3200 Race Street" .
+
+<#Vidas-Complex>
+    cb:name "Vidas Athletic Complex" ; 
+    cb:property "building" ; 
+    cb:address "4300 Powelton Ave" .
+
+<#Caneris-Hall>
+    cb:name "Caneris Residence Hall" ; 
+    cb:name "East Hall" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "115 N 32nd St" .
+
+<#Armory-Courts)>
+    cb:name "Armory (Buckley Courts)" ; 
+    cb:property "building" ; 
+    cb:address "32nd St. and Lancaster Ave" ; 
+    cb:website "http://drexel.edu/recathletics/facilities" ; 
+    cb:picture "http://drexel.edu/~/media/Images/recathletics/rec-facilities/buckley_courts_01.ashx?h=198&w=652&la=en&hash=0FE7FCCE24E8E0548E8D4C51301414BCE6BA8F24" ; 
+    cb:mStartTime "4:00 p.m." ; 
+    cb:tStartTime "4:00 p.m." ; 
+    cb:wStartTime "4:00 p.m." ; 
+    cb:thStartTime "4:00 p.m." ; 
+    cb:fStartTime "4:00 p.m." ; 
+    cb:saStartTime "4:00 p.m." ; 
+    cb:suStartTime "4:00 p.m." ; 
+    cb:mEndTime "11:00 p.m." ; 
+    cb:tEndTime "11:00 p.m." ; 
+    cb:wEndTime "11:00 p.m." ; 
+    cb:thEndTime "11:00 p.m." ; 
+    cb:fEndTime "11:00 p.m." ; 
+    cb:saEndTime "11:00 p.m." ; 
+    cb:suEndTime "11:00 p.m." .
+
+<#Race-Residences>
+    cb:name "Race Street Residences" ; 
+    cb:name "Race Hall" ; 
+    cb:name "Race" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "3300 Race Street" .
+
+<#Alpha-Rho>
+    cb:name "Alpha Chi Rho" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Alpha-Pi>
+    cb:name "Alpha Epsilon Pi" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Millennium-Hall>
+    cb:name "Millennium Hall" ; 
+    cb:property "building" ; 
+    cb:department "Dormitory" ; 
+    cb:address "223 N. 34th Street" .
+
+<#Tau-Epsilon>
+    cb:name "Tau Kappa Epsilon" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Phi-Mu>
+    cb:name "Phi Mu" ; 
+    cb:property "building" ; 
+    cb:department "Sorority House" .
+
+<#Phi-Sigma>
+    cb:name "Phi Sigma Sigma" ; 
+    cb:property "building" ; 
+    cb:department "Sorority House" .
+
+<#Pi-Phi>
+    cb:name "Pi Kappa Phi" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Lambda-Alpha>
+    cb:name "Lambda Chi Alpha" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Delta-Zeta>
+    cb:name "Delta Zeta" ; 
+    cb:property "building" ; 
+    cb:department "Sorority House" .
+
+<#Sigma-Epsilon>
+    cb:name "Sigma Phi Epsilon" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Alpha-Lambda>
+    cb:name "Alpha Pi Lambda" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Theta-Chi>
+    cb:name "Theta Chi" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Alpha-Alpha>
+    cb:name "Alpha Sigma Alpha" ; 
+    cb:property "building" ; 
+    cb:department "Sorority House" .
+
+<#Pi-Alpha>
+    cb:name "Pi Kappa Alpha" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Drexel-House>
+    cb:name "Drexel Smart House" ; 
+    cb:property "building" ; 
+    cb:address "3425 Race St" .
+
+<#Delta-Phi>
+    cb:name "Delta Sigma Phi" ; 
+    cb:property "building" ; 
+    cb:department "Fraternity House" .
+
+<#Delta-Epsilon>
+    cb:name "Delta Phi Epsilon" ; 
+    cb:property "building" ; 
+    cb:department "Sorority House" .
+
+<#Buckley-Courts>
+    cb:name "Buckley Tennis Courts" ; 
+    cb:property "building" ; 
+    cb:address "34th Street and Lancaster Avenue" ; 
+    cb:website "http://drexel.edu/recathletics/facilities" ; 
+    cb:picture "http://drexel.edu/~/media/Images/recathletics/rec-facilities/tennis_courts.ashx?la=en" ; 
+    cb:mStartTime "5:30 a.m." ; 
+    cb:tStartTime "5:30 a.m." ; 
+    cb:wStartTime "5:30 a.m." ; 
+    cb:thStartTime "5:30 a.m." ; 
+    cb:fStartTime "5:30 a.m." ; 
+    cb:saStartTime "5:30 a.m." ; 
+    cb:suStartTime "5:30 a.m." ; 
+    cb:mEndTime "12:00 a.m." ; 
+    cb:tEndTime "12:00 a.m." ; 
+    cb:wEndTime "12:00 a.m." ; 
+    cb:thEndTime "12:00 a.m." ; 
+    cb:fEndTime "12:00 a.m." ; 
+    cb:saEndTime "12:00 a.m." ; 
+    cb:suEndTime "12:00 a.m." .
+
+<#Perelman-Life>
+    cb:name "Perelman Center for Jewish Life" ; 
+    cb:property "building" ; 
+    cb:address "118 N 34th St" .
+
+<#Drexel-Park>
+    cb:name "Drexel Park" ; 
+    cb:property "building" ; 
+    cb:address "3100 Powelton Ave" .
+
+<#Peck-Center>
+    cb:name "Peck Alumni Center" ; 
+    cb:property "building" ; 
+    cb:department "Museum; Gallery" ; 
+    cb:address "32nd and Market Streets" .
+
+<#URBN-Annex>
+    cb:name "URBN Center Annex" ; 
+    cb:property "building" ; 
+    cb:address "34th and Filbert Streets" .
+
+<#Buckley-Field>
+    cb:name "Buckley Recreational Field" ; 
+    cb:property "building" ; 
+    cb:address "N 33rd St" ; 
+    cb:website "http://drexel.edu/recathletics/facilities" ; 
+    cb:picture "http://drexel.edu/~/media/Images/recathletics/rec-facilities/buckley_field_01.ashx?la=en" ; 
+    cb:mStartTime "5:30 a.m." ; 
+    cb:tStartTime "5:30 a.m." ; 
+    cb:wStartTime "5:30 a.m." ; 
+    cb:thStartTime "5:30 a.m." ; 
+    cb:fStartTime "5:30 a.m." ; 
+    cb:saStartTime "5:30 a.m." ; 
+    cb:suStartTime "5:30 a.m." ; 
+    cb:mEndTime "12:00 a.m." ; 
+    cb:tEndTime "12:00 a.m." ; 
+    cb:wEndTime "12:00 a.m." ; 
+    cb:thEndTime "12:00 a.m." ; 
+    cb:fEndTime "12:00 a.m." ; 
+    cb:saEndTime "12:00 a.m." ; 
+    cb:suEndTime "12:00 a.m." .
+
+<#Buckley-Green>
+    cb:name "Buckley Green" ; 
+    cb:property "building" ; 
+    cb:address "N 33rd St" ; 
+    cb:website "http://drexel.edu/recathletics/facilities" ; 
+    cb:picture "http://drexel.edu/~/media/Images/recathletics/rec-facilities/buckleygreen2.ashx?la=en" ; 
+    cb:mStartTime "5:30 a.m." ; 
+    cb:tStartTime "5:30 a.m." ; 
+    cb:wStartTime "5:30 a.m." ; 
+    cb:thStartTime "5:30 a.m." ; 
+    cb:fStartTime "5:30 a.m." ; 
+    cb:saStartTime "5:30 a.m." ; 
+    cb:suStartTime "5:30 a.m." ; 
+    cb:mEndTime "12:00 a.m." ; 
+    cb:tEndTime "12:00 a.m." ; 
+    cb:wEndTime "12:00 a.m." ; 
+    cb:thEndTime "12:00 a.m." ; 
+    cb:fEndTime "12:00 a.m." ; 
+    cb:saEndTime "12:00 a.m." ; 
+    cb:suEndTime "12:00 a.m." .
+
+<#Dornsife-Partnerships>
+    cb:name "Dornsife Center for Neighborhood Partnerships" ; 
+    cb:property "building" ; 
+    cb:address "3509 Spring Garden St" .
+
+<#The-City>
+    cb:name "The Study at University City" ; 
+    cb:name "The Study" ; 
+    cb:property "building" ; 
+    cb:address "3307 Chestnut St" .
+
+<#Northside-Terrace>
+    cb:name "Northside Dining Terrace" ; 
+    cb:property "building" ; 
+    cb:address "203 N 34th St" .
+
+<#Library-Terrace>
+    cb:name "Library Learning Terrace" ; 
+    cb:property "building" ; 
+    cb:address "3300 Race Street" .
+
+<#Drexel-Station>
+    cb:name "Drexel Police Station" ; 
+    cb:property "building" ; 
+    cb:address "3219 Arch Street" .
+
+<#Chestnut-Square>
+    cb:name "Chestnut Square" ; 
+    cb:property "building" ; 
+    cb:address "3200 Chestnut St" .
+
+<#Handschumacher-Hall>
+    cb:name "Handschumacher Dining Hall" ; 
+    cb:name "Handschumacher Dining Center" ; 
+    cb:name "Handschumacher" ; 
+    cb:name "Hans" ; 
+    cb:property "building" ; 
+    cb:department "Student Services" ; 
+    cb:address "3201 Chestnut St" ; 
+    cb:website "http://drexel.edu/campusservices/dining-retail/directory/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/campusservices/DSC/20130813%20143931.ashx?la=en" ; 
+    cb:mStartTime "11:00 AM" ; 
+    cb:tStartTime "11:00 AM" ; 
+    cb:wStartTime "11:00 AM" ; 
+    cb:thStartTime "11:00 AM" ; 
+    cb:fStartTime "11:00 AM" ; 
+    cb:saStartTime "11:00 AM" ; 
+    cb:suStartTime "11:00 AM" ; 
+    cb:mEndTime "7:00 PM" ; 
+    cb:tEndTime "7:00 PM" ; 
+    cb:wEndTime "7:00 PM" ; 
+    cb:thEndTime "7:00 PM" ; 
+    cb:fEndTime "7:00 PM" ; 
+    cb:saEndTime "7:00 PM" ; 
+    cb:suEndTime "7:00 PM" .
+
+<#Drexel-Center>
+    cb:name "Drexel Health Center" ; 
+    cb:property "building" ; 
+    cb:department "Health" ; 
+    cb:address "3401 Market Street Suite 105B" ; 
+    cb:website "http://drexel.edu/counselingandhealth/student-health-center/overview/" .
+
+<#Security-Building>
+    cb:name "Security Building" ; 
+    cb:name "Public Safety Office" ; 
+    cb:property "building" ; 
+    cb:department "Support Services" ; 
+    cb:address "3201 Arch Street Suite 350" ; 
+    cb:website "http://drexel.edu/publicsafety/about/offices/" .
+
+<#Drexel-Department>
+    cb:name "Drexel Police Department" ; 
+    cb:name "Police Department" ; 
+    cb:name "Police" ; 
+    cb:property "building" ; 
+    cb:department "Police" ; 
+    cb:address "3219 Arch Street" ; 
+    cb:website "http://drexel.edu/publicsafety/about/offices/" .
+
+<#University-Map>
+    cb:name "University City Campus Map" ; 
+    cb:property "building" ; 
+    cb:website "http://drexel.edu/~/media/Images/coresite/About/maps/uc-map3.ashx?la=en" .
+
