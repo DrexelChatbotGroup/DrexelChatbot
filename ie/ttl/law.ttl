@@ -1,0 +1,421 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Tabatha-El-Haj>
+    cb:name "Tabatha Abu El-Haj" ; 
+    cb:name "El-Haj" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 233" ; 
+    cb:email "tabatha.abuelhaj@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Tabatha%20Abu%20El-Haj/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/abu-elhaj.ashx?h=140&la=en&w=120&hash=C9F3E7F99981E9567356DA3F345CC56029A8EE87" ; 
+    cb:phone "215.571.4738" .
+
+<#Bret-Asbury>
+    cb:name "Bret Asbury" ; 
+    cb:name "Asbury" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean for Faculty Research; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 330" ; 
+    cb:email "bret.asbury@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Bret%20Asbury/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/asbury.ashx?h=140&la=en&w=120&hash=30D9A7AA5339075027022EC948BB72B1B935E330" ; 
+    cb:phone "215.571.4786" .
+
+<#Adam-Benforado>
+    cb:name "Adam Benforado" ; 
+    cb:name "Benforado" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Law" ; 
+    cb:room "School of Law, Room 277" ; 
+    cb:email "adam.f.benforado@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Adam%20Benforado/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/Adam Benforado.ashx?h=140&la=en&w=120&hash=264E814CF4D9C1CE31710A466CD2B31A941D03C5" ; 
+    cb:phone "215.571.4809" .
+
+<#Mark-Bernstein>
+    cb:name "Mark P. Bernstein" ; 
+    cb:name "Bernstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Legal Research Center and Information Technology Services; Professor of Law" ; 
+    cb:room "Legal Research Center, Room L365" ; 
+    cb:email "mpb63@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Mark%20Bernstein/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/bernstein.ashx?h=140&la=en&w=120&hash=2B274646CA352D8A09F25372E72578A27677905F" ; 
+    cb:phone "215.571.4770" .
+
+<#Donald-Bersoff>
+    cb:name "Donald N. Bersoff" ; 
+    cb:name "Bersoff" ; 
+    cb:property "faculty" ; 
+    cb:title "Emeritus Professor of Law" ; 
+    cb:room "School of Law, Room 271" ; 
+    cb:email "donald.bersoff@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Donald%20Bersoff/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/bersoff.ashx?h=140&la=en&w=120&hash=23E320447117F44BA5D5AB964881236E4DDF91A1" ; 
+    cb:phone "215.571.4819" .
+
+<#Amelia-Boss>
+    cb:name "Amelia Boss" ; 
+    cb:name "Boss" ; 
+    cb:property "faculty" ; 
+    cb:title "Trustee Professor of Law" ; 
+    cb:room "School of Law, Room 276" ; 
+    cb:email "aboss@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Amelia%20Boss/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/boss.ashx?h=127&la=en&w=120&hash=AFF0DEDA6ADBA5897E62285AD56CB405BAFA178D" ; 
+    cb:phone "215.571.4806" .
+
+<#Susan-Brooks>
+    cb:name "Susan L. Brooks" ; 
+    cb:name "Brooks" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean for Experiential Learning; Professor of Law" ; 
+    cb:room "School of Law, Room 411" ; 
+    cb:email "susan.brooks@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Susan%20Brooks/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/brooks.ashx?h=140&la=en&w=120&hash=0A21E23FF2705BB846D849F7550FDD8699C5AC01" ; 
+    cb:phone "215.571.4784" .
+
+<#Chapin-Cimino>
+    cb:name "Chapin Cimino" ; 
+    cb:name "Cimino" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 234" ; 
+    cb:email "chapin.cimino@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Chapin%20Cimino/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/cimino.ashx?h=140&la=en&w=120&hash=930F10CE183C5755910E2B7AC2964A3791C797AD" ; 
+    cb:phone "215.571.4703" .
+
+<#David-Cohen>
+    cb:name "David S. Cohen" ; 
+    cb:name "Cohen" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Law" ; 
+    cb:room "School of Law, Room 232" ; 
+    cb:email "david.s.cohen@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/David%20Cohen/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/cohen.ashx?h=140&la=en&w=120&hash=8A63CE5C5902351A1A0B99D75B21B876C937F228" ; 
+    cb:phone "215.571.4714" .
+
+<#Clare-Coleman>
+    cb:name "Clare Keefe Coleman" ; 
+    cb:name "Coleman" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, International Student Programs; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 416" ; 
+    cb:email "clare.keefe.coleman@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Clare%20Keefe%20Coleman/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/coleman.ashx?h=140&la=en&w=120&hash=2720379AF2B0AB12F4D248538509045ABB9A4227" ; 
+    cb:phone "215.571.4731" .
+
+<#Rose-Corrigan>
+    cb:name "Rose Corrigan" ; 
+    cb:name "Corrigan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law and Associate Professor of Politics" ; 
+    cb:room "School of Law, Room 265" ; 
+    cb:email "rose.corrigan@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Rose%20Corrigan/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/Rose Corrigan-.ashx?h=142&la=en&w=112&hash=F6CC891E14BEF5C3675CD6302C40A4ADDCC5C3F5" ; 
+    cb:phone "215.571.4736" .
+
+<#David-DeMatteo>
+    cb:name "David DeMatteo" ; 
+    cb:name "DeMatteo" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the JD/PhD Program in Law and Clinical Psychology; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 267" ; 
+    cb:email "david.dematteo@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/David%20DeMatteo/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/dematteo_david-1.ashx?h=127&la=en&w=120&hash=18FEBF10052046E26E6D9DCF3FAD6E093890DBE3" ; 
+    cb:phone "215.571.4707" .
+
+<#Roger-Dennis>
+    cb:name "Roger J. Dennis" ; 
+    cb:name "Dennis" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Law" ; 
+    cb:room "School of Law, Room 263" ; 
+    cb:email "roger.j.dennis@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Roger%20Dennis/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/dennis.ashx?h=140&la=en&w=120&hash=40EA122D5E7887EE5DA2E726BA00E4B13CA2E9B9" ; 
+    cb:phone "215.571.4755" .
+
+<#Tracye-Edwards>
+    cb:name "Tracye Edwards" ; 
+    cb:name "Edwards" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "School of Law, Room 269" ; 
+    cb:email "tedwards@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Tracye%20Edwards/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/edwards.ashx?h=127&la=en&w=120&hash=D089D851F3360B9963485DD200E40F879C616A7D" ; 
+    cb:phone "215.571.4758" .
+
+<#Robert-Field>
+    cb:name "Robert I. Field" ; 
+    cb:name "Field" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of JD-Master of Public Health Program; Professor of Law" ; 
+    cb:room "School of Law, Room 273" ; 
+    cb:email "robert.field@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Robert%20Field/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/field.ashx?h=140&la=en&w=120&hash=0CE6D5D7B8CF664C25A942786BE60A18818FC678" ; 
+    cb:phone "215.571.4810" .
+
+<#Daniel-Filler>
+    cb:name "Daniel M. Filler" ; 
+    cb:name "Filler" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean; Professor of Law" ; 
+    cb:room "School of Law, Room 402" ; 
+    cb:email "daniel.m.filler@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Daniel%20Filler/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/filler.ashx?h=140&la=en&w=120&hash=958803CE1EE979AE05CDE2A0B545BAD1CB9EF125" ; 
+    cb:phone "215.571.4705" .
+
+<#Richard-Frankel>
+    cb:name "Richard H. Frankel" ; 
+    cb:name "Frankel" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Appellate Litigation Clinic; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 279" ; 
+    cb:email "richard.h.frankel@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Richard%20Frankel/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/frankel.ashx?h=140&la=en&w=120&hash=A844929091F0371666856992E9462B6A06424375" ; 
+    cb:phone "215.571.4807" .
+
+<#Barry-Furrow>
+    cb:name "Barry R. Furrow" ; 
+    cb:name "Furrow" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Health Law Program; Professor of Law" ; 
+    cb:room "School of Law, Room 262" ; 
+    cb:email "barry.r.furrow@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Barry%20Furrow/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/furrow.ashx?h=140&la=en&w=120&hash=4B6B00640FFD291799C30FF7FE601BD68AB9A4E4" ; 
+    cb:phone "215.571.4706" .
+
+<#Alex-Geisinger>
+    cb:name "Alex C. Geisinger" ; 
+    cb:name "Geisinger" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Law" ; 
+    cb:room "School of Law, Room 261" ; 
+    cb:email "alex.c.geisinger@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Alex%20Geisinger/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/geisinger.ashx?h=140&la=en&w=120&hash=2A3EDEB931C297997983604CE91D881331CD577A" ; 
+    cb:phone "215.571.4792" .
+
+<#Deborah-Gordon>
+    cb:name "Deborah S. Gordon" ; 
+    cb:name "Gordon" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 281" ; 
+    cb:email "deborah.s.gordon@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Deborah%20Gordon/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/gordon.ashx?h=140&la=en&w=120&hash=6B41B97DC80F40A4708F9A876EF506E0A5E76DA4" ; 
+    cb:phone "215.571.4811" .
+
+<#Beth-Haas>
+    cb:name "Beth L. Haas" ; 
+    cb:name "Haas" ; 
+    cb:property "faculty" ; 
+    cb:title "Faculty Director for Online Education; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 268" ; 
+    cb:email "beth.l.haas@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Beth%20Haas/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/haas.ashx?h=140&la=en&w=120&hash=5296C6A3865882062AD0E9257D1CD972969BD197" ; 
+    cb:phone "215.571.4818" .
+
+<#Aimée-Kahan>
+    cb:name "Aimée Kahan" ; 
+    cb:name "Kahan" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Master of Legal Studies Program; Assistant Professor of Law" ; 
+    cb:room "School of Law, Room 334" ; 
+    cb:email "aimee.l.kahan@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Aimee%20Kahan/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/kahan.ashx?h=140&la=en&w=120&hash=42725B54C1441BB85FC80B51BD7A7435E5C0FDA7" ; 
+    cb:phone "215.571.4741" .
+
+<#Anil-Kalhan>
+    cb:name "Anil Kalhan" ; 
+    cb:name "Kalhan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 278" ; 
+    cb:email "anil.kalhan@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Anil%20Kalhan/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/kalhan-new.ashx?h=140&la=en&w=120&hash=9FB997453ECF223F50DFDEE74D8C0700ACD3258F" ; 
+    cb:phone "215.804.9098" .
+
+<#Nancy-Kraybill>
+    cb:name "Nancy C. Kraybill" ; 
+    cb:name "Kraybill" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of Academic Skills; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 418" ; 
+    cb:email "nancy.c.kraybill@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Nancy%20Kraybill/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/kraybill.ashx?h=140&la=en&w=120&hash=4F4C05AB8B19ADE08DF7819706880CDC72736BD0" ; 
+    cb:phone "215.571.4803" .
+
+<#Amy-Landers>
+    cb:name "Amy L. Landers" ; 
+    cb:name "Landers" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Intellectual Property Law Program; Professor of Law" ; 
+    cb:room "School of Law, Room 332" ; 
+    cb:email "amy.l.landers@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Amy%20Landers/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/Landersheadshot120x140.ashx?h=140&la=en&w=120&hash=36AB8A31D37AF852E304FBC189940F91F1E80F74" ; 
+    cb:phone "215.571.4795" .
+
+<#Rachel-Lopez>
+    cb:name "Rachel E. Lopez" ; 
+    cb:name "Lopez" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Community Lawyering Clinic; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 264" ; 
+    cb:email "rel62@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Rachel%20Lopez/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/lopez.ashx?h=140&la=en&w=120&hash=FFB4EEABA0BF7DC61DBF9006A3DBF263BE2B152C" ; 
+    cb:phone "215.571.4704" .
+
+<#Amy-Montemarano>
+    cb:name "Amy Montemarano" ; 
+    cb:name "Montemarano" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 354" ; 
+    cb:email "amy.l.montemarano@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Amy%20Montemarano/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/montemarano.ashx?h=127&la=en&w=120&hash=5CE67FF54EA75BA0E18313BD58D93D04C7E87A5C" ; 
+    cb:phone "215.571.4746" .
+
+<#Kevin-Oates>
+    cb:name "Kevin P. Oates" ; 
+    cb:name "Oates" ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Associate Dean of Students; Professor of Law" ; 
+    cb:room "School of Law, Room 405" ; 
+    cb:email "kevin.p.oates@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Kevin%20Oates/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/Oates_Kevin 120x140_ rev 07172012.ashx?h=140&la=en&w=120&hash=3C2315C087E16F5FFA99C1C02A5474445B605DE9" ; 
+    cb:phone "215.571.4719" .
+
+<#Karl-Okamoto>
+    cb:name "Karl Okamoto" ; 
+    cb:name "Okamoto" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Business and Entrepreneurship Law Program; Professor of Law" ; 
+    cb:room "School of Law, Room 416" ; 
+    cb:email "karl.okamoto@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Karl%20Okamoto/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/okamoto.ashx?h=140&la=en&w=120&hash=AA9D15F954C9B5770EB59949AF4B2BC38127510D" ; 
+    cb:phone "215.571.4761" .
+
+<#Reena-Parambath>
+    cb:name "Reena Parambath" ; 
+    cb:name "Parambath" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Co-op Program; Professor of Law" ; 
+    cb:room "School of Law, Room 280" ; 
+    cb:email "reena.e.parambath@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Reena%20Parambath/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/parambath.ashx?h=140&la=en&w=120&hash=390E1582FB068788FA9653F1E63FD7D68FF53D0F" ; 
+    cb:phone "215.571.4783" .
+
+<#Pammela-Quinn>
+    cb:name "Pammela Quinn" ; 
+    cb:name "Quinn" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 270" ; 
+    cb:email "pammela.q.saunders@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Pammela%20Quinn/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/pammela-quinn.ashx?h=140&la=en&w=120&hash=0525D55B00A49B88569E8DE1F6C5132597CDEBD3" ; 
+    cb:phone "215.571.4734" .
+
+<#Terry-Seligmann>
+    cb:name "Terry Jean Seligmann" ; 
+    cb:name "Seligmann" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean for Academic Affairs ; Arlin M. Adams Professor of Legal Writing" ; 
+    cb:room "School of Law, Room 333" ; 
+    cb:email "terry.j.seligmann@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Terry%20Jean%20Seligmann/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/seligmann.ashx?h=140&la=en&w=120&hash=0834511C3424CBD3D7FC5C1110894629D2A7DC9A" ; 
+    cb:phone "215.571.4718" .
+
+<#Norman-Stein>
+    cb:name "Norman P. Stein" ; 
+    cb:name "Stein" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Law" ; 
+    cb:room "School of Law, Room 353" ; 
+    cb:email "nps32@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Norman%20Stein/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/stein.ashx?h=140&la=en&w=120&hash=16CDFA8B074E2A2277FDBA6E3F66D7AAFCD71F98" ; 
+    cb:phone "215.571.4740" .
+
+<#Gwen-Stern>
+    cb:name "Gwen Roseman Stern" ; 
+    cb:name "Stern" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Trial Advocacy Program; Professor of Law" ; 
+    cb:room "School of Law, Room 235" ; 
+    cb:email "gstern@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Gwen%20Stern/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/stern.ashx?h=140&la=en&w=120&hash=CBD67853BBEDEFE7F53D27A39C406054B3CE5464" ; 
+    cb:phone "215.571.4764" .
+
+<#Donald-Tibbs>
+    cb:name "Donald F. Tibbs" ; 
+    cb:name "Tibbs" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Law" ; 
+    cb:room "School of Law, Room 274" ; 
+    cb:email "donald.f.tibbs@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Donald%20Tibbs/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/tibbs.ashx?h=140&la=en&w=120&hash=3C8CCA2C1F58EB00C174A4657BAC1C16134B89A4" ; 
+    cb:phone "215.571.4773" .
+
+<#Lisa-Tucker>
+    cb:name "Lisa A. Tucker" ; 
+    cb:name "Tucker" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 275" ; 
+    cb:email "lisa.t.mcelroy@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Lisa%20Tucker/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/lisa-tucker.ashx?h=140&la=en&w=120&hash=9CE710DAB8702C298C804D47CA3BD61A967FBCE8" ; 
+    cb:phone "215.571.4787" .
+
+<#Kevin-Woodson>
+    cb:name "Kevin Woodson" ; 
+    cb:name "Woodson" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Law" ; 
+    cb:room "School of Law, Room 331" ; 
+    cb:email "kevin.m.woodson@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/kevin_woodson/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/woodson.ashx?h=140&la=en&w=120&hash=8E37D38F733C9E0AF21F52D4032F9EB69BA9EE0C" ; 
+    cb:phone "215.571.4737" .
+
+<#Emily-Zimmerman>
+    cb:name "Emily B. Zimmerman" ; 
+    cb:name "Zimmerman" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of the Criminal Law Program; Associate Professor of Law" ; 
+    cb:room "School of Law, Room 231" ; 
+    cb:email "emily.b.zimmerman@drexel.edu" ; 
+    cb:website "http://drexel.edu/law/faculty/fulltime_fac/Emily%20Zimmerman/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/law/Faculty/zimmerman.ashx?h=140&la=en&w=120&hash=320E7CB732333B473E43B04E343641F18989E71A" ; 
+    cb:phone "215.571.4713" .
+
