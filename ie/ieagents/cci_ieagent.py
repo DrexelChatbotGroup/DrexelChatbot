@@ -50,7 +50,6 @@ class CciIEAgent(IEAgent):
             prof_link = self._flink + a_href
             data = list(map(lambda x: x.getText(), data))
 
-            print(data[1])
             prof = self._parse_prof_site(prof_link) 
             prof.picture = self._flink + img_src
             prof.name = data[1]
