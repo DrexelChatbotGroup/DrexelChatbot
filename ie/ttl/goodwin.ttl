@@ -1,0 +1,111 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Alba-Berberena>
+    cb:name "Alba Berberena" ; 
+    cb:name "Berberena" ; 
+    cb:property "faculty" ; 
+    cb:title "Academic Support Specialist" ; 
+    cb:email "ab43@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/alba-berberena.ashx?la=en" ; 
+    cb:phone "215.895.2162" .
+
+<#Jennifer-Donaghy>
+    cb:name "Jennifer A. Donaghy" ; 
+    cb:name "Donaghy" ; 
+    cb:property "faculty" ; 
+    cb:title "Business Manager" ; 
+    cb:email "jad64@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/jennifer-donaghy.ashx?la=en" ; 
+    cb:phone "215.895.6035" .
+
+<#Timothy-Gilrain>
+    cb:name "Timothy Gilrain" ; 
+    cb:name "Gilrain" ; 
+    cb:property "faculty" ; 
+    cb:title "Executive Director" ; 
+    cb:email "tlg78@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/tim-gilrain.ashx?la=en" ; 
+    cb:phone "215.571.3639" .
+
+<#Patricia-Gremmel>
+    cb:name "Patricia Gremmel" ; 
+    cb:name "Gremmel" ; 
+    cb:property "faculty" ; 
+    cb:title "Program Administrator, Continuing Professional Education" ; 
+    cb:email "pg32@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/patricia-gremmel.ashx?la=en" ; 
+    cb:phone "215.895.2154" .
+
+<#Amy-Gulyas>
+    cb:name "Amy Gulyas" ; 
+    cb:name "Gulyas" ; 
+    cb:property "faculty" ; 
+    cb:title "Academic Advisor, Degree Completion Programs" ; 
+    cb:email "215.895.5945" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/amy-gulyas.ashx?la=en" ; 
+    cb:phone "Advises Undergraduates with Last Names: Kf - Z" .
+
+<#Caitlin-M.S.Ed.>
+    cb:name "Caitlin McCormick-Baldwin, M.S.Ed." ; 
+    cb:name "M.S.Ed." ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Academic Advisor, First-Year Exploratory Studies Program" ; 
+    cb:email "cem52@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/caitlin-mccormick.ashx?la=en" ; 
+    cb:phone "215.895.2812" .
+
+<#John-M.Ed.>
+    cb:name "John Rans, M.Ed." ; 
+    cb:name "M.Ed." ; 
+    cb:property "faculty" ; 
+    cb:title "Senior Academic Advisor, Degree Completion Programs" ; 
+    cb:email "215.571.3810" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/john-rans.ashx?la=en" ; 
+    cb:phone "Advises Undergraduates with Last Names: A - Ke" .
+
+<#Regina-Ph.D.>
+    cb:name "Regina Ruane, Ph.D." ; 
+    cb:name "Ph.D." ; 
+    cb:property "faculty" ; 
+    cb:title "Director, First-Year Exploratory Studies Program" ; 
+    cb:email "regina.ruane@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/regina-ruane.ashx?la=en" ; 
+    cb:phone "215.571.3917" .
+
+<#Christopher-Sarachilli>
+    cb:name "Christopher Sarachilli" ; 
+    cb:name "Sarachilli" ; 
+    cb:property "faculty" ; 
+    cb:title "Communications Manager" ; 
+    cb:email "cps79@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/chris-sarachilli.ashx?la=en" ; 
+    cb:phone "215.895.6933" .
+
+<#Kena-Sears>
+    cb:name "Kena Sears" ; 
+    cb:name "Sears" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Continuing Professional Education and Workforce Initiatives" ; 
+    cb:email "ks3552@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/kena-sears.ashx?la=en" ; 
+    cb:phone "215.571.3936" .
+
+<#Anne-Willkomm>
+    cb:name "Anne Converse Willkomm" ; 
+    cb:name "Willkomm" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Graduate Studies" ; 
+    cb:email "acw334@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/anne-willkomm.ashx?w=618&la=en&hash=9C312FE6A32256DE563BCE531E05A011399235B7" ; 
+    cb:phone "215.571.3257" .
+
+<#Lamont-Wilson>
+    cb:name "Lamont R. Wilson" ; 
+    cb:name "Wilson" ; 
+    cb:property "faculty" ; 
+    cb:title "Director, Degree Completion Programs" ; 
+    cb:email "wilsonlr@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/goodwin/headshots/lamont-wilson.ashx?la=en" ; 
+    cb:phone "215.895.2173" .
+

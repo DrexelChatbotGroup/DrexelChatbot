@@ -45,7 +45,8 @@ def _main(argv):
 #   agents.append(cae_ieagent.CaeIEAgent())
 #   agents.append(cbe_ieagent.CbeIEAgent())
 #   agents.append(buildings_ieagent.BuildingsIEAgent())
-    agents.append(law_ieagent.LawIEAgent())
+#   agents.append(law_ieagent.LawIEAgent())
+    agents.append(goodwin_ieagent.GoodwinIEAgent())
 
     ttl_files = []
     for agent in agents:
