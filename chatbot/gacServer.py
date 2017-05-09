@@ -42,7 +42,7 @@ class GenericAnswerConstruction:
         i = 0
         for line in f:
             fields = line.split(',')
-            d[i] = GenericAnswer(fields[0], fields[1])
+            d[int(fields[0])] = GenericAnswer(fields[1], fields[2])
             i += 1
         f.close()
         return d

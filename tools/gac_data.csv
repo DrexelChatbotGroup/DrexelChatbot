@@ -1,83 +1,201 @@
-Timestamp,Please enter a question,Potential generic question,Generic answer number,ProfessorQuestion,InScope
-12/3/2016 12:03,When does winter break start?,When does (Event) start?,0,no,yes
-12/3/2016 12:04,When does the DAC open?,When does (Building) open?,0,no,yes
-12/3/2016 12:21,Where can I play squash?,Where can I play (Sport)?,0,no,yes?
-12/3/2016 12:21,Tell me a joke.,Tell me a joke.,0,no,no
-12/3/2016 12:27,How do you contact the Triangle?,How do you contact (Organization)?,0,no,yes?
-12/3/2016 12:30,Where can I print in color?,Where can I (Activity)?,0,no,yes?
-1/15/2017 18:08,What is Rush's address?,What is (Building) address?,0,no,yes
-1/15/2017 18:08,Where is Augenblick's office?,Where is (Faculty)'s office?,1,yes,yes
-1/15/2017 18:11,Where is Rush Building?,Where is (Building) building?,0,no,yes
-1/19/2017 22:27,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email address?,2,yes,yes
-1/19/2017 22:28,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s office?,1,yes,yes
-1/19/2017 22:28,Who's office is at Rush 233C?,Who's office is at (Building) (Room)?,3,yes,yes
-1/19/2017 22:29,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd from?,4,yes,yes
-1/19/2017 22:29,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd from?,4,yes,yes
-1/19/2017 22:30,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a website?,5,yes,yes
-1/19/2017 22:30,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s website?,5,yes,yes
-1/19/2017 22:31,What professors do research in AI?,What professors do research in (Topic)?,0,yes,no
-1/19/2017 22:33,What classes does Professor X teach?,What classes does Professor (Faculty) teach?,0,yes,no
-1/19/2017 22:33,Who is head of Computer Science Department?,Who is head of (Department) Department?,6,yes,yes
-1/19/2017 22:33,Who is dean of Computer Science Department?,Who is dean of (Department) Department?,0,yes,yes?
-1/19/2017 22:34,How many professors are there in CS department?,How many professors are there in (Department) department?,0,yes,yes?
-1/19/2017 22:35,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s office?,1,yes,yes
-1/24/2017 13:48,Who is Augenblick?,Who is (Faculty)?,7,yes,yes
-1/24/2017 13:53,What classes does William Mongan teach?,What classes does (Faculty) teach?,0,yes,no
-1/24/2017 13:53,What is David Augenblick's office?,What is (Faculty)'s office?,1,yes,yes
-1/24/2017 13:53,Where is David Augenblicks' office?,Where is (Faculty)' office?,1,yes,yes
-1/24/2017 13:53,Does Augenblick have a PhD,Does (Faculty) have a PhD,4,yes,yes
-1/24/2017 13:58,Does Mongan have a website?,Does (Faculty) have a website?,5,yes,yes
-1/24/2017 13:57,Who is Dr. Exel?,Who is Dr. (Faculty)?,7,yes,yes
-1/24/2017 13:58,What does Mongan look like?,What does (Faculty) look like?,8,yes,yes
-1/24/2017 13:58,Show me Mongan's face.,Show me (Faculty)'s face.,8,yes,yes
-1/24/2017 14:02,Why is Vokolos so nice?,Why is (Faculty) so nice?,0,yes,no
-1/25/2017 14:52,What is Mongan's area of research?,What is (Faculty)'s area of research?,7,yes,yes
-1/25/2017 14:52,What does Mongan's face look like?,What does (Faculty)'s face look like?,8,yes,yes
-1/25/2017 14:52,What is Mongan's favorite color?,What is (Faculty)'s favorite color?,0,yes,no
-1/25/2017 15:11,What is the highest degree earned by Mongan?,What is the highest degree earned by (Faculty)?,4,yes,yes
-1/25/2017 15:11,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in class?,0,yes,no
-1/29/2017 15:13,What is this quarter last date?,What is this quarter last date?,0,no,no
-1/29/2017 15:14,Who is the best professor in CS department?,Who is the best professor in (Department) department?,0,yes,no
-1/29/2017 15:14,Which professors went to the same school?,Which professors went to the same school?,0,yes,no
-1/29/2017 15:20,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quarter?,0,yes,no
-,When does winter break start?,When does (Event) start?,0,no,yes
-,When does the DAC open?,When does (Building) open?,0,no,yes
-,Where can I play squash?,Where can I play (Sport)?,0,no,yes?
-,Tell me a joke.,Tell me a joke.,0,no,no
-,How do you contact the Triangle?,How do you contact (Organization)?,0,no,yes?
-,Where can I print in color?,Where can I (Activity)?,0,no,yes?
-,What is Rush's address?,What is (Building) address?,0,no,yes
-,Where is Augenblick's office?,Where can I talk to (Faculty)?,1,yes,yes
-,Where is Rush Building?,Where is (Building) building?,0,no,yes
-,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email address?,2,yes,yes
-,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s office?,1,yes,yes
-,Who's office is at Rush 233C?,Who is at (Building) (Room)?,3,yes,yes
-,Where did Professor Marcello Balduccinni get his P.hd from?,Where did (Faculty) graduate from?,4,yes,yes
-,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get her P.hd from?,4,yes,yes
-,Does Professor Marcello Balduccinni have a website?,Does (Faculty) have a website?,5,yes,yes
-,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s website?,5,yes,yes
-,What professors do research in AI?,What professors do research in (Topic)?,0,yes,no
-,What classes does Professor X teach?,What classes does Professor (Faculty) teach?,0,yes,no
-,Who is head of Computer Science Department?,Who leads the (Department) Department?,6,yes,yes
-,Who is dean of Computer Science Department?,Who is dean of the (Department) Department?,6,yes,yes
-,How many professors are there in CS department?,How many professors are there in (Department) department?,0,yes,yes?
-,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s office?,1,yes,yes
-,Who is Augenblick?,Can you tell me who (Faculty) is?,7,yes,yes
-,What classes does William Mongan teach?,What classes does (Faculty) teach?,0,yes,no
-,What is David Augenblick's office?,How do I find (Faculty)'s office?,1,yes,yes
-,Where is David Augenblicks' office?, How do I get to (Faculty)'s office?,1,yes,yes
-,Does Augenblick have a PhD,Does (Faculty) have a Master's?,4,yes,yes
-,Does Mongan have a website?,How can I visit (Faculty)'s website?,5,yes,yes
-,Who is Dr. Exel?,Who is (Faculty)?,7,yes,yes
-,What does Mongan look like?,What does (Faculty)'s face look like?,8,yes,yes
-,Show me Mongan's face.,Show me (Faculty).,8,yes,yes
-,Why is Vokolos so nice?,Why is (Faculty) so nice?,0,yes,no
-,What is Mongan's area of research?,What does (Faculty) research?,7,yes,yes
-,What does Mongan's face look like?,What does (Faculty) look like?,8,yes,yes
-,What is Mongan's favorite color?,What is (Faculty)'s favorite color?,0,yes,no
-,What is the highest degree earned by Mongan?,What is the education of (Faculty)?,4,yes,yes
-,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in class?,0,yes,no
-,What is this quarter last date?,What is this quarter last date?,0,no,no
-,Who is the best professor in CS department?,Who is the best professor in (Department) department?,0,yes,no
-,Which professors went to the same school?,Which professors went to the same school?,0,yes,no
-,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quarter?,0,yes,no
+,Please enter a question,Potential generic question,Generic answer number,InScope
+,When does winter break start?,When does (Event) start?,0,yes
+,Where can I play squash?,Where can I play (Sport)?,0,yes?
+,Tell me a joke.,Tell me a joke.,0,no
+,How do you contact the Triangle?,How do you contact (Organization)?,0,yes?
+,Where can I print in color?,Where can I (Activity)?,0,yes?
+,What professors do research in AI?,What professors do research in (Topic)?,0,no
+,What classes does Professor X teach?,What classes does Professor (Faculty) teach?,0,no
+,Who is dean of Computer Science Department?,Who is dean of (Department) Department?,0,yes?
+,How many professors are there in CS department?,How many professors are there in (Department) department?,0,yes?
+,What classes does William Mongan teach?,What classes does (Faculty) teach?,0,no
+,Why is Vokolos so nice?,Why is (Faculty) so nice?,0,no
+,What is Mongan's favorite color?,What is (Faculty)'s favorite color?,0,no
+,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in class?,0,no
+,What is this quarter last date?,What is this quarter last date?,0,no
+,Who is the best professor in CS department?,Who is the best professor in (Department) department?,0,no
+,Which professors went to the same school?,Which professors went to the same school?,0,no
+,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quarter?,0,no
+,Where is Augenblick's office?,Where is (Faculty)'s office?,1,yes
+,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s office?,1,yes
+,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s office?,1,yes
+,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s office?,1,yes
+,What is David Augenblick's office?,What is (Faculty)'s office?,1,yes
+,Where is Augenblick's office?,Where can I talk to (Faculty)?,1,yes
+,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s office?,1,yes
+,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s office?,1,yes
+,What is David Augenblick's office?,How do I find (Faculty)'s office?,1,yes
+,Where is David Augenblicks' office?,How do I get to (Faculty)'s office?,1,yes
+,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email address?,2,yes
+,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email address?,2,yes
+,,Do you know (Faculty)'s email address?,2,yes
+,,What is Professor (Faculty)'s e-mail address?,2,yes
+,,Can you give me (Faculty)'s e-mail address?,2,yes
+,,Do you know (Faculty)'s e-mail address?,2,yes
+,,What's (Faculty)'s email?,2,yes
+,,What's (Faculty)'s e-mail?,2,yes
+,,What is Professor (Faculty)'s email?,2,yes
+,,Can you give me (Faculty)'s email?,2,yes
+,,Do you know (Faculty)'s email?,2,yes
+,,What is Professor (Faculty)'s e-mail?,2,yes
+,,Can you give me (Faculty)'s e-mail?,2,yes
+,,Do you know (Faculty)'s e-mail?,2,yes
+,,What's (Faculty)'s email address?,2,yes
+,,What's (Faculty)'s e-mail address?,2,yes
+,Who's office is at Rush 233C?,Who's office is at (Building) (Room)?,3,no
+,Who's office is at Rush 233C?,Who is at (Building) (Room)?,3,no
+,,What is at (Building) (Room)?,3,no
+,,What's at (Building) (Room)?,3,no
+,,What's in (Room) of (Building)?,3,no
+,,Who's office is in (Room) of (Building)?,3,no
+,,Who is in (Room) of (Building)?,3,no
+,,What is in (Room) of (Building)?,3,no
+,,What will I find in (Building) (Room)?,3,no
+,,What should I expect to be in (Building) (Room)?,3,no
+,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd from?,4,yes
+,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd from?,4,yes
+,Does Augenblick have a PhD,Does (Faculty) have a PhD?,4,yes
+,What is the highest degree earned by Mongan?,What is the highest degree earned by (Faculty)?,4,yes
+,Where did Augenblick graduate from?,Where did (Faculty) graduate from?,4,yes
+,,Where did (Faculty) go to college?,4,yes
+,,Whats (Faculty)'s degree?,4,yes
+,What is the education of Mongan?,What is the education of (Faculty)?,4,yes
+,,How smart is (Faculty),4,yes
+,,When did (Faculty) graduate?,4,yes
+,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a website?,5,yes
+,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s website?,5,yes
+,Does Mongan have a website?,Does (Faculty) have a website?,5,yes
+,Does Professor Marcello Balduccinni have a website?,What's (Faculty)'s website?,5,yes
+,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s website?,5,yes
+,Does Mongan have a website?,How can I visit (Faculty)'s website?,5,yes
+,,What is (Faculty)'s website?,5,yes
+,,What is the website of (Faculty)?,5,yes
+,,What's the website of (Faculty)?,5,yes
+,,Give me professor (Faculty)'s website.,5,yes
+,Who is head of Computer Science Department?,Who is head of (Department) Department?,6,no
+,Who is head of Computer Science Department?,Who leads the (Department) Department?,6,no
+,Who is dean of Computer Science Department?,Who is dean of the (Department) Department?,6,no
+,,Who is head of (Department)?,6,no
+,,Who leads (Department)?,6,no
+,,Who is dean of (Department)?,6,no
+,,Tell me who is head of (Department) Department?,6,no
+,,What is the name of (Department) Department's dean?,6,no
+,,What is the name of (Department) Department's head?,6,no
+,Who is Augenblick?,Who is (Faculty)?,7,yes
+,Who is Dr. Exel?,Who is Dr. (Faculty)?,7,yes
+,,What do you know about (Faculty)?,7,yes
+,Who is Augenblick?,Can you tell me who (Faculty) is?,7,yes
+,,Who's (Faculty)?,7,yes
+,,What is (Faculty) like?,7,yes
+,,What is the bio of (Faculty)?,7,yes
+,,What is (Faculty)'s bio?,7,yes
+,,Tell me about (Faculty),7,yes
+,,(Faculty)?,7,yes
+,What does Mongan look like?,What does (Faculty) look like?,8,yes
+,Show me Mongan's face.,Show me (Faculty)'s face.,8,yes
+,What does Mongan's face look like?,What does (Faculty)'s face look like?,8,yes
+,What does Mongan look like?,What does (Faculty)'s face look like?,8,yes
+,Show me Mongan's face.,Show me (Faculty).,8,yes
+,What does Mongan's face look like?,What does (Faculty) face look like?,8,yes
+,,What does professor (Faculty) look like?,8,yes
+,,Show me professor (Faculty)'s face.,8,yes
+,,What does professor (Faculty)'s face look like?,8,yes
+,,Show me professor (Faculty). ,8,yes
+,,What does professor (Faculty) face look like?,8,yes
+,What is Mongan's research interestr?,What is (Faculty)'s research interest? ,9,yes
+,,What is (Faculty)'s area of research?,9,yes
+,,What does (Faculty) research?,9,yes
+,,What is (Faculty) interested in?,9,yes
+,,Where does (Faculty) specialize?,9,yes
+,,What is (Faculty)'s interest? ,9,yes
+,,What is (Faculty)'s interested in? ,9,yes
+,,What does (Faculty) research? ,9,yes
+,,What is the focus of (Faculty) ? ,9,yes
+,,What does (Faculty) currently research? ,9,yes
+,What is Mongan's position?,What is (Faculty)'s position?,10,yes
+,What is Mongan's title?,What is (Faculty)'s title?,10,yes
+,,Is (Faculty) full-time?,10,yes
+,,What is professor (Faculty)'s position?,10,yes
+,,What is professor (Faculty)'s title?,10,yes
+,,Show me (Faculty)'s position.,10,yes
+,,Show me professor (Faculty)'s position.,10,yes
+,,What is (Faculty)?,10,yes
+,,Give me (Faculty)'s position.,10,yes
+,,Give me professor (Faculty)'s position.,10,yes
+,What is Mongan's phone number?,What is (faculty)'s phone number? ,11,yes
+,What number should I use to call Mongan?,What number should I use to call (faculty)?,11,yes
+,How can I call Mongan?,How can I call (faculty)?,11,yes
+,How can I contact Mongan?,How can I contact (faculty)?,11,yes
+,Give me Mongan's phone number.,Give me (faculty)'s phone number.,11,yes
+,Show me Mongan's phone number.,Show me (faculty)'s phone number.,11,yes
+,What number should I call to contact Mongan?,What number should I call to contact (faculty)?,11,yes
+,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find him?,11,yes
+,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone number?,11,yes
+,What is the number to use for Professor Mongan?,What is the number to use for Professor (faculty)?,11,yes
+,What are some publications of Professor Mongan?,What are some (Publications) of Professor (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored by (Faculty)?,12,yes
+,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s research?,12,yes
+,I want to read a paper from Vokolos.,I want to read a paper from (Faculty).,12,yes
+,,What is the most recent (Publication) authored by professor (Faculty)?,12,yes
+,,What are some (Publications) of (Faculty)?,12,yes
+,,Give me (Publications) of (Faculty).,12,yes
+,,Show me (Publications) of (Faculty).,12,yes
+,,What are some papers published by (Faculty)?,12,yes
+,,Give me papers published by (Faculty).,12,yes
+,,Show me papers published by (Faculty).,12,yes
+,What is Rush's address?,What is (Building) address?,13,yes
+,Where is Rush Building?,Where is (Building) building?,13,yes
+,How do I get to Rush Building?,How do I get to (Building) Building?,13,yes
+,Can you give me location of Rush Building?,Can you give me location of (Building) Building?,13,yes
+,Can you tell me location of Rush Building?,Can you tell me location of (Building) Building?,13,yes
+,Tell me location of Rush Building?,Tell me location of (Building) Building?,13,yes
+,Where should I send package for someone in Rush Building?,Where should I send package for someone in (Building) Building?,13,yes
+,I want Rush's address.,I want (Building)'s address.,13,yes
+,What address should I use for Rush Building?,What address should I use for (Building) Building?,13,yes
+,Give me Rush's address.,Give me (Building)'s address.,13,yes
+,,When does (Building) close on (Day)?,14,yes
+,,What time does Rush close on (Day)?,14,yes
+,,What's (Building)'s close time on (Day)?,14,yes
+,,What time does (Building) close on (Day)?,14,yes
+,,When does (Building) close?,14,yes
+,,What time does Rush close?,14,yes
+,,What's (Building)'s close time?,14,yes
+,,What time does (Building) close?,14,yes
+,,When does (Building) close (Day)?,14,yes
+,,What time does Rush close (Day)?,14,yes
+,When does Rush open on Monday?,When does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does Rush open on (Day)?,15,yes
+,What's Rush's open time on Monday?,What's (Building)'s open time on (Day)?,15,yes
+,When's Rush open on Monday?,What time does (Building) open on (Day)?,15,yes
+,When does Rush open?,When does (Building) open?,15,yes
+,What time does Rush open?,What time does Rush open?,15,yes
+,What's Rush open time?,What's (Building)'s open time?,15,yes
+,When's Rush open?,What time does (Building) open?,15,yes
+,When does Rush open today?,When does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does Rush open (Day)?,15,yes
+,What is Rush's website?,What is (Building) website?,16,yes
+,What is Rush's site?,What is (Building) site?,16,yes
+,Where can I get more information about Rush?,Where can I get more information about (Building)?,16,yes
+,Can you tell me more about Rush?,Can you tell me more about (Building)?,16,yes
+,Can you give me more information about Rush?,Can you give me more information about (Building)?,16,yes
+,Where is the best place to find more information about Rush?,Where is the best place to find more information about (Building)?,16,yes
+,Give me link to Rush's website.,Give me link to (Building)'s website.,16,yes
+,How can I go to Rush's website?,How can I go to (Building)'s website?,16,yes
+,What is the address of Rush's website?,What is the address of (Building)'s website?,16,yes
+,,What's (Building)'s address?,16,yes
+,What is Rush's phone number?,What is (Building)'s phone number?,17,no
+,Where can I contact Rush?,Where can I contact (Building)?,17,no
+,How can I contact Rush?,How can I contact (Building)?,17,no
+,What number can Rush be reached at?,What number can (Building) be reached at?,17,no
+,Can I talk to someone at Rush?,Can I talk to someone at (Building)?,17,no
+,Show me Rush building,Show me (Building) building,18,yes
+,Can you show me a picture of Rush?,Can you show me a picture of (Building)?,18,yes
+,Can I see what Rush looks like?,Can I see what (Building) looks like?,18,yes
+,What does Rush building look like?,What does (Building) building look like?,18,yes
+,How does Rush building look like?,How does (Building) building look like?,18,yes
+,,Show me picture of (Building) building,18,yes
+,,Give me picture of (Building),18,yes
+,,Show me (Building),18,yes
+,,Can you show me a picture of (Building) building?,18,yes
+,,What does (Building) look like?,18,yes
+,,How does (Building) look like?,18,yes

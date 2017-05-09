@@ -1,12 +1,12 @@
 #file_name = "gac_data.csv"
 file_name = "gac_data_combined.csv"
 out_name = "trained_model.m5"
-num_of_gas = 9
+num_of_gas = 19
 max_question_length = 25 #used to be 100
 top_words = 5000
 filt = '.?"\/!,<>@#$%^&*_-+=|}{][:;~`'
 embedding_vector_length = 64
-percent_test = 0.5
+percent_test = 0.1
 #Note: It is very important that the above values be set in the same way for
 #      both this script and the gac class file.
 
@@ -49,7 +49,7 @@ reader = csv.reader(csvfile)
 next(reader) #Throw out the first line
 try:
     for record in reader:
-        if record[4] == "yes": #This is the line that makes it train on professor questions only
+        if record[4] == "yes" or record[3] == '0': #Only train on in scope things. (out of scope errors are okay)
             x.append(my_hash(record[2]))
             temp = [0] * num_of_gas
             temp[int(record[3])] = 1
