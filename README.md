@@ -16,11 +16,16 @@ http://10.246.251.67:8080/chatbot
 [Aaron]
 
 ##### How to start gac Python Server for gac:
-Navigate to chatbot directory
-run command `nohup python3 gacServer.py &`
+Navigate to chatbot directory.
+If restarting, make sure to kill the previous gacServer process. The process ID can be found using `pgrep -af python`
+Run command `nohup python3 gacServer.py &`
 
 ##### How to retrain the neural network:
-[Daniel]
+Navigate to the tools directory.
+Make sure the training data in gac_data_combined.csv is the data you want to train on.
+Run `sudo python3 gac_training.py`
+Move the newly created "trained_model.m5" file to the chatbot directory.
+Restart the gac Python Server.
 
 #### How to run the information extraction:
 [Tom]
