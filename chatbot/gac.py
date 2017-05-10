@@ -41,7 +41,10 @@ class GenericAnswerConstruction:
         i = 0
         for line in f:
             fields = line.split(',')
-            d[int(fields[0])] = GenericAnswer(fields[1], fields[2])
+            try:
+            	d[int(fields[0])] = GenericAnswer(fields[1], fields[2])
+            except ValueError:
+                print("There was an encoding error on this line: " + str(line))
             i += 1
         f.close()
         return d
@@ -59,7 +62,7 @@ class GenericAnswer:
 
 if __name__ == "__main__":
     import sys
-    classifier = GenericAnswerConstruction("trained_model.m5", "genericAnswers.txt")
+    classifier = GenericAnswerConstruction("trained_model.m5", "genericAnswers.csv")
     for arg in sys.argv[1:]:
         print(arg + ":  " + classifier.generateGenericAnswer(arg).getAnswer())
     print("__________")

@@ -1,4 +1,4 @@
-﻿0,Error,null
+0,Error,null
 1,(faculty)'s office is (room).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?room where { ?s cb:name ""(faculty)"" . ?s cb:room ?room }"
 2,(faculty)'s email address is (email).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?email where { ?s cb:name ""(faculty)"" . ?s cb:email ?email }"
 3,(room) in (building) is (faculty)'s office.,"prefix cb: <http://drexelchatbot.com/rdf/> select ?name where { ?s cb:name ?name . ?s cb:room ""(room)"" . ?s cb:building ""(building)"""" }"
