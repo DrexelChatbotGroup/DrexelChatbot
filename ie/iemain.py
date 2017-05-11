@@ -36,18 +36,18 @@ def _main(argv):
 
     agents = []
 
-#   agents.append(cci_ieagent.CciIEAgent())
-#   agents.append(coas_ieagent.CoasIEAgent())
-#   agents.append(lebow_ieagent.LebowIEAgent())
-#   agents.append(biomed_ieagent.BiomedIEAgent())
-#   agents.append(westphal_ieagent.WestphalIEAgent())
-#   agents.append(ece_ieagent.EceIEAgent())
-#   agents.append(cae_ieagent.CaeIEAgent())
-#   agents.append(cbe_ieagent.CbeIEAgent())
-#   agents.append(buildings_ieagent.BuildingsIEAgent())
-#   agents.append(law_ieagent.LawIEAgent())
-#   agents.append(goodwin_ieagent.GoodwinIEAgent())
-#   agents.append(nursing_ieagent.NursingIEAgent())
+    agents.append(cci_ieagent.CciIEAgent())
+    agents.append(coas_ieagent.CoasIEAgent())
+    agents.append(lebow_ieagent.LebowIEAgent())
+    agents.append(biomed_ieagent.BiomedIEAgent())
+    agents.append(westphal_ieagent.WestphalIEAgent())
+    agents.append(ece_ieagent.EceIEAgent())
+    agents.append(cae_ieagent.CaeIEAgent())
+    agents.append(cbe_ieagent.CbeIEAgent())
+    agents.append(buildings_ieagent.BuildingsIEAgent())
+    agents.append(law_ieagent.LawIEAgent())
+    agents.append(goodwin_ieagent.GoodwinIEAgent())
+    agents.append(nursing_ieagent.NursingIEAgent())
     agents.append(medicine_ieagent.MedicineIEAgent())
 
     ttl_files = []
