@@ -11,6 +11,7 @@ numpy.random.seed(0)
 from zlib import adler32
 from keras.preprocessing import sequence
 from keras import models
+import logging
 
 class GenericAnswerConstruction:
     def __init__(self, configFile, answerFile):
@@ -18,6 +19,7 @@ class GenericAnswerConstruction:
         self.genericAnswers = self.loadAnswers(answerFile)
 
     def generateGenericAnswer(self, genericQuestion):
+        logging.debug("Running Generic Answer Construction...")
         encodedText = [self.my_hash(genericQuestion)]
         encodedText = sequence.pad_sequences(encodedText, maxlen=max_question_length)
         answerNumber = self.net.predict_classes(encodedText, verbose=0)[0]
@@ -31,8 +33,10 @@ class GenericAnswerConstruction:
 
         final = []
         words = to_hash.lower().split(" ")
+        logging.debug("String to hash: " + str(words))
         for word in words:
             final.append(adler32(word.encode()) % top_words)
+        logging.debug("Hashed string: " + str(final))
         return final
 
     def loadAnswers(self, fname):

@@ -10,6 +10,7 @@ class GenericQuestionConstruction():
         self.tag_list = []
 
     def getgenericquestion(self):
+        logging.debug("Running Generic Question Construction...")
         postag_class = NLTKPOSTag()
         #note: the library has been seen to have issue with non-English names (e.g.
         #'Yuan An'). Also, it considers 'Does' to be a proper noun
@@ -40,9 +41,11 @@ class GenericQuestionConstruction():
         #retrieve all nouns
         noun_list = []
         count = 0
+        logging.debug("Getting noun list")
         while count < len(self.tag_list):
             word = self.tag_list[count][0]
             tag = self.tag_list[count][1]
+            logging.debug("word: %s - tag: %s" % (word, tag))
             if tag[0].lower() == 'n':
                 noun = word
 		#consider adjacent proper nouns to be 1 noun
@@ -57,11 +60,13 @@ class GenericQuestionConstruction():
                             count = count - 1
                             break
                 noun_list.append(noun)
+                logging.debug("count: %s - noun: %s" % (str(count), noun))
             count = count + 1
         rep_list = {}
 
         #create a dictionary whose keys are generic representations 
         #of the nouns (if found) and values are the nouns
+        logging.debug("Querying database for representations")
         for noun in noun_list:
             rep = ""
             #get a dictionary from database whose key is 
@@ -77,12 +82,9 @@ class GenericQuestionConstruction():
                 ?s cb:property ?property .
             }
             """ % noun
+            logging.debug("query_string: " + query_string)
             rep = self.db.query(query_string)
-            logging.debug("noun: " + str(noun))
-            logging.debug("rep: " + str(rep))
-
-            #for testing purpose
-            #rep = "**test**"
+            logging.debug("noun: %s - rep: %s" % (noun, str(rep)))
 
             #store tuples
             if rep:
