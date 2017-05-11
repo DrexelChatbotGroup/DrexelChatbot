@@ -4,6 +4,7 @@
 <#Alumni-Labs>
     cb:name "Alumni Engineering Labs" ; 
     cb:name "AEL" ; 
+    cb:name "Ael" ; 
     cb:property "building" ; 
     cb:department "Engineering" ; 
     cb:address "3141 Chestnut St" ; 
@@ -25,6 +26,7 @@
 <#Baiada-Center>
     cb:name "Baiada Center" ; 
     cb:name "BAIADA" ; 
+    cb:name "Baiada" ; 
     cb:property "building" ; 
     cb:department "Entrepreneurship" ; 
     cb:address "3218 Market Street" ; 
@@ -48,6 +50,7 @@
     cb:name "Bossone Research Enterprise Center" ; 
     cb:name "School of Biomedical Engineering Science and Health Systems" ; 
     cb:name "BSONE" ; 
+    cb:name "Bsone" ; 
     cb:property "building" ; 
     cb:department "Scientific Research; Biomedical Engineering" ; 
     cb:address "3140 Market Street" ; 
@@ -69,6 +72,7 @@
 <#Center-Technology>
     cb:name "Center for Automation Technology" ; 
     cb:name "CAT" ; 
+    cb:name "Cat" ; 
     cb:property "building" ; 
     cb:department "Instructional" ; 
     cb:address "3139 Ludlow St" ; 
@@ -90,6 +94,7 @@
 <#Design-Annex>
     cb:name "Design Arts Annex" ; 
     cb:name "CODANX" ; 
+    cb:name "Codanx" ; 
     cb:property "building" ; 
     cb:department "Art and Design" ; 
     cb:address "101 N 33rd St" ; 
@@ -111,6 +116,7 @@
 <#Curtis-Hall>
     cb:name "Curtis Hall" ; 
     cb:name "CURTIS" ; 
+    cb:name "Curtis" ; 
     cb:property "building" ; 
     cb:department "Engineering" ; 
     cb:address "3141 Chestnut St" ; 
@@ -132,6 +138,7 @@
 <#Disque-Hall>
     cb:name "Disque Hall" ; 
     cb:name "DISQUE" ; 
+    cb:name "Disque" ; 
     cb:property "building" ; 
     cb:department "College of Science" ; 
     cb:address "3141 Chestnut St" ; 
@@ -157,6 +164,7 @@
     cb:name "Recreation Center" ; 
     cb:name "Rec Center" ; 
     cb:name "DRC" ; 
+    cb:name "Drc" ; 
     cb:property "building" ; 
     cb:department "Athletics and Recreation" ; 
     cb:address "3301 Market St" ; 
@@ -181,6 +189,7 @@
     cb:name "One Drexel Plaza" ; 
     cb:name "School of Education" ; 
     cb:name "DXLPLZ" ; 
+    cb:name "Dxlplz" ; 
     cb:property "building" ; 
     cb:department "Evening and Professional Studies" ; 
     cb:address "3001 Market St" ; 
@@ -205,6 +214,7 @@
     cb:name "Goodwin College of Professional Studies" ; 
     cb:name "LeBow College of Business" ; 
     cb:name "GHALL" ; 
+    cb:name "Ghall" ; 
     cb:property "building" ; 
     cb:department "Academic" ; 
     cb:address "3220 Market St" ; 
@@ -229,6 +239,7 @@
     cb:name "W.W. Hagerty Library" ; 
     cb:name "Hagerty" ; 
     cb:name "HAGRTY" ; 
+    cb:name "Hagrty" ; 
     cb:property "building" ; 
     cb:department "Library" ; 
     cb:address "3300 Market St" ; 
@@ -255,6 +266,7 @@
     cb:name "Intercultural Center" ; 
     cb:name "Marks Intercultural Center" ; 
     cb:name "INTCUL" ; 
+    cb:name "Intcul" ; 
     cb:property "building" ; 
     cb:department "Interfaith Spiritual Center" ; 
     cb:address "101 N 33rd St" ; 
@@ -279,6 +291,7 @@
     cb:name "Korman Center" ; 
     cb:name "University Library" ; 
     cb:name "KORMAN" ; 
+    cb:name "Korman" ; 
     cb:property "building" ; 
     cb:department "Information Science and Technology; Education" ; 
     cb:address "3141 Chestnut St" ; 
@@ -301,6 +314,7 @@
     cb:name "Language and Communication Center" ; 
     cb:name "Language Center" ; 
     cb:name "LANGCC" ; 
+    cb:name "Langcc" ; 
     cb:property "building" ; 
     cb:department "Language" ; 
     cb:address "229 N 33rd St" ; 
@@ -325,6 +339,7 @@
     cb:name "Kline Law Building and Library" ; 
     cb:name "Kline School of Law" ; 
     cb:name "LAWBDG" ; 
+    cb:name "Lawbdg" ; 
     cb:property "building" ; 
     cb:department "Law" ; 
     cb:address "3320 Market St" ; 
@@ -350,6 +365,7 @@
     cb:name "College of Engineering" ; 
     cb:name "CoE" ; 
     cb:name "LEBOW" ; 
+    cb:name "Lebow" ; 
     cb:property "building" ; 
     cb:department "Engineering" ; 
     cb:address "3120 Market St" ; 
@@ -374,6 +390,7 @@
     cb:name "Pennoni Honors College" ; 
     cb:name "Educational Activiites Center" ; 
     cb:name "MACALS" ; 
+    cb:name "Macals" ; 
     cb:property "building" ; 
     cb:department "Humanities and Social Science" ; 
     cb:address "3250 Chestnut St" ; 
@@ -396,6 +413,7 @@
 <#Main-Building>
     cb:name "Main Building" ; 
     cb:name "MAIN" ; 
+    cb:name "Main" ; 
     cb:property "building" ; 
     cb:department "Administration" ; 
     cb:address "3141 Chestnut St" ; 
@@ -418,6 +436,7 @@
 <#Mandell-Theater>
     cb:name "Mandell Theater" ; 
     cb:name "MNDELL" ; 
+    cb:name "Mndell" ; 
     cb:property "building" ; 
     cb:department "Performance" ; 
     cb:address "3201 Chestnut Street" ; 
@@ -442,6 +461,7 @@
     cb:name "Nesbitt Hall" ; 
     cb:name "Dornsife School of Public Health" ; 
     cb:name "NSBITT" ; 
+    cb:name "Nsbitt" ; 
     cb:property "building" ; 
     cb:department "Home Economics" ; 
     cb:address "3215 Market St" ; 
@@ -466,6 +486,7 @@
     cb:name "Close School of Entrepreneurship" ; 
     cb:name "Pearlstein" ; 
     cb:name "PEARL" ; 
+    cb:name "Pearl" ; 
     cb:property "building" ; 
     cb:department "Business" ; 
     cb:address "3218 Market Street" ; 
@@ -490,6 +511,7 @@
     cb:name "Papadakis Integrated Sciences Building" ; 
     cb:name "Papadakis" ; 
     cb:name "PISB" ; 
+    cb:name "Pisb" ; 
     cb:property "building" ; 
     cb:department "Academic" ; 
     cb:address "3141 Chestnut St" ; 
@@ -515,6 +537,7 @@
     cb:name "PSA Building" ; 
     cb:name "Psych-Soc-Anthro" ; 
     cb:name "PSA" ; 
+    cb:name "Psa" ; 
     cb:property "building" ; 
     cb:department "Research" ; 
     cb:address "33rd and Powelton Streets" ; 
@@ -537,6 +560,7 @@
     cb:name "Paul Peck Problem Solving and Research Building" ; 
     cb:name "Academic Building" ; 
     cb:name "PSRC" ; 
+    cb:name "Psrc" ; 
     cb:property "building" ; 
     cb:department "Administration" ; 
     cb:address "101 N 33rd St" ; 
@@ -558,6 +582,7 @@
 <#Randell-Hall>
     cb:name "Randell Hall" ; 
     cb:name "RANDEL" ; 
+    cb:name "Randel" ; 
     cb:property "building" ; 
     cb:department "Engineering" ; 
     cb:address "3141 Chestnut St" ; 
@@ -581,6 +606,7 @@
     cb:name "College of Computing & Informatics" ; 
     cb:name "CCI Building" ; 
     cb:name "RUSH" ; 
+    cb:name "Rush" ; 
     cb:property "building" ; 
     cb:department "Information Science and Technology; Library Science" ; 
     cb:address "30 N 33rd St" ; 
@@ -604,6 +630,7 @@
 <#Stratton-Hall>
     cb:name "Stratton Hall" ; 
     cb:name "STRATN" ; 
+    cb:name "Stratn" ; 
     cb:property "building" ; 
     cb:department "Biological Sciences" ; 
     cb:address "3141 Chestnut St" ; 
@@ -625,6 +652,7 @@
 <#University-Crossings>
     cb:name "University Crossings" ; 
     cb:name "UCROSS" ; 
+    cb:name "Ucross" ; 
     cb:property "building" ; 
     cb:department "Computer Science; Cinema and Television" ; 
     cb:address "3175 John F Kennedy Blvd" ; 
@@ -650,6 +678,7 @@
     cb:name "Westphal College of Media Arts & Design" ; 
     cb:name "Westphal" ; 
     cb:name "URBN" ; 
+    cb:name "Urbn" ; 
     cb:property "building" ; 
     cb:department "Media Arts and Design" ; 
     cb:address "35th and Market Streets" ; 
