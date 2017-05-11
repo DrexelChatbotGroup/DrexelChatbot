@@ -45,7 +45,7 @@ class GenericAnswerPopulation:
         for rep in rep_list:
                 if not(rep in dictionary):
                     logging.warning("Error!!! when populating final answer")
-                    raise BadAnswerException(db, dictionary)
+                    raise BadAnswerException(self.db, dictionary)
                 genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
 
         return genericAnswer
