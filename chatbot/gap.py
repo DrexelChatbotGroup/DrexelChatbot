@@ -19,6 +19,9 @@ class GenericAnswerPopulation:
         return answer
 
     def __queryDatabase(self):
+        if(self.query == "null"):
+            logging.debug("query was null")
+            raise BadQuestionException()
         ans_dictionary = self.db.query(self.query)
         logging.debug("queried answer dictionary: " + str(ans_dictionary))
         if(len(ans_dictionary) == 0):
