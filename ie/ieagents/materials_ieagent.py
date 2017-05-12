@@ -32,14 +32,14 @@ class MaterialsIEAgent(IEAgent):
 
         table = soup.select('tbody')[0]
         elems = table.select('tr')
-        for i in range(2, len(elems)):
+        for i in range(0, len(elems)):
             rows = elems[i].select("td")
             picture = rows[0].find('img')['src']
             picture = self._flink + picture
             nameStr = rows[0].find('h2').getText()
             titleStr = rows[0].find('h3').getText()
             emailStr = rows[1].find('a').getText()
-            phoneStr = rows[1].find('br').getText()
+            phoneStr = rows[1].find('br').next_sibling
             phoneStr = phoneStr.split(":")[1]
             phoneStr = phoneStr.split('\n')[0]
 

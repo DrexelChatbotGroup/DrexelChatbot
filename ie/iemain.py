@@ -35,7 +35,6 @@ def _main(argv):
             ttl_gen = False
 
     agents = []
-    '''
     agents.append(cci_ieagent.CciIEAgent())
     agents.append(coas_ieagent.CoasIEAgent())
     agents.append(lebow_ieagent.LebowIEAgent())
@@ -51,7 +50,6 @@ def _main(argv):
     agents.append(medicine_ieagent.MedicineIEAgent())
     agents.append(mem_ieagent.MemIEAgent())
     agents.append(engtech_ieagent.EngTechIEAgent())
-    '''
     agents.append(materials_ieagent.MaterialsIEAgent())
 
     ttl_files = []

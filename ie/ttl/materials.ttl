@@ -1,6 +1,22 @@
 @base <http://drexelchatbot.com/rdf/> .
 @prefix cb: <http://drexelchatbot.com/rdf/> .
 
+<#Michel-Barsoum>
+    cb:name "Michel Barsoum" ; 
+    cb:name "Barsoum" ; 
+    cb:property "faculty" ; 
+    cb:title "Distinguished Professor" ; 
+    cb:email "barsoumw@drexel.edu" ; 
+    cb:phone "215.895.2338" .
+
+<#Hao-Cheng>
+    cb:name "Hao Cheng" ; 
+    cb:name "Cheng" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:email "hcheng@coe.drexel.edu" ; 
+    cb:phone "215.895.1640" .
+
 <#Yury-Gogotsi>
     cb:name "Yury Gogotsi" ; 
     cb:name "Gogotsi" ; 
