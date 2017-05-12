@@ -30,6 +30,7 @@ class BuildingsIEAgent(IEAgent):
                 building.altnames = names[1:]
                 if(row["Code"]):
                     building.altnames.append(row["Code"])
+                    building.altnames.append(row["Code"].title())
 
                 building.department = row["Function"]
                 building.address = row["Address"]

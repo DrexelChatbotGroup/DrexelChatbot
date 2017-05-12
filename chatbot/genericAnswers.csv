@@ -1,19 +1,19 @@
 0,Error,null
-1,(faculty)'s office is (room).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?room where { ?s cb:name "(faculty)" . ?s cb:room ?room }"
-2,(faculty)'s email address is (email).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?email where { ?s cb:name "(faculty)" . ?s cb:email ?email }"
-3,(room) in (building) is (faculty)'s office.,"prefix cb: <http://drexelchatbot.com/rdf/> select ?name where { ?s cb:name ?name . ?s cb:room "(room)" . ?s cb:building "(building)"" }"
-4,(faculty)'s education is as follows: (education).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?education where { ?s cb:name "(faculty)" . ?s cb:education ?education}"
-5,(website) is (faculty)'s website.,"prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name "(faculty)" . ?s cb:website ?website}"
-6,(faculty) is in (department) department.,"prefix cb: <http://drexelchatbot.com/rdf/> select ?department where { ?s cb:name "(faculty)" . ?s cb:department ?department}"
-7,this is (faculty)'s bio: (bio).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?bio where { ?s cb:name "(faculty)" . ?s cb:bio ?bio}"
-8,(picture) is an image of (faculty).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?picture where { ?s cb:name "(faculty)" . ?s cb:picture ?picture}"
-9,(faculty)'s research interests are as follows: (interests).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?interests where { ?s cb:name "(faculty)" . ?s cb:interests ?interests}"
-10,(faculty) is a (title).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?title where { ?s cb:name "(faculty)" . ?s cb:title ?title}"
-11,(faculty)'s phone number is (phone).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(faculty)" . ?s cb:phone ?phone }"
-12,Here are some a (faculty)'s most recent publications: (publications).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?publications where { ?s cb:name "(faculty)" . ?s cb:publications ?publications }"
-13,(building) opens at (startTime).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?startTime where { ?s cb:name "(builiding)" . ?s cb:startTime ?startTime }"
-14,(building) closes at (endTime).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?endTime where { ?s cb:name "(builiding)" . ?s cb:endTime ?endTime}"
-15,(building)'s website is (website).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name "(website)" . ?s cb:website ?website}"
-16,(building) phone number is (phone).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(builiding)" . ?s cb:phone ?phone}"
-17,The address of (building) is (address).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?address where { ?s cb:name "(builiding)" . ?s cb:address ?address}"
-18,Here is a picture of (building): (picture).,"prefix cb: <http://drexelchatbot.com/rdf/> select ?picture where { ?s cb:name "(builiding)" . ?s cb:picture ?picture}"
+1,(faculty)'s office is (room).,prefix cb: <http://drexelchatbot.com/rdf/> select ?room where { ?s cb:name "(faculty)" . ?s cb:room ?room }
+2,(faculty)'s email address is (email).,prefix cb: <http://drexelchatbot.com/rdf/> select ?email where { ?s cb:name "(faculty)" . ?s cb:email ?email }
+3,(room) in (building) is (faculty)'s office.,prefix cb: <http://drexelchatbot.com/rdf/> select ?name where { ?s cb:name ?name . ?s cb:room "(room)" . ?s cb:building "(building)"" }
+4,(faculty)'s education is as follows: (education).,prefix cb: <http://drexelchatbot.com/rdf/> select ?education where { ?s cb:name "(faculty)" . ?s cb:education ?education}
+5,(website) is (faculty)'s website.,prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name "(faculty)" . ?s cb:website ?website}
+6,(faculty) is in (department) department.,prefix cb: <http://drexelchatbot.com/rdf/> select ?department where { ?s cb:name "(faculty)" . ?s cb:department ?department}
+7,this is (faculty)'s bio: (bio).,prefix cb: <http://drexelchatbot.com/rdf/> select ?bio where { ?s cb:name "(faculty)" . ?s cb:bio ?bio}
+8,(picture) is an image of (faculty).,prefix cb: <http://drexelchatbot.com/rdf/> select ?picture where { ?s cb:name "(faculty)" . ?s cb:picture ?picture}
+9,(faculty)'s research interests are as follows: (interests).,prefix cb: <http://drexelchatbot.com/rdf/> select ?interests where { ?s cb:name "(faculty)" . ?s cb:interests ?interests}
+10,(faculty) is a (title).,prefix cb: <http://drexelchatbot.com/rdf/> select ?title where { ?s cb:name "(faculty)" . ?s cb:title ?title}
+11,(faculty)'s phone number is (phone).,prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(faculty)" . ?s cb:phone ?phone }
+12,Here are some a (faculty)'s most recent publications: (publications).,prefix cb: <http://drexelchatbot.com/rdf/> select ?publications where { ?s cb:name "(faculty)" . ?s cb:publications ?publications }
+13,The address of (building) is (address).,prefix cb: <http://drexelchatbot.com/rdf/> select ?address where { ?s cb:name "(building)" . ?s cb:address ?address}
+14,(building) opens at (startTime).,prefix cb: <http://drexelchatbot.com/rdf/> select ?startTime where { ?s cb:name "(building)" . ?s cb:startTime ?startTime }
+15,(building) closes at (endTime).,prefix cb: <http://drexelchatbot.com/rdf/> select ?endTime where { ?s cb:name "(building)" . ?s cb:endTime ?endTime}
+16,(building)'s website is (website).,prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name "(website)" . ?s cb:website ?website}
+17,(building) phone number is (phone).,prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(building)" . ?s cb:phone ?phone}
+18,Here is a picture of (building): (picture).,prefix cb: <http://drexelchatbot.com/rdf/> select ?picture where { ?s cb:name "(building)" . ?s cb:picture ?picture}
