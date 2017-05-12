@@ -1,0 +1,48 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Irina-Husanu>
+    cb:name "Irina Ciobanescu Husanu" ; 
+    cb:name "Husanu" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:email "inc22@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/engtech/CIOBAN_HUSANU_web.ashx?h=202&la=en&w=197&hash=515DC9E6639F52EC58F3BD1803FEA8B3F0F38D5B" ; 
+    cb:phone "215.895.5957" .
+
+<#Yalcin-Ertekin>
+    cb:name "Yalcin Ertekin" ; 
+    cb:name "Ertekin" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor of Engineering Technology" ; 
+    cb:email "yme25@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/engtech/ERTEKIN_web.ashx?h=202&la=en&w=197&hash=2E09F2AFF74A07AC550D06E1099B2943ACC2BC5D" ; 
+    cb:phone "215.571.3875" .
+
+<#Vladimir-Genis>
+    cb:name "Vladimir Genis" ; 
+    cb:name "Genis" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head of Engineering Technology" ; 
+    cb:email "Genisv@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/engtech/About/Message from the Director/Genis_2.ashx?h=150&la=en&w=200&hash=6A0DA64D52531C170B35FE81493240C60FB4AF19" ; 
+    cb:phone "215.895.0902" .
+
+<#Lunal-Khuon>
+    cb:name "Lunal Khuon" ; 
+    cb:name "Khuon" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor & Director of Research" ; 
+    cb:email "lk479@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/engtech/Lunal Khuon.ashx?h=219&la=en&w=200&hash=A0A887EB7BB3068C38DC07E40747DB2FD6ABB5B0" ; 
+    cb:phone "215.571.3296" .
+
+<#Michael-Mauk>
+    cb:name "Michael G Mauk" ; 
+    cb:name "Mauk" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:email "mgm48@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/engtech/Mauk.ashx?h=201&la=en&w=197&hash=B992A3357D205E203048429EA5329B7478F43357" ; 
+    cb:phone "215.895.0934" .
+
