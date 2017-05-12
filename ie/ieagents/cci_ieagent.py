@@ -93,7 +93,7 @@ class CciIEAgent(IEAgent):
                         break
 
         website_block = soup.find("div", {"id" : "bodytag_2_rightrail_0_pnlSite"})
-        website_str = ""
+        website_str = website
         if website_block:
             website_str = website_block.select("a")[0].getText()
 

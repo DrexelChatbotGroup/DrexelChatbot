@@ -1,0 +1,464 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Jennifer-Adams>
+    cb:name "Jennifer Adams" ; 
+    cb:name "Adams" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel PlazaRoom 136" ; 
+    cb:education "EdD, Harvard University ; MEd, Harvard University; BA, Colgate University ;" ; 
+    cb:email "jennifer.adams@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Adams-Jennifer/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Jennifer-Adams2.ashx?h=206&la=en&w=200&hash=3BEBFE623B09D816DF58F1DDBBB16944A9FB1A96" ; 
+    cb:phone "215.571.4581" .
+
+<#Ayana-Allen-Handy>
+    cb:name "Ayana Allen-Handy" ; 
+    cb:name "Allen-Handy" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 MarketRoom 368" ; 
+    cb:education "PhD, Texas A&M; University ; MEd, University of St. Thomas (TX); BA, University of North Carolina at Chapel Hill ;" ; 
+    cb:email "ayana.allen@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Allen-Ayana/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/AyanaAllen.ashx?h=200&la=en&w=200&hash=5C1465C92B617B12617E2ACDD6EC4C98162A7F0B" ; 
+    cb:phone "215.571.4582" .
+
+<#Kristen-Betts>
+    cb:name "Kristen Betts" ; 
+    cb:name "Betts" ; 
+    cb:property "faculty" ; 
+    cb:education ";" ; 
+    cb:email "kbetts@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Betts-Kristen/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/kristen_betts.ashx?h=206&la=en&w=200&hash=A56912A94B0BD6A0A83C9A63F71A5E49548C9981" ; 
+    cb:phone "912.257.8336" .
+
+<#Nancy-Songer>
+    cb:name "Nancy Butler Songer" ; 
+    cb:name "Songer" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel Plaza, Suite 1003001 Market StreetPhiladelphia, PA 19104" ; 
+    cb:education "PhD, University of California, Berkeley; MS, Tufts University; BS, University of California, Davis ;" ; 
+    cb:email "songer@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Songer-Nancy/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Nancy-Songer.ashx?h=206&la=en&w=200&hash=3BE6820D20B7EE1D022E655F226D8881E54A12FC" ; 
+    cb:phone "215.895.2167" .
+
+<#José-Chávez>
+    cb:name "José Luis Chávez" ; 
+    cb:name "Chávez" ; 
+    cb:property "faculty" ; 
+    cb:education "EdD, University of Southern California; MA, University of San Francisco; BA, San Diego State University ;" ; 
+    cb:email "jlc334@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Chavez-Jose-Luis/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Jose-Chavez.ashx?h=202&la=en&w=197&hash=393C3DA28B4BB7392F32543C92BF37157511AF42" ; 
+    cb:phone "916.325.4690" .
+
+<#Rebecca-Clothey>
+    cb:name "Rebecca Clothey" ; 
+    cb:name "Clothey" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel PlazaRoom 148" ; 
+    cb:education "PhD, University of Pittsburgh, School of Education; MA, American University, School of International Service; BA, University of Pittsburgh, College of Arts and Sciences ;" ; 
+    cb:email "rac52@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Clothey-Rebecca/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Rebecca-Clothey.ashx?h=206&la=en&w=200&hash=97BFAA1B54938600F92C3C2AFC72D6EE08625D33" ; 
+    cb:phone "215.895.5931" .
+
+<#James-Connell>
+    cb:name "James E. Connell" ; 
+    cb:name "Connell" ; 
+    cb:property "faculty" ; 
+    cb:education "PhD, and MA, Louisiana State University, School of Psychology; BA, Temple University ;" ; 
+    cb:email "jec338@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Connell-James/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Jim-Connell.ashx?h=205&la=en&w=200&hash=3668EDE63957861155825BB58022F6253EC6A977" ; 
+    cb:phone "215.895.2426" .
+
+<#Salvatore-Falletta>
+    cb:name "Salvatore Falletta" ; 
+    cb:name "Falletta" ; 
+    cb:property "faculty" ; 
+    cb:education "EdD, North Carolina State University; MPA, Indiana State University; BA, Eastern Washington University ;" ; 
+    cb:email "salhrd@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Falletta-Salvatore/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Salvatore-Falletta.ashx?h=206&la=en&w=200&hash=3ADCDEC2C05A849496C1C471D0C2A83EF0283236" ; 
+    cb:phone "916.213.8773" .
+
+<#Alonzo-III>
+    cb:name "Alonzo M. Flowers III" ; 
+    cb:name "III" ; 
+    cb:property "faculty" ; 
+    cb:education "PhD, Texas A&M; University ; MA, University of Texas (TX); BA, Texas State University ;" ; 
+    cb:email "alonzo.m.flowers@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Alonzo-Flowers-III/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/alonzo flowers.ashx?h=200&la=en&w=200&hash=D526BE7C9817C4AD5550CA72C802280D5208364C" ; 
+    cb:phone "215.571.3922" .
+
+<#Aroutis-Foster>
+    cb:name "Aroutis N. Foster" ; 
+    cb:name "Foster" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel Plaza3001 Market StreetRoom 041" ; 
+    cb:education "PhD, Michigan State University; BA, City University of New York (CUNY), Brooklyn ;" ; 
+    cb:email "aroutis@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Foster-Aroutis/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Aroutis-Foster2.ashx?h=206&la=en&w=200&hash=37016CC3DBDC56B2EBDEF24F89B517BAFCFD5E15" ; 
+    cb:phone "215.571.3663" .
+
+<#Kathy-Geller>
+    cb:name "Kathy D. Geller" ; 
+    cb:name "Geller" ; 
+    cb:property "faculty" ; 
+    cb:room "Sacramento" ; 
+    cb:education "PhD, Fielding Graduate University; MA, George Washington University; BS, University of Maryland, College Park; Certificate in Online Facilitation, Fielding Graduate University ;" ; 
+    cb:email "kathygeller@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Geller-Kathy/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Kathy-Geller.ashx?h=206&la=en&w=200&hash=217B9B0EE71E6E6BEF2306B1F4AE8EC69DDC6FE2" ; 
+    cb:phone "916.213.2790" .
+
+<#Jacqueline-Genovesi>
+    cb:name "Jacqueline Genovesi" ; 
+    cb:name "Genovesi" ; 
+    cb:property "faculty" ; 
+    cb:room "Academy of Natural Sciences, 1900 Benjamin Franklin Parkway, Philadelphia, PA" ; 
+    cb:education ";" ; 
+    cb:email "genovesi@ansp.org" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Genovesi-Jacqueline/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Jacqueline_Genovesi.ashx?h=206&la=en&w=200&hash=6A7D352A5128A29FA43F2182B0290685F7375BE0" .
+
+<#Rajashi-Ghosh>
+    cb:name "Rajashi Ghosh" ; 
+    cb:name "Ghosh" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel Plaza3401 Market StreetRoom 371" ; 
+    cb:education "PhD, University of Louisville; MBA, K.J. Somaiya Institute of Studies and Research, Mumbai, India ;" ; 
+    cb:email "rg429@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Ghosh-Rajashi/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Rajashi-Ghosh.ashx?h=202&la=en&w=197&hash=338076AD91B8189CEF4C5FDEC63EEA5D0449CB70" ; 
+    cb:phone "215-571-3664" .
+
+<#John-Gould>
+    cb:name "John M. Gould" ; 
+    cb:name "Gould" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 386" ; 
+    cb:education "PhD, University of Pittsburgh; MS, Duquesne University; BS, La Roche College ;" ; 
+    cb:email "jmg97@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Gould-John/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/John-Gould.ashx?h=206&la=en&w=200&hash=C22F27254753CF30D742841A334E4F071A301BE2" ; 
+    cb:phone "215.895.5879" .
+
+<#Allen-Grant>
+    cb:name "Allen C. Grant" ; 
+    cb:name "Grant" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel PlazaRoom 112" ; 
+    cb:education "PhD, Louisiana State University; MEd, George Mason University; BA, The College of William and Mary ;" ; 
+    cb:email "acg48@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Grant-Allen/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Allen-Grant.ashx?h=206&la=en&w=200&hash=05351812F17EE5EB32C203DB7DC747AA1A99C144" ; 
+    cb:phone "215.895.6232" .
+
+<#Mary-Grdina>
+    cb:name "Mary Jo Grdina" ; 
+    cb:name "Grdina" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 364" ; 
+    cb:education "PhD, Case Western Reserve University; MS, Purdue University; BS, Notre Dame College of Ohio ;" ; 
+    cb:email "mfg29@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Grdina-MaryJo/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Mary-Jo-Grdina.ashx?h=206&la=en&w=200&hash=3232261C2792A13E630A3432ED8317FAC7864BBF" ; 
+    cb:phone "215-895-2594" .
+
+<#Dominic-Gullo>
+    cb:name "Dominic F. Gullo" ; 
+    cb:name "Gullo" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel Plaza3001 Market StreetRoom 108" ; 
+    cb:education "Indiana University-Bloomington; University of Wisconsin-Milwaukee ;" ; 
+    cb:email "dominic.gullo@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Gullo-Dominic/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Dominic-Gullo.ashx?h=206&la=en&w=200&hash=6C0B2D0DA07224E69997CD55360EC2EEE9F82DCE" ; 
+    cb:phone "215.895.3667" .
+
+<#Penny-Hammrich>
+    cb:name "Penny Hammrich" ; 
+    cb:name "Hammrich" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel Plaza3001 Market StreetRoom 116" ; 
+    cb:education "University of Minnesota; Arizona State University; Minnesota State University; South Dakota State University ;" ; 
+    cb:email "plh33@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Hammrich-Penny/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Penny-Hammrich2.ashx?h=206&la=en&w=200&hash=EA75864576FE884FA26A60124A7798740885BD3E" ; 
+    cb:phone "215.895.5929" .
+
+<#Paul-Harrington>
+    cb:name "Paul Harrington" ; 
+    cb:name "Harrington" ; 
+    cb:property "faculty" ; 
+    cb:room "Drexel UniversityLabor Markets & Policy One Drexel Plaza3001 Market St. Suite 10 Philadelphia, PA 19104" ; 
+    cb:education ";" ; 
+    cb:email "harrington@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Harrington-Paul/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Paul-Harrington.ashx?h=206&la=en&w=200&hash=C0B3B05D995394FE8DD9222551311129F196A436" ; 
+    cb:phone "215.571.3855" .
+
+<#Michael-Haslip>
+    cb:name "Michael Haslip" ; 
+    cb:name "Haslip" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 336" ; 
+    cb:education "PhD, Old Dominion University, Early Childhood Edu ; MS, Old Dominion University, Early Childhood Edu ;" ; 
+    cb:email "haslip@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Haslip-Michael/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Michael-Haslip.ashx?h=200&la=en&w=200&hash=49B05F2D5855EC32C3FCB2690912B7CE06F738FA" ; 
+    cb:phone "215.895.5946" .
+
+<#Marlene-Hilkowitz>
+    cb:name "Marlene Hilkowitz" ; 
+    cb:name "Hilkowitz" ; 
+    cb:property "faculty" ; 
+    cb:room "Pearlstein 205" ; 
+    cb:education "MEd and BA, Temple University ;" ; 
+    cb:email "marlene.a.hilkowitz@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Hilkowitz-Marlene/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Marlene-Hilkowitz.ashx?h=206&la=en&w=200&hash=5DE4A5D8351FFF17991152C3E232E89DAA575E5F" ; 
+    cb:phone "215.571.4235" .
+
+<#Jen-Katz-Buonincontro>
+    cb:name "Jen Katz-Buonincontro" ; 
+    cb:name "Katz-Buonincontro" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 372" ; 
+    cb:education "PhD, University of Oregon; MFA, Rutgers University-Mason Gross School of the Arts; BA, Macalester College ;" ; 
+    cb:email "jkb@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Katz-Buonincontro-Jen/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Jen-KatzBuonincontro.ashx?h=206&la=en&w=200&hash=D53EA1B74E5DFA76E07D6E90B29A472A20BB014A" ; 
+    cb:phone "215.571.3670" .
+
+<#Valerie-Klein>
+    cb:name "Valerie Klein" ; 
+    cb:name "Klein" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 375" ; 
+    cb:education "PhD, University of Pennsylvania Graduate School of Education ; MA, University of Pennsylvania Graduate School of Education ; BA, Amherst College ;" ; 
+    cb:email "valerie.e.klein@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Klein-Valerie/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Valerie-Klein-headshot_200x212.ashx?h=212&la=en&w=200&hash=0226E0D6ABEC6CEFB76D03518A98325479772DD5" ; 
+    cb:phone "215.895.0946" .
+
+<#Vera-Lee>
+    cb:name "Vera J. Lee" ; 
+    cb:name "Lee" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market StreetRoom 374" ; 
+    cb:education "EdD, MSEd, University of Pennsylvania; BA, Boston University ;" ; 
+    cb:email "vjw25@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Lee-Vera/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Vera-Lee2.ashx?h=206&la=en&w=200&hash=92E35034E42D8BFBA452EFC69E0FC220D1E170D2" ; 
+    cb:phone "215.571.3827" .
+
+<#Bruce-Levine>
+    cb:name "Bruce Levine" ; 
+    cb:name "Levine" ; 
+    cb:property "faculty" ; 
+    cb:education "JD, New York University School of Law; MGA, University of Pennsylvania; BA, Hamilton College ;" ; 
+    cb:email "bl63@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Levine-Bruce/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Bruce-Levine.ashx?h=206&la=en&w=200&hash=212A77E35E9CC4421B1FC3F0134CB39847EDAD67" ; 
+    cb:phone "301.529.8469" .
+
+<#Kristine-Grant>
+    cb:name "Kristine S. Lewis Grant" ; 
+    cb:name "Grant" ; 
+    cb:property "faculty" ; 
+    cb:education "PhD, Temple University; MA, University of Colorado-Boulder; BA, Knox College ;" ; 
+    cb:email "ksl33@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Lewis-Grant-Kristine/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Kristine-Lewis-Grant.ashx?h=202&la=en&w=197&hash=9B532CA7BB59568713C07E066F094BB62CE9462A" ; 
+    cb:phone "215.895.6088" .
+
+<#William-Lynch>
+    cb:name "William F. Lynch" ; 
+    cb:name "Lynch" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 370" ; 
+    cb:education "PhD, University of Maryland ; MA, University of Iowa; BA, University of North Carolina—Charlotte ;" ; 
+    cb:email "bill.lynch@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Lynch-William/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/William_Lynch.ashx?h=200&la=en&w=200&hash=EA2D07D2BBFCC74D9E930E743488D2F3A28D11E5" ; 
+    cb:phone "215.895.2167" .
+
+<#Constance-Lyttle>
+    cb:name "Constance Lyttle" ; 
+    cb:name "Lyttle" ; 
+    cb:property "faculty" ; 
+    cb:education "PhD, The University of Pittsburgh; JD, Duquesne University ; MA, Peabody College of Vanderbilt University; BS Ed, The Ohio State University ;" ; 
+    cb:email "constance.f.lyttle@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Lyttle-Constance/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Constance-Lyttle_1.ashx?h=150&la=en&w=141&hash=AB6FC54A15F43440227269B51CA7AB75860F8085" .
+
+<#Kenneth-Mawritz>
+    cb:name "Kenneth J. Mawritz" ; 
+    cb:name "Mawritz" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 387" ; 
+    cb:education "PhD, University of Pittsburgh; MS, BS Duquesne University ;" ; 
+    cb:email "kjm97@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Mawritz-Kenneth/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Kenneth_Mawritz.ashx?h=206&la=en&w=200&hash=65449A33FC2020D56A0867EC2A25B2CDB942B71D" ; 
+    cb:phone "267.671.2267" .
+
+<#Erin-Horvat>
+    cb:name "Erin McNamara Horvat" ; 
+    cb:name "Horvat" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel PlazaRoom 114" ; 
+    cb:education "PhD University of California, Los Angeles; MA University of California, Los Angeles; BA University of Pennsylvania ;" ; 
+    cb:email "emh@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/McNamara-Horvat-Erin/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/erin horvat.ashx?h=200&la=en&w=200&hash=3D9CFEEA80E54DF1FA3E19416FFAB33E2EF211F1" ; 
+    cb:phone "215.571.3878" .
+
+<#Joyce-Pittman>
+    cb:name "Joyce Pittman" ; 
+    cb:name "Pittman" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel PlazaRoom 138" ; 
+    cb:education "PhD, Iowa State University of Science and Technology; MS, Chicago State University; BS, University of Arkansas-Pine Bluff ;" ; 
+    cb:email "jap386@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Pittman-Joyce/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/joyce-pittman2.ashx?h=206&la=en&w=200&hash=0A0AA402596096BAC555F9A540C3500A72423BCD" ; 
+    cb:phone "215.895.1593" .
+
+<#Kathleen-Provinzano>
+    cb:name "Kathleen Provinzano" ; 
+    cb:name "Provinzano" ; 
+    cb:property "faculty" ; 
+    cb:education "PhD, Marywood University; MS, University of Scranton; BA, Kings College; Graduate, Education Policy and Fellowship Program (The Education Policy and Leadership Center, Harrisburg, PA) ;" ; 
+    cb:email "ktp37@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Provinzano-Kathleen/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Kathleen-Provinzano.ashx?h=206&la=en&w=200&hash=E8B39A874A91D9D0B11A5AF3018F929E4FADBBA0" ; 
+    cb:phone "215.895.6770" .
+
+<#Tina-Richardson>
+    cb:name "Tina Richardson" ; 
+    cb:name "Richardson" ; 
+    cb:property "faculty" ; 
+    cb:room "One Drexel Plaza" ; 
+    cb:education "PhD, Syracuse University; Post-Doc, Mathematics Education, Syracuse University; MS, Elementary Education, Syracuse University; BA, Liberal Arts, Syracuse University (completed at Barnard) ;" ; 
+    cb:email "freddie@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Reisman-Fredricka/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Fredricka_Reisman.ashx?h=206&la=en&w=200&hash=292D6C420B612E5E38471B5E46F9D10F5523FB03" ; 
+    cb:phone "215.895.6771" .
+
+<#Lori-Severino>
+    cb:name "Lori Severino" ; 
+    cb:name "Severino" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 360" ; 
+    cb:education "EdD, MS, Neumann University; BS, West Chester University ;" ; 
+    cb:email "las492@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Severino-Lori/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Lori-Severino.ashx?h=206&la=en&w=200&hash=7766A7A8899DFB2CEB1F9E962BAF527F4A7241BD" ; 
+    cb:phone "215.571.3851" .
+
+<#Jason-Silverman>
+    cb:name "Jason Silverman" ; 
+    cb:name "Silverman" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market st.Room 358" ; 
+    cb:education "PhD, MS, in Mathematics, MS in Mathematics Education, Vanderbilt University; BA, Franklin and Marshall College ;" ; 
+    cb:email "silverman@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Silverman-Jason/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Jason-SIlverman.ashx?h=202&la=en&w=197&hash=690EF7141B42771F6695561830D799F2E5FDC1DA" ; 
+    cb:phone "215.895.6087" .
+
+<#Janet-Sloand>
+    cb:name "Janet Sloand" ; 
+    cb:name "Sloand" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 378" ; 
+    cb:education "EdD, Duquesne University; MS, Shippensburg University of Pennsylvania; BS, Indiana University of Pennsylvania ;" ; 
+    cb:email "jms557@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Sloand-Janet/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/staff/janet sloand.ashx?h=200&la=en&w=200&hash=2FFE38BE5E623AE616011CD3174978667C42B1EB" ; 
+    cb:phone "215.571.4470" .
+
+<#Brian-Smith>
+    cb:name "Brian Smith" ; 
+    cb:name "Smith" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 376" ; 
+    cb:education "BS University of California at Los Angeles ; PhD Northwestern University ;" ; 
+    cb:email "bks59@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Smith-Brian/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Brian_Smith.ashx?h=206&la=en&w=200&hash=82F5D1B659D949D497B69914FB7244F59294578B" ; 
+    cb:phone "215.895.0948" .
+
+<#Toni-Sondergeld>
+    cb:name "Toni Sondergeld" ; 
+    cb:name "Sondergeld" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 332" ; 
+    cb:education "Doctorate of Philosophy - Foundations of Educational Research and Measurement, University of Toledo, 2009; Master's of Education - Curriculum and Instruction, University of Toledo, 2006; Bachelor's of Education - Elementary Education, University of Toledo, 1999; ;" ; 
+    cb:email "tas365@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Sondergled-Toni/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Toni Sondergeld 2.ashx?h=190&la=en&w=205&hash=62F88D16ECB853579FE254BBE108AC149190597A" .
+
+<#Mary-DeCarlo>
+    cb:name "Mary Jean Tecce DeCarlo" ; 
+    cb:name "DeCarlo" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 355" ; 
+    cb:education "EdD, MS Ed, University of Pennsylvania; BS Ed West Chester University ;" ; 
+    cb:email "mt623@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Tecce-DeCarlo-Mary-Jean/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Mary-Jean-Tecce-DeCarlo.ashx?h=206&la=en&w=200&hash=1F586161897EE9B8D8C45F67E349FAB07328A4F5" ; 
+    cb:phone "215.571.6134" .
+
+<#Sarah-Ulrich>
+    cb:name "Sarah P. Ulrich" ; 
+    cb:name "Ulrich" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 362" ; 
+    cb:education "EdD, Saint Joseph’s University; MA, Loyola Marymount University; BA, California State University, Long Beach ;" ; 
+    cb:email "spr37@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Ulrich-Sarah/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Sarah-Ulrich.ashx?h=200&la=en&w=200&hash=C2EC4720E668931A5658149F1EA545B7AAAD1D4E" ; 
+    cb:phone "215.895.1865" .
+
+<#Sheila-Vaidya>
+    cb:name "Sheila R. Vaidya" ; 
+    cb:name "Vaidya" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 356" ; 
+    cb:education "PhD, Temple University; EdS, Bryn Mawr College; MA, University of Mumbai, India; BA, St. Xavier’s College, Mumbai, India ;" ; 
+    cb:email "vaidyasr@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Vaidya-Sheila/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/Sheila-Vaidya.ashx?h=202&la=en&w=194&hash=67A25476ABB33E0AF7CD2C55242413D897F02147" ; 
+    cb:phone "215.895.6690" .
+
+<#Christina-Vorndran>
+    cb:name "Christina Vorndran" ; 
+    cb:name "Vorndran" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 359B" ; 
+    cb:education "PhD, MA, Louisiana State University, Baton Rouge ; BS, St. Joseph's University ;" ; 
+    cb:email "cvorndran@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Vorndran-Christina/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/vorndran.ashx?h=206&la=en&w=200&hash=231ECADA160C47FCFD077E191670A006F021A41F" ; 
+    cb:phone "215.571.4560" .
+
+<#Christopher-Wright>
+    cb:name "Christopher G. Wright" ; 
+    cb:name "Wright" ; 
+    cb:property "faculty" ; 
+    cb:room "3401 Market St.Room 335" ; 
+    cb:education "PhD, Tufts University; MS, University of Maryland; B Arch, Hampton University ;" ; 
+    cb:email "cgw57@drexel.edu" ; 
+    cb:website "http://drexel.edu/soe/faculty-and-staff/faculty/Wright-Christopher/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/soe/faculty/christopher wright.ashx?h=200&la=en&w=200&hash=B7531DCC81B36310F844238706CB30BB0B93FBB0" ; 
+    cb:phone "215.571.3898" .
+
