@@ -46,6 +46,9 @@ class GenericAnswerPopulation:
                 if not(rep in dictionary):
                     logging.warning("Error!!! when populating final answer")
                     raise BadAnswerException(self.db, dictionary)
+                #if the answer is a picture, just return the picture
+                if rep == "picture":
+                    return '<img src="' + dictionary[rep] + 'height="250">'
                 genericAnswer = genericAnswer.replace("(" + rep + ")", dictionary[rep])
 
         return genericAnswer
