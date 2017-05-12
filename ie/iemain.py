@@ -50,8 +50,9 @@ def _main(argv):
     agents.append(nursing_ieagent.NursingIEAgent())
     agents.append(medicine_ieagent.MedicineIEAgent())
     agents.append(mem_ieagent.MemIEAgent())
-    '''
     agents.append(engtech_ieagent.EngTechIEAgent())
+    '''
+    agents.append(materials_ieagent.MaterialsIEAgent())
 
     ttl_files = []
     for agent in agents:

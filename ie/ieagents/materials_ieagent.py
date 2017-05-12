@@ -1,23 +1,24 @@
 """
-Implementation of the IEAgent interface for the College of Engineering's
-Engineering Technology, loacted here: http://drexel.edu/engtech/contact/faculty/
+Implementation of the IEAgent interface for the College of Engineerings
+meterials Science and Engineering, located here:
+http://drexel.edu/materials/contact/faculty/
 """
 
-__all__ = ['EngTechIEAgent']
+__all__ = ['MaterialsIEAgent']
 __version__ = '0.1'
 __author__ = 'Tom Amon'
 
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent
+from .ieagent import IEAgent, writeHTMLFile
 import ttl
 
-class EngTechIEAgent(IEAgent):
+class MaterialsIEAgent(IEAgent):
 
+    _link = "http://drexel.edu/materials/contact/faculty/"
     _flink = "http://drexel.edu"
-    _link = "http://drexel.edu/engtech/contact/faculty/"
-    ttl_filename = "ttl/engtech.ttl"
+    ttl_filename = "ttl/materials.ttl"
 
     def write_ttl(self):
         ttl_file = ttl.TtlFile(self.ttl_filename)
@@ -35,27 +36,26 @@ class EngTechIEAgent(IEAgent):
             rows = elems[i].select("td")
             picture = rows[0].find('img')['src']
             picture = self._flink + picture
-            nameStr = rows[0].find('h1').getText()
-            titleStr = rows[0].find('h2').getText()
+            nameStr = rows[0].find('h2').getText()
+            titleStr = rows[0].find('h3').getText()
             emailStr = rows[1].find('a').getText()
             phoneStr = rows[1].find('br').getText()
             phoneStr = phoneStr.split(":")[1]
             phoneStr = phoneStr.split('\n')[0]
-            interestsStr = rows[2].getText()
 
             prof = ttl.TtlFileEntry()
 
             prof.name = nameStr
             prof.property = "faculty"
-            prof.picture = picture 
             prof.title = titleStr
             prof.email = emailStr
             prof.phone = phoneStr
             #prof.room = roomStr
-            prof.Interests = interestsStr
+            #prof.Interests = interestsStr
 
             prof.write_to(ttl_file)
     
         ttl_file.close()
 
         return ttl_file
+

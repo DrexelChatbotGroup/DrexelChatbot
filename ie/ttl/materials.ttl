@@ -1,0 +1,123 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Yury-Gogotsi>
+    cb:name "Yury Gogotsi" ; 
+    cb:name "Gogotsi" ; 
+    cb:property "faculty" ; 
+    cb:title "Distinguished University and Charles T. and Ruth M. Bach Professor" ; 
+    cb:email "gogotsi@drexel.edu" ; 
+    cb:phone "215.895.6446" .
+
+<#Maher-Harb>
+    cb:name "Maher Harb" ; 
+    cb:name "Harb" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:email "maher.harb@drexel.edu" ; 
+    cb:phone "215.895.1985" .
+
+<#Richard-Knight>
+    cb:name "Richard Knight" ; 
+    cb:name "Knight" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor, Associate Department Head, and Undergraduate Advisor" ; 
+    cb:email "knightr@drexel.edu" ; 
+    cb:phone "215.895.1844" .
+
+<#Christopher-Li>
+    cb:name "Christopher Li" ; 
+    cb:name "Li" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:email "chrisli@drexel.edu" ; 
+    cb:phone "215.895.2083" .
+
+<#Andrew-Magenau>
+    cb:name "Andrew Magenau" ; 
+    cb:name "Magenau" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:email "amagenau@coe.drexel.edu" ; 
+    cb:phone "215.571.3671" .
+
+<#Michele-Marcolongo>
+    cb:name "Michele Marcolongo" ; 
+    cb:name "Marcolongo" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head and Professor" ; 
+    cb:email "marcolms@drexel.edu" ; 
+    cb:phone "215.895.2329" .
+
+<#Steven-May>
+    cb:name "Steven May" ; 
+    cb:name "May" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:email "smay@coe.drexel.edu" ; 
+    cb:phone "215.571.3650" .
+
+<#Ekaterina-Pomerantseva>
+    cb:name "Ekaterina Pomerantseva" ; 
+    cb:name "Pomerantseva" ; 
+    cb:property "faculty" ; 
+    cb:title "Anne Stevens Assistant Professor" ; 
+    cb:email "epomeran@coe.drexel.edu" ; 
+    cb:phone "215.571.4612" .
+
+<#Caroline-Schauer>
+    cb:name "Caroline Schauer" ; 
+    cb:name "Schauer" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:email "cschauer@coe.drexel.edu" ; 
+    cb:phone "215.895.6797" .
+
+<#Wei-Heng-Shih>
+    cb:name "Wei-Heng Shih" ; 
+    cb:name "Shih" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:email "shihwh@drexel.edu" ; 
+    cb:phone "215.895.6636" .
+
+<#Jonathan-Spanier>
+    cb:name "Jonathan Spanier" ; 
+    cb:name "Spanier" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Associate Dean, Director, Centralized Research Facilities" ; 
+    cb:email "spanier@drexel.edu" ; 
+    cb:phone "215.895.2301" .
+
+<#Mitra-Taheri>
+    cb:name "Mitra Taheri" ; 
+    cb:name "Taheri" ; 
+    cb:property "faculty" ; 
+    cb:title "Hoeganaes Associate Professor" ; 
+    cb:email "mtaheri@coe.drexel.edu" ; 
+    cb:phone "215.895.6618" .
+
+<#Garritt-Tucker>
+    cb:name "Garritt Tucker" ; 
+    cb:name "Tucker" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:email "gtucker@coe.drexel.edu" ; 
+    cb:phone "215.571.4613" .
+
+<#Christopher-Weyant>
+    cb:name "Christopher Weyant" ; 
+    cb:name "Weyant" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Associate Professor" ; 
+    cb:email "cweyant@coe.drexel.edu" ; 
+    cb:phone "215.571.4207" .
+
+<#Antonios-Zavaliangos>
+    cb:name "Antonios Zavaliangos" ; 
+    cb:name "Zavaliangos" ; 
+    cb:property "faculty" ; 
+    cb:title "A. W. Grosvenor Professor" ; 
+    cb:email "azavalia@coe.drexel.edu" ; 
+    cb:phone "215.895.2078" .
+
