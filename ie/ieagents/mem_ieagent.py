@@ -10,7 +10,7 @@ __author__ = 'Tom Amon'
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent, writeHTMLFile
+from .ieagent import IEAgent
 import ttl
 
 class MemIEAgent(IEAgent):

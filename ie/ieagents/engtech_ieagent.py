@@ -10,7 +10,7 @@ __author__ = 'Tom Amon'
 import requests
 from bs4 import BeautifulSoup
 import abc
-from .ieagent import IEAgent, writeHTMLFile
+from .ieagent import IEAgent
 import ttl
 
 class EngTechIEAgent(IEAgent):
@@ -28,7 +28,6 @@ class EngTechIEAgent(IEAgent):
         except Exception as exc:
             print('There was a problem: %s' % (exc))
         soup = BeautifulSoup(webpage.text, "html.parser")
-        writeHTMLFile(soup, "test.html")
 
         table = soup.select('tbody')[0]
         elems = table.select('tr')

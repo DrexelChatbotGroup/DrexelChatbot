@@ -1,18 +1,6 @@
 """
 Implementation of the IEAgent interface for the College of computing and
 infomatics faculty website, located here: http://drexel.edu/cci/contact/Faculty/
-
-Data is stored in an html table, with each person have a single row(tr).
-The data, very conviently, is all in their own div. So just going through 
-each div of the row should everything. The data is in the order:
-Name
-Title
-Department
-Interests
-Email
-Phone
-Room
-
 """
 
 __all__ = ['CciIEAgent']
