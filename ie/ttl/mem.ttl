@@ -1,0 +1,246 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Hisham-Abdel-Aal>
+    cb:name "Hisham Abdel-Aal" ; 
+    cb:name "Abdel-Aal" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "Curtis 151L" ; 
+    cb:email "haa62@drexel.edu" ; 
+    cb:phone "215.571.6393" .
+
+<#Jonathan-Awerbuch>
+    cb:name "Jonathan Awerbuch" ; 
+    cb:name "Awerbuch" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Curtis 151D" ; 
+    cb:email "awerbuch@coe.drexel.edu" ; 
+    cb:phone "215.895.2291" .
+
+<#Nicholas-Cernansky>
+    cb:name "Nicholas P. Cernansky" ; 
+    cb:name "Cernansky" ; 
+    cb:property "faculty" ; 
+    cb:title "Frederic O. Hess Chair Professor of Combustion" ; 
+    cb:room "Curtis 151B" ; 
+    cb:email "cernansk@coe.drexel.edu" ; 
+    cb:phone "215.895.2284" .
+
+<#Bor-Chin-Chang>
+    cb:name "Bor-Chin Chang" ; 
+    cb:name "Chang" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Alumni Engineering Labs 172C" ; 
+    cb:email "bchang@coe.drexel.edu" ; 
+    cb:phone "215.895.1790" .
+
+<#Young-Cho>
+    cb:name "Young Cho" ; 
+    cb:name "Cho" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Curtis 157" ; 
+    cb:email "choyi@drexel.edu" ; 
+    cb:phone "215.895.2425" .
+
+<#Bakhtier-Farouk>
+    cb:name "Bakhtier Farouk" ; 
+    cb:name "Farouk" ; 
+    cb:property "faculty" ; 
+    cb:title "J. Harland Billings Professor" ; 
+    cb:room "Alumni Engineering Labs 170D" ; 
+    cb:email "bfarouk@coe.drexel.edu" ; 
+    cb:phone "215.895.2287" .
+
+<#Alexander-Fridman>
+    cb:name "Alexander Fridman" ; 
+    cb:name "Fridman" ; 
+    cb:property "faculty" ; 
+    cb:title "John A. Nyheim Chair Professor; Director, Drexel Plasma Institute" ; 
+    cb:room "Curtis 151C" ; 
+    cb:email "fridman@drexel.edu" ; 
+    cb:phone "215.895.1542" .
+
+<#Li-Hsin-Han>
+    cb:name "Li-Hsin Han" ; 
+    cb:name "Han" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "Curtis 159" ; 
+    cb:email "lh573@drexel.edu" ; 
+    cb:phone "215.571.4272" .
+
+<#M.-Hsieh>
+    cb:name "M. Ani Hsieh" ; 
+    cb:name "Hsieh" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Alumni Engineering Labs 171B" ; 
+    cb:email "mhsieh1@drexel.edu" ; 
+    cb:phone "215.895.5870" .
+
+<#Andrei-Jablokow>
+    cb:name "Andrei Jablokow" ; 
+    cb:name "Jablokow" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "Curtis 151H" ; 
+    cb:email "ajablokow@coe.drexel.edu" ; 
+    cb:phone "215.895.1311" .
+
+<#Antonios-Kontsos>
+    cb:name "Antonios Kontsos" ; 
+    cb:name "Kontsos" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Alumni Engineering Labs 172A" ; 
+    cb:email "akontsos@coe.drexel.edu" ; 
+    cb:phone "215.895.2297" .
+
+<#E.-Kumbur>
+    cb:name "E. Caglan Kumbur" ; 
+    cb:name "Kumbur" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Curtis 160" ; 
+    cb:email "eck32@drexel.edu" ; 
+    cb:phone "215.895.5871" .
+
+<#Harry-Kwatny>
+    cb:name "Harry G. Kwatny" ; 
+    cb:name "Kwatny" ; 
+    cb:property "faculty" ; 
+    cb:title "S. Herbert Raynes Professor" ; 
+    cb:room "Curtis 151A" ; 
+    cb:email "hkwatny@coe.drexel.edu" ; 
+    cb:phone "215.895.2356" .
+
+<#John-Lacontora>
+    cb:name "John M. Lacontora" ; 
+    cb:name "Lacontora" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Research Professor" ; 
+    cb:room "Curtis 151G" ; 
+    cb:email "john.m.lacontora@drexel.edu" ; 
+    cb:phone "215.895.1752" .
+
+<#Leslie-Lamberson>
+    cb:name "Leslie Lamberson" ; 
+    cb:name "Lamberson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "Alumni Engineering Labs 170B" ; 
+    cb:email "les@drexel.edu" ; 
+    cb:phone "215.571.3519" .
+
+<#Alan-Lau>
+    cb:name "Alan C.W. Lau" ; 
+    cb:name "Lau" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Curtis 155B" ; 
+    cb:email "lau@drexel.edu" ; 
+    cb:phone "215.895.2377" .
+
+<#Matthew-McCarthy>
+    cb:name "Matthew McCarthy" ; 
+    cb:name "McCarthy" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor; Associate Department Head for Graduate Affairs" ; 
+    cb:room "Curtis 158" ; 
+    cb:email "mccarthy@coe.drexel.edu" ; 
+    cb:phone "215.895.2841" .
+
+<#David-Miller>
+    cb:name "David Miller" ; 
+    cb:name "Miller" ; 
+    cb:property "faculty" ; 
+    cb:title "Department Head, Professor" ; 
+    cb:room "Curtis 115" ; 
+    cb:email "dmiller@coe.drexel.edu" ; 
+    cb:phone "215.895.2429" .
+
+<#Alisa-Clyne>
+    cb:name "Alisa Morss Clyne" ; 
+    cb:name "Clyne" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Alumni Engineering Labs 170C" ; 
+    cb:email "asm67@drexel.edu" ; 
+    cb:phone "215.895.2366" .
+
+<#Hongseok-Noh>
+    cb:name "Hongseok (Moses) Noh" ; 
+    cb:name "Noh" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Science Center3701 Market St." ; 
+    cb:email "mosesnoh@coe.drexel.edu" ; 
+    cb:phone "215.895.2273" .
+
+<#Sorin-Siegler>
+    cb:name "Sorin Siegler" ; 
+    cb:name "Siegler" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Alumni Engineering Labs 171A" ; 
+    cb:email "ssiegler@coe.drexel.edu" ; 
+    cb:phone "215.895.2316" .
+
+<#Wei-Sun>
+    cb:name "Wei Sun" ; 
+    cb:name "Sun" ; 
+    cb:property "faculty" ; 
+    cb:title "Albert Soffa Chair Professor" ; 
+    cb:room "Randell 121Q" ; 
+    cb:email "sunwei@drexel.edu" ; 
+    cb:phone "215.895.5810" .
+
+<#Ying-Sun>
+    cb:name "Ying Sun" ; 
+    cb:name "Sun" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Curtis 151I" ; 
+    cb:email "ysun@coe.drexel.edu" ; 
+    cb:phone "215.895.1373" .
+
+<#Tein-Min-Tan>
+    cb:name "Tein-Min Tan" ; 
+    cb:name "Tan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Curtis 155C" ; 
+    cb:email "tan@drexel.edu" ; 
+    cb:phone "215.895.2293" .
+
+<#James-Tangorra>
+    cb:name "James Tangorra" ; 
+    cb:name "Tangorra" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Alumni Engineering Labs 172E" ; 
+    cb:email "tangorra@coe.drexel.edu" ; 
+    cb:phone "215.895.2296" .
+
+<#Ajmal-Yousuff>
+    cb:name "Ajmal Yousuff" ; 
+    cb:name "Yousuff" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "Alumni Engineering Labs 172B" ; 
+    cb:email "ajmal.yousuff@drexel.edu" ; 
+    cb:phone "215.895.1868" .
+
+<#Jack-Zhou>
+    cb:name "Jack G. Zhou" ; 
+    cb:name "Zhou" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "Alumni Engineering Labs 171B" ; 
+    cb:email "zhoug@coe.drexel.edu" ; 
+    cb:phone "215.895.1480" .
+
