@@ -107,16 +107,17 @@ file_name = "gac_data"
 
 try:
     csvfile = open(file_name + ".csv", newline='')
-    outfile = open(file_name + "_misspelled.csv", 'w', newline='')
+    outfile = open(file_name + "_combined.csv", 'w', newline='')
 except OSError:
     print("Error opening file")
     exit()
 
 reader = csv.reader(csvfile)
-next(reader)
 writer = csv.writer(outfile)
+writer.writerow(next(reader)) #Copy the header over
 
 for record in reader:
+    writer.writerow(record) #Copy the row before misspelling it
     sentences = allTypoSentences(record[2], adjacency)
     for sentence in sentences:
         record[2] = sentence

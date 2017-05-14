@@ -1,204 +1,5 @@
 ,Please enter a question,Potential generic question,Generic answer number,InScope
 ,When does winter break start?,When does (Event) start?,0,yes
-,Where can I play squash?,Where can I play (Sport)?,0,yes?
-,Tell me a joke.,Tell me a joke.,0,no
-,How do you contact the Triangle?,How do you contact (Organization)?,0,yes?
-,Where can I print in color?,Where can I (Activity)?,0,yes?
-,What professors do research in AI?,What professors do research in (Topic)?,0,no
-,What classes does Professor X teach?,What classes does Professor (Faculty) teach?,0,no
-,Who is dean of Computer Science Department?,Who is dean of (Department) Department?,0,yes?
-,How many professors are there in CS department?,How many professors are there in (Department) department?,0,yes?
-,What classes does William Mongan teach?,What classes does (Faculty) teach?,0,no
-,Why is Vokolos so nice?,Why is (Faculty) so nice?,0,no
-,What is Mongan's favorite color?,What is (Faculty)'s favorite color?,0,no
-,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in class?,0,no
-,What is this quarter last date?,What is this quarter last date?,0,no
-,Who is the best professor in CS department?,Who is the best professor in (Department) department?,0,no
-,Which professors went to the same school?,Which professors went to the same school?,0,no
-,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quarter?,0,no
-,Where is Augenblick's office?,Where is (Faculty)'s office?,1,yes
-,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s office?,1,yes
-,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s office?,1,yes
-,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s office?,1,yes
-,What is David Augenblick's office?,What is (Faculty)'s office?,1,yes
-,Where is Augenblick's office?,Where can I talk to (Faculty)?,1,yes
-,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s office?,1,yes
-,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s office?,1,yes
-,What is David Augenblick's office?,How do I find (Faculty)'s office?,1,yes
-,Where is David Augenblicks' office?,How do I get to (Faculty)'s office?,1,yes
-,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email address?,2,yes
-,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email address?,2,yes
-,,Do you know (Faculty)'s email address?,2,yes
-,,What is Professor (Faculty)'s e-mail address?,2,yes
-,,Can you give me (Faculty)'s e-mail address?,2,yes
-,,Do you know (Faculty)'s e-mail address?,2,yes
-,,What's (Faculty)'s email?,2,yes
-,,What's (Faculty)'s e-mail?,2,yes
-,,What is Professor (Faculty)'s email?,2,yes
-,,Can you give me (Faculty)'s email?,2,yes
-,,Do you know (Faculty)'s email?,2,yes
-,,What is Professor (Faculty)'s e-mail?,2,yes
-,,Can you give me (Faculty)'s e-mail?,2,yes
-,,Do you know (Faculty)'s e-mail?,2,yes
-,,What's (Faculty)'s email address?,2,yes
-,,What's (Faculty)'s e-mail address?,2,yes
-,Who's office is at Rush 233C?,Who's office is at (Building) (Room)?,3,no
-,Who's office is at Rush 233C?,Who is at (Building) (Room)?,3,no
-,,What is at (Building) (Room)?,3,no
-,,What's at (Building) (Room)?,3,no
-,,What's in (Room) of (Building)?,3,no
-,,Who's office is in (Room) of (Building)?,3,no
-,,Who is in (Room) of (Building)?,3,no
-,,What is in (Room) of (Building)?,3,no
-,,What will I find in (Building) (Room)?,3,no
-,,What should I expect to be in (Building) (Room)?,3,no
-,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd from?,4,yes
-,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd from?,4,yes
-,Does Augenblick have a PhD,Does (Faculty) have a PhD?,4,yes
-,What is the highest degree earned by Mongan?,What is the highest degree earned by (Faculty)?,4,yes
-,Where did Augenblick graduate from?,Where did (Faculty) graduate from?,4,yes
-,,Where did (Faculty) go to college?,4,yes
-,,Whats (Faculty)'s degree?,4,yes
-,What is the education of Mongan?,What is the education of (Faculty)?,4,yes
-,,How smart is (Faculty),4,yes
-,,When did (Faculty) graduate?,4,yes
-,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a website?,5,yes
-,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s website?,5,yes
-,Does Mongan have a website?,Does (Faculty) have a website?,5,yes
-,Does Professor Marcello Balduccinni have a website?,What's (Faculty)'s website?,5,yes
-,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s website?,5,yes
-,Does Mongan have a website?,How can I visit (Faculty)'s website?,5,yes
-,,What is (Faculty)'s website?,5,yes
-,,What is the website of (Faculty)?,5,yes
-,,What's the website of (Faculty)?,5,yes
-,,Give me professor (Faculty)'s website.,5,yes
-,Who is head of Computer Science Department?,Who is head of (Department) Department?,6,no
-,Who is head of Computer Science Department?,Who leads the (Department) Department?,6,no
-,Who is dean of Computer Science Department?,Who is dean of the (Department) Department?,6,no
-,,Who is head of (Department)?,6,no
-,,Who leads (Department)?,6,no
-,,Who is dean of (Department)?,6,no
-,,Tell me who is head of (Department) Department?,6,no
-,,What is the name of (Department) Department's dean?,6,no
-,,What is the name of (Department) Department's head?,6,no
-,Who is Augenblick?,Who is (Faculty)?,7,yes
-,Who is Dr. Exel?,Who is Dr. (Faculty)?,7,yes
-,,What do you know about (Faculty)?,7,yes
-,Who is Augenblick?,Can you tell me who (Faculty) is?,7,yes
-,,Who's (Faculty)?,7,yes
-,,What is (Faculty) like?,7,yes
-,,What is the bio of (Faculty)?,7,yes
-,,What is (Faculty)'s bio?,7,yes
-,,Tell me about (Faculty),7,yes
-,,(Faculty)?,7,yes
-,What does Mongan look like?,What does (Faculty) look like?,8,yes
-,Show me Mongan's face.,Show me (Faculty)'s face.,8,yes
-,What does Mongan's face look like?,What does (Faculty)'s face look like?,8,yes
-,What does Mongan look like?,What does (Faculty)'s face look like?,8,yes
-,Show me Mongan's face.,Show me (Faculty).,8,yes
-,What does Mongan's face look like?,What does (Faculty) face look like?,8,yes
-,,What does professor (Faculty) look like?,8,yes
-,,Show me professor (Faculty)'s face.,8,yes
-,,What does professor (Faculty)'s face look like?,8,yes
-,,Show me professor (Faculty). ,8,yes
-,,What does professor (Faculty) face look like?,8,yes
-,What is Mongan's research interestr?,What is (Faculty)'s research interest? ,9,yes
-,,What is (Faculty)'s area of research?,9,yes
-,,What does (Faculty) research?,9,yes
-,,What is (Faculty) interested in?,9,yes
-,,Where does (Faculty) specialize?,9,yes
-,,What is (Faculty)'s interest? ,9,yes
-,,What is (Faculty)'s interested in? ,9,yes
-,,What does (Faculty) research? ,9,yes
-,,What is the focus of (Faculty) ? ,9,yes
-,,What does (Faculty) currently research? ,9,yes
-,What is Mongan's position?,What is (Faculty)'s position?,10,yes
-,What is Mongan's title?,What is (Faculty)'s title?,10,yes
-,,Is (Faculty) full-time?,10,yes
-,,What is professor (Faculty)'s position?,10,yes
-,,What is professor (Faculty)'s title?,10,yes
-,,Show me (Faculty)'s position.,10,yes
-,,Show me professor (Faculty)'s position.,10,yes
-,,What is (Faculty)?,10,yes
-,,Give me (Faculty)'s position.,10,yes
-,,Give me professor (Faculty)'s position.,10,yes
-,What is Mongan's phone number?,What is (faculty)'s phone number? ,11,yes
-,What number should I use to call Mongan?,What number should I use to call (faculty)?,11,yes
-,How can I call Mongan?,How can I call (faculty)?,11,yes
-,How can I contact Mongan?,How can I contact (faculty)?,11,yes
-,Give me Mongan's phone number.,Give me (faculty)'s phone number.,11,yes
-,Show me Mongan's phone number.,Show me (faculty)'s phone number.,11,yes
-,What number should I call to contact Mongan?,What number should I call to contact (faculty)?,11,yes
-,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find him?,11,yes
-,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone number?,11,yes
-,What is the number to use for Professor Mongan?,What is the number to use for Professor (faculty)?,11,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professor (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored by (Faculty)?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s research?,12,yes
-,I want to read a paper from Vokolos.,I want to read a paper from (Faculty).,12,yes
-,,What is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What are some (Publications) of (Faculty)?,12,yes
-,,Give me (Publications) of (Faculty).,12,yes
-,,Show me (Publications) of (Faculty).,12,yes
-,,What are some papers published by (Faculty)?,12,yes
-,,Give me papers published by (Faculty).,12,yes
-,,Show me papers published by (Faculty).,12,yes
-,What is Rush's address?,What is (Building) address?,13,yes
-,Where is Rush Building?,Where is (Building) building?,13,yes
-,How do I get to Rush Building?,How do I get to (Building) Building?,13,yes
-,Can you give me location of Rush Building?,Can you give me location of (Building) Building?,13,yes
-,Can you tell me location of Rush Building?,Can you tell me location of (Building) Building?,13,yes
-,Tell me location of Rush Building?,Tell me location of (Building) Building?,13,yes
-,Where should I send package for someone in Rush Building?,Where should I send package for someone in (Building) Building?,13,yes
-,I want Rush's address.,I want (Building)'s address.,13,yes
-,What address should I use for Rush Building?,What address should I use for (Building) Building?,13,yes
-,Give me Rush's address.,Give me (Building)'s address.,13,yes
-,,When does (Building) close on (Day)?,14,yes
-,,What time does Rush close on (Day)?,14,yes
-,,What's (Building)'s close time on (Day)?,14,yes
-,,What time does (Building) close on (Day)?,14,yes
-,,When does (Building) close?,14,yes
-,,What time does Rush close?,14,yes
-,,What's (Building)'s close time?,14,yes
-,,What time does (Building) close?,14,yes
-,,When does (Building) close (Day)?,14,yes
-,,What time does Rush close (Day)?,14,yes
-,When does Rush open on Monday?,When does (Building) open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open on (Day)?,15,yes
-,What's Rush's open time on Monday?,What's (Building)'s open time on (Day)?,15,yes
-,When's Rush open on Monday?,What time does (Building) open on (Day)?,15,yes
-,When does Rush open?,When does (Building) open?,15,yes
-,What time does Rush open?,What time does Rush open?,15,yes
-,What's Rush open time?,What's (Building)'s open time?,15,yes
-,When's Rush open?,What time does (Building) open?,15,yes
-,When does Rush open today?,When does (Building) open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush open (Day)?,15,yes
-,What is Rush's website?,What is (Building) website?,16,yes
-,What is Rush's site?,What is (Building) site?,16,yes
-,Where can I get more information about Rush?,Where can I get more information about (Building)?,16,yes
-,Can you tell me more about Rush?,Can you tell me more about (Building)?,16,yes
-,Can you give me more information about Rush?,Can you give me more information about (Building)?,16,yes
-,Where is the best place to find more information about Rush?,Where is the best place to find more information about (Building)?,16,yes
-,Give me link to Rush's website.,Give me link to (Building)'s website.,16,yes
-,How can I go to Rush's website?,How can I go to (Building)'s website?,16,yes
-,What is the address of Rush's website?,What is the address of (Building)'s website?,16,yes
-,,What's (Building)'s address?,16,yes
-,What is Rush's phone number?,What is (Building)'s phone number?,17,no
-,Where can I contact Rush?,Where can I contact (Building)?,17,no
-,How can I contact Rush?,How can I contact (Building)?,17,no
-,What number can Rush be reached at?,What number can (Building) be reached at?,17,no
-,Can I talk to someone at Rush?,Can I talk to someone at (Building)?,17,no
-,Show me Rush building,Show me (Building) building,18,yes
-,Can you show me a picture of Rush?,Can you show me a picture of (Building)?,18,yes
-,Can I see what Rush looks like?,Can I see what (Building) looks like?,18,yes
-,What does Rush building look like?,What does (Building) building look like?,18,yes
-,How does Rush building look like?,How does (Building) building look like?,18,yes
-,,Show me picture of (Building) building,18,yes
-,,Give me picture of (Building),18,yes
-,,Show me (Building),18,yes
-,,Can you show me a picture of (Building) building?,18,yes
-,,What does (Building) look like?,18,yes
-,,How does (Building) look like?,18,yes
 ,When does winter break start?,Qhen does (Event) start?,0,yes
 ,When does winter break start?,Ehen does (Event) start?,0,yes
 ,When does winter break start?,Wgen does (Event) start?,0,yes
@@ -224,6 +25,7 @@
 ,When does winter break start?,When does (Event) statt?,0,yes
 ,When does winter break start?,When does (Event) starr?,0,yes
 ,When does winter break start?,When does (Event) stary?,0,yes
+,Where can I play squash?,Where can I play (Sport)?,0,yes?
 ,Where can I play squash?,Qhere can I play (Sport)?,0,yes?
 ,Where can I play squash?,Ehere can I play (Sport)?,0,yes?
 ,Where can I play squash?,Wgere can I play (Sport)?,0,yes?
@@ -246,6 +48,7 @@
 ,Where can I play squash?,Where can I plsy (Sport)?,0,yes?
 ,Where can I play squash?,Where can I plat (Sport)?,0,yes?
 ,Where can I play squash?,Where can I plau (Sport)?,0,yes?
+,Tell me a joke.,Tell me a joke.,0,no
 ,Tell me a joke.,Rell me a joke.,0,no
 ,Tell me a joke.,Yell me a joke.,0,no
 ,Tell me a joke.,Twll me a joke.,0,no
@@ -264,6 +67,7 @@
 ,Tell me a joke.,Tell me a jole.,0,no
 ,Tell me a joke.,Tell me a jokw.,0,no
 ,Tell me a joke.,Tell me a jokr.,0,no
+,How do you contact the Triangle?,How do you contact (Organization)?,0,yes?
 ,How do you contact the Triangle?,Gow do you contact (Organization)?,0,yes?
 ,How do you contact the Triangle?,Jow do you contact (Organization)?,0,yes?
 ,How do you contact the Triangle?,Hiw do you contact (Organization)?,0,yes?
@@ -293,6 +97,7 @@
 ,How do you contact the Triangle?,How do you contavt (Organization)?,0,yes?
 ,How do you contact the Triangle?,How do you contacr (Organization)?,0,yes?
 ,How do you contact the Triangle?,How do you contacy (Organization)?,0,yes?
+,Where can I print in color?,Where can I (Activity)?,0,yes?
 ,Where can I print in color?,Qhere can I (Activity)?,0,yes?
 ,Where can I print in color?,Ehere can I (Activity)?,0,yes?
 ,Where can I print in color?,Wgere can I (Activity)?,0,yes?
@@ -310,6 +115,7 @@
 ,Where can I print in color?,Where cam I (Activity)?,0,yes?
 ,Where can I print in color?,Where can U (Activity)?,0,yes?
 ,Where can I print in color?,Where can O (Activity)?,0,yes?
+,What professors do research in AI?,What professors do research in (Topic)?,0,no
 ,What professors do research in AI?,Qhat professors do research in (Topic)?,0,no
 ,What professors do research in AI?,Ehat professors do research in (Topic)?,0,no
 ,What professors do research in AI?,Wgat professors do research in (Topic)?,0,no
@@ -359,6 +165,7 @@
 ,What professors do research in AI?,What professors do research on (Topic)?,0,no
 ,What professors do research in AI?,What professors do research ib (Topic)?,0,no
 ,What professors do research in AI?,What professors do research im (Topic)?,0,no
+,What classes does Professor X teach?,What classes does Professor (Faculty) teach?,0,no
 ,What classes does Professor X teach?,Qhat classes does Professor (Faculty) teach?,0,no
 ,What classes does Professor X teach?,Ehat classes does Professor (Faculty) teach?,0,no
 ,What classes does Professor X teach?,Wgat classes does Professor (Faculty) teach?,0,no
@@ -412,6 +219,7 @@
 ,What classes does Professor X teach?,What classes does Professor (Faculty) teavh?,0,no
 ,What classes does Professor X teach?,What classes does Professor (Faculty) teacg?,0,no
 ,What classes does Professor X teach?,What classes does Professor (Faculty) teacj?,0,no
+,Who is dean of Computer Science Department?,Who is dean of (Department) Department?,0,yes?
 ,Who is dean of Computer Science Department?,Qho is dean of (Department) Department?,0,yes?
 ,Who is dean of Computer Science Department?,Eho is dean of (Department) Department?,0,yes?
 ,Who is dean of Computer Science Department?,Wgo is dean of (Department) Department?,0,yes?
@@ -450,6 +258,7 @@
 ,Who is dean of Computer Science Department?,Who is dean of (Department) Departmemt?,0,yes?
 ,Who is dean of Computer Science Department?,Who is dean of (Department) Departmenr?,0,yes?
 ,Who is dean of Computer Science Department?,Who is dean of (Department) Departmeny?,0,yes?
+,How many professors are there in CS department?,How many professors are there in (Department) department?,0,yes?
 ,How many professors are there in CS department?,Gow many professors are there in (Department) department?,0,yes?
 ,How many professors are there in CS department?,Jow many professors are there in (Department) department?,0,yes?
 ,How many professors are there in CS department?,Hiw many professors are there in (Department) department?,0,yes?
@@ -517,6 +326,7 @@
 ,How many professors are there in CS department?,How many professors are there in (Department) departmemt?,0,yes?
 ,How many professors are there in CS department?,How many professors are there in (Department) departmenr?,0,yes?
 ,How many professors are there in CS department?,How many professors are there in (Department) departmeny?,0,yes?
+,What classes does William Mongan teach?,What classes does (Faculty) teach?,0,no
 ,What classes does William Mongan teach?,Qhat classes does (Faculty) teach?,0,no
 ,What classes does William Mongan teach?,Ehat classes does (Faculty) teach?,0,no
 ,What classes does William Mongan teach?,Wgat classes does (Faculty) teach?,0,no
@@ -553,6 +363,7 @@
 ,What classes does William Mongan teach?,What classes does (Faculty) teavh?,0,no
 ,What classes does William Mongan teach?,What classes does (Faculty) teacg?,0,no
 ,What classes does William Mongan teach?,What classes does (Faculty) teacj?,0,no
+,Why is Vokolos so nice?,Why is (Faculty) so nice?,0,no
 ,Why is Vokolos so nice?,Qhy is (Faculty) so nice?,0,no
 ,Why is Vokolos so nice?,Ehy is (Faculty) so nice?,0,no
 ,Why is Vokolos so nice?,Wgy is (Faculty) so nice?,0,no
@@ -575,6 +386,7 @@
 ,Why is Vokolos so nice?,Why is (Faculty) so nive?,0,no
 ,Why is Vokolos so nice?,Why is (Faculty) so nicw?,0,no
 ,Why is Vokolos so nice?,Why is (Faculty) so nicr?,0,no
+,What is Mongan's favorite color?,What is (Faculty)'s favorite color?,0,no
 ,What is Mongan's favorite color?,Qhat is (Faculty)'s favorite color?,0,no
 ,What is Mongan's favorite color?,Ehat is (Faculty)'s favorite color?,0,no
 ,What is Mongan's favorite color?,Wgat is (Faculty)'s favorite color?,0,no
@@ -612,6 +424,7 @@
 ,What is Mongan's favorite color?,What is (Faculty)'s favorite colpr?,0,no
 ,What is Mongan's favorite color?,What is (Faculty)'s favorite coloe?,0,no
 ,What is Mongan's favorite color?,What is (Faculty)'s favorite colot?,0,no
+,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in class?,0,no
 ,Does Mongan like students using laptops in class?,Soes (Faculty) like students using laptops in class?,0,no
 ,Does Mongan like students using laptops in class?,Foes (Faculty) like students using laptops in class?,0,no
 ,Does Mongan like students using laptops in class?,Dies (Faculty) like students using laptops in class?,0,no
@@ -675,6 +488,7 @@
 ,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in clads?,0,no
 ,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in clasa?,0,no
 ,Does Mongan like students using laptops in class?,Does (Faculty) like students using laptops in clasd?,0,no
+,What is this quarter last date?,What is this quarter last date?,0,no
 ,What is this quarter last date?,Qhat is this quarter last date?,0,no
 ,What is this quarter last date?,Ehat is this quarter last date?,0,no
 ,What is this quarter last date?,Wgat is this quarter last date?,0,no
@@ -719,6 +533,7 @@
 ,What is this quarter last date?,What is this quarter last daye?,0,no
 ,What is this quarter last date?,What is this quarter last datw?,0,no
 ,What is this quarter last date?,What is this quarter last datr?,0,no
+,Who is the best professor in CS department?,Who is the best professor in (Department) department?,0,no
 ,Who is the best professor in CS department?,Qho is the best professor in (Department) department?,0,no
 ,Who is the best professor in CS department?,Eho is the best professor in (Department) department?,0,no
 ,Who is the best professor in CS department?,Wgo is the best professor in (Department) department?,0,no
@@ -781,6 +596,7 @@
 ,Who is the best professor in CS department?,Who is the best professor in (Department) departmemt?,0,no
 ,Who is the best professor in CS department?,Who is the best professor in (Department) departmenr?,0,no
 ,Who is the best professor in CS department?,Who is the best professor in (Department) departmeny?,0,no
+,Which professors went to the same school?,Which professors went to the same school?,0,no
 ,Which professors went to the same school?,Qhich professors went to the same school?,0,no
 ,Which professors went to the same school?,Ehich professors went to the same school?,0,no
 ,Which professors went to the same school?,Wgich professors went to the same school?,0,no
@@ -845,6 +661,7 @@
 ,Which professors went to the same school?,Which professors went to the same schoil?,0,no
 ,Which professors went to the same school?,Which professors went to the same schopl?,0,no
 ,Which professors went to the same school?,Which professors went to the same schook?,0,no
+,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quarter?,0,no
 ,What class does Professor Moriety teach this quarter?,Qhat class does Professor (Faculty) teach this quarter?,0,no
 ,What class does Professor Moriety teach this quarter?,Ehat class does Professor (Faculty) teach this quarter?,0,no
 ,What class does Professor Moriety teach this quarter?,Wgat class does Professor (Faculty) teach this quarter?,0,no
@@ -914,6 +731,7 @@
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quartrr?,0,no
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quartee?,0,no
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quartet?,0,no
+,Where is Augenblick's office?,Where is (Faculty)'s office?,1,yes
 ,Where is Augenblick's office?,Qhere is (Faculty)'s office?,1,yes
 ,Where is Augenblick's office?,Ehere is (Faculty)'s office?,1,yes
 ,Where is Augenblick's office?,Wgere is (Faculty)'s office?,1,yes
@@ -942,6 +760,7 @@
 ,Where is Augenblick's office?,Where is (Faculty)'s offive?,1,yes
 ,Where is Augenblick's office?,Where is (Faculty)'s officw?,1,yes
 ,Where is Augenblick's office?,Where is (Faculty)'s officr?,1,yes
+,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Qhere is Professor (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Ehere is Professor (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Wgere is Professor (Faculty)'s office?,1,yes
@@ -987,6 +806,7 @@
 ,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s offive?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s officw?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s officr?,1,yes
+,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s office?,1,yes
 ,Can I get the address of Marcello Balduccinni's office?,Xan I get the address of (Faculty)'s office?,1,yes
 ,Can I get the address of Marcello Balduccinni's office?,Van I get the address of (Faculty)'s office?,1,yes
 ,Can I get the address of Marcello Balduccinni's office?,Csn I get the address of (Faculty)'s office?,1,yes
@@ -1037,6 +857,7 @@
 ,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s offive?,1,yes
 ,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s officw?,1,yes
 ,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s officr?,1,yes
+,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s office?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Xan I get the address of Professor (Faculty)'s office?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Van I get the address of Professor (Faculty)'s office?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Csn I get the address of Professor (Faculty)'s office?,1,yes
@@ -1104,6 +925,7 @@
 ,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s offive?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s officw?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Can I get the address of Professor (Faculty)'s officr?,1,yes
+,What is David Augenblick's office?,What is (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,Qhat is (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,Ehat is (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,Wgat is (Faculty)'s office?,1,yes
@@ -1129,6 +951,7 @@
 ,What is David Augenblick's office?,What is (Faculty)'s offive?,1,yes
 ,What is David Augenblick's office?,What is (Faculty)'s officw?,1,yes
 ,What is David Augenblick's office?,What is (Faculty)'s officr?,1,yes
+,Where is Augenblick's office?,Where can I talk to (Faculty)?,1,yes
 ,Where is Augenblick's office?,Qhere can I talk to (Faculty)?,1,yes
 ,Where is Augenblick's office?,Ehere can I talk to (Faculty)?,1,yes
 ,Where is Augenblick's office?,Wgere can I talk to (Faculty)?,1,yes
@@ -1156,6 +979,7 @@
 ,Where is Augenblick's office?,Where can I talk yo (Faculty)?,1,yes
 ,Where is Augenblick's office?,Where can I talk ti (Faculty)?,1,yes
 ,Where is Augenblick's office?,Where can I talk tp (Faculty)?,1,yes
+,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Qhere is (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Ehere is (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Wgere is (Faculty)'s office?,1,yes
@@ -1184,6 +1008,7 @@
 ,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s offive?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s officw?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Where is (Faculty)'s officr?,1,yes
+,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s office?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Gow do I get to (Faculty)'s office?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Jow do I get to (Faculty)'s office?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,Hiw do I get to (Faculty)'s office?,1,yes
@@ -1220,6 +1045,7 @@
 ,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s offive?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s officw?,1,yes
 ,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s officr?,1,yes
+,What is David Augenblick's office?,How do I find (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,Gow do I find (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,Jow do I find (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,Hiw do I find (Faculty)'s office?,1,yes
@@ -1254,6 +1080,7 @@
 ,What is David Augenblick's office?,How do I find (Faculty)'s offive?,1,yes
 ,What is David Augenblick's office?,How do I find (Faculty)'s officw?,1,yes
 ,What is David Augenblick's office?,How do I find (Faculty)'s officr?,1,yes
+,Where is David Augenblicks' office?,How do I get to (Faculty)'s office?,1,yes
 ,Where is David Augenblicks' office?,Gow do I get to (Faculty)'s office?,1,yes
 ,Where is David Augenblicks' office?,Jow do I get to (Faculty)'s office?,1,yes
 ,Where is David Augenblicks' office?,Hiw do I get to (Faculty)'s office?,1,yes
@@ -1290,6 +1117,7 @@
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s offive?,1,yes
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s officw?,1,yes
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s officr?,1,yes
+,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Qhat is Professor (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Ehat is Professor (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Wgat is Professor (Faculty)'s email address?,2,yes
@@ -1340,6 +1168,7 @@
 ,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email addreds?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email addresa?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email addresd?,2,yes
+,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Xan you give me (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Van you give me (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Csn you give me (Faculty)'s email address?,2,yes
@@ -1384,6 +1213,7 @@
 ,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email addreds?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email addresa?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email addresd?,2,yes
+,,Do you know (Faculty)'s email address?,2,yes
 ,,So you know (Faculty)'s email address?,2,yes
 ,,Fo you know (Faculty)'s email address?,2,yes
 ,,Di you know (Faculty)'s email address?,2,yes
@@ -1424,6 +1254,7 @@
 ,,Do you know (Faculty)'s email addreds?,2,yes
 ,,Do you know (Faculty)'s email addresa?,2,yes
 ,,Do you know (Faculty)'s email addresd?,2,yes
+,,What is Professor (Faculty)'s e-mail address?,2,yes
 ,,Qhat is Professor (Faculty)'s e-mail address?,2,yes
 ,,Ehat is Professor (Faculty)'s e-mail address?,2,yes
 ,,Wgat is Professor (Faculty)'s e-mail address?,2,yes
@@ -1474,6 +1305,7 @@
 ,,What is Professor (Faculty)'s e-mail addreds?,2,yes
 ,,What is Professor (Faculty)'s e-mail addresa?,2,yes
 ,,What is Professor (Faculty)'s e-mail addresd?,2,yes
+,,Can you give me (Faculty)'s e-mail address?,2,yes
 ,,Xan you give me (Faculty)'s e-mail address?,2,yes
 ,,Van you give me (Faculty)'s e-mail address?,2,yes
 ,,Csn you give me (Faculty)'s e-mail address?,2,yes
@@ -1518,6 +1350,7 @@
 ,,Can you give me (Faculty)'s e-mail addreds?,2,yes
 ,,Can you give me (Faculty)'s e-mail addresa?,2,yes
 ,,Can you give me (Faculty)'s e-mail addresd?,2,yes
+,,Do you know (Faculty)'s e-mail address?,2,yes
 ,,So you know (Faculty)'s e-mail address?,2,yes
 ,,Fo you know (Faculty)'s e-mail address?,2,yes
 ,,Di you know (Faculty)'s e-mail address?,2,yes
@@ -1558,6 +1391,7 @@
 ,,Do you know (Faculty)'s e-mail addreds?,2,yes
 ,,Do you know (Faculty)'s e-mail addresa?,2,yes
 ,,Do you know (Faculty)'s e-mail addresd?,2,yes
+,,What's (Faculty)'s email?,2,yes
 ,,Qhat's (Faculty)'s email?,2,yes
 ,,Ehat's (Faculty)'s email?,2,yes
 ,,Wgat's (Faculty)'s email?,2,yes
@@ -1576,6 +1410,7 @@
 ,,What's (Faculty)'s emaul?,2,yes
 ,,What's (Faculty)'s emaol?,2,yes
 ,,What's (Faculty)'s emaik?,2,yes
+,,What's (Faculty)'s e-mail?,2,yes
 ,,Qhat's (Faculty)'s e-mail?,2,yes
 ,,Ehat's (Faculty)'s e-mail?,2,yes
 ,,Wgat's (Faculty)'s e-mail?,2,yes
@@ -1594,6 +1429,7 @@
 ,,What's (Faculty)'s e-maul?,2,yes
 ,,What's (Faculty)'s e-maol?,2,yes
 ,,What's (Faculty)'s e-maik?,2,yes
+,,What is Professor (Faculty)'s email?,2,yes
 ,,Qhat is Professor (Faculty)'s email?,2,yes
 ,,Ehat is Professor (Faculty)'s email?,2,yes
 ,,Wgat is Professor (Faculty)'s email?,2,yes
@@ -1631,6 +1467,7 @@
 ,,What is Professor (Faculty)'s emaul?,2,yes
 ,,What is Professor (Faculty)'s emaol?,2,yes
 ,,What is Professor (Faculty)'s emaik?,2,yes
+,,Can you give me (Faculty)'s email?,2,yes
 ,,Xan you give me (Faculty)'s email?,2,yes
 ,,Van you give me (Faculty)'s email?,2,yes
 ,,Csn you give me (Faculty)'s email?,2,yes
@@ -1662,6 +1499,7 @@
 ,,Can you give me (Faculty)'s emaul?,2,yes
 ,,Can you give me (Faculty)'s emaol?,2,yes
 ,,Can you give me (Faculty)'s emaik?,2,yes
+,,Do you know (Faculty)'s email?,2,yes
 ,,So you know (Faculty)'s email?,2,yes
 ,,Fo you know (Faculty)'s email?,2,yes
 ,,Di you know (Faculty)'s email?,2,yes
@@ -1689,6 +1527,7 @@
 ,,Do you know (Faculty)'s emaul?,2,yes
 ,,Do you know (Faculty)'s emaol?,2,yes
 ,,Do you know (Faculty)'s emaik?,2,yes
+,,What is Professor (Faculty)'s e-mail?,2,yes
 ,,Qhat is Professor (Faculty)'s e-mail?,2,yes
 ,,Ehat is Professor (Faculty)'s e-mail?,2,yes
 ,,Wgat is Professor (Faculty)'s e-mail?,2,yes
@@ -1726,6 +1565,7 @@
 ,,What is Professor (Faculty)'s e-maul?,2,yes
 ,,What is Professor (Faculty)'s e-maol?,2,yes
 ,,What is Professor (Faculty)'s e-maik?,2,yes
+,,Can you give me (Faculty)'s e-mail?,2,yes
 ,,Xan you give me (Faculty)'s e-mail?,2,yes
 ,,Van you give me (Faculty)'s e-mail?,2,yes
 ,,Csn you give me (Faculty)'s e-mail?,2,yes
@@ -1757,6 +1597,7 @@
 ,,Can you give me (Faculty)'s e-maul?,2,yes
 ,,Can you give me (Faculty)'s e-maol?,2,yes
 ,,Can you give me (Faculty)'s e-maik?,2,yes
+,,Do you know (Faculty)'s e-mail?,2,yes
 ,,So you know (Faculty)'s e-mail?,2,yes
 ,,Fo you know (Faculty)'s e-mail?,2,yes
 ,,Di you know (Faculty)'s e-mail?,2,yes
@@ -1784,6 +1625,7 @@
 ,,Do you know (Faculty)'s e-maul?,2,yes
 ,,Do you know (Faculty)'s e-maol?,2,yes
 ,,Do you know (Faculty)'s e-maik?,2,yes
+,,What's (Faculty)'s email address?,2,yes
 ,,Qhat's (Faculty)'s email address?,2,yes
 ,,Ehat's (Faculty)'s email address?,2,yes
 ,,Wgat's (Faculty)'s email address?,2,yes
@@ -1815,6 +1657,7 @@
 ,,What's (Faculty)'s email addreds?,2,yes
 ,,What's (Faculty)'s email addresa?,2,yes
 ,,What's (Faculty)'s email addresd?,2,yes
+,,What's (Faculty)'s e-mail address?,2,yes
 ,,Qhat's (Faculty)'s e-mail address?,2,yes
 ,,Ehat's (Faculty)'s e-mail address?,2,yes
 ,,Wgat's (Faculty)'s e-mail address?,2,yes
@@ -1846,6 +1689,7 @@
 ,,What's (Faculty)'s e-mail addreds?,2,yes
 ,,What's (Faculty)'s e-mail addresa?,2,yes
 ,,What's (Faculty)'s e-mail addresd?,2,yes
+,Who's office is at Rush 233C?,Who's office is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Qho's office is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Eho's office is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Wgo's office is at (Building) (Room)?,3,no
@@ -1873,6 +1717,7 @@
 ,Who's office is at Rush 233C?,Who's office is st (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Who's office is ar (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Who's office is ay (Building) (Room)?,3,no
+,Who's office is at Rush 233C?,Who is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Qho is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Eho is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Wgo is at (Building) (Room)?,3,no
@@ -1886,6 +1731,7 @@
 ,Who's office is at Rush 233C?,Who is st (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Who is ar (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Who is ay (Building) (Room)?,3,no
+,,What is at (Building) (Room)?,3,no
 ,,Qhat is at (Building) (Room)?,3,no
 ,,Ehat is at (Building) (Room)?,3,no
 ,,Wgat is at (Building) (Room)?,3,no
@@ -1900,6 +1746,7 @@
 ,,What is st (Building) (Room)?,3,no
 ,,What is ar (Building) (Room)?,3,no
 ,,What is ay (Building) (Room)?,3,no
+,,What's at (Building) (Room)?,3,no
 ,,Qhat's at (Building) (Room)?,3,no
 ,,Ehat's at (Building) (Room)?,3,no
 ,,Wgat's at (Building) (Room)?,3,no
@@ -1912,6 +1759,7 @@
 ,,What's st (Building) (Room)?,3,no
 ,,What's ar (Building) (Room)?,3,no
 ,,What's ay (Building) (Room)?,3,no
+,,What's in (Room) of (Building)?,3,no
 ,,Qhat's in (Room) of (Building)?,3,no
 ,,Ehat's in (Room) of (Building)?,3,no
 ,,Wgat's in (Room) of (Building)?,3,no
@@ -1929,6 +1777,7 @@
 ,,What's in (Room) pf (Building)?,3,no
 ,,What's in (Room) od (Building)?,3,no
 ,,What's in (Room) og (Building)?,3,no
+,,Who's office is in (Room) of (Building)?,3,no
 ,,Qho's office is in (Room) of (Building)?,3,no
 ,,Eho's office is in (Room) of (Building)?,3,no
 ,,Wgo's office is in (Room) of (Building)?,3,no
@@ -1961,6 +1810,7 @@
 ,,Who's office is in (Room) pf (Building)?,3,no
 ,,Who's office is in (Room) od (Building)?,3,no
 ,,Who's office is in (Room) og (Building)?,3,no
+,,Who is in (Room) of (Building)?,3,no
 ,,Qho is in (Room) of (Building)?,3,no
 ,,Eho is in (Room) of (Building)?,3,no
 ,,Wgo is in (Room) of (Building)?,3,no
@@ -1979,6 +1829,7 @@
 ,,Who is in (Room) pf (Building)?,3,no
 ,,Who is in (Room) od (Building)?,3,no
 ,,Who is in (Room) og (Building)?,3,no
+,,What is in (Room) of (Building)?,3,no
 ,,Qhat is in (Room) of (Building)?,3,no
 ,,Ehat is in (Room) of (Building)?,3,no
 ,,Wgat is in (Room) of (Building)?,3,no
@@ -1998,6 +1849,7 @@
 ,,What is in (Room) pf (Building)?,3,no
 ,,What is in (Room) od (Building)?,3,no
 ,,What is in (Room) og (Building)?,3,no
+,,What will I find in (Building) (Room)?,3,no
 ,,Qhat will I find in (Building) (Room)?,3,no
 ,,Ehat will I find in (Building) (Room)?,3,no
 ,,Wgat will I find in (Building) (Room)?,3,no
@@ -2025,6 +1877,7 @@
 ,,What will I find on (Building) (Room)?,3,no
 ,,What will I find ib (Building) (Room)?,3,no
 ,,What will I find im (Building) (Room)?,3,no
+,,What should I expect to be in (Building) (Room)?,3,no
 ,,Qhat should I expect to be in (Building) (Room)?,3,no
 ,,Ehat should I expect to be in (Building) (Room)?,3,no
 ,,Wgat should I expect to be in (Building) (Room)?,3,no
@@ -2068,6 +1921,7 @@
 ,,What should I expect to be on (Building) (Room)?,3,no
 ,,What should I expect to be ib (Building) (Room)?,3,no
 ,,What should I expect to be im (Building) (Room)?,3,no
+,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd from?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Qhere did Professor (Faculty) get his P.hd from?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Ehere did Professor (Faculty) get his P.hd from?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Wgere did Professor (Faculty) get his P.hd from?,4,yes
@@ -2125,6 +1979,7 @@
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd frim?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd frpm?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd fron?,4,yes
+,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd from?,4,yes
 ,Where did Marcello Balduccinni get his P.hd from?,Qhere did (Faculty) get his P.hd from?,4,yes
 ,Where did Marcello Balduccinni get his P.hd from?,Ehere did (Faculty) get his P.hd from?,4,yes
 ,Where did Marcello Balduccinni get his P.hd from?,Wgere did (Faculty) get his P.hd from?,4,yes
@@ -2165,6 +2020,7 @@
 ,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd frim?,4,yes
 ,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd frpm?,4,yes
 ,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd fron?,4,yes
+,Does Augenblick have a PhD,Does (Faculty) have a PhD?,4,yes
 ,Does Augenblick have a PhD,Soes (Faculty) have a PhD?,4,yes
 ,Does Augenblick have a PhD,Foes (Faculty) have a PhD?,4,yes
 ,Does Augenblick have a PhD,Dies (Faculty) have a PhD?,4,yes
@@ -2186,6 +2042,7 @@
 ,Does Augenblick have a PhD,Does (Faculty) have a PjD?,4,yes
 ,Does Augenblick have a PhD,Does (Faculty) have a PhS?,4,yes
 ,Does Augenblick have a PhD,Does (Faculty) have a PhF?,4,yes
+,What is the highest degree earned by Mongan?,What is the highest degree earned by (Faculty)?,4,yes
 ,What is the highest degree earned by Mongan?,Qhat is the highest degree earned by (Faculty)?,4,yes
 ,What is the highest degree earned by Mongan?,Ehat is the highest degree earned by (Faculty)?,4,yes
 ,What is the highest degree earned by Mongan?,Wgat is the highest degree earned by (Faculty)?,4,yes
@@ -2244,6 +2101,7 @@
 ,What is the highest degree earned by Mongan?,What is the highest degree earned ny (Faculty)?,4,yes
 ,What is the highest degree earned by Mongan?,What is the highest degree earned bt (Faculty)?,4,yes
 ,What is the highest degree earned by Mongan?,What is the highest degree earned bu (Faculty)?,4,yes
+,Where did Augenblick graduate from?,Where did (Faculty) graduate from?,4,yes
 ,Where did Augenblick graduate from?,Qhere did (Faculty) graduate from?,4,yes
 ,Where did Augenblick graduate from?,Ehere did (Faculty) graduate from?,4,yes
 ,Where did Augenblick graduate from?,Wgere did (Faculty) graduate from?,4,yes
@@ -2281,6 +2139,7 @@
 ,Where did Augenblick graduate from?,Where did (Faculty) graduate frim?,4,yes
 ,Where did Augenblick graduate from?,Where did (Faculty) graduate frpm?,4,yes
 ,Where did Augenblick graduate from?,Where did (Faculty) graduate fron?,4,yes
+,,Where did (Faculty) go to college?,4,yes
 ,,Qhere did (Faculty) go to college?,4,yes
 ,,Ehere did (Faculty) go to college?,4,yes
 ,,Wgere did (Faculty) go to college?,4,yes
@@ -2317,6 +2176,7 @@
 ,,Where did (Faculty) go to collehe?,4,yes
 ,,Where did (Faculty) go to collegw?,4,yes
 ,,Where did (Faculty) go to collegr?,4,yes
+,,Whats (Faculty)'s degree?,4,yes
 ,,Qhats (Faculty)'s degree?,4,yes
 ,,Ehats (Faculty)'s degree?,4,yes
 ,,Wgats (Faculty)'s degree?,4,yes
@@ -2340,6 +2200,7 @@
 ,,Whats (Faculty)'s degrre?,4,yes
 ,,Whats (Faculty)'s degrew?,4,yes
 ,,Whats (Faculty)'s degrer?,4,yes
+,What is the education of Mongan?,What is the education of (Faculty)?,4,yes
 ,What is the education of Mongan?,Qhat is the education of (Faculty)?,4,yes
 ,What is the education of Mongan?,Ehat is the education of (Faculty)?,4,yes
 ,What is the education of Mongan?,Wgat is the education of (Faculty)?,4,yes
@@ -2378,6 +2239,7 @@
 ,What is the education of Mongan?,What is the education pf (Faculty)?,4,yes
 ,What is the education of Mongan?,What is the education od (Faculty)?,4,yes
 ,What is the education of Mongan?,What is the education og (Faculty)?,4,yes
+,,How smart is (Faculty),4,yes
 ,,Gow smart is (Faculty),4,yes
 ,,Jow smart is (Faculty),4,yes
 ,,Hiw smart is (Faculty),4,yes
@@ -2396,6 +2258,7 @@
 ,,How smart os (Faculty),4,yes
 ,,How smart ia (Faculty),4,yes
 ,,How smart id (Faculty),4,yes
+,,When did (Faculty) graduate?,4,yes
 ,,Qhen did (Faculty) graduate?,4,yes
 ,,Ehen did (Faculty) graduate?,4,yes
 ,,Wgen did (Faculty) graduate?,4,yes
@@ -2424,6 +2287,7 @@
 ,,When did (Faculty) graduaye?,4,yes
 ,,When did (Faculty) graduatw?,4,yes
 ,,When did (Faculty) graduatr?,4,yes
+,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Soes Professor (Faculty) have a website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Foes Professor (Faculty) have a website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Dies Professor (Faculty) have a website?,5,yes
@@ -2471,6 +2335,7 @@
 ,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a websiye?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a websitw?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a websitr?,5,yes
+,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,So you have Professor (Faculty)'s website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Fo you have Professor (Faculty)'s website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Di you have Professor (Faculty)'s website?,5,yes
@@ -2521,6 +2386,7 @@
 ,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s websiye?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s websitw?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s websitr?,5,yes
+,Does Mongan have a website?,Does (Faculty) have a website?,5,yes
 ,Does Mongan have a website?,Soes (Faculty) have a website?,5,yes
 ,Does Mongan have a website?,Foes (Faculty) have a website?,5,yes
 ,Does Mongan have a website?,Dies (Faculty) have a website?,5,yes
@@ -2551,6 +2417,7 @@
 ,Does Mongan have a website?,Does (Faculty) have a websiye?,5,yes
 ,Does Mongan have a website?,Does (Faculty) have a websitw?,5,yes
 ,Does Mongan have a website?,Does (Faculty) have a websitr?,5,yes
+,Does Professor Marcello Balduccinni have a website?,What's (Faculty)'s website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Qhat's (Faculty)'s website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Ehat's (Faculty)'s website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Wgat's (Faculty)'s website?,5,yes
@@ -2576,6 +2443,7 @@
 ,Does Professor Marcello Balduccinni have a website?,What's (Faculty)'s websiye?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,What's (Faculty)'s websitw?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,What's (Faculty)'s websitr?,5,yes
+,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,So you have (Faculty)'s website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Fo you have (Faculty)'s website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Di you have (Faculty)'s website?,5,yes
@@ -2609,6 +2477,7 @@
 ,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s websiye?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s websitw?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Do you have (Faculty)'s websitr?,5,yes
+,Does Mongan have a website?,How can I visit (Faculty)'s website?,5,yes
 ,Does Mongan have a website?,Gow can I visit (Faculty)'s website?,5,yes
 ,Does Mongan have a website?,Jow can I visit (Faculty)'s website?,5,yes
 ,Does Mongan have a website?,Hiw can I visit (Faculty)'s website?,5,yes
@@ -2648,6 +2517,7 @@
 ,Does Mongan have a website?,How can I visit (Faculty)'s websiye?,5,yes
 ,Does Mongan have a website?,How can I visit (Faculty)'s websitw?,5,yes
 ,Does Mongan have a website?,How can I visit (Faculty)'s websitr?,5,yes
+,,What is (Faculty)'s website?,5,yes
 ,,Qhat is (Faculty)'s website?,5,yes
 ,,Ehat is (Faculty)'s website?,5,yes
 ,,Wgat is (Faculty)'s website?,5,yes
@@ -2675,6 +2545,7 @@
 ,,What is (Faculty)'s websiye?,5,yes
 ,,What is (Faculty)'s websitw?,5,yes
 ,,What is (Faculty)'s websitr?,5,yes
+,,What is the website of (Faculty)?,5,yes
 ,,Qhat is the website of (Faculty)?,5,yes
 ,,Ehat is the website of (Faculty)?,5,yes
 ,,Wgat is the website of (Faculty)?,5,yes
@@ -2710,6 +2581,7 @@
 ,,What is the website pf (Faculty)?,5,yes
 ,,What is the website od (Faculty)?,5,yes
 ,,What is the website og (Faculty)?,5,yes
+,,What's the website of (Faculty)?,5,yes
 ,,Qhat's the website of (Faculty)?,5,yes
 ,,Ehat's the website of (Faculty)?,5,yes
 ,,Wgat's the website of (Faculty)?,5,yes
@@ -2743,6 +2615,7 @@
 ,,What's the website pf (Faculty)?,5,yes
 ,,What's the website od (Faculty)?,5,yes
 ,,What's the website og (Faculty)?,5,yes
+,,Give me professor (Faculty)'s website.,5,yes
 ,,Five me professor (Faculty)'s website.,5,yes
 ,,Hive me professor (Faculty)'s website.,5,yes
 ,,Guve me professor (Faculty)'s website.,5,yes
@@ -2787,6 +2660,7 @@
 ,,Give me professor (Faculty)'s websiye.,5,yes
 ,,Give me professor (Faculty)'s websitw.,5,yes
 ,,Give me professor (Faculty)'s websitr.,5,yes
+,Who is head of Computer Science Department?,Who is head of (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Qho is head of (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Eho is head of (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Wgo is head of (Department) Department?,6,no
@@ -2825,6 +2699,7 @@
 ,Who is head of Computer Science Department?,Who is head of (Department) Departmemt?,6,no
 ,Who is head of Computer Science Department?,Who is head of (Department) Departmenr?,6,no
 ,Who is head of Computer Science Department?,Who is head of (Department) Departmeny?,6,no
+,Who is head of Computer Science Department?,Who leads the (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Qho leads the (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Eho leads the (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Wgo leads the (Department) Department?,6,no
@@ -2862,6 +2737,7 @@
 ,Who is head of Computer Science Department?,Who leads the (Department) Departmemt?,6,no
 ,Who is head of Computer Science Department?,Who leads the (Department) Departmenr?,6,no
 ,Who is head of Computer Science Department?,Who leads the (Department) Departmeny?,6,no
+,Who is dean of Computer Science Department?,Who is dean of the (Department) Department?,6,no
 ,Who is dean of Computer Science Department?,Qho is dean of the (Department) Department?,6,no
 ,Who is dean of Computer Science Department?,Eho is dean of the (Department) Department?,6,no
 ,Who is dean of Computer Science Department?,Wgo is dean of the (Department) Department?,6,no
@@ -2906,6 +2782,7 @@
 ,Who is dean of Computer Science Department?,Who is dean of the (Department) Departmemt?,6,no
 ,Who is dean of Computer Science Department?,Who is dean of the (Department) Departmenr?,6,no
 ,Who is dean of Computer Science Department?,Who is dean of the (Department) Departmeny?,6,no
+,,Who is head of (Department)?,6,no
 ,,Qho is head of (Department)?,6,no
 ,,Eho is head of (Department)?,6,no
 ,,Wgo is head of (Department)?,6,no
@@ -2927,6 +2804,7 @@
 ,,Who is head pf (Department)?,6,no
 ,,Who is head od (Department)?,6,no
 ,,Who is head og (Department)?,6,no
+,,Who leads (Department)?,6,no
 ,,Qho leads (Department)?,6,no
 ,,Eho leads (Department)?,6,no
 ,,Wgo leads (Department)?,6,no
@@ -2941,6 +2819,7 @@
 ,,Who leafs (Department)?,6,no
 ,,Who leada (Department)?,6,no
 ,,Who leadd (Department)?,6,no
+,,Who is dean of (Department)?,6,no
 ,,Qho is dean of (Department)?,6,no
 ,,Eho is dean of (Department)?,6,no
 ,,Wgo is dean of (Department)?,6,no
@@ -2962,6 +2841,7 @@
 ,,Who is dean pf (Department)?,6,no
 ,,Who is dean od (Department)?,6,no
 ,,Who is dean og (Department)?,6,no
+,,Tell me who is head of (Department) Department?,6,no
 ,,Rell me who is head of (Department) Department?,6,no
 ,,Yell me who is head of (Department) Department?,6,no
 ,,Twll me who is head of (Department) Department?,6,no
@@ -3009,6 +2889,7 @@
 ,,Tell me who is head of (Department) Departmemt?,6,no
 ,,Tell me who is head of (Department) Departmenr?,6,no
 ,,Tell me who is head of (Department) Departmeny?,6,no
+,,What is the name of (Department) Department's dean?,6,no
 ,,Qhat is the name of (Department) Department's dean?,6,no
 ,,Ehat is the name of (Department) Department's dean?,6,no
 ,,Wgat is the name of (Department) Department's dean?,6,no
@@ -3062,6 +2943,7 @@
 ,,What is the name of (Department) Department's desn?,6,no
 ,,What is the name of (Department) Department's deab?,6,no
 ,,What is the name of (Department) Department's deam?,6,no
+,,What is the name of (Department) Department's head?,6,no
 ,,Qhat is the name of (Department) Department's head?,6,no
 ,,Ehat is the name of (Department) Department's head?,6,no
 ,,Wgat is the name of (Department) Department's head?,6,no
@@ -3115,6 +2997,7 @@
 ,,What is the name of (Department) Department's hesd?,6,no
 ,,What is the name of (Department) Department's heas?,6,no
 ,,What is the name of (Department) Department's heaf?,6,no
+,Who is Augenblick?,Who is (Faculty)?,7,yes
 ,Who is Augenblick?,Qho is (Faculty)?,7,yes
 ,Who is Augenblick?,Eho is (Faculty)?,7,yes
 ,Who is Augenblick?,Wgo is (Faculty)?,7,yes
@@ -3125,6 +3008,7 @@
 ,Who is Augenblick?,Who os (Faculty)?,7,yes
 ,Who is Augenblick?,Who ia (Faculty)?,7,yes
 ,Who is Augenblick?,Who id (Faculty)?,7,yes
+,Who is Dr. Exel?,Who is Dr. (Faculty)?,7,yes
 ,Who is Dr. Exel?,Qho is Dr. (Faculty)?,7,yes
 ,Who is Dr. Exel?,Eho is Dr. (Faculty)?,7,yes
 ,Who is Dr. Exel?,Wgo is Dr. (Faculty)?,7,yes
@@ -3139,6 +3023,7 @@
 ,Who is Dr. Exel?,Who is Fr. (Faculty)?,7,yes
 ,Who is Dr. Exel?,Who is De. (Faculty)?,7,yes
 ,Who is Dr. Exel?,Who is Dt. (Faculty)?,7,yes
+,,What do you know about (Faculty)?,7,yes
 ,,Qhat do you know about (Faculty)?,7,yes
 ,,Ehat do you know about (Faculty)?,7,yes
 ,,Wgat do you know about (Faculty)?,7,yes
@@ -3173,6 +3058,7 @@
 ,,What do you know aboit (Faculty)?,7,yes
 ,,What do you know abour (Faculty)?,7,yes
 ,,What do you know abouy (Faculty)?,7,yes
+,Who is Augenblick?,Can you tell me who (Faculty) is?,7,yes
 ,Who is Augenblick?,Xan you tell me who (Faculty) is?,7,yes
 ,Who is Augenblick?,Van you tell me who (Faculty) is?,7,yes
 ,Who is Augenblick?,Csn you tell me who (Faculty) is?,7,yes
@@ -3203,6 +3089,7 @@
 ,Who is Augenblick?,Can you tell me who (Faculty) os?,7,yes
 ,Who is Augenblick?,Can you tell me who (Faculty) ia?,7,yes
 ,Who is Augenblick?,Can you tell me who (Faculty) id?,7,yes
+,,Who's (Faculty)?,7,yes
 ,,Qho's (Faculty)?,7,yes
 ,,Eho's (Faculty)?,7,yes
 ,,Wgo's (Faculty)?,7,yes
@@ -3211,6 +3098,7 @@
 ,,Whp's (Faculty)?,7,yes
 ,,Who'a (Faculty)?,7,yes
 ,,Who'd (Faculty)?,7,yes
+,,What is (Faculty) like?,7,yes
 ,,Qhat is (Faculty) like?,7,yes
 ,,Ehat is (Faculty) like?,7,yes
 ,,Wgat is (Faculty) like?,7,yes
@@ -3229,6 +3117,7 @@
 ,,What is (Faculty) lile?,7,yes
 ,,What is (Faculty) likw?,7,yes
 ,,What is (Faculty) likr?,7,yes
+,,What is the bio of (Faculty)?,7,yes
 ,,Qhat is the bio of (Faculty)?,7,yes
 ,,Ehat is the bio of (Faculty)?,7,yes
 ,,Wgat is the bio of (Faculty)?,7,yes
@@ -3256,6 +3145,7 @@
 ,,What is the bio pf (Faculty)?,7,yes
 ,,What is the bio od (Faculty)?,7,yes
 ,,What is the bio og (Faculty)?,7,yes
+,,What is (Faculty)'s bio?,7,yes
 ,,Qhat is (Faculty)'s bio?,7,yes
 ,,Ehat is (Faculty)'s bio?,7,yes
 ,,Wgat is (Faculty)'s bio?,7,yes
@@ -3275,6 +3165,7 @@
 ,,What is (Faculty)'s boo?,7,yes
 ,,What is (Faculty)'s bii?,7,yes
 ,,What is (Faculty)'s bip?,7,yes
+,,Tell me about (Faculty),7,yes
 ,,Rell me about (Faculty),7,yes
 ,,Yell me about (Faculty),7,yes
 ,,Twll me about (Faculty),7,yes
@@ -3293,6 +3184,8 @@
 ,,Tell me aboit (Faculty),7,yes
 ,,Tell me abour (Faculty),7,yes
 ,,Tell me abouy (Faculty),7,yes
+,,(Faculty)?,7,yes
+,What does Mongan look like?,What does (Faculty) look like?,8,yes
 ,What does Mongan look like?,Qhat does (Faculty) look like?,8,yes
 ,What does Mongan look like?,Ehat does (Faculty) look like?,8,yes
 ,What does Mongan look like?,Wgat does (Faculty) look like?,8,yes
@@ -3322,6 +3215,7 @@
 ,What does Mongan look like?,What does (Faculty) look lile?,8,yes
 ,What does Mongan look like?,What does (Faculty) look likw?,8,yes
 ,What does Mongan look like?,What does (Faculty) look likr?,8,yes
+,Show me Mongan's face.,Show me (Faculty)'s face.,8,yes
 ,Show me Mongan's face.,Ahow me (Faculty)'s face.,8,yes
 ,Show me Mongan's face.,Dhow me (Faculty)'s face.,8,yes
 ,Show me Mongan's face.,Sgow me (Faculty)'s face.,8,yes
@@ -3342,6 +3236,7 @@
 ,Show me Mongan's face.,Show me (Faculty)'s fave.,8,yes
 ,Show me Mongan's face.,Show me (Faculty)'s facw.,8,yes
 ,Show me Mongan's face.,Show me (Faculty)'s facr.,8,yes
+,What does Mongan's face look like?,What does (Faculty)'s face look like?,8,yes
 ,What does Mongan's face look like?,Qhat does (Faculty)'s face look like?,8,yes
 ,What does Mongan's face look like?,Ehat does (Faculty)'s face look like?,8,yes
 ,What does Mongan's face look like?,Wgat does (Faculty)'s face look like?,8,yes
@@ -3380,6 +3275,7 @@
 ,What does Mongan's face look like?,What does (Faculty)'s face look lile?,8,yes
 ,What does Mongan's face look like?,What does (Faculty)'s face look likw?,8,yes
 ,What does Mongan's face look like?,What does (Faculty)'s face look likr?,8,yes
+,What does Mongan look like?,What does (Faculty)'s face look like?,8,yes
 ,What does Mongan look like?,Qhat does (Faculty)'s face look like?,8,yes
 ,What does Mongan look like?,Ehat does (Faculty)'s face look like?,8,yes
 ,What does Mongan look like?,Wgat does (Faculty)'s face look like?,8,yes
@@ -3418,6 +3314,7 @@
 ,What does Mongan look like?,What does (Faculty)'s face look lile?,8,yes
 ,What does Mongan look like?,What does (Faculty)'s face look likw?,8,yes
 ,What does Mongan look like?,What does (Faculty)'s face look likr?,8,yes
+,Show me Mongan's face.,Show me (Faculty).,8,yes
 ,Show me Mongan's face.,Ahow me (Faculty).,8,yes
 ,Show me Mongan's face.,Dhow me (Faculty).,8,yes
 ,Show me Mongan's face.,Sgow me (Faculty).,8,yes
@@ -3429,6 +3326,7 @@
 ,Show me Mongan's face.,Show ne (Faculty).,8,yes
 ,Show me Mongan's face.,Show mw (Faculty).,8,yes
 ,Show me Mongan's face.,Show mr (Faculty).,8,yes
+,What does Mongan's face look like?,What does (Faculty) face look like?,8,yes
 ,What does Mongan's face look like?,Qhat does (Faculty) face look like?,8,yes
 ,What does Mongan's face look like?,Ehat does (Faculty) face look like?,8,yes
 ,What does Mongan's face look like?,Wgat does (Faculty) face look like?,8,yes
@@ -3465,6 +3363,7 @@
 ,What does Mongan's face look like?,What does (Faculty) face look lile?,8,yes
 ,What does Mongan's face look like?,What does (Faculty) face look likw?,8,yes
 ,What does Mongan's face look like?,What does (Faculty) face look likr?,8,yes
+,,What does professor (Faculty) look like?,8,yes
 ,,Qhat does professor (Faculty) look like?,8,yes
 ,,Ehat does professor (Faculty) look like?,8,yes
 ,,Wgat does professor (Faculty) look like?,8,yes
@@ -3511,6 +3410,7 @@
 ,,What does professor (Faculty) look lile?,8,yes
 ,,What does professor (Faculty) look likw?,8,yes
 ,,What does professor (Faculty) look likr?,8,yes
+,,Show me professor (Faculty)'s face.,8,yes
 ,,Ahow me professor (Faculty)'s face.,8,yes
 ,,Dhow me professor (Faculty)'s face.,8,yes
 ,,Sgow me professor (Faculty)'s face.,8,yes
@@ -3548,6 +3448,7 @@
 ,,Show me professor (Faculty)'s fave.,8,yes
 ,,Show me professor (Faculty)'s facw.,8,yes
 ,,Show me professor (Faculty)'s facr.,8,yes
+,,What does professor (Faculty)'s face look like?,8,yes
 ,,Qhat does professor (Faculty)'s face look like?,8,yes
 ,,Ehat does professor (Faculty)'s face look like?,8,yes
 ,,Wgat does professor (Faculty)'s face look like?,8,yes
@@ -3603,6 +3504,7 @@
 ,,What does professor (Faculty)'s face look lile?,8,yes
 ,,What does professor (Faculty)'s face look likw?,8,yes
 ,,What does professor (Faculty)'s face look likr?,8,yes
+,,Show me professor (Faculty). ,8,yes
 ,,Ahow me professor (Faculty). ,8,yes
 ,,Dhow me professor (Faculty). ,8,yes
 ,,Sgow me professor (Faculty). ,8,yes
@@ -3631,6 +3533,7 @@
 ,,Show me professpr (Faculty). ,8,yes
 ,,Show me professoe (Faculty). ,8,yes
 ,,Show me professot (Faculty). ,8,yes
+,,What does professor (Faculty) face look like?,8,yes
 ,,Qhat does professor (Faculty) face look like?,8,yes
 ,,Ehat does professor (Faculty) face look like?,8,yes
 ,,Wgat does professor (Faculty) face look like?,8,yes
@@ -3684,6 +3587,7 @@
 ,,What does professor (Faculty) face look lile?,8,yes
 ,,What does professor (Faculty) face look likw?,8,yes
 ,,What does professor (Faculty) face look likr?,8,yes
+,What is Mongan's research interestr?,What is (Faculty)'s research interest? ,9,yes
 ,What is Mongan's research interestr?,Qhat is (Faculty)'s research interest? ,9,yes
 ,What is Mongan's research interestr?,Ehat is (Faculty)'s research interest? ,9,yes
 ,What is Mongan's research interestr?,Wgat is (Faculty)'s research interest? ,9,yes
@@ -3728,6 +3632,7 @@
 ,What is Mongan's research interestr?,What is (Faculty)'s research interedt? ,9,yes
 ,What is Mongan's research interestr?,What is (Faculty)'s research interesr? ,9,yes
 ,What is Mongan's research interestr?,What is (Faculty)'s research interesy? ,9,yes
+,,What is (Faculty)'s area of research?,9,yes
 ,,Qhat is (Faculty)'s area of research?,9,yes
 ,,Ehat is (Faculty)'s area of research?,9,yes
 ,,Wgat is (Faculty)'s area of research?,9,yes
@@ -3766,6 +3671,7 @@
 ,,What is (Faculty)'s area of researvh?,9,yes
 ,,What is (Faculty)'s area of researcg?,9,yes
 ,,What is (Faculty)'s area of researcj?,9,yes
+,,What does (Faculty) research?,9,yes
 ,,Qhat does (Faculty) research?,9,yes
 ,,Ehat does (Faculty) research?,9,yes
 ,,Wgat does (Faculty) research?,9,yes
@@ -3796,6 +3702,7 @@
 ,,What does (Faculty) researvh?,9,yes
 ,,What does (Faculty) researcg?,9,yes
 ,,What does (Faculty) researcj?,9,yes
+,,What is (Faculty) interested in?,9,yes
 ,,Qhat is (Faculty) interested in?,9,yes
 ,,Ehat is (Faculty) interested in?,9,yes
 ,,Wgat is (Faculty) interested in?,9,yes
@@ -3831,6 +3738,7 @@
 ,,What is (Faculty) interested on?,9,yes
 ,,What is (Faculty) interested ib?,9,yes
 ,,What is (Faculty) interested im?,9,yes
+,,Where does (Faculty) specialize?,9,yes
 ,,Qhere does (Faculty) specialize?,9,yes
 ,,Ehere does (Faculty) specialize?,9,yes
 ,,Wgere does (Faculty) specialize?,9,yes
@@ -3865,6 +3773,7 @@
 ,,Where does (Faculty) specialixe?,9,yes
 ,,Where does (Faculty) specializw?,9,yes
 ,,Where does (Faculty) specializr?,9,yes
+,,What is (Faculty)'s interest? ,9,yes
 ,,Qhat is (Faculty)'s interest? ,9,yes
 ,,Ehat is (Faculty)'s interest? ,9,yes
 ,,Wgat is (Faculty)'s interest? ,9,yes
@@ -3894,6 +3803,7 @@
 ,,What is (Faculty)'s interedt? ,9,yes
 ,,What is (Faculty)'s interesr? ,9,yes
 ,,What is (Faculty)'s interesy? ,9,yes
+,,What is (Faculty)'s interested in? ,9,yes
 ,,Qhat is (Faculty)'s interested in? ,9,yes
 ,,Ehat is (Faculty)'s interested in? ,9,yes
 ,,Wgat is (Faculty)'s interested in? ,9,yes
@@ -3931,6 +3841,7 @@
 ,,What is (Faculty)'s interested on? ,9,yes
 ,,What is (Faculty)'s interested ib? ,9,yes
 ,,What is (Faculty)'s interested im? ,9,yes
+,,What does (Faculty) research? ,9,yes
 ,,Qhat does (Faculty) research? ,9,yes
 ,,Ehat does (Faculty) research? ,9,yes
 ,,Wgat does (Faculty) research? ,9,yes
@@ -3961,6 +3872,7 @@
 ,,What does (Faculty) researvh? ,9,yes
 ,,What does (Faculty) researcg? ,9,yes
 ,,What does (Faculty) researcj? ,9,yes
+,,What is the focus of (Faculty) ? ,9,yes
 ,,Qhat is the focus of (Faculty) ? ,9,yes
 ,,Ehat is the focus of (Faculty) ? ,9,yes
 ,,Wgat is the focus of (Faculty) ? ,9,yes
@@ -3992,6 +3904,7 @@
 ,,What is the focus pf (Faculty) ? ,9,yes
 ,,What is the focus od (Faculty) ? ,9,yes
 ,,What is the focus og (Faculty) ? ,9,yes
+,,What does (Faculty) currently research? ,9,yes
 ,,Qhat does (Faculty) currently research? ,9,yes
 ,,Ehat does (Faculty) currently research? ,9,yes
 ,,Wgat does (Faculty) currently research? ,9,yes
@@ -4039,6 +3952,7 @@
 ,,What does (Faculty) currently researvh? ,9,yes
 ,,What does (Faculty) currently researcg? ,9,yes
 ,,What does (Faculty) currently researcj? ,9,yes
+,What is Mongan's position?,What is (Faculty)'s position?,10,yes
 ,What is Mongan's position?,Qhat is (Faculty)'s position?,10,yes
 ,What is Mongan's position?,Ehat is (Faculty)'s position?,10,yes
 ,What is Mongan's position?,Wgat is (Faculty)'s position?,10,yes
@@ -4067,6 +3981,7 @@
 ,What is Mongan's position?,What is (Faculty)'s positipn?,10,yes
 ,What is Mongan's position?,What is (Faculty)'s positiob?,10,yes
 ,What is Mongan's position?,What is (Faculty)'s positiom?,10,yes
+,What is Mongan's title?,What is (Faculty)'s title?,10,yes
 ,What is Mongan's title?,Qhat is (Faculty)'s title?,10,yes
 ,What is Mongan's title?,Ehat is (Faculty)'s title?,10,yes
 ,What is Mongan's title?,Wgat is (Faculty)'s title?,10,yes
@@ -4089,6 +4004,7 @@
 ,What is Mongan's title?,What is (Faculty)'s titke?,10,yes
 ,What is Mongan's title?,What is (Faculty)'s titlw?,10,yes
 ,What is Mongan's title?,What is (Faculty)'s titlr?,10,yes
+,,Is (Faculty) full-time?,10,yes
 ,,Us (Faculty) full-time?,10,yes
 ,,Os (Faculty) full-time?,10,yes
 ,,Ia (Faculty) full-time?,10,yes
@@ -4106,6 +4022,7 @@
 ,,Is (Faculty) full-tine?,10,yes
 ,,Is (Faculty) full-timw?,10,yes
 ,,Is (Faculty) full-timr?,10,yes
+,,What is professor (Faculty)'s position?,10,yes
 ,,Qhat is professor (Faculty)'s position?,10,yes
 ,,Ehat is professor (Faculty)'s position?,10,yes
 ,,Wgat is professor (Faculty)'s position?,10,yes
@@ -4151,6 +4068,7 @@
 ,,What is professor (Faculty)'s positipn?,10,yes
 ,,What is professor (Faculty)'s positiob?,10,yes
 ,,What is professor (Faculty)'s positiom?,10,yes
+,,What is professor (Faculty)'s title?,10,yes
 ,,Qhat is professor (Faculty)'s title?,10,yes
 ,,Ehat is professor (Faculty)'s title?,10,yes
 ,,Wgat is professor (Faculty)'s title?,10,yes
@@ -4190,6 +4108,7 @@
 ,,What is professor (Faculty)'s titke?,10,yes
 ,,What is professor (Faculty)'s titlw?,10,yes
 ,,What is professor (Faculty)'s titlr?,10,yes
+,,Show me (Faculty)'s position.,10,yes
 ,,Ahow me (Faculty)'s position.,10,yes
 ,,Dhow me (Faculty)'s position.,10,yes
 ,,Sgow me (Faculty)'s position.,10,yes
@@ -4218,6 +4137,7 @@
 ,,Show me (Faculty)'s positipn.,10,yes
 ,,Show me (Faculty)'s positiob.,10,yes
 ,,Show me (Faculty)'s positiom.,10,yes
+,,Show me professor (Faculty)'s position.,10,yes
 ,,Ahow me professor (Faculty)'s position.,10,yes
 ,,Dhow me professor (Faculty)'s position.,10,yes
 ,,Sgow me professor (Faculty)'s position.,10,yes
@@ -4263,6 +4183,7 @@
 ,,Show me professor (Faculty)'s positipn.,10,yes
 ,,Show me professor (Faculty)'s positiob.,10,yes
 ,,Show me professor (Faculty)'s positiom.,10,yes
+,,What is (Faculty)?,10,yes
 ,,Qhat is (Faculty)?,10,yes
 ,,Ehat is (Faculty)?,10,yes
 ,,Wgat is (Faculty)?,10,yes
@@ -4274,6 +4195,7 @@
 ,,What os (Faculty)?,10,yes
 ,,What ia (Faculty)?,10,yes
 ,,What id (Faculty)?,10,yes
+,,Give me (Faculty)'s position.,10,yes
 ,,Five me (Faculty)'s position.,10,yes
 ,,Hive me (Faculty)'s position.,10,yes
 ,,Guve me (Faculty)'s position.,10,yes
@@ -4302,6 +4224,7 @@
 ,,Give me (Faculty)'s positipn.,10,yes
 ,,Give me (Faculty)'s positiob.,10,yes
 ,,Give me (Faculty)'s positiom.,10,yes
+,,Give me professor (Faculty)'s position.,10,yes
 ,,Five me professor (Faculty)'s position.,10,yes
 ,,Hive me professor (Faculty)'s position.,10,yes
 ,,Guve me professor (Faculty)'s position.,10,yes
@@ -4347,6 +4270,7 @@
 ,,Give me professor (Faculty)'s positipn.,10,yes
 ,,Give me professor (Faculty)'s positiob.,10,yes
 ,,Give me professor (Faculty)'s positiom.,10,yes
+,What is Mongan's phone number?,What is (faculty)'s phone number? ,11,yes
 ,What is Mongan's phone number?,Qhat is (faculty)'s phone number? ,11,yes
 ,What is Mongan's phone number?,Ehat is (faculty)'s phone number? ,11,yes
 ,What is Mongan's phone number?,Wgat is (faculty)'s phone number? ,11,yes
@@ -4380,6 +4304,7 @@
 ,What is Mongan's phone number?,What is (faculty)'s phone numbrr? ,11,yes
 ,What is Mongan's phone number?,What is (faculty)'s phone numbee? ,11,yes
 ,What is Mongan's phone number?,What is (faculty)'s phone numbet? ,11,yes
+,What number should I use to call Mongan?,What number should I use to call (faculty)?,11,yes
 ,What number should I use to call Mongan?,Qhat number should I use to call (faculty)?,11,yes
 ,What number should I use to call Mongan?,Ehat number should I use to call (faculty)?,11,yes
 ,What number should I use to call Mongan?,Wgat number should I use to call (faculty)?,11,yes
@@ -4426,6 +4351,7 @@
 ,What number should I use to call Mongan?,What number should I use to csll (faculty)?,11,yes
 ,What number should I use to call Mongan?,What number should I use to cakl (faculty)?,11,yes
 ,What number should I use to call Mongan?,What number should I use to calk (faculty)?,11,yes
+,How can I call Mongan?,How can I call (faculty)?,11,yes
 ,How can I call Mongan?,Gow can I call (faculty)?,11,yes
 ,How can I call Mongan?,Jow can I call (faculty)?,11,yes
 ,How can I call Mongan?,Hiw can I call (faculty)?,11,yes
@@ -4444,6 +4370,7 @@
 ,How can I call Mongan?,How can I csll (faculty)?,11,yes
 ,How can I call Mongan?,How can I cakl (faculty)?,11,yes
 ,How can I call Mongan?,How can I calk (faculty)?,11,yes
+,How can I contact Mongan?,How can I contact (faculty)?,11,yes
 ,How can I contact Mongan?,Gow can I contact (faculty)?,11,yes
 ,How can I contact Mongan?,Jow can I contact (faculty)?,11,yes
 ,How can I contact Mongan?,Hiw can I contact (faculty)?,11,yes
@@ -4470,6 +4397,7 @@
 ,How can I contact Mongan?,How can I contavt (faculty)?,11,yes
 ,How can I contact Mongan?,How can I contacr (faculty)?,11,yes
 ,How can I contact Mongan?,How can I contacy (faculty)?,11,yes
+,Give me Mongan's phone number.,Give me (faculty)'s phone number.,11,yes
 ,Give me Mongan's phone number.,Five me (faculty)'s phone number.,11,yes
 ,Give me Mongan's phone number.,Hive me (faculty)'s phone number.,11,yes
 ,Give me Mongan's phone number.,Guve me (faculty)'s phone number.,11,yes
@@ -4503,6 +4431,7 @@
 ,Give me Mongan's phone number.,Give me (faculty)'s phone numbrr.,11,yes
 ,Give me Mongan's phone number.,Give me (faculty)'s phone numbee.,11,yes
 ,Give me Mongan's phone number.,Give me (faculty)'s phone numbet.,11,yes
+,Show me Mongan's phone number.,Show me (faculty)'s phone number.,11,yes
 ,Show me Mongan's phone number.,Ahow me (faculty)'s phone number.,11,yes
 ,Show me Mongan's phone number.,Dhow me (faculty)'s phone number.,11,yes
 ,Show me Mongan's phone number.,Sgow me (faculty)'s phone number.,11,yes
@@ -4536,6 +4465,7 @@
 ,Show me Mongan's phone number.,Show me (faculty)'s phone numbrr.,11,yes
 ,Show me Mongan's phone number.,Show me (faculty)'s phone numbee.,11,yes
 ,Show me Mongan's phone number.,Show me (faculty)'s phone numbet.,11,yes
+,What number should I call to contact Mongan?,What number should I call to contact (faculty)?,11,yes
 ,What number should I call to contact Mongan?,Qhat number should I call to contact (faculty)?,11,yes
 ,What number should I call to contact Mongan?,Ehat number should I call to contact (faculty)?,11,yes
 ,What number should I call to contact Mongan?,Wgat number should I call to contact (faculty)?,11,yes
@@ -4589,6 +4519,7 @@
 ,What number should I call to contact Mongan?,What number should I call to contavt (faculty)?,11,yes
 ,What number should I call to contact Mongan?,What number should I call to contacr (faculty)?,11,yes
 ,What number should I call to contact Mongan?,What number should I call to contacy (faculty)?,11,yes
+,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find him?,11,yes
 ,What number does Professor Mongan want me to call to find him?,Qhat number does Professor (faculty) want me to call to find him?,11,yes
 ,What number does Professor Mongan want me to call to find him?,Ehat number does Professor (faculty) want me to call to find him?,11,yes
 ,What number does Professor Mongan want me to call to find him?,Wgat number does Professor (faculty) want me to call to find him?,11,yes
@@ -4668,6 +4599,7 @@
 ,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find hum?,11,yes
 ,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find hom?,11,yes
 ,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find hin?,11,yes
+,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone number?,11,yes
 ,What is listed for Professor Mongan's phone number?,Qhat is listed for Professor (faculty)'s phone number?,11,yes
 ,What is listed for Professor Mongan's phone number?,Ehat is listed for Professor (faculty)'s phone number?,11,yes
 ,What is listed for Professor Mongan's phone number?,Wgat is listed for Professor (faculty)'s phone number?,11,yes
@@ -4735,6 +4667,7 @@
 ,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone numbrr?,11,yes
 ,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone numbee?,11,yes
 ,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone numbet?,11,yes
+,What is the number to use for Professor Mongan?,What is the number to use for Professor (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,Qhat is the number to use for Professor (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,Ehat is the number to use for Professor (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,Wgat is the number to use for Professor (faculty)?,11,yes
@@ -4796,6 +4729,7 @@
 ,What is the number to use for Professor Mongan?,What is the number to use for Professpr (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,What is the number to use for Professoe (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,What is the number to use for Professot (faculty)?,11,yes
+,What are some publications of Professor Mongan?,What are some (Publications) of Professor (Faculty)?,12,yes
 ,What are some publications of Professor Mongan?,Qhat are some (Publications) of Professor (Faculty)?,12,yes
 ,What are some publications of Professor Mongan?,Ehat are some (Publications) of Professor (Faculty)?,12,yes
 ,What are some publications of Professor Mongan?,Wgat are some (Publications) of Professor (Faculty)?,12,yes
@@ -4836,6 +4770,7 @@
 ,What are some publications of Professor Mongan?,What are some (Publications) of Professpr (Faculty)?,12,yes
 ,What are some publications of Professor Mongan?,What are some (Publications) of Professoe (Faculty)?,12,yes
 ,What are some publications of Professor Mongan?,What are some (Publications) of Professot (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored by (Faculty)?,12,yes
 ,What is the most recent paper authored by Vokolos?,Qhat is the most recent (Publication) authored by (Faculty)?,12,yes
 ,What is the most recent paper authored by Vokolos?,Ehat is the most recent (Publication) authored by (Faculty)?,12,yes
 ,What is the most recent paper authored by Vokolos?,Wgat is the most recent (Publication) authored by (Faculty)?,12,yes
@@ -4891,6 +4826,7 @@
 ,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored ny (Faculty)?,12,yes
 ,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored bt (Faculty)?,12,yes
 ,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored bu (Faculty)?,12,yes
+,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s research?,12,yes
 ,What are some publications about Mongan's research?,Qhat are some (Publications) about (Faculty)'s research?,12,yes
 ,What are some publications about Mongan's research?,Ehat are some (Publications) about (Faculty)'s research?,12,yes
 ,What are some publications about Mongan's research?,Wgat are some (Publications) about (Faculty)'s research?,12,yes
@@ -4936,6 +4872,7 @@
 ,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researvh?,12,yes
 ,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researcg?,12,yes
 ,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researcj?,12,yes
+,I want to read a paper from Vokolos.,I want to read a paper from (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,U want to read a paper from (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,O want to read a paper from (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,I qant to read a paper from (Faculty).,12,yes
@@ -4971,6 +4908,7 @@
 ,I want to read a paper from Vokolos.,I want to read a paper frim (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,I want to read a paper frpm (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,I want to read a paper fron (Faculty).,12,yes
+,,What is the most recent (Publication) authored by professor (Faculty)?,12,yes
 ,,Qhat is the most recent (Publication) authored by professor (Faculty)?,12,yes
 ,,Ehat is the most recent (Publication) authored by professor (Faculty)?,12,yes
 ,,Wgat is the most recent (Publication) authored by professor (Faculty)?,12,yes
@@ -5043,6 +4981,7 @@
 ,,What is the most recent (Publication) authored by professpr (Faculty)?,12,yes
 ,,What is the most recent (Publication) authored by professoe (Faculty)?,12,yes
 ,,What is the most recent (Publication) authored by professot (Faculty)?,12,yes
+,,What are some (Publications) of (Faculty)?,12,yes
 ,,Qhat are some (Publications) of (Faculty)?,12,yes
 ,,Ehat are some (Publications) of (Faculty)?,12,yes
 ,,Wgat are some (Publications) of (Faculty)?,12,yes
@@ -5066,6 +5005,7 @@
 ,,What are some (Publications) pf (Faculty)?,12,yes
 ,,What are some (Publications) od (Faculty)?,12,yes
 ,,What are some (Publications) og (Faculty)?,12,yes
+,,Give me (Publications) of (Faculty).,12,yes
 ,,Five me (Publications) of (Faculty).,12,yes
 ,,Hive me (Publications) of (Faculty).,12,yes
 ,,Guve me (Publications) of (Faculty).,12,yes
@@ -5081,6 +5021,7 @@
 ,,Give me (Publications) pf (Faculty).,12,yes
 ,,Give me (Publications) od (Faculty).,12,yes
 ,,Give me (Publications) og (Faculty).,12,yes
+,,Show me (Publications) of (Faculty).,12,yes
 ,,Ahow me (Publications) of (Faculty).,12,yes
 ,,Dhow me (Publications) of (Faculty).,12,yes
 ,,Sgow me (Publications) of (Faculty).,12,yes
@@ -5096,6 +5037,7 @@
 ,,Show me (Publications) pf (Faculty).,12,yes
 ,,Show me (Publications) od (Faculty).,12,yes
 ,,Show me (Publications) og (Faculty).,12,yes
+,,What are some papers published by (Faculty)?,12,yes
 ,,Qhat are some papers published by (Faculty)?,12,yes
 ,,Ehat are some papers published by (Faculty)?,12,yes
 ,,Wgat are some papers published by (Faculty)?,12,yes
@@ -5144,6 +5086,7 @@
 ,,What are some papers published ny (Faculty)?,12,yes
 ,,What are some papers published bt (Faculty)?,12,yes
 ,,What are some papers published bu (Faculty)?,12,yes
+,,Give me papers published by (Faculty).,12,yes
 ,,Five me papers published by (Faculty).,12,yes
 ,,Hive me papers published by (Faculty).,12,yes
 ,,Guve me papers published by (Faculty).,12,yes
@@ -5184,6 +5127,7 @@
 ,,Give me papers published ny (Faculty).,12,yes
 ,,Give me papers published bt (Faculty).,12,yes
 ,,Give me papers published bu (Faculty).,12,yes
+,,Show me papers published by (Faculty).,12,yes
 ,,Ahow me papers published by (Faculty).,12,yes
 ,,Dhow me papers published by (Faculty).,12,yes
 ,,Sgow me papers published by (Faculty).,12,yes
@@ -5224,6 +5168,7 @@
 ,,Show me papers published ny (Faculty).,12,yes
 ,,Show me papers published bt (Faculty).,12,yes
 ,,Show me papers published bu (Faculty).,12,yes
+,What is Rush's address?,What is (Building) address?,13,yes
 ,What is Rush's address?,Qhat is (Building) address?,13,yes
 ,What is Rush's address?,Ehat is (Building) address?,13,yes
 ,What is Rush's address?,Wgat is (Building) address?,13,yes
@@ -5248,6 +5193,7 @@
 ,What is Rush's address?,What is (Building) addreds?,13,yes
 ,What is Rush's address?,What is (Building) addresa?,13,yes
 ,What is Rush's address?,What is (Building) addresd?,13,yes
+,Where is Rush Building?,Where is (Building) building?,13,yes
 ,Where is Rush Building?,Qhere is (Building) building?,13,yes
 ,Where is Rush Building?,Ehere is (Building) building?,13,yes
 ,Where is Rush Building?,Wgere is (Building) building?,13,yes
@@ -5277,6 +5223,7 @@
 ,Where is Rush Building?,Where is (Building) buildimg?,13,yes
 ,Where is Rush Building?,Where is (Building) buildinf?,13,yes
 ,Where is Rush Building?,Where is (Building) buildinh?,13,yes
+,How do I get to Rush Building?,How do I get to (Building) Building?,13,yes
 ,How do I get to Rush Building?,Gow do I get to (Building) Building?,13,yes
 ,How do I get to Rush Building?,Jow do I get to (Building) Building?,13,yes
 ,How do I get to Rush Building?,Hiw do I get to (Building) Building?,13,yes
@@ -5314,6 +5261,7 @@
 ,How do I get to Rush Building?,How do I get to (Building) Buildimg?,13,yes
 ,How do I get to Rush Building?,How do I get to (Building) Buildinf?,13,yes
 ,How do I get to Rush Building?,How do I get to (Building) Buildinh?,13,yes
+,Can you give me location of Rush Building?,Can you give me location of (Building) Building?,13,yes
 ,Can you give me location of Rush Building?,Xan you give me location of (Building) Building?,13,yes
 ,Can you give me location of Rush Building?,Van you give me location of (Building) Building?,13,yes
 ,Can you give me location of Rush Building?,Csn you give me location of (Building) Building?,13,yes
@@ -5369,6 +5317,7 @@
 ,Can you give me location of Rush Building?,Can you give me location of (Building) Buildimg?,13,yes
 ,Can you give me location of Rush Building?,Can you give me location of (Building) Buildinf?,13,yes
 ,Can you give me location of Rush Building?,Can you give me location of (Building) Buildinh?,13,yes
+,Can you tell me location of Rush Building?,Can you tell me location of (Building) Building?,13,yes
 ,Can you tell me location of Rush Building?,Xan you tell me location of (Building) Building?,13,yes
 ,Can you tell me location of Rush Building?,Van you tell me location of (Building) Building?,13,yes
 ,Can you tell me location of Rush Building?,Csn you tell me location of (Building) Building?,13,yes
@@ -5422,6 +5371,7 @@
 ,Can you tell me location of Rush Building?,Can you tell me location of (Building) Buildimg?,13,yes
 ,Can you tell me location of Rush Building?,Can you tell me location of (Building) Buildinf?,13,yes
 ,Can you tell me location of Rush Building?,Can you tell me location of (Building) Buildinh?,13,yes
+,Tell me location of Rush Building?,Tell me location of (Building) Building?,13,yes
 ,Tell me location of Rush Building?,Rell me location of (Building) Building?,13,yes
 ,Tell me location of Rush Building?,Yell me location of (Building) Building?,13,yes
 ,Tell me location of Rush Building?,Twll me location of (Building) Building?,13,yes
@@ -5464,6 +5414,7 @@
 ,Tell me location of Rush Building?,Tell me location of (Building) Buildimg?,13,yes
 ,Tell me location of Rush Building?,Tell me location of (Building) Buildinf?,13,yes
 ,Tell me location of Rush Building?,Tell me location of (Building) Buildinh?,13,yes
+,Where should I send package for someone in Rush Building?,Where should I send package for someone in (Building) Building?,13,yes
 ,Where should I send package for someone in Rush Building?,Qhere should I send package for someone in (Building) Building?,13,yes
 ,Where should I send package for someone in Rush Building?,Ehere should I send package for someone in (Building) Building?,13,yes
 ,Where should I send package for someone in Rush Building?,Wgere should I send package for someone in (Building) Building?,13,yes
@@ -5544,6 +5495,7 @@
 ,Where should I send package for someone in Rush Building?,Where should I send package for someone in (Building) Buildimg?,13,yes
 ,Where should I send package for someone in Rush Building?,Where should I send package for someone in (Building) Buildinf?,13,yes
 ,Where should I send package for someone in Rush Building?,Where should I send package for someone in (Building) Buildinh?,13,yes
+,I want Rush's address.,I want (Building)'s address.,13,yes
 ,I want Rush's address.,U want (Building)'s address.,13,yes
 ,I want Rush's address.,O want (Building)'s address.,13,yes
 ,I want Rush's address.,I qant (Building)'s address.,13,yes
@@ -5568,6 +5520,7 @@
 ,I want Rush's address.,I want (Building)'s addreds.,13,yes
 ,I want Rush's address.,I want (Building)'s addresa.,13,yes
 ,I want Rush's address.,I want (Building)'s addresd.,13,yes
+,What address should I use for Rush Building?,What address should I use for (Building) Building?,13,yes
 ,What address should I use for Rush Building?,Qhat address should I use for (Building) Building?,13,yes
 ,What address should I use for Rush Building?,Ehat address should I use for (Building) Building?,13,yes
 ,What address should I use for Rush Building?,Wgat address should I use for (Building) Building?,13,yes
@@ -5628,6 +5581,7 @@
 ,What address should I use for Rush Building?,What address should I use for (Building) Buildimg?,13,yes
 ,What address should I use for Rush Building?,What address should I use for (Building) Buildinf?,13,yes
 ,What address should I use for Rush Building?,What address should I use for (Building) Buildinh?,13,yes
+,Give me Rush's address.,Give me (Building)'s address.,13,yes
 ,Give me Rush's address.,Five me (Building)'s address.,13,yes
 ,Give me Rush's address.,Hive me (Building)'s address.,13,yes
 ,Give me Rush's address.,Guve me (Building)'s address.,13,yes
@@ -5654,6 +5608,7 @@
 ,Give me Rush's address.,Give me (Building)'s addreds.,13,yes
 ,Give me Rush's address.,Give me (Building)'s addresa.,13,yes
 ,Give me Rush's address.,Give me (Building)'s addresd.,13,yes
+,,When does (Building) close on (Day)?,14,yes
 ,,Qhen does (Building) close on (Day)?,14,yes
 ,,Ehen does (Building) close on (Day)?,14,yes
 ,,Wgen does (Building) close on (Day)?,14,yes
@@ -5683,6 +5638,7 @@
 ,,When does (Building) close pn (Day)?,14,yes
 ,,When does (Building) close ob (Day)?,14,yes
 ,,When does (Building) close om (Day)?,14,yes
+,,What time does Rush close on (Day)?,14,yes
 ,,Qhat time does Rush close on (Day)?,14,yes
 ,,Ehat time does Rush close on (Day)?,14,yes
 ,,Wgat time does Rush close on (Day)?,14,yes
@@ -5726,6 +5682,7 @@
 ,,What time does Rush close pn (Day)?,14,yes
 ,,What time does Rush close ob (Day)?,14,yes
 ,,What time does Rush close om (Day)?,14,yes
+,,What's (Building)'s close time on (Day)?,14,yes
 ,,Qhat's (Building)'s close time on (Day)?,14,yes
 ,,Ehat's (Building)'s close time on (Day)?,14,yes
 ,,Wgat's (Building)'s close time on (Day)?,14,yes
@@ -5757,6 +5714,7 @@
 ,,What's (Building)'s close time pn (Day)?,14,yes
 ,,What's (Building)'s close time ob (Day)?,14,yes
 ,,What's (Building)'s close time om (Day)?,14,yes
+,,What time does (Building) close on (Day)?,14,yes
 ,,Qhat time does (Building) close on (Day)?,14,yes
 ,,Ehat time does (Building) close on (Day)?,14,yes
 ,,Wgat time does (Building) close on (Day)?,14,yes
@@ -5792,6 +5750,7 @@
 ,,What time does (Building) close pn (Day)?,14,yes
 ,,What time does (Building) close ob (Day)?,14,yes
 ,,What time does (Building) close om (Day)?,14,yes
+,,When does (Building) close?,14,yes
 ,,Qhen does (Building) close?,14,yes
 ,,Ehen does (Building) close?,14,yes
 ,,Wgen does (Building) close?,14,yes
@@ -5817,6 +5776,7 @@
 ,,When does (Building) clode?,14,yes
 ,,When does (Building) closw?,14,yes
 ,,When does (Building) closr?,14,yes
+,,What time does Rush close?,14,yes
 ,,Qhat time does Rush close?,14,yes
 ,,Ehat time does Rush close?,14,yes
 ,,Wgat time does Rush close?,14,yes
@@ -5856,6 +5816,7 @@
 ,,What time does Rush clode?,14,yes
 ,,What time does Rush closw?,14,yes
 ,,What time does Rush closr?,14,yes
+,,What's (Building)'s close time?,14,yes
 ,,Qhat's (Building)'s close time?,14,yes
 ,,Ehat's (Building)'s close time?,14,yes
 ,,Wgat's (Building)'s close time?,14,yes
@@ -5883,6 +5844,7 @@
 ,,What's (Building)'s close tine?,14,yes
 ,,What's (Building)'s close timw?,14,yes
 ,,What's (Building)'s close timr?,14,yes
+,,What time does (Building) close?,14,yes
 ,,Qhat time does (Building) close?,14,yes
 ,,Ehat time does (Building) close?,14,yes
 ,,Wgat time does (Building) close?,14,yes
@@ -5914,6 +5876,7 @@
 ,,What time does (Building) clode?,14,yes
 ,,What time does (Building) closw?,14,yes
 ,,What time does (Building) closr?,14,yes
+,,When does (Building) close (Day)?,14,yes
 ,,Qhen does (Building) close (Day)?,14,yes
 ,,Ehen does (Building) close (Day)?,14,yes
 ,,Wgen does (Building) close (Day)?,14,yes
@@ -5939,6 +5902,7 @@
 ,,When does (Building) clode (Day)?,14,yes
 ,,When does (Building) closw (Day)?,14,yes
 ,,When does (Building) closr (Day)?,14,yes
+,,What time does Rush close (Day)?,14,yes
 ,,Qhat time does Rush close (Day)?,14,yes
 ,,Ehat time does Rush close (Day)?,14,yes
 ,,Wgat time does Rush close (Day)?,14,yes
@@ -5978,6 +5942,7 @@
 ,,What time does Rush clode (Day)?,14,yes
 ,,What time does Rush closw (Day)?,14,yes
 ,,What time does Rush closr (Day)?,14,yes
+,When does Rush open on Monday?,When does (Building) open on (Day)?,15,yes
 ,When does Rush open on Monday?,Qhen does (Building) open on (Day)?,15,yes
 ,When does Rush open on Monday?,Ehen does (Building) open on (Day)?,15,yes
 ,When does Rush open on Monday?,Wgen does (Building) open on (Day)?,15,yes
@@ -6005,6 +5970,7 @@
 ,When does Rush open on Monday?,When does (Building) open pn (Day)?,15,yes
 ,When does Rush open on Monday?,When does (Building) open ob (Day)?,15,yes
 ,When does Rush open on Monday?,When does (Building) open om (Day)?,15,yes
+,What time does Rush open on Monday?,What time does Rush open on (Day)?,15,yes
 ,What time does Rush open on Monday?,Qhat time does Rush open on (Day)?,15,yes
 ,What time does Rush open on Monday?,Ehat time does Rush open on (Day)?,15,yes
 ,What time does Rush open on Monday?,Wgat time does Rush open on (Day)?,15,yes
@@ -6046,6 +6012,7 @@
 ,What time does Rush open on Monday?,What time does Rush open pn (Day)?,15,yes
 ,What time does Rush open on Monday?,What time does Rush open ob (Day)?,15,yes
 ,What time does Rush open on Monday?,What time does Rush open om (Day)?,15,yes
+,What's Rush's open time on Monday?,What's (Building)'s open time on (Day)?,15,yes
 ,What's Rush's open time on Monday?,Qhat's (Building)'s open time on (Day)?,15,yes
 ,What's Rush's open time on Monday?,Ehat's (Building)'s open time on (Day)?,15,yes
 ,What's Rush's open time on Monday?,Wgat's (Building)'s open time on (Day)?,15,yes
@@ -6075,6 +6042,7 @@
 ,What's Rush's open time on Monday?,What's (Building)'s open time pn (Day)?,15,yes
 ,What's Rush's open time on Monday?,What's (Building)'s open time ob (Day)?,15,yes
 ,What's Rush's open time on Monday?,What's (Building)'s open time om (Day)?,15,yes
+,When's Rush open on Monday?,What time does (Building) open on (Day)?,15,yes
 ,When's Rush open on Monday?,Qhat time does (Building) open on (Day)?,15,yes
 ,When's Rush open on Monday?,Ehat time does (Building) open on (Day)?,15,yes
 ,When's Rush open on Monday?,Wgat time does (Building) open on (Day)?,15,yes
@@ -6108,6 +6076,7 @@
 ,When's Rush open on Monday?,What time does (Building) open pn (Day)?,15,yes
 ,When's Rush open on Monday?,What time does (Building) open ob (Day)?,15,yes
 ,When's Rush open on Monday?,What time does (Building) open om (Day)?,15,yes
+,When does Rush open?,When does (Building) open?,15,yes
 ,When does Rush open?,Qhen does (Building) open?,15,yes
 ,When does Rush open?,Ehen does (Building) open?,15,yes
 ,When does Rush open?,Wgen does (Building) open?,15,yes
@@ -6131,6 +6100,7 @@
 ,When does Rush open?,When does (Building) oprn?,15,yes
 ,When does Rush open?,When does (Building) opeb?,15,yes
 ,When does Rush open?,When does (Building) opem?,15,yes
+,What time does Rush open?,What time does Rush open?,15,yes
 ,What time does Rush open?,Qhat time does Rush open?,15,yes
 ,What time does Rush open?,Ehat time does Rush open?,15,yes
 ,What time does Rush open?,Wgat time does Rush open?,15,yes
@@ -6168,6 +6138,7 @@
 ,What time does Rush open?,What time does Rush oprn?,15,yes
 ,What time does Rush open?,What time does Rush opeb?,15,yes
 ,What time does Rush open?,What time does Rush opem?,15,yes
+,What's Rush open time?,What's (Building)'s open time?,15,yes
 ,What's Rush open time?,Qhat's (Building)'s open time?,15,yes
 ,What's Rush open time?,Ehat's (Building)'s open time?,15,yes
 ,What's Rush open time?,Wgat's (Building)'s open time?,15,yes
@@ -6193,6 +6164,7 @@
 ,What's Rush open time?,What's (Building)'s open tine?,15,yes
 ,What's Rush open time?,What's (Building)'s open timw?,15,yes
 ,What's Rush open time?,What's (Building)'s open timr?,15,yes
+,When's Rush open?,What time does (Building) open?,15,yes
 ,When's Rush open?,Qhat time does (Building) open?,15,yes
 ,When's Rush open?,Ehat time does (Building) open?,15,yes
 ,When's Rush open?,Wgat time does (Building) open?,15,yes
@@ -6222,6 +6194,7 @@
 ,When's Rush open?,What time does (Building) oprn?,15,yes
 ,When's Rush open?,What time does (Building) opeb?,15,yes
 ,When's Rush open?,What time does (Building) opem?,15,yes
+,When does Rush open today?,When does (Building) open (Day)?,15,yes
 ,When does Rush open today?,Qhen does (Building) open (Day)?,15,yes
 ,When does Rush open today?,Ehen does (Building) open (Day)?,15,yes
 ,When does Rush open today?,Wgen does (Building) open (Day)?,15,yes
@@ -6245,6 +6218,7 @@
 ,When does Rush open today?,When does (Building) oprn (Day)?,15,yes
 ,When does Rush open today?,When does (Building) opeb (Day)?,15,yes
 ,When does Rush open today?,When does (Building) opem (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does Rush open (Day)?,15,yes
 ,What time does Rush open tomorrow?,Qhat time does Rush open (Day)?,15,yes
 ,What time does Rush open tomorrow?,Ehat time does Rush open (Day)?,15,yes
 ,What time does Rush open tomorrow?,Wgat time does Rush open (Day)?,15,yes
@@ -6282,6 +6256,7 @@
 ,What time does Rush open tomorrow?,What time does Rush oprn (Day)?,15,yes
 ,What time does Rush open tomorrow?,What time does Rush opeb (Day)?,15,yes
 ,What time does Rush open tomorrow?,What time does Rush opem (Day)?,15,yes
+,What is Rush's website?,What is (Building) website?,16,yes
 ,What is Rush's website?,Qhat is (Building) website?,16,yes
 ,What is Rush's website?,Ehat is (Building) website?,16,yes
 ,What is Rush's website?,Wgat is (Building) website?,16,yes
@@ -6307,6 +6282,7 @@
 ,What is Rush's website?,What is (Building) websiye?,16,yes
 ,What is Rush's website?,What is (Building) websitw?,16,yes
 ,What is Rush's website?,What is (Building) websitr?,16,yes
+,What is Rush's site?,What is (Building) site?,16,yes
 ,What is Rush's site?,Qhat is (Building) site?,16,yes
 ,What is Rush's site?,Ehat is (Building) site?,16,yes
 ,What is Rush's site?,Wgat is (Building) site?,16,yes
@@ -6326,6 +6302,7 @@
 ,What is Rush's site?,What is (Building) siye?,16,yes
 ,What is Rush's site?,What is (Building) sitw?,16,yes
 ,What is Rush's site?,What is (Building) sitr?,16,yes
+,Where can I get more information about Rush?,Where can I get more information about (Building)?,16,yes
 ,Where can I get more information about Rush?,Qhere can I get more information about (Building)?,16,yes
 ,Where can I get more information about Rush?,Ehere can I get more information about (Building)?,16,yes
 ,Where can I get more information about Rush?,Wgere can I get more information about (Building)?,16,yes
@@ -6385,6 +6362,7 @@
 ,Where can I get more information about Rush?,Where can I get more information aboit (Building)?,16,yes
 ,Where can I get more information about Rush?,Where can I get more information abour (Building)?,16,yes
 ,Where can I get more information about Rush?,Where can I get more information abouy (Building)?,16,yes
+,Can you tell me more about Rush?,Can you tell me more about (Building)?,16,yes
 ,Can you tell me more about Rush?,Xan you tell me more about (Building)?,16,yes
 ,Can you tell me more about Rush?,Van you tell me more about (Building)?,16,yes
 ,Can you tell me more about Rush?,Csn you tell me more about (Building)?,16,yes
@@ -6421,6 +6399,7 @@
 ,Can you tell me more about Rush?,Can you tell me more aboit (Building)?,16,yes
 ,Can you tell me more about Rush?,Can you tell me more abour (Building)?,16,yes
 ,Can you tell me more about Rush?,Can you tell me more abouy (Building)?,16,yes
+,Can you give me more information about Rush?,Can you give me more information about (Building)?,16,yes
 ,Can you give me more information about Rush?,Xan you give me more information about (Building)?,16,yes
 ,Can you give me more information about Rush?,Van you give me more information about (Building)?,16,yes
 ,Can you give me more information about Rush?,Csn you give me more information about (Building)?,16,yes
@@ -6479,6 +6458,7 @@
 ,Can you give me more information about Rush?,Can you give me more information aboit (Building)?,16,yes
 ,Can you give me more information about Rush?,Can you give me more information abour (Building)?,16,yes
 ,Can you give me more information about Rush?,Can you give me more information abouy (Building)?,16,yes
+,Where is the best place to find more information about Rush?,Where is the best place to find more information about (Building)?,16,yes
 ,Where is the best place to find more information about Rush?,Qhere is the best place to find more information about (Building)?,16,yes
 ,Where is the best place to find more information about Rush?,Ehere is the best place to find more information about (Building)?,16,yes
 ,Where is the best place to find more information about Rush?,Wgere is the best place to find more information about (Building)?,16,yes
@@ -6562,6 +6542,7 @@
 ,Where is the best place to find more information about Rush?,Where is the best place to find more information aboit (Building)?,16,yes
 ,Where is the best place to find more information about Rush?,Where is the best place to find more information abour (Building)?,16,yes
 ,Where is the best place to find more information about Rush?,Where is the best place to find more information abouy (Building)?,16,yes
+,Give me link to Rush's website.,Give me link to (Building)'s website.,16,yes
 ,Give me link to Rush's website.,Five me link to (Building)'s website.,16,yes
 ,Give me link to Rush's website.,Hive me link to (Building)'s website.,16,yes
 ,Give me link to Rush's website.,Guve me link to (Building)'s website.,16,yes
@@ -6600,6 +6581,7 @@
 ,Give me link to Rush's website.,Give me link to (Building)'s websiye.,16,yes
 ,Give me link to Rush's website.,Give me link to (Building)'s websitw.,16,yes
 ,Give me link to Rush's website.,Give me link to (Building)'s websitr.,16,yes
+,How can I go to Rush's website?,How can I go to (Building)'s website?,16,yes
 ,How can I go to Rush's website?,Gow can I go to (Building)'s website?,16,yes
 ,How can I go to Rush's website?,Jow can I go to (Building)'s website?,16,yes
 ,How can I go to Rush's website?,Hiw can I go to (Building)'s website?,16,yes
@@ -6637,6 +6619,7 @@
 ,How can I go to Rush's website?,How can I go to (Building)'s websiye?,16,yes
 ,How can I go to Rush's website?,How can I go to (Building)'s websitw?,16,yes
 ,How can I go to Rush's website?,How can I go to (Building)'s websitr?,16,yes
+,What is the address of Rush's website?,What is the address of (Building)'s website?,16,yes
 ,What is the address of Rush's website?,Qhat is the address of (Building)'s website?,16,yes
 ,What is the address of Rush's website?,Ehat is the address of (Building)'s website?,16,yes
 ,What is the address of Rush's website?,Wgat is the address of (Building)'s website?,16,yes
@@ -6687,6 +6670,7 @@
 ,What is the address of Rush's website?,What is the address of (Building)'s websiye?,16,yes
 ,What is the address of Rush's website?,What is the address of (Building)'s websitw?,16,yes
 ,What is the address of Rush's website?,What is the address of (Building)'s websitr?,16,yes
+,,What's (Building)'s address?,16,yes
 ,,Qhat's (Building)'s address?,16,yes
 ,,Ehat's (Building)'s address?,16,yes
 ,,Wgat's (Building)'s address?,16,yes
@@ -6711,6 +6695,7 @@
 ,,What's (Building)'s addreds?,16,yes
 ,,What's (Building)'s addresa?,16,yes
 ,,What's (Building)'s addresd?,16,yes
+,What is Rush's phone number?,What is (Building)'s phone number?,17,no
 ,What is Rush's phone number?,Qhat is (Building)'s phone number?,17,no
 ,What is Rush's phone number?,Ehat is (Building)'s phone number?,17,no
 ,What is Rush's phone number?,Wgat is (Building)'s phone number?,17,no
@@ -6744,6 +6729,7 @@
 ,What is Rush's phone number?,What is (Building)'s phone numbrr?,17,no
 ,What is Rush's phone number?,What is (Building)'s phone numbee?,17,no
 ,What is Rush's phone number?,What is (Building)'s phone numbet?,17,no
+,Where can I contact Rush?,Where can I contact (Building)?,17,no
 ,Where can I contact Rush?,Qhere can I contact (Building)?,17,no
 ,Where can I contact Rush?,Ehere can I contact (Building)?,17,no
 ,Where can I contact Rush?,Wgere can I contact (Building)?,17,no
@@ -6774,6 +6760,7 @@
 ,Where can I contact Rush?,Where can I contavt (Building)?,17,no
 ,Where can I contact Rush?,Where can I contacr (Building)?,17,no
 ,Where can I contact Rush?,Where can I contacy (Building)?,17,no
+,How can I contact Rush?,How can I contact (Building)?,17,no
 ,How can I contact Rush?,Gow can I contact (Building)?,17,no
 ,How can I contact Rush?,Jow can I contact (Building)?,17,no
 ,How can I contact Rush?,Hiw can I contact (Building)?,17,no
@@ -6800,6 +6787,7 @@
 ,How can I contact Rush?,How can I contavt (Building)?,17,no
 ,How can I contact Rush?,How can I contacr (Building)?,17,no
 ,How can I contact Rush?,How can I contacy (Building)?,17,no
+,What number can Rush be reached at?,What number can (Building) be reached at?,17,no
 ,What number can Rush be reached at?,Qhat number can (Building) be reached at?,17,no
 ,What number can Rush be reached at?,Ehat number can (Building) be reached at?,17,no
 ,What number can Rush be reached at?,Wgat number can (Building) be reached at?,17,no
@@ -6843,6 +6831,7 @@
 ,What number can Rush be reached at?,What number can (Building) be reached st?,17,no
 ,What number can Rush be reached at?,What number can (Building) be reached ar?,17,no
 ,What number can Rush be reached at?,What number can (Building) be reached ay?,17,no
+,Can I talk to someone at Rush?,Can I talk to someone at (Building)?,17,no
 ,Can I talk to someone at Rush?,Xan I talk to someone at (Building)?,17,no
 ,Can I talk to someone at Rush?,Van I talk to someone at (Building)?,17,no
 ,Can I talk to someone at Rush?,Csn I talk to someone at (Building)?,17,no
@@ -6876,6 +6865,7 @@
 ,Can I talk to someone at Rush?,Can I talk to someone st (Building)?,17,no
 ,Can I talk to someone at Rush?,Can I talk to someone ar (Building)?,17,no
 ,Can I talk to someone at Rush?,Can I talk to someone ay (Building)?,17,no
+,Show me Rush building,Show me (Building) building,18,yes
 ,Show me Rush building,Ahow me (Building) building,18,yes
 ,Show me Rush building,Dhow me (Building) building,18,yes
 ,Show me Rush building,Sgow me (Building) building,18,yes
@@ -6902,6 +6892,7 @@
 ,Show me Rush building,Show me (Building) buildimg,18,yes
 ,Show me Rush building,Show me (Building) buildinf,18,yes
 ,Show me Rush building,Show me (Building) buildinh,18,yes
+,Can you show me a picture of Rush?,Can you show me a picture of (Building)?,18,yes
 ,Can you show me a picture of Rush?,Xan you show me a picture of (Building)?,18,yes
 ,Can you show me a picture of Rush?,Van you show me a picture of (Building)?,18,yes
 ,Can you show me a picture of Rush?,Csn you show me a picture of (Building)?,18,yes
@@ -6942,6 +6933,7 @@
 ,Can you show me a picture of Rush?,Can you show me a picture pf (Building)?,18,yes
 ,Can you show me a picture of Rush?,Can you show me a picture od (Building)?,18,yes
 ,Can you show me a picture of Rush?,Can you show me a picture og (Building)?,18,yes
+,Can I see what Rush looks like?,Can I see what (Building) looks like?,18,yes
 ,Can I see what Rush looks like?,Xan I see what (Building) looks like?,18,yes
 ,Can I see what Rush looks like?,Van I see what (Building) looks like?,18,yes
 ,Can I see what Rush looks like?,Csn I see what (Building) looks like?,18,yes
@@ -6978,6 +6970,7 @@
 ,Can I see what Rush looks like?,Can I see what (Building) looks lile?,18,yes
 ,Can I see what Rush looks like?,Can I see what (Building) looks likw?,18,yes
 ,Can I see what Rush looks like?,Can I see what (Building) looks likr?,18,yes
+,What does Rush building look like?,What does (Building) building look like?,18,yes
 ,What does Rush building look like?,Qhat does (Building) building look like?,18,yes
 ,What does Rush building look like?,Ehat does (Building) building look like?,18,yes
 ,What does Rush building look like?,Wgat does (Building) building look like?,18,yes
@@ -7022,6 +7015,7 @@
 ,What does Rush building look like?,What does (Building) building look lile?,18,yes
 ,What does Rush building look like?,What does (Building) building look likw?,18,yes
 ,What does Rush building look like?,What does (Building) building look likr?,18,yes
+,How does Rush building look like?,How does (Building) building look like?,18,yes
 ,How does Rush building look like?,Gow does (Building) building look like?,18,yes
 ,How does Rush building look like?,Jow does (Building) building look like?,18,yes
 ,How does Rush building look like?,Hiw does (Building) building look like?,18,yes
@@ -7065,6 +7059,7 @@
 ,How does Rush building look like?,How does (Building) building look lile?,18,yes
 ,How does Rush building look like?,How does (Building) building look likw?,18,yes
 ,How does Rush building look like?,How does (Building) building look likr?,18,yes
+,,Show me picture of (Building) building,18,yes
 ,,Ahow me picture of (Building) building,18,yes
 ,,Dhow me picture of (Building) building,18,yes
 ,,Sgow me picture of (Building) building,18,yes
@@ -7108,6 +7103,7 @@
 ,,Show me picture of (Building) buildimg,18,yes
 ,,Show me picture of (Building) buildinf,18,yes
 ,,Show me picture of (Building) buildinh,18,yes
+,,Give me picture of (Building),18,yes
 ,,Five me picture of (Building),18,yes
 ,,Hive me picture of (Building),18,yes
 ,,Guve me picture of (Building),18,yes
@@ -7136,6 +7132,7 @@
 ,,Give me picture pf (Building),18,yes
 ,,Give me picture od (Building),18,yes
 ,,Give me picture og (Building),18,yes
+,,Show me (Building),18,yes
 ,,Ahow me (Building),18,yes
 ,,Dhow me (Building),18,yes
 ,,Sgow me (Building),18,yes
@@ -7147,6 +7144,7 @@
 ,,Show ne (Building),18,yes
 ,,Show mw (Building),18,yes
 ,,Show mr (Building),18,yes
+,,Can you show me a picture of (Building) building?,18,yes
 ,,Xan you show me a picture of (Building) building?,18,yes
 ,,Van you show me a picture of (Building) building?,18,yes
 ,,Csn you show me a picture of (Building) building?,18,yes
@@ -7202,6 +7200,7 @@
 ,,Can you show me a picture of (Building) buildimg?,18,yes
 ,,Can you show me a picture of (Building) buildinf?,18,yes
 ,,Can you show me a picture of (Building) buildinh?,18,yes
+,,What does (Building) look like?,18,yes
 ,,Qhat does (Building) look like?,18,yes
 ,,Ehat does (Building) look like?,18,yes
 ,,Wgat does (Building) look like?,18,yes
@@ -7231,6 +7230,7 @@
 ,,What does (Building) look lile?,18,yes
 ,,What does (Building) look likw?,18,yes
 ,,What does (Building) look likr?,18,yes
+,,How does (Building) look like?,18,yes
 ,,Gow does (Building) look like?,18,yes
 ,,Jow does (Building) look like?,18,yes
 ,,Hiw does (Building) look like?,18,yes
