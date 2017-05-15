@@ -41,11 +41,11 @@ class CaeIEAgent(IEAgent):
         soup = BeautifulSoup(webpage.text, "html.parser")
 
         elems = soup.select('tr')
-        for i in range(2, len(elems)):
+        for i in range(2, len(elems)-6):
             #print (elems[i])
             nameStr = elems[i].find('strong').getText()
-            #print (nameStr)
-            titleStr = elems[i].find('br').getText()
+            print (nameStr)
+            titleStr = elems[i].br.next_sibling.strip()
             #print (titleStr)
             emailStr = elems[i].select('p')[2].getText()
             phoneStr = elems[i].select('p')[3].getText()
@@ -53,7 +53,7 @@ class CaeIEAgent(IEAgent):
             #print (emailStr)
             #print (phoneStr)
             #print (roomStr)
-            interestsStr = elems[i].find('span').getText()
+            interestsStr = elems[i].select('p')[5].getText().strip()
             #print (interestsStr)
 
             prof = ttl.TtlFileEntry()
