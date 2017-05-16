@@ -2,6 +2,7 @@ from postag import NLTKPOSTag
 from genericquestion import GenericQuestion
 from errors import BadQuestionException
 import logging
+import re
 
 class GenericQuestionConstruction():
     def __init__(self, question, db):
@@ -89,4 +90,19 @@ class GenericQuestionConstruction():
             #store tuples
             if rep:
                 rep_list[rep['property']] = noun
+
+        #resolve special cases
+        #replace substrings represent weekday with Day
+        weekdays = re.findall(r"([Mm]on|[Tt]ues|[Ww]ed|[Tt]hurs|[Ff]ri|[Ss]atur|[Ss]un)day", self.question)
+        if weekdays:
+            for weekday in weekdays:
+                rep_list['Day'] = weekday
+
+        #replace substrings contain only 3 or 4 digits with Room
+        for pair in self.tag_list:
+            word = pair[0]
+            match = re.search('^\d{3,4}[a-zA-Z]?$', word)
+            if match:
+                rep_list['Room'] = word
+
         return rep_list
