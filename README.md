@@ -29,6 +29,10 @@ http://10.246.251.67:8080/chatbot
 
 #### How to run the information extraction:
 [Tom]
+1. Navigate to the ie directory.
+2. If you want to gather all available information and regenerate all ttl files, run the command `python3 iemain.py -t`
+3. If you want to repopulate the database using the ttl files found in the ttl directory, run the command `python3 iemain.py -d`
+4. If you want to do both 2. and 3., you can run the command `python3 iemain.py`
 
 #### IE prototype libraries:
 BeautifulSoup (installation: pip install bs4),
