@@ -63,6 +63,22 @@ class GenericAnswerPopulation:
         logging.debug("question dictionary: " + str(dictionary))
         var_list = self.__getWordsInsideParenthesis(self.query)
         logging.debug("var_list: " + str(var_list))
+
+        dayDictionary = {'Sunday':'s', 'Monday':'m', 'Tuesday':'t', 'Wednesday':'w', 'Thursday':'th', 'Friday':'f',
+                         'Saturday':'sa', 'Sunday':'su'}
+
+        #remove this line when the days are sent correctly
+        dayDictionary = {'Sun':'s', 'Mon':'m', 'Tues':'t', 'Wed':'w', 'Thurs':'th', 'Fri':'f',
+                         'Satur':'sa', 'Sun':'su'}
+
+        #checking for days in the dictionary and replacing the query
+        if('Day' in dictionary):
+            day = dayDictionary[dictionary['Day']]
+            startTimeReplacement = day+'StartTime'
+            endTimeReplacement = day+'EndTime'
+            self.query = self.query.replace("startTime", startTimeReplacement)
+            self.query = self.query.replace("endTime", endTimeReplacement)
+
         for key in var_list:
             if not (key in dictionary):
                 logging.warning("Error!!! when constructing query from generic query")
