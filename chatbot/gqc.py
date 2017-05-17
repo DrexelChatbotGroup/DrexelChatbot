@@ -29,6 +29,9 @@ class GenericQuestionConstruction():
         paddedquestion = self.question
         for key, value in rep_list.items():
             paddedquestion = paddedquestion.replace(value, '(' + key + ')')
+            #capitalise strings with Day representation
+            if key == 'Day':
+                rep_list[key] = value.title()
 
         #create returned object which contains a string and a dictionary 
         #whose keys are nouns in original question and values are generic 
