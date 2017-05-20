@@ -1,0 +1,165 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Jonathan-Deutsch>
+    cb:name "Jonathan Deutsch" ; 
+    cb:name "Deutsch" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Culinary Arts and Food Science" ; 
+    cb:email "jdeutsch@drexel.edu" ; 
+    cb:phone "215.571.4461" .
+
+<#A.-Handel>
+    cb:name "A. Philip Handel" ; 
+    cb:name "Handel" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Emeritus" ; 
+    cb:department "Culinary Arts and Food Science" ; 
+    cb:email "aphandel@drexel.edu" ; 
+    cb:phone "215.895.2411" .
+
+<#Jake-Lahne>
+    cb:name "Jake Lahne" ; 
+    cb:name "Lahne" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Culinary Arts and Food Science" ; 
+    cb:email "jl3542@drexel.edu" ; 
+    cb:phone "215.895.0955" .
+
+<#Brandy-Joe-Milliron>
+    cb:name "Brandy-Joe Milliron" ; 
+    cb:name "Milliron" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Nutrition Sciences" ; 
+    cb:email "Brandy-Joe.Milliron@drexel.edu" ; 
+    cb:phone "215.762.8542" .
+
+<#Jasreen-Sekhon>
+    cb:name "Jasreen Sekhon" ; 
+    cb:name "Sekhon" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Culinary Arts and Food Science" ; 
+    cb:email "jks333@drexel.edu" ; 
+    cb:phone "215.895.6255" .
+
+<#Michael-Traud>
+    cb:name "Michael Traud" ; 
+    cb:name "Traud" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor and Hospitality Management Program Director" ; 
+    cb:department "Hospitality Management and Culinary Arts & Food Science" ; 
+    cb:email "michael.j.traud@drexel.edu" ; 
+    cb:phone "215.895.0922" .
+
+<#Rosemary-Trout>
+    cb:name "Rosemary Trout" ; 
+    cb:name "Trout" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor and Head of" ; 
+    cb:department "Culinary Arts and Food Science, Hospitality Management" ; 
+    cb:email "rek23@drexel.edu" ; 
+    cb:phone "215.895.6025" .
+
+<#Charles-Ziccardi>
+    cb:name "Charles B. Ziccardi" ; 
+    cb:name "Ziccardi" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Culinary Arts and Food Science" ; 
+    cb:email "charles.bryan.ziccardi@drexel.edu" ; 
+    cb:phone "215.895.2994" .
+
+<#Robert-Ambrose>
+    cb:name "Robert Ambrose" ; 
+    cb:name "Ambrose" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor" ; 
+    cb:department "Hospitality Management" ; 
+    cb:email "rja73@drexel.edu" ; 
+    cb:phone "215.571.4580" .
+
+<#Linda-Forristal>
+    cb:name "Linda Joyce Forristal" ; 
+    cb:name "Forristal" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Hospitality Management" ; 
+    cb:email "linda.j.forristal@drexel.edu" ; 
+    cb:phone "215.895.0908" .
+
+<#Michael-Traud>
+    cb:name "Michael Traud" ; 
+    cb:name "Traud" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor and Hospitality Management Program Director" ; 
+    cb:department "Hospitality Management and Culinary Arts & Food Science" ; 
+    cb:email "michael.j.traud@drexel.edu" ; 
+    cb:phone "215.895.0922" .
+
+<#Rosemary-Trout>
+    cb:name "Rosemary Trout" ; 
+    cb:name "Trout" ; 
+    cb:property "faculty" ; 
+    cb:title "Instructor and Head of" ; 
+    cb:department "Culinary Arts and Food Science, Hospitality Management" ; 
+    cb:email "rek23@drexel.edu" ; 
+    cb:phone "215.895.6025" .
+
+<#Lawrence-Cohen>
+    cb:name "Lawrence B. Cohen" ; 
+    cb:name "Cohen" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Sport Management" ; 
+    cb:email "lbc34@drexel.edu" ; 
+    cb:phone "215.895.0909" .
+
+<#Amy-Giddings>
+    cb:name "Amy Giddings" ; 
+    cb:name "Giddings" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor and Program Director, Sport Coaching Leadership" ; 
+    cb:department "Sport Management" ; 
+    cb:email "giddings@drexel.edu" ; 
+    cb:phone "215.895.0961" .
+
+<#Joel-Maxcy>
+    cb:name "Joel Maxcy" ; 
+    cb:name "Maxcy" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor and Head of" ; 
+    cb:department "Sport Management" ; 
+    cb:email "jgm77@drexel.edu" ; 
+    cb:phone "215.895.2351" .
+
+<#Jim-Reese>
+    cb:name "Jim Reese" ; 
+    cb:name "Reese" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Sport Management" ; 
+    cb:email "james.t.reese@drexel.edu" ; 
+    cb:phone "215.895.2157" .
+
+<#Ellen-Staurowsky>
+    cb:name "Ellen Staurowsky" ; 
+    cb:name "Staurowsky" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Sport Management" ; 
+    cb:email "ellen.j.staurowsky@drexel.edu" ; 
+    cb:phone "215.895.6714" .
+
+<#Karen-Weaver>
+    cb:name "Karen Weaver" ; 
+    cb:name "Weaver" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor" ; 
+    cb:department "Sport Management" ; 
+    cb:email "karen.e.weaver@drexel.edu" ; 
+    cb:phone "215.895.6192" .
+
