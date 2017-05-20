@@ -1,5 +1,6 @@
 import socket
 import sys
+import logging
 
 
 class GenericAnswer:
@@ -27,8 +28,10 @@ class GenericAnswerConstruction:
             sock.sendall(bytes(genericQuestion + "\n", "utf-8"))
 
             # Receive data from the server and shut down
-            answer = str(sock.recv(1024), "utf-8")
-            query = str(sock.recv(1024), "utf-8")
+            answer = str(sock.recv(1024), "utf-8").strip()
+            logging.info("Answer from socket " + answer)
+            query = str(sock.recv(1024), "utf-8").strip()
+            logging.info("Query from socket ")
 
         #print("Sent:     {}".format(genericQuestion))
         #print("Received answer: {}".format(answer))

@@ -83,8 +83,8 @@ class MyTCPHandler(socketserver.BaseRequestHandler):
         # just send back the same data, but upper-cased
         genericanswer = gac_object.generateGenericAnswer(self.data.decode("utf8"))
         print(genericanswer.getAnswer())
-        self.request.sendall(genericanswer.getAnswer().encode("utf8"))
-        self.request.sendall(genericanswer.getQuery().encode("utf-8"))
+        self.request.sendall(genericanswer.getAnswer().rjust(1024).encode("utf8"))
+        self.request.sendall(genericanswer.getQuery().rjust(1024).encode("utf-8"))
 
 if __name__ == "__main__":
     HOST, PORT = "localhost", 9999
