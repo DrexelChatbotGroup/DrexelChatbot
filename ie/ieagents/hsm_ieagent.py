@@ -1,6 +1,6 @@
 """
-Implementation of the IEAgent interface for the College of computing and
-infomatics faculty website, located here: http://drexel.edu/cci/contact/Faculty/
+Implementation of the IEAgent interface for the School of hospitatily and
+management, located here: http://drexel.edu/cci/contact/Faculty/
 """
 
 __all__ = ['HsmIEAgent']

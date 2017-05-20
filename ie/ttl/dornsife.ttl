@@ -1,0 +1,760 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Amy-Auchincloss>
+    cb:name "Amy Auchincloss" ; 
+    cb:name "Auchincloss" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "aha27@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Auchincloss.ashx?h=150&la=en&w=140&hash=3D19F55339ED49C675D2ACEEE1E3B28E5B718DAA" ; 
+    cb:phone "267.359.6054" .
+
+<#Scarlett-Bellamy>
+    cb:name "Scarlett Bellamy" ; 
+    cb:name "Bellamy" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "bellamys@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Scarlett_Bellamy.ashx?h=150&la=en&w=140&hash=C37AFE912CD7D97DCF92E937D1E7706FDDE0BCF2" ; 
+    cb:phone "267.359.6219" .
+
+<#Zekarias-Berhane>
+    cb:name "Zekarias Berhane" ; 
+    cb:name "Berhane" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "zb26@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/BerhaneZekarias170x182.ashx?h=182&la=en&w=170&hash=69D080E589EC6445BF4CAC9847D4E7048BAFB70F" ; 
+    cb:phone "267.359.6035" .
+
+<#Kim-Blankenship>
+    cb:name "Kim M. Blankenship" ; 
+    cb:name "Blankenship" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "kim.blankenship@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Blankenship-Kim.ashx?h=150&la=en&w=140&hash=D0748B55C2736CFD0D2EE48FBDB70465F890A80F" ; 
+    cb:phone "267.359.629" .
+
+<#Sandra-Bloom>
+    cb:name "Sandra Bloom" ; 
+    cb:name "Bloom" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Health Management and Policy; Center for Nonviolence and Social Justice" ; 
+    cb:email "slb79@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Bloom.ashx?h=150&la=en&w=140&hash=27C146E87B168B425BDE6227295E284782891E10" ; 
+    cb:phone "267.359.6012" .
+
+<#Jennifer-Breaux>
+    cb:name "Jennifer Breaux" ; 
+    cb:name "Breaux" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "jrb43@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Breaux.ashx?h=150&la=en&w=140&hash=CA735735207E8DC0EC438EE6510E0F135CE60EF2" ; 
+    cb:phone "267.359.6086" .
+
+<#Darryl-Brown>
+    cb:name "Darryl Brown" ; 
+    cb:name "Brown" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "drb48@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Brown.ashx?h=150&la=en&w=140&hash=906DA233365F72DE334F4B96C0BE57685830F390" ; 
+    cb:phone "267.359.6023" .
+
+<#James-Buehler>
+    cb:name "James Buehler" ; 
+    cb:name "Buehler" ; 
+    cb:property "faculty" ; 
+    cb:title "Clinical Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "james.buehler@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Buehler_Headshot_08_2014_crop.ashx?h=107&la=en&w=100&hash=DDE420C0CFDDECEEEF4809B81370F9532B207290" ; 
+    cb:phone "267.359.6019" .
+
+<#Igor-Burstyn>
+    cb:name "Igor Burstyn" ; 
+    cb:name "Burstyn" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "igor.burstyn@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Burstyn.ashx?h=150&la=en&w=140&hash=77EDC031649046385A3824229535A29C24DD3654" ; 
+    cb:phone "267.359.6062" .
+
+<#Amy-Carroll-Scott>
+    cb:name "Amy Carroll-Scott" ; 
+    cb:name "Carroll-Scott" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "amy.carroll-scott@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Carroll-Scott.ashx?h=150&la=en&w=140&hash=FA1093AD94A1CE3A3EF0CACBA56BAEF265D30FF3" ; 
+    cb:phone "267.359.6061" .
+
+<#Esther-Chernak>
+    cb:name "Esther Chernak" ; 
+    cb:name "Chernak" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Research Professor, Director of the Center for Public Health Readiness and Communication" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "dec48@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Chernak.ashx?h=150&la=en&w=140&hash=27ADBD7F501C91C784EA116A869935ECB8AC1219" ; 
+    cb:phone "267.359.6038" .
+
+<#Mariana-Chilton>
+    cb:name "Mariana Chilton" ; 
+    cb:name "Chilton" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Health Management and Policy, Center for Hunger-Free Communities" ; 
+    cb:email "mmc33@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Chilton.ashx?h=150&la=en&w=140&hash=985796BC7B6B2E4E3B9C8069CAC5D88A7FEA47A4" ; 
+    cb:phone "267.359.6026" .
+
+<#Jane-Clougherty>
+    cb:name "Jane Clougherty" ; 
+    cb:name "Clougherty" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Department of Environmental and Occupational Health" ; 
+    cb:email "jec373@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Clougherty-Jane.ashx?h=150&la=en&w=140&hash=CADFB3B5A8028E0334EE750E0AE1ED695C0EC407" ; 
+    cb:phone "267-359-6072" .
+
+<#Theodore-Corbin>
+    cb:name "Theodore Corbin" ; 
+    cb:name "Corbin" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Health Management and Policy, Center for Nonviolence and Social Justice" ; 
+    cb:email "tcorbin@drexelmed.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Corbin.ashx?h=150&la=en&w=140&hash=8FB9DBC32301DFA7C4ADE67684DA0D4998413703" ; 
+    cb:phone "215.762.2368" .
+
+<#Anneclaire-Roos>
+    cb:name "Anneclaire De Roos" ; 
+    cb:name "Roos" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "ajd335@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/DeRoos.ashx?h=150&la=en&w=140&hash=0BDDE5092176C73023385883B7B9B2BDAAD51C1D" ; 
+    cb:phone "267.359.6090" .
+
+<#Ana-Roux>
+    cb:name "Ana V. Diez Roux" ; 
+    cb:name "Roux" ; 
+    cb:property "faculty" ; 
+    cb:title "Dean and Distinguished University Professor of Epidemiology" ; 
+    cb:department "Dean's Office, Epidemiology and Biostatistics, Urban Health Collaborative" ; 
+    cb:email "avd37@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Diez Roux.ashx?h=150&la=en&w=140&hash=59E4B26E9128B390300C7EA5D0BDD5E8C9508D6E" ; 
+    cb:phone "267.359.6070" .
+
+<#Mary-Duden>
+    cb:name "Mary Duden" ; 
+    cb:name "Duden" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "mgd28@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Mary Duden.ashx?h=170&la=en&w=133&hash=769AFA75A545160FC782CF7A4E9A29BC68EEA99D" ; 
+    cb:phone "267.359.6164" .
+
+<#Jerome-Dugan>
+    cb:name "Jerome Dugan" ; 
+    cb:name "Dugan" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "dugan@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Jerome Dugan.ashx?h=150&la=en&w=150&hash=FFEDBB8C3930157C86EC9E4CE116AFE8B55FDB66" ; 
+    cb:phone "267.359.5519" .
+
+<#Nancy-Epstein>
+    cb:name "Nancy Epstein" ; 
+    cb:name "Epstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "nee22@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Epstein.ashx?h=150&la=en&w=140&hash=5855953E0E28CBC29C5B3FE6C66CA02F7F68E582" ; 
+    cb:phone "267.359.6056" .
+
+<#Alison-Evans>
+    cb:name "Alison Evans" ; 
+    cb:name "Evans" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "Alison.Evans@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Evans.ashx?h=150&la=en&w=140&hash=9BBD7491C38C1A1B5548CECD1B539D35C1C3EAA6" ; 
+    cb:phone "267.359.6078" .
+
+<#Jerry-Fagliano>
+    cb:name "Jerry Fagliano" ; 
+    cb:name "Fagliano" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor and Chair" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "jaf387@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/FaglianoJerry170x182.ashx?h=182&la=en&w=170&hash=5C768F3423EE1BF6DB4442700807D75622901958" ; 
+    cb:phone "267.359.6265" .
+
+<#Robert-Field>
+    cb:name "Robert Field" ; 
+    cb:name "Field" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "rif24@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Field.ashx?h=150&la=en&w=140&hash=B5AD1A5CC82F00246D9BB5D8FE5787696DB10B75" ; 
+    cb:phone "215.571.4810" .
+
+<#Janet-Fleetwood>
+    cb:name "Janet Fleetwood" ; 
+    cb:name "Fleetwood" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "janet.fleetwood@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Fleetwood.ashx?h=150&la=en&w=140&hash=36A5524B0B8A509A014918C4628347A93E1F9A2C" ; 
+    cb:phone "267.359.6000" .
+
+<#Arthur-Frank>
+    cb:name "Arthur Frank" ; 
+    cb:name "Frank" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "alf26@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Frank.ashx?h=150&la=en&w=140&hash=966BBC08EBE9FFCD849E3F19C6C86063AA963960" ; 
+    cb:phone "267.359.6048" .
+
+<#Dennis-Gallagher>
+    cb:name "Dennis Gallagher" ; 
+    cb:name "Gallagher" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Health Management and Policy, Center for Population Health and Community Impact" ; 
+    cb:email "dmg44@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Gallagher.ashx?h=150&la=en&w=140&hash=569B49DBBAA8EE8D9D9250FF8F2DFEB8B1660EB8" ; 
+    cb:phone "267.359.6021" .
+
+<#Marla-Gold>
+    cb:name "Marla Gold" ; 
+    cb:name "Gold" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor and Dean Emerita" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "mjg32@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Gold.ashx?h=150&la=en&w=140&hash=9B3E5B55F8079EE11A89607D64CCB969E3BAEAD6" ; 
+    cb:phone "267.359.6162" .
+
+<#Neal-Goldstein>
+    cb:name "Neal D. Goldstein" ; 
+    cb:name "Goldstein" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Goldstein_Neal_140x150.ashx?h=150&la=en&w=140&hash=6E2BCC32E8F8A0519E59A6942BF278C4C79BAA7B" ; 
+    cb:phone "ng338@drexel.edu" .
+
+<#Edward-Gracely>
+    cb:name "Edward Gracely" ; 
+    cb:name "Gracely" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "egracely@drexelmed.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Gracely.ashx?h=150&la=en&w=140&hash=E0CDE290CFA1DE2E526287D90A0483DDCC5C6684" ; 
+    cb:phone "215.991.8466" .
+
+<#Ali-Groves>
+    cb:name "Ali Groves" ; 
+    cb:name "Groves" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Assistant Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "aligroves@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Ali_Groves_.ashx?h=150&la=en&w=140&hash=2CFE7CC0751BCFC54A81DF3DFCC28509964E64E8" ; 
+    cb:phone "267.359.6274" .
+
+<#Ghassan-Hamra>
+    cb:name "Ghassan Hamra" ; 
+    cb:name "Hamra" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "ghassan.b.hamra@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Hamra.ashx?h=151&la=en&w=140&hash=1D18D6C8942B8F74E8015E347C3B443977489641" ; 
+    cb:phone "267.359.6034" .
+
+<#William-Hickey>
+    cb:name "William Hickey" ; 
+    cb:name "Hickey" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "wh34@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Hickey.ashx?h=150&la=en&w=140&hash=151298BC7EA9A89DA36FE4BE82991C6B90D16C2D" ; 
+    cb:phone "267.359.6027" .
+
+<#Mary-Hovinga>
+    cb:name "Mary Hovinga" ; 
+    cb:name "Hovinga" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "hovinga@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Hovinga.ashx?h=150&la=en&w=140&hash=AEB3B685E1F189AC7EC831FD39BC7068F3E0124B" ; 
+    cb:phone "267.359.6055" .
+
+<#Tran-Huynh>
+    cb:name "Tran Huynh" ; 
+    cb:name "Huynh" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "tbh38@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Tran-Huynh140x150.ashx?h=150&la=en&w=140&hash=5DFE270C6C279B8C9434AE20750318712180A75D" ; 
+    cb:phone "267.359.6083" .
+
+<#Ann-Klassen>
+    cb:name "Ann Klassen" ; 
+    cb:name "Klassen" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "ack57@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Klassen.ashx?h=150&la=en&w=140&hash=B6BB0ABF2F3920E0CBD9EBC613CF7EB0827BD873" ; 
+    cb:phone "267.359.6011" .
+
+<#Jennifer-Kolker>
+    cb:name "Jennifer Kolker" ; 
+    cb:name "Kolker" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Clinical Professor, Associate Dean for Public Health Practice" ; 
+    cb:department "Health Management and Policy, Center for Public Health Practice, Pennsylvania Public Health Training Center, Center for Population Health and Community Impact" ; 
+    cb:email "jak682@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/KolkerJen170x182.ashx?h=182&la=en&w=170&hash=3003D0927CF6AA43B681E64437233FCC0F050309" ; 
+    cb:phone "267.359.6014" .
+
+<#Shiriki-Kumanyika>
+    cb:name "Shiriki K. Kumanyika" ; 
+    cb:name "Kumanyika" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "Kumanyika@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Shiriki-Kumanyika.ashx?h=182&la=en&w=170&hash=7AFEF8A868ACB5A3EDAEAFFEE36616FC01EC7688" ; 
+    cb:phone "267.359.6050" .
+
+<#Brent-Langellier>
+    cb:name "Brent A. Langellier" ; 
+    cb:name "Langellier" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "bal95@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/LangellierBrent170x182.ashx?h=182&la=en&w=170&hash=761130CE555261823E13C5C3F0EFB8C23259BF59" ; 
+    cb:phone "267.359.6025" .
+
+<#Stephen-Lankenau>
+    cb:name "Stephen Lankenau" ; 
+    cb:name "Lankenau" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "sel59@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Lankenau.ashx?h=150&la=en&w=140&hash=8CF04F5AE918AD8A992F38C8F3BF738C060E365F" ; 
+    cb:phone "267.359.6057" .
+
+<#Brian-Lee>
+    cb:name "Brian Lee" ; 
+    cb:name "Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "bklee@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Brian-Lee.ashx?h=182&la=en&w=170&hash=4A52D06B3CA8FE54D2FA986A853CD2F4EB8A9008" ; 
+    cb:phone "267.359.6052" .
+
+<#Nora-Lee>
+    cb:name "Nora Lee" ; 
+    cb:name "Lee" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "nllee@drexel.edu" ; 
+    cb:phone "267.359.6080" .
+
+<#Félice-Lê-Scherban>
+    cb:name "Félice Lê-Scherban" ; 
+    cb:name "Lê-Scherban" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "f.lescherban@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Le-Scherban.ashx?h=150&la=en&w=140&hash=36E83DF21DC54BBB8BBDBE71A19F5FB3FFBC57F4" ; 
+    cb:phone "267-359-6178" .
+
+<#Longjian-Liu>
+    cb:name "Longjian Liu" ; 
+    cb:name "Liu" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor of Epidemiology and Biostatistics, and Former Interim Chair" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "LL85@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Liu_Longjian_9290.ashx?h=133&la=en&w=200&hash=CD4F0EDA0CC5FDB6D47B07EDD8696B2FC9AEC3C8" ; 
+    cb:phone "267.359.6049" .
+
+<#Gina-Lovasi>
+    cb:name "Gina Lovasi" ; 
+    cb:name "Lovasi" ; 
+    cb:property "faculty" ; 
+    cb:title "Dornsife Associate Professor of Urban Health, Co-Director of the Urban Health Collaborative" ; 
+    cb:department "Epidemiology and Biostatistics, Urban Health Collaborative" ; 
+    cb:email "gsl45@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Gina_Lovasi_140x150_v2.ashx?h=150&la=en&w=140&hash=432CCCA8E8F4D1AB37E92A271B47F964D565AAE1" ; 
+    cb:phone "267.359.6280" .
+
+<#Raymond-Lum>
+    cb:name "Raymond Lum" ; 
+    cb:name "Lum" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor, Director of E-Learning" ; 
+    cb:department "Health Management and Policy, Pennsylvania Public Health Training Center" ; 
+    cb:email "rl27@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Lum.ashx?h=175&la=en&w=170&hash=B4D812B1796CA4AE7318F381D36D88280B67A784" ; 
+    cb:phone "267.359.6024" .
+
+<#Shannon-Márquez>
+    cb:name "Shannon Márquez" ; 
+    cb:name "Márquez" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Director of Global Public Health Initiatives" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "shannon.p.marquez@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Marquez.ashx?h=150&la=en&w=140&hash=1D0098E22E6BB7DDC83B4840CB320E6D5E1110BB" ; 
+    cb:phone "267.359.6088" .
+
+<#Ana-Martinez-Donate>
+    cb:name "Ana Martinez-Donate" ; 
+    cb:name "Martinez-Donate" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "martinez-donate@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Martinez-Donate.ashx?h=223&la=en&w=215&hash=43D313F822D617F196476078C2E0F0658F4D4E09" ; 
+    cb:phone "267.359.6124" .
+
+<#Philip-Massey>
+    cb:name "Philip Massey" ; 
+    cb:name "Massey" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "pmm85@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Massey.ashx?h=150&la=en&w=140&hash=E4C2CA8164022C7FEA574D807AF8C6300392414A" ; 
+    cb:phone "267.359.6067" .
+
+<#Leslie-McClure>
+    cb:name "Leslie Ain McClure" ; 
+    cb:name "McClure" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Chair" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "Leslie.A.Mcclure@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/McClure_Leslie.ashx?h=133&la=en&w=200&hash=50854A46C31D5EA9AB9FD416411B48AE8BAAF884" ; 
+    cb:phone "267.359.6218" .
+
+<#Ryan-McKenna>
+    cb:name "Ryan McKenna" ; 
+    cb:name "McKenna" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Health Management and Policy, Center for Population Health and Community Impact" ; 
+    cb:email "rmm448@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Ryan_McKenna_140x150.ashx?h=150&la=en&w=140&hash=0B2C5EC68EAEB9E210F30B1A2A2E432EC9667CDF" ; 
+    cb:phone "267.359.6188" .
+
+<#Yvonne-Michael>
+    cb:name "Yvonne Michael" ; 
+    cb:name "Michael" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor, Associate Dean for Academic and Faculty Affairs" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "ylm23@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Michael_Yvonne_9322.ashx?h=133&la=en&w=200&hash=D61A24DDFC8FF90A935ECA036CBF3CE472D69E4C" ; 
+    cb:phone "267.359.6064" .
+
+<#Jana-Mossey>
+    cb:name "Jana Mossey" ; 
+    cb:name "Mossey" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "jm55@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Mossey_Jana_9270.ashx?h=133&la=en&w=200&hash=6698EF46719455C501DD8F20EE9932716AF3139F" ; 
+    cb:phone "267.359.6216" .
+
+<#Craig-Newschaffer>
+    cb:name "Craig Newschaffer" ; 
+    cb:name "Newschaffer" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor, Director of the A.J. Drexel Autism Institute, Associate Dean for Research" ; 
+    cb:department "Epidemiology and Biostatistics, EARLI, A.J. Drexel Autism Institute" ; 
+    cb:email "cjn32@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Newschaffer.ashx?h=150&la=en&w=140&hash=0DCA5E387133B29AAD4F03F74E9342C7A8F97D27" ; 
+    cb:phone "215.571.3401" .
+
+<#Alex-Ortega>
+    cb:name "Alex Ortega" ; 
+    cb:name "Ortega" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor of Health Policy and Chair" ; 
+    cb:department "Health Management and Policy, Center for Population Health and Community Impact" ; 
+    cb:email "ano37@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Ortega_Alex.ashx?h=150&la=en&w=140&hash=A6E2F0863E74CB799A3362BCDD2F6786C5595442" ; 
+    cb:phone "267.359.6017" .
+
+<#Genevieve-Pham-Kanter>
+    cb:name "Genevieve (Genny) Pham-Kanter" ; 
+    cb:name "Pham-Kanter" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Health Management and Policy, Center for Population Health and Community Impact" ; 
+    cb:email "gpkanter@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/PhamKanter.ashx?h=150&la=en&w=140&hash=ED0E4FADC4B8E5BBC5F276B78FD75CA2D5D3F83F" ; 
+    cb:phone "267.359.6163" .
+
+<#Loni-Tabb>
+    cb:name "Loni Philip Tabb" ; 
+    cb:name "Tabb" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "lpp22@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Tabb.ashx?h=150&la=en&w=140&hash=4DC460787FE25B894ADB4969F838A35300645882" ; 
+    cb:phone "267.359.6217" .
+
+<#Marcia-Polansky>
+    cb:name "Marcia Polansky" ; 
+    cb:name "Polansky" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor Emerita" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "marcia.polansky@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Polansky.ashx?h=150&la=en&w=140&hash=77533F4041728343128D5DC65031B5AA6036F86A" ; 
+    cb:phone "267.359.6079" .
+
+<#Jonathan-Purtle>
+    cb:name "Jonathan Purtle" ; 
+    cb:name "Purtle" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Health Management and Policy, Center for Population Health and Community Impact" ; 
+    cb:email "jpp46@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Purtle.ashx?h=182&la=en&w=170&hash=A32D64E2D4436F6C5A07B41DC26AD736FD30CF20" ; 
+    cb:phone "267-359-6167" .
+
+<#Harrison-Quick>
+    cb:name "Harrison Quick" ; 
+    cb:name "Quick" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Harrison_Quick_140x150.ashx?h=150&la=en&w=140&hash=82C72B7B20A31F5741BEB3B793DE2273712EBE38" ; 
+    cb:phone "hsq23@drexel.edu" .
+
+<#Alex-Quistberg>
+    cb:name "Alex Quistberg" ; 
+    cb:name "Quistberg" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Environmental and Occupational Health, Urban Health Collaborative" ; 
+    cb:email "daq26@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Alex-Quistberg-140x150.ashx?h=148&la=en&w=140&hash=3DA6A77F42DD5E07DE79D6CCEF0D6807939C1094" ; 
+    cb:phone "267.359.6297" .
+
+<#John-Rich>
+    cb:name "John Rich" ; 
+    cb:name "Rich" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Health Management and Policy; Center for Nonviolence and Social Justice" ; 
+    cb:email "jar82@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Rich.ashx?h=150&la=en&w=140&hash=6242A7EFCCB641EE728E27DD34A13261C712350F" ; 
+    cb:phone "215.762.3934" .
+
+<#Lucy-Robinson>
+    cb:name "Lucy Robinson" ; 
+    cb:name "Robinson" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "lfr32@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Robinson_Lucy_9256.ashx?h=133&la=en&w=200&hash=216FCCB9FE1BD39C08D37BF9B67B95BA144436F3" ; 
+    cb:phone "267.359.6221" .
+
+<#John-Rossi>
+    cb:name "John Rossi" ; 
+    cb:name "Rossi" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "jar444@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Rossi.ashx?h=150&la=en&w=139&hash=381ACC43F47C50207D19E7148215895AFC114F04" ; 
+    cb:phone "267.359.6076" .
+
+<#Alexis-Roth>
+    cb:name "Alexis Roth" ; 
+    cb:name "Roth" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "amr395@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Roth.ashx?h=150&la=en&w=140&hash=3312938C56A287D57524A937729ADFF4BC1CAE10" ; 
+    cb:phone "267.359.6123" .
+
+<#Leah-Schinasi>
+    cb:name "Leah Schinasi" ; 
+    cb:name "Schinasi" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Research Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "lhs36@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Leah_Schinasi_140x150.ashx?h=150&la=en&w=140&hash=E856B9E7DDA27A6580D061CAC7D0997FA8134101" ; 
+    cb:phone "267.359.6134" .
+
+<#Randall-Sell>
+    cb:name "Randall Sell" ; 
+    cb:name "Sell" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "Randy@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Sell.ashx?h=150&la=en&w=140&hash=90AD3E69FE4C782D65AD86962C794703747B0864" ; 
+    cb:phone "267.359.6095" .
+
+<#Paul-Shattuck>
+    cb:name "Paul Shattuck" ; 
+    cb:name "Shattuck" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "pts33@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Shattuck.ashx?h=150&la=en&w=140&hash=CF0D892874DD4792CE5CD2FB1C90B2D6FD8D60F8" ; 
+    cb:phone "215.571.3400" .
+
+<#David-Smith>
+    cb:name "David Smith" ; 
+    cb:name "Smith" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "dbs36@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Smith.ashx?h=150&la=en&w=140&hash=C65A299907B9FABEF125E15E96EF6A8B53DF239C" ; 
+    cb:phone "267.359.6029" .
+
+<#Suruchi-Sood>
+    cb:name "Suruchi Sood" ; 
+    cb:name "Sood" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "ss3724@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Sood.ashx?h=150&la=en&w=140&hash=02E87B3789DF6B1333C1F52D6F0125716D227B70" ; 
+    cb:phone "267.359.6096" .
+
+<#Mark-Stehr>
+    cb:name "Mark Stehr" ; 
+    cb:name "Stehr" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Health Management and Policy" ; 
+    cb:email "stehr@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/hmp/stehr.ashx?h=305&la=en&w=357&hash=C4C467C6285FB402781A81CFBDBC2BA0FC9F180D" ; 
+    cb:phone "215.895.0554" .
+
+<#Thersa-Sweet>
+    cb:name "Thersa Sweet" ; 
+    cb:name "Sweet" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "ts36@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Thersa Sweet.ashx?h=188&la=en&w=150&hash=CFCB8C549E2B583524431B1184F87B98079B6277" ; 
+    cb:phone "267.359.6215" .
+
+<#Jennifer-Taylor>
+    cb:name "Jennifer Taylor" ; 
+    cb:name "Taylor" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Environmental and Occupational Health" ; 
+    cb:email "jat65@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Taylor.ashx?h=150&la=en&w=140&hash=E4ADAB49D2710729AFEEE047C6EBC274C1A935E9" ; 
+    cb:phone "267.359.6060" .
+
+<#Renee-Turchi>
+    cb:name "Renee Turchi" ; 
+    cb:name "Turchi" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "Renee.Turchi@DrexelMed.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Turchi.ashx?h=150&la=en&w=140&hash=DD97D1EDADDA92502ED5E549AFF27F7274DBA797" ; 
+    cb:phone "267.359.6051" .
+
+<#Augusta-Villanueva>
+    cb:name "Augusta Villanueva" ; 
+    cb:name "Villanueva" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "av28@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Villanueva.ashx?h=150&la=en&w=140&hash=2372347ACEDC88CE1136FB63DD855F5161EC5308" ; 
+    cb:phone "267.359.6082" .
+
+<#Seth-Welles>
+    cb:name "Seth Welles" ; 
+    cb:name "Welles" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "slw58@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Welles.ashx?h=150&la=en&w=140&hash=BEC2DACB35482C467D21B0E45D79415347534483" ; 
+    cb:phone "267.359.6203" .
+
+<#Michael-Yudell>
+    cb:name "Michael Yudell" ; 
+    cb:name "Yudell" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor and Chair, Community Health and Prevention" ; 
+    cb:department "Community Health and Prevention" ; 
+    cb:email "myudell@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Michael_Yudell_140x150.ashx?h=150&la=en&w=140&hash=9D7E6A18CC1C7321CA72C9DCDDB090FA85B95EC8" ; 
+    cb:phone "267.359.6084" .
+
+<#Issa-Zakeri>
+    cb:name "Issa Zakeri" ; 
+    cb:name "Zakeri" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:department "Epidemiology and Biostatistics" ; 
+    cb:email "issa.f.zakeri@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/dornsife/academics/Faculty Headshots/Zakeri.ashx?h=150&la=en&w=140&hash=C9311005355048313E80F9DDFB9AA304E9D8E402" ; 
+    cb:phone "267.359.6220" .
+

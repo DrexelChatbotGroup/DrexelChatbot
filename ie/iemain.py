@@ -55,6 +55,7 @@ def _main(argv):
     agents.append(soe_ieagent.SoeIEAgent())
     '''
     agents.append(hsm_ieagent.HsmIEAgent())
+    agents.append(dornsife_ieagent.DornsifeIEAgent())
 
     ttl_files = []
     for agent in agents:
