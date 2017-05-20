@@ -16,8 +16,6 @@ LawCore - http://drexel.edu/law/faculty/fulltime_fac/
 Nursing - http://www.drexel.edu/cnhp/faculty/profiles/
 Goodwin - http://drexel.edu/goodwin/about/directory/
 Medicine - http://www.drexel.edu/medicine/Faculty/Profiles/
-
-These remvain to be completed:
 EngMgmt - http://drexel.edu/engmgmt/contact/faculty/
 Hsm - http://drexel.edu/hsm/about/faculty/
 Dornsife - http://drexel.edu/dornsife/academics/faculty/

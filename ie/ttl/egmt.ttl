@@ -1,0 +1,189 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#James-Breen>
+    cb:name "James Breen" ; 
+    cb:name "Breen" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "jab66@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/James%20Breen/" .
+
+<#James-Deiner>
+    cb:name "James Deiner" ; 
+    cb:name "Deiner" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "jcd48@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/James%20Deiner/" .
+
+<#John-Fekete>
+    cb:name "John Fekete" ; 
+    cb:name "Fekete" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "jaf36@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/John%20Fekete/" .
+
+<#Kevin-Gazzara>
+    cb:name "Kevin Gazzara" ; 
+    cb:name "Gazzara" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "kdg42@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Kevin%20Gazzara/" .
+
+<#Adriana-Matos>
+    cb:name "Adriana Gil Matos" ; 
+    cb:name "Matos" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "amg377@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Adriana%20Gil%20Matos/" .
+
+<#Richard-Grandrino>
+    cb:name "Richard Grandrino" ; 
+    cb:name "Grandrino" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Faculty" ; 
+    cb:email "rag28@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Richard%20Grandrino/" .
+
+<#Rob-Lazzaro>
+    cb:name "Rob Lazzaro" ; 
+    cb:name "Lazzaro" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "robert.samuel.lazzaro@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Rob%20Lazzaro/" .
+
+<#James-Lill>
+    cb:name "James Lill" ; 
+    cb:name "Lill" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "jkl32@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/James%20Lill/" .
+
+<#Carole-Mablekos>
+    cb:name "Carole Mablekos" ; 
+    cb:name "Mablekos" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "mablekcm@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Carole%20Mablekos/" .
+
+<#Joseph-Martin>
+    cb:name "Joseph Martin" ; 
+    cb:name "Martin" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "martinjp@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Joseph%20Martin/" ; 
+    cb:phone "215-895-2363" .
+
+<#Stephen-Mastro>
+    cb:name "Stephen Mastro" ; 
+    cb:name "Mastro" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "sam25@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Stephen%20Mastro/" .
+
+<#Milena-McCall>
+    cb:name "Milena McCall" ; 
+    cb:name "McCall" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "mm568@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Milena%20McCall/" .
+
+<#Miray-Pereira>
+    cb:name "Miray Pereira" ; 
+    cb:name "Pereira" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "miray.s.pereira@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Miray%20Pereira/" .
+
+<#Fredric-Plotnick>
+    cb:name "Fredric Plotnick" ; 
+    cb:name "Plotnick" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "plotnifl@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Fredric%20Plotnick/" .
+
+<#Curtis-Pontz>
+    cb:name "Curtis Pontz" ; 
+    cb:name "Pontz" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "cmp52@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Curtis%20Pontz/" .
+
+<#Michael-Scheuermann>
+    cb:name "Michael Scheuermann" ; 
+    cb:name "Scheuermann" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "mikes@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Michael%20Scheuermann/" .
+
+<#Chris-Shaeffer>
+    cb:name "Chris Shaeffer" ; 
+    cb:name "Shaeffer" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "cps22@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Chris%20Shaeffer/" .
+
+<#Stephen-Smith>
+    cb:name "Stephen Smith" ; 
+    cb:name "Smith" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "smithsv@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Stephen%20Smith/" .
+
+<#Walter-Sobkiw>
+    cb:name "Walter Sobkiw" ; 
+    cb:name "Sobkiw" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "ws328@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Walter%20Sobkiw/" .
+
+<#Fernando-Tovia>
+    cb:name "Fernando Tovia" ; 
+    cb:name "Tovia" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "tf98@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Fernando%20Tovia/" .
+
+<#John-Via>
+    cb:name "John Via" ; 
+    cb:name "Via" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Dean of Administrative and Technical Operations, Teaching Professor and Department Head of Engineering Management" ; 
+    cb:email "jwv28@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/John%20Via/" ; 
+    cb:phone "215-571-4082" .
+
+<#Ernest-Weiler>
+    cb:name "Ernest Weiler" ; 
+    cb:name "Weiler" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "edw25@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/Ernest%20Weiler/" .
+
+<#John-Zolan>
+    cb:name "John Zolan" ; 
+    cb:name "Zolan" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Faculty" ; 
+    cb:email "jjz27@drexel.edu" ; 
+    cb:website "http://www.drexel.edu/engmgmt/egmt/contact/faculty/John%20Zolan/" .
+
