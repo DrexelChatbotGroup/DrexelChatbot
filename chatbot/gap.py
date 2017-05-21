@@ -1,6 +1,6 @@
 import re
-from errors import BadQuestionException
-from errors import BadAnswerException
+from chatbot.errors import BadQuestionException
+from chatbot.errors import BadAnswerException
 import sys
 import logging
 
@@ -78,6 +78,8 @@ class GenericAnswerPopulation:
             endTimeReplacement = day+'EndTime'
             self.query = self.query.replace("startTime", startTimeReplacement)
             self.query = self.query.replace("endTime", endTimeReplacement)
+            self.genericAnswer = self.genericAnswer.replace("startTime", startTimeReplacement)
+            self.genericAnswer = self.genericAnswer.replace("endTime", endTimeReplacement)
 
         for key in var_list:
             if not (key in dictionary):
