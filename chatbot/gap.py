@@ -13,15 +13,15 @@ class GenericAnswerPopulation:
     def populate(self, gqc_dictionary):
         logging.debug("Running Generic Answer Population...")
         self.__populateQuery(gqc_dictionary)
-        ans_dictionary = self.__queryDatabase()
+        ans_dictionary = self.__queryDatabase(gqc_dictionary)
         combinedDictionary = self.__combineDictionary(gqc_dictionary, ans_dictionary)
         answer = self.__populateFromDictionary(combinedDictionary)
         return answer
 
-    def __queryDatabase(self):
+    def __queryDatabase(self, dictionary):
         if(self.query == "null"):
             logging.debug("query was null")
-            raise BadQuestionException()
+            raise BadAnswerException(self.db, dictionary)
         ans_dictionary = self.db.query(self.query)
         logging.debug("queried answer dictionary: " + str(ans_dictionary))
         if(len(ans_dictionary) == 0):
@@ -84,6 +84,6 @@ class GenericAnswerPopulation:
         for key in var_list:
             if not (key in dictionary):
                 logging.warning("Error!!! when constructing query from generic query")
-                raise BadQuestionException()
+                raise BadAnswerException(self.db, dictionary)
             self.query = self.query.replace("(" + key + ")", dictionary[key]);
         logging.debug("query populated: " + self.query)
