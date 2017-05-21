@@ -150,21 +150,5 @@ class TestTtl(unittest.TestCase):
         self.assertTrue("address \"\\\"address\\\"\"" in fstr)
         self.assertTrue("room \"room number\"" in fstr)
 
-    def test_lowercase_names(self):
-        ttl_fe = TtlFileEntry()
-        ttl_fe.name = "NAME\n"
-        ttl_fe.altnames = ["Alt Name 1", "Alt Name 2"]
-
-        ttl_fe.write_to(self.ttl)
-        self.ttl.close()
-        
-        f = open (self.filename, 'r')
-        fstr = f.read()
-        f.close()
-        
-        self.assertTrue("name \"name\"" in fstr)
-        self.assertTrue("name \"alt name 1\"" in fstr)
-        self.assertTrue("name \"alt name 2\"" in fstr)
-
 if __name__ == '__main__':
     unittest.main()

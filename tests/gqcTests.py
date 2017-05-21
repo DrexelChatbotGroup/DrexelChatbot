@@ -1,6 +1,6 @@
 import unittest
-from .chatbot.gqc import GenericQuestionConstruction
-from .chatbot.postag import NLTKPOSTag
+from chatbot.gqc import GenericQuestionConstruction
+from chatbot.postag import NLTKPOSTag
 
 class TestGqcMethods(unittest.TestCase):
 
