@@ -1,8 +1,8 @@
-from errors import ErrorHandler
-from errors import ChatbotException 
-import gqc
-import liveGac as gac
-import gap
+from chatbot.errors import ErrorHandler
+from chatbot.errors import ChatbotException 
+import chatbot.gqc as gqc
+import chatbot.liveGac as gac
+import chatbot.gap as gap
 from database import stardog
 import sys
 import logging
@@ -15,7 +15,7 @@ def _main(question):
         config = "/home/DrexelChatbot/chatbot/trained_model.m5"
         logfile = "/home/DrexelChatbot/chatbot/chatbot.log"
         
-        logging.basicConfig(filename=logfile, level=logging.INFO)
+        logging.basicConfig(filename=logfile, level=logging.DEBUG)
         logging.info('New call at: ' + time.strftime("%c"))
         logging.info('Recieved input question: ' + question)
 
@@ -31,16 +31,18 @@ def _main(question):
         gap_object = gap.GenericAnswerPopulation(genericanswer, db)
         answer = gap_object.populate(genericquestion.rep_list)
         logging.info('Final answer: ' + answer)
-        logging.info("End: " + time.strftime("%c") + "\n\n")
         
         print(answer)
     
     except ChatbotException as ex:
+        logging.debug("Encountered excption of type " + str(type(ex)))
         ErrorHandler.handle(ex)
 
     except Exception as ex:
         print('Our system encountered some error. Hope our future bosses will not see this.')
         logging.error(ex)
+    
+    logging.info("End: " + time.strftime("%c") + "\n\n")
 
 if __name__ == "__main__":
     _main(sys.argv[1])

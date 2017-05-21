@@ -22,7 +22,7 @@ class GenericQuestionConstruction():
 
         #if database does not have information about nouns in the question, stop 
         if len(rep_list) == 0:
-            logging.warning("rep_list size 0, throwing exception")
+            logging.warning("rep_list size 0, throwing BadQuestionException")
             raise BadQuestionException()
 
         #replace nouns with their genericRepresentations
@@ -63,7 +63,7 @@ class GenericQuestionConstruction():
                         else:
                             count = count - 1
                             break
-                noun_list.append(noun)
+                noun_list.append(noun.title())
                 logging.debug("count: %s - noun: %s" % (str(count), noun))
             count = count + 1
         rep_list = {}
