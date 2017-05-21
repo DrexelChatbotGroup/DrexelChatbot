@@ -1,6 +1,6 @@
-from postag import NLTKPOSTag
-from genericquestion import GenericQuestion
-from errors import BadQuestionException
+from chatbot.postag import NLTKPOSTag
+from chatbot.genericquestion import GenericQuestion
+from chatbot.errors import BadQuestionException
 import logging
 import re
 
