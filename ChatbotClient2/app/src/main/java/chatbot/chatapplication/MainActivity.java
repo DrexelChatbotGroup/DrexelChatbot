@@ -39,6 +39,7 @@ public class MainActivity extends Activity {
     private boolean send = true;
     private boolean rec = false;
     private GoogleApiClient client;
+    private String ip = "http://129.25.4.145";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -137,7 +138,7 @@ public class MainActivity extends Activity {
             if (message != null && !message.equals("")) {
                 try {
                     String encodedUrl = URLEncoder.encode(message, "UTF-8");
-                    URL url = new URL("http://10.246.251.67:8080/chatbot/api?query="+encodedUrl);
+                    URL url = new URL(ip+":8080/chatbot/api?query="+encodedUrl);
                     System.out.println(url.toString());
                     InputStream is = url.openStream();
                     Reader reader = new InputStreamReader(is);
