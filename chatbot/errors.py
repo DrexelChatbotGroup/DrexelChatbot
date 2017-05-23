@@ -9,7 +9,7 @@ class ErrorHandler():
             for key in ex.dictionary.keys():
                 new_query = query.replace("(target)", ex.dictionary[key])
                 returned_dict = ex.db.query(new_query)
-                if returned_dict is not None:
+                if returned_dict is not None and 'website' in returned_dict:
                     website = returned_dict['website']
                     print("Sorry I don't have an answer for that. But I found ", ex.dictionary[key], "'s website: ", '<a href="', website, '">', website, '</a>')
                 else:
