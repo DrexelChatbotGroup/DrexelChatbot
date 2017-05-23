@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.twilio.Twilio;
-import com.twilio.http.TwilioRestClient;
 import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.type.PhoneNumber;
 
@@ -70,7 +69,7 @@ public class ApplicationController {
 	}
 
 	@RequestMapping(value = "/chatbot/api", method = RequestMethod.POST)
-	public void sms(HttpServletRequest request, HttpServletResponse response) {
+	public String sms(HttpServletRequest request, HttpServletResponse response) {
 		Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
 		String query = request.getParameter("Body");
 		String sender = request.getParameter("From");
@@ -111,6 +110,7 @@ public class ApplicationController {
 				e.printStackTrace();
 			}
 		}
+		return "";
 	}
 
 }
