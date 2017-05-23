@@ -76,7 +76,7 @@ public class ApplicationController {
 		String sender = request.getParameter("From");
 		String rec = request.getParameter("To");
 		System.out.println("Sender: " + sender + "\tRec: " + rec + "\tQuery: " +query);
-		if(query != null && "".equals(query)){
+		if(query != null && !"".equals(query)){
 			Process cmdProc = null;
 			String line = null;
 			String ret = "";
