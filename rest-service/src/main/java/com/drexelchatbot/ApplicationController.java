@@ -63,7 +63,7 @@ public class ApplicationController {
 
 		log.info("Returning for query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
 		if (ret.equals("")) {
-			ret = "I'm sorry, I was unable to porcess your request.";
+			//ret = "I'm sorry, I was unable to process your request.";
 		}
 		return new QueryResponse(ret);
 	}
