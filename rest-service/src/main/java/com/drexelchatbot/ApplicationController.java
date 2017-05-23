@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
 import org.apache.log4j.Logger;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,6 +15,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ApplicationController {
+
+	public static final String ACCOUNT_SID = "ACd4b939c41705228c35abfaf56956e9a3";
+	public static final String AUTH_TOKEN = "d4a1f04caafb661295ae646e2a1471e8";
+
 	Logger log = Logger.getLogger(ApplicationController.class);
 
 	@RequestMapping(value = "/chatbot/api", method = RequestMethod.GET)
@@ -53,10 +58,15 @@ public class ApplicationController {
 		}
 
 		log.info("Returning for query: '" + query + "'" + " from remote IP " + request.getRemoteAddr());
-		if(ret.equals("")){
+		if (ret.equals("")) {
 			ret = "I'm sorry, I was unable to porcess your request.";
 		}
 		return new QueryResponse(ret);
+	}
+
+	@RequestMapping(value = "/chatbot/api", method = RequestMethod.POST)
+	public void sms(HttpServletRequest request, HttpServletResponse response) {
+		System.out.println(request.getParameter("body"));
 	}
 
 }
