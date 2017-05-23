@@ -96,7 +96,7 @@ class GenericQuestionConstruction():
 
         #resolve special cases
         #replace substrings represent weekday with Day
-        weekdays = re.findall(r"([Mm]on|[Tt]ues|[Ww]ed|[Tt]hurs|[Ff]ri|[Ss]atur|[Ss]un)day", self.question)
+        weekdays = re.findall(r"([Mm]on|[Tt]ues|[Ww]ednes|[Tt]hurs|[Ff]ri|[Ss]atur|[Ss]un)day", self.question)
         if weekdays:
             for weekday in weekdays:
                 rep_list['Day'] = weekday
