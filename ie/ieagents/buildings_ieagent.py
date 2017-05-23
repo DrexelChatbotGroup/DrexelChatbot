@@ -26,6 +26,8 @@ class BuildingsIEAgent(IEAgent):
 
                 names = row["Name"]
                 names = names.split(';')
+                names = names + self.filter_common_names(names)
+
                 building.name = names[0]
                 building.altnames = names[1:]
                 if(row["Code"]):
@@ -56,3 +58,15 @@ class BuildingsIEAgent(IEAgent):
     
             ttl_file.close()
             return ttl_file
+
+    def filter_common_names(self, names):
+        common_words = ["Building", "Hall"]
+        new_names = []
+    
+        for n in names:
+            words = n.split()
+            last_word = words[len(words)-1]
+            if last_word in common_words:
+                new_names.append(n[:-len(last_word)])
+
+        return new_names

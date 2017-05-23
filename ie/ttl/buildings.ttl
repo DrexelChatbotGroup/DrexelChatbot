@@ -49,6 +49,7 @@
 <#Bossone-Center>
     cb:name "Bossone Research Enterprise Center" ; 
     cb:name "School of Biomedical Engineering Science and Health Systems" ; 
+    cb:name "Bossone" ; 
     cb:name "BSONE" ; 
     cb:name "Bsone" ; 
     cb:property "building" ; 
@@ -115,6 +116,7 @@
 
 <#Curtis-Hall>
     cb:name "Curtis Hall" ; 
+    cb:name "Curtis" ; 
     cb:name "CURTIS" ; 
     cb:name "Curtis" ; 
     cb:property "building" ; 
@@ -137,6 +139,7 @@
 
 <#Disque-Hall>
     cb:name "Disque Hall" ; 
+    cb:name "Disque" ; 
     cb:name "DISQUE" ; 
     cb:name "Disque" ; 
     cb:property "building" ; 
@@ -338,6 +341,7 @@
     cb:name "College of Law Building" ; 
     cb:name "Kline Law Building and Library" ; 
     cb:name "Kline School of Law" ; 
+    cb:name "College of Law" ; 
     cb:name "LAWBDG" ; 
     cb:name "Lawbdg" ; 
     cb:property "building" ; 
@@ -389,6 +393,7 @@
     cb:name "College of Arts and Sciences" ; 
     cb:name "Pennoni Honors College" ; 
     cb:name "Educational Activiites Center" ; 
+    cb:name "MacAlister" ; 
     cb:name "MACALS" ; 
     cb:name "Macals" ; 
     cb:property "building" ; 
@@ -412,6 +417,7 @@
 
 <#Main-Building>
     cb:name "Main Building" ; 
+    cb:name "Main" ; 
     cb:name "MAIN" ; 
     cb:name "Main" ; 
     cb:property "building" ; 
@@ -460,6 +466,8 @@
 <#Nesbitt-Hall>
     cb:name "Nesbitt Hall" ; 
     cb:name "Dornsife School of Public Health" ; 
+    cb:name "Nesbitt" ; 
+    cb:name "Nesbitt" ; 
     cb:name "NSBITT" ; 
     cb:name "Nsbitt" ; 
     cb:property "building" ; 
@@ -510,6 +518,8 @@
     cb:name "Constantine N. Papadakis Integrated Sciences Building" ; 
     cb:name "Papadakis Integrated Sciences Building" ; 
     cb:name "Papadakis" ; 
+    cb:name "Constantine N. Papadakis Integrated Sciences" ; 
+    cb:name "Papadakis Integrated Sciences" ; 
     cb:name "PISB" ; 
     cb:name "Pisb" ; 
     cb:property "building" ; 
@@ -537,6 +547,7 @@
     cb:name "PSA Building" ; 
     cb:name "Psych-Soc-Anthro" ; 
     cb:name "PSA" ; 
+    cb:name "PSA" ; 
     cb:name "Psa" ; 
     cb:property "building" ; 
     cb:department "Research" ; 
@@ -559,6 +570,8 @@
 <#Paul-Building>
     cb:name "Paul Peck Problem Solving and Research Building" ; 
     cb:name "Academic Building" ; 
+    cb:name "Paul Peck Problem Solving and Research" ; 
+    cb:name "Academic" ; 
     cb:name "PSRC" ; 
     cb:name "Psrc" ; 
     cb:property "building" ; 
@@ -581,6 +594,7 @@
 
 <#Randell-Hall>
     cb:name "Randell Hall" ; 
+    cb:name "Randell" ; 
     cb:name "RANDEL" ; 
     cb:name "Randel" ; 
     cb:property "building" ; 
@@ -605,6 +619,8 @@
     cb:name "Rush Building" ; 
     cb:name "College of Computing & Informatics" ; 
     cb:name "CCI Building" ; 
+    cb:name "Rush" ; 
+    cb:name "CCI" ; 
     cb:name "RUSH" ; 
     cb:name "Rush" ; 
     cb:property "building" ; 
@@ -629,6 +645,7 @@
 
 <#Stratton-Hall>
     cb:name "Stratton Hall" ; 
+    cb:name "Stratton" ; 
     cb:name "STRATN" ; 
     cb:name "Stratn" ; 
     cb:property "building" ; 
@@ -651,6 +668,7 @@
 
 <#University-Crossings>
     cb:name "University Crossings" ; 
+    cb:name "Clc" ; 
     cb:name "UCROSS" ; 
     cb:name "Ucross" ; 
     cb:property "building" ; 
@@ -749,12 +767,14 @@
     cb:name "General Services and Parking" ; 
     cb:name "General Services" ; 
     cb:name "General Services Building" ; 
+    cb:name "General Services" ; 
     cb:property "building" ; 
     cb:department "Administration; Parking" ; 
     cb:address "3141 Chestnut St" .
 
 <#Van-Hall>
     cb:name "Van Rensselaer Hall" ; 
+    cb:name "Van Rensselaer" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "3320 Powelton Avenue" .
@@ -769,18 +789,21 @@
 
 <#Kelly-Hall>
     cb:name "Kelly Hall" ; 
+    cb:name "Kelly" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "203 N 34th St" .
 
 <#Calhoun-Hall>
     cb:name "Calhoun Hall" ; 
+    cb:name "Calhoun" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "3301 Arch Street" .
 
 <#Myers-Hall>
     cb:name "Myers Hall" ; 
+    cb:name "Myers" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "3301 Race Street" .
@@ -788,6 +811,7 @@
 <#New-Hall>
     cb:name "New Tower Residence Hall" ; 
     cb:name "Towers" ; 
+    cb:name "New Tower Residence" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "101 N. 34th Street" .
@@ -801,6 +825,8 @@
     cb:name "North Residence Hall" ; 
     cb:name "North Hall" ; 
     cb:name "North" ; 
+    cb:name "North Residence" ; 
+    cb:name "North" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "3200 Race Street" .
@@ -813,6 +839,8 @@
 <#Caneris-Hall>
     cb:name "Caneris Residence Hall" ; 
     cb:name "East Hall" ; 
+    cb:name "Caneris Residence" ; 
+    cb:name "East" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "115 N 32nd St" .
@@ -842,6 +870,7 @@
     cb:name "Race Street Residences" ; 
     cb:name "Race Hall" ; 
     cb:name "Race" ; 
+    cb:name "Race" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "3300 Race Street" .
@@ -858,6 +887,7 @@
 
 <#Millennium-Hall>
     cb:name "Millennium Hall" ; 
+    cb:name "Millennium" ; 
     cb:property "building" ; 
     cb:department "Dormitory" ; 
     cb:address "223 N. 34th Street" .
@@ -1052,6 +1082,7 @@
     cb:name "Handschumacher Dining Center" ; 
     cb:name "Handschumacher" ; 
     cb:name "Hans" ; 
+    cb:name "Handschumacher Dining" ; 
     cb:property "building" ; 
     cb:department "Student Services" ; 
     cb:address "3201 Chestnut St" ; 
@@ -1082,6 +1113,7 @@
 <#Security-Building>
     cb:name "Security Building" ; 
     cb:name "Public Safety Office" ; 
+    cb:name "Security" ; 
     cb:property "building" ; 
     cb:department "Support Services" ; 
     cb:address "3201 Arch Street Suite 350" ; 
