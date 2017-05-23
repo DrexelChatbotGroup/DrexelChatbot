@@ -1,12 +1,15 @@
 package chatbot.chatapplication;
 
 import android.app.Activity;
+import android.app.ProgressDialog;
+import android.content.Context;
 import android.database.DataSetObserver;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AbsListView;
 import android.widget.Button;
 import android.widget.EditText;
@@ -36,6 +39,7 @@ public class MainActivity extends Activity {
     private boolean send = true;
     private boolean rec = false;
     private GoogleApiClient client;
+    private String ip = "http://129.25.4.145";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -66,7 +70,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        listView.setTranscriptMode(AbsListView.TRANSCRIPT_MODE_ALWAYS_SCROLL);
+       listView.setTranscriptMode(AbsListView.TRANSCRIPT_MODE_ALWAYS_SCROLL);
         listView.setAdapter(chatArrayAdapter);
 
         chatArrayAdapter.registerDataSetObserver(new DataSetObserver() {
@@ -76,6 +80,7 @@ public class MainActivity extends Activity {
                 listView.setSelection(chatArrayAdapter.getCount() - 1);
             }
         });
+
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
@@ -125,22 +130,22 @@ public class MainActivity extends Activity {
     }
 
     private class LongOperation extends AsyncTask<String, Void, String> {
-
+        ProgressDialog progress;
+        String s;
         @Override
         protected String doInBackground(String... params) {
             String message = params[0];
             if (message != null && !message.equals("")) {
                 try {
                     String encodedUrl = URLEncoder.encode(message, "UTF-8");
-                    URL url = new URL("http://10.246.251.67:8080/chatbot/api?query="+encodedUrl);
+                    URL url = new URL(ip+":8080/chatbot/api?query="+encodedUrl);
                     System.out.println(url.toString());
                     InputStream is = url.openStream();
                     Reader reader = new InputStreamReader(is);
                     Gson g = new Gson();
                     Message m = g.fromJson(reader, Message.class);
                     System.out.println(m.getContent());
-                    chatArrayAdapter.add(new ChatMessage(rec, m.getContent()));
-
+                    s = m.getContent();
                 } catch (Exception e) {
 
                 }
@@ -152,10 +157,17 @@ public class MainActivity extends Activity {
         @Override
         protected void onPostExecute(String result) {
             chatArrayAdapter.notifyDataSetChanged();
+            progress.dismiss();
+            chatArrayAdapter.add(new ChatMessage(rec, s));
+            //listView.setAdapter(chatArrayAdapter);
         }
 
         @Override
         protected void onPreExecute() {
+            progress = ProgressDialog.show(MainActivity.this, "Please wait for Drexel Chatbot Response...", "", true);
+
+            //InputMethodManager imm = (InputMethodManager) getSystemService(Activity.INPUT_METHOD_SERVICE);
+            //imm.toggleSoftInput(InputMethodManager.HIDE_IMPLICIT_ONLY, 0);
         }
 
         @Override
