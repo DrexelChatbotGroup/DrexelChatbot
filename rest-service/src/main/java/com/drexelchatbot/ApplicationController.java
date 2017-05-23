@@ -13,6 +13,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.twilio.Twilio;
+import com.twilio.http.TwilioRestClient;
+import com.twilio.rest.api.v2010.account.Message;
+import com.twilio.type.PhoneNumber;
+
 @RestController
 public class ApplicationController {
 
@@ -66,7 +71,46 @@ public class ApplicationController {
 
 	@RequestMapping(value = "/chatbot/api", method = RequestMethod.POST)
 	public void sms(HttpServletRequest request, HttpServletResponse response) {
-		System.out.println(request.getParameter("body"));
+		Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
+		String query = request.getParameter("Body");
+		String sender = request.getParameter("From");
+		String rec = request.getParameter("To");
+		System.out.println("Sender: " + sender + "\tRec: " + rec + "\tQuery: " +query);
+		if(query != null && "".equals(query)){
+			Process cmdProc = null;
+			String line = null;
+			String ret = "";
+			try {
+				cmdProc = Runtime.getRuntime()
+						.exec(new String[] { "python3", "./../chatbot/main.py", "\"" + query + "\"", "2>/dev/null" });
+
+				BufferedReader stdoutReader = new BufferedReader(new InputStreamReader(cmdProc.getInputStream()));
+				while ((line = stdoutReader.readLine()) != null) {
+					// process standard output here
+					System.out.println(line);
+					if (line != null) {
+						ret += line;
+					}
+				}
+
+				BufferedReader stderrReader = new BufferedReader(new InputStreamReader(cmdProc.getErrorStream()));
+				while ((line = stderrReader.readLine()) != null) {
+					// process standard error here
+					// System.err.println(line);
+				}
+				cmdProc.waitFor();
+				int retValue = cmdProc.exitValue();
+				cmdProc.destroy();
+				Message message = Message
+		                .creator(new PhoneNumber(sender),  // to
+		                         new PhoneNumber(rec),  // from
+		                         ret).create();
+				
+			} catch (IOException | InterruptedException e) {
+
+				e.printStackTrace();
+			}
+		}
 	}
 
 }
