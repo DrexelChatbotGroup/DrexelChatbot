@@ -10,7 +10,10 @@ Repository for the DrexelChatbot senior project.
   Shishir Kharel <sk3432@drexel.edu>.
 
 #### Application demo:
-http://10.246.251.67:8080/chatbot
+http://129.25.4.145:8080/chatbot
+
+#### Service sms number 
+2157918946
 
 ##### How to run the Spring Rest Service:
 [Aaron]
