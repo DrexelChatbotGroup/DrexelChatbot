@@ -22,13 +22,13 @@ class GenericQuestionConstruction():
 
         #if database does not have information about nouns in the question, stop 
         if len(rep_list) == 0:
-            logging.warning("rep_list size 0, throwing BadQuestionException")
+            logging.warning("rep_list size 0, throwing exception")
             raise BadQuestionException()
 
         #replace nouns with their genericRepresentations
-        paddedquestion = self.question
+        paddedquestion = self.question.lower()
         for key, value in rep_list.items():
-            paddedquestion = paddedquestion.replace(value, '(' + key + ')')
+            paddedquestion = paddedquestion.replace(value.lower(), '(' + key + ')')
             #capitalise strings with Day representation
             if key == 'Day':
                 rep_list[key] = value.title()
@@ -96,16 +96,16 @@ class GenericQuestionConstruction():
 
         #resolve special cases
         #replace substrings represent weekday with Day
-        weekdays = re.findall(r"([Mm]on|[Tt]ues|[Ww]ednes|[Tt]hurs|[Ff]ri|[Ss]atur|[Ss]un)day", self.question)
+        weekdays = re.findall(r"(mon|tues|wednes|thurs|fri|satur|sun)day", question.lower())
         if weekdays:
             for weekday in weekdays:
-                rep_list['Day'] = weekday
+                rep_list['Day'] = weekday + "day"
 
         #replace substrings contain only 3 or 4 digits with Room
         for pair in self.tag_list:
-            word = pair[0]
-            match = re.search('^\d{3,4}[a-zA-Z]?$', word)
+            match = re.search(r'^\d{3,4}[a-zA-Z]?[\.?]?$', pair[0])
             if match:
-                rep_list['Room'] = word
+                room = match.group().replace('.', '').replace('?', '')
+                rep_list['Room'] = room
 
         return rep_list
