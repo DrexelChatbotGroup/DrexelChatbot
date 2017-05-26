@@ -71,7 +71,7 @@ class GenericAnswerPopulation:
         #checking if no day was provided
         #if no day if provided current day should be used
         if("?startTime" in self.query and 'Day' not in dictionary):
-            dictionary['Day'] = time.strftime("%a")
+            dictionary['Day'] = time.strftime("%A")
             self.genericAnswer = self.genericAnswer.replace("on (Day)", "today")
 
         #checking for days in the dictionary and replacing the query
