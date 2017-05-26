@@ -3,6 +3,7 @@ from chatbot.errors import BadQuestionException
 from chatbot.errors import BadAnswerException
 import sys
 import logging
+import time
 
 class GenericAnswerPopulation:
     def __init__(self, _genericAnswer, db):
@@ -70,6 +71,12 @@ class GenericAnswerPopulation:
         #remove this line when the days are sent correctly
         dayDictionary = {'Sun':'s', 'Mon':'m', 'Tues':'t', 'Wed':'w', 'Thurs':'th', 'Fri':'f',
                          'Satur':'sa', 'Sun':'su'}
+
+        #checking if no day was provided
+        #if no day if provided current day should be used
+        if("?startTime" in self.query and 'Day' not in dictionary):
+            dictionary['Day'] = time.strftime("%a")
+            self.genericAnswer = self.genericAnswer.replace("on (Day)day", "today")
 
         #checking for days in the dictionary and replacing the query
         if('Day' in dictionary):

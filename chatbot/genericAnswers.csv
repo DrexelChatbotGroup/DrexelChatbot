@@ -12,8 +12,8 @@
 11,(faculty)'s phone number is (phone).,prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(faculty)" . ?s cb:phone ?phone }
 12,Here are some a (faculty)'s most recent publications: (publications).,prefix cb: <http://drexelchatbot.com/rdf/> select ?publications where { ?s cb:name "(faculty)" . ?s cb:publications ?publications }
 13,The address of (building) is (address).,prefix cb: <http://drexelchatbot.com/rdf/> select ?address where { ?s cb:name "(building)" . ?s cb:address ?address}
-14,(building) opens at (startTime).,prefix cb: <http://drexelchatbot.com/rdf/> select ?startTime where { ?s cb:name "(building)" . ?s cb:startTime ?startTime }
-15,(building) closes at (endTime).,prefix cb: <http://drexelchatbot.com/rdf/> select ?endTime where { ?s cb:name "(building)" . ?s cb:endTime ?endTime}
+14,(building) opens at (startTime) on (Day)day.,prefix cb: <http://drexelchatbot.com/rdf/> select ?startTime where { ?s cb:name "(building)" . ?s cb:startTime ?startTime }
+15,(building) closes at (endTime) on (Day)day.,prefix cb: <http://drexelchatbot.com/rdf/> select ?endTime where { ?s cb:name "(building)" . ?s cb:endTime ?endTime}
 16,(building)'s website is (website).,prefix cb: <http://drexelchatbot.com/rdf/> select ?website where { ?s cb:name "(website)" . ?s cb:website ?website}
 17,(building) phone number is (phone).,prefix cb: <http://drexelchatbot.com/rdf/> select ?phone where { ?s cb:name "(building)" . ?s cb:phone ?phone}
 18,Here is a picture of (building): (picture).,prefix cb: <http://drexelchatbot.com/rdf/> select ?picture where { ?s cb:name "(building)" . ?s cb:picture ?picture}
