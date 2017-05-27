@@ -100,6 +100,14 @@ function sendMessage() {
 		method: 'GET',
 		success:function(a){
 			console.log(a);
+			var exp = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
+			if(a.content.includes("is an image of")){
+      			a.content = a.content.replace(exp,"<img src='$1'></img>");
+      			console.log(a.content); 
+			} else if(!a.content.includes("is an image of")) {
+				a.content = a.content.replace(exp,"<a href='$1'>Link</a>"); 
+				console.log(a.content); 
+			}
 			$('.message.loading').remove();
    			$('<div class="message new"><figure class="avatar"><img src="../drexel.png" /></figure>' + a.content.replace("null", "") + '</div>').appendTo($('.mCSB_container')).addClass('new');
     		setDate();
