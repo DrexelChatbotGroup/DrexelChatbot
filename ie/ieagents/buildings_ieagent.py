@@ -49,7 +49,7 @@ class BuildingsIEAgent(IEAgent):
                 building.mEndTime = row["MEndTime"]
                 building.tEndTime = row["TEndTime"]
                 building.wEndTime = row["WEndTime"]
-                building.thEndTime = row["THEndTime"]
+                building.thEndTime = row["ThEndTime"]
                 building.fEndTime = row["FEndTime"]
                 building.saEndTime = row["SaEndTime"]
                 building.suEndTime = row["SuEndTime"]

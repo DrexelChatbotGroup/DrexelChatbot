@@ -178,15 +178,15 @@
     cb:wStartTime "5:30 a.m." ; 
     cb:thStartTime "5:30 a.m." ; 
     cb:fStartTime "5:30 a.m." ; 
-    cb:saStartTime "5:30 a.m." ; 
-    cb:suStartTime "5:30 a.m." ; 
+    cb:saStartTime "8:00 a.m." ; 
+    cb:suStartTime "10:00 a.m." ; 
     cb:mEndTime "12:00 a.m." ; 
     cb:tEndTime "12:00 a.m." ; 
     cb:wEndTime "12:00 a.m." ; 
     cb:thEndTime "12:00 a.m." ; 
-    cb:fEndTime "12:00 a.m." ; 
-    cb:saEndTime "12:00 a.m." ; 
-    cb:suEndTime "12:00 a.m." .
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
 
 <#One-Plaza>
     cb:name "One Drexel Plaza" ; 
@@ -253,14 +253,14 @@
     cb:wStartTime "7:30 a.m." ; 
     cb:thStartTime "7:30 a.m." ; 
     cb:fStartTime "7:30 a.m." ; 
-    cb:saStartTime "7:30 a.m." ; 
-    cb:suStartTime "7:30 a.m." ; 
+    cb:saStartTime "10:00 a.m." ; 
+    cb:suStartTime "10:00 a.m." ; 
     cb:mEndTime "10:00 p.m." ; 
     cb:tEndTime "10:00 p.m." ; 
     cb:wEndTime "10:00 p.m." ; 
     cb:thEndTime "10:00 p.m." ; 
-    cb:fEndTime "10:00 p.m." ; 
-    cb:saEndTime "10:00 p.m." ; 
+    cb:fEndTime "5:00 p.m." ; 
+    cb:saEndTime "5:00 p.m." ; 
     cb:suEndTime "10:00 p.m." .
 
 <#James-Center>
@@ -280,15 +280,11 @@
     cb:wStartTime "8 a.m." ; 
     cb:thStartTime "8 a.m." ; 
     cb:fStartTime "8 a.m." ; 
-    cb:saStartTime "8 a.m." ; 
-    cb:suStartTime "8 a.m." ; 
     cb:mEndTime "5 p.m." ; 
     cb:tEndTime "5 p.m." ; 
     cb:wEndTime "5 p.m." ; 
     cb:thEndTime "5 p.m." ; 
-    cb:fEndTime "5 p.m." ; 
-    cb:saEndTime "5 p.m." ; 
-    cb:suEndTime "5 p.m." .
+    cb:fEndTime "5 p.m." .
 
 <#Korman-Center>
     cb:name "Korman Center" ; 
@@ -303,8 +299,8 @@
     cb:wStartTime "7:30 a.m." ; 
     cb:thStartTime "7:30 a.m." ; 
     cb:fStartTime "7:30 a.m." ; 
-    cb:saStartTime "7:30 a.m." ; 
-    cb:suStartTime "7:30 a.m." ; 
+    cb:saStartTime "10:00 a.m." ; 
+    cb:suStartTime "7:00 a.m." ; 
     cb:mEndTime "9:00 p.m." ; 
     cb:tEndTime "9:00 p.m." ; 
     cb:wEndTime "9:00 p.m." ; 
@@ -633,15 +629,15 @@
     cb:wStartTime "7:30 a.m." ; 
     cb:thStartTime "7:30 a.m." ; 
     cb:fStartTime "7:30 a.m." ; 
-    cb:saStartTime "7:30 a.m." ; 
-    cb:suStartTime "7:30 a.m." ; 
+    cb:saStartTime "8 a.m." ; 
+    cb:suStartTime "12 a.m." ; 
     cb:mEndTime "9:30 p.m." ; 
     cb:tEndTime "9:30 p.m." ; 
     cb:wEndTime "9:30 p.m." ; 
     cb:thEndTime "9:30 p.m." ; 
     cb:fEndTime "9:30 p.m." ; 
-    cb:saEndTime "9:30 p.m." ; 
-    cb:suEndTime "9:30 p.m." .
+    cb:saEndTime "6:00 p.m." ; 
+    cb:suEndTime "5:00 p.m." .
 
 <#Stratton-Hall>
     cb:name "Stratton Hall" ; 
@@ -730,15 +726,15 @@
     cb:wStartTime "7:00 a.m" ; 
     cb:thStartTime "7:00 a.m" ; 
     cb:fStartTime "7:00 a.m" ; 
-    cb:saStartTime "7:00 a.m" ; 
-    cb:suStartTime "7:00 a.m" ; 
+    cb:saStartTime "10:00 a.m" ; 
+    cb:suStartTime "3:00 p.m" ; 
     cb:mEndTime "10:00 p.m." ; 
     cb:tEndTime "10:00 p.m." ; 
     cb:wEndTime "10:00 p.m." ; 
     cb:thEndTime "10:00 p.m." ; 
-    cb:fEndTime "10:00 p.m." ; 
-    cb:saEndTime "10:00 p.m." ; 
-    cb:suEndTime "10:00 p.m." .
+    cb:fEndTime "7:00 p.m." ; 
+    cb:saEndTime "8:00 p.m." ; 
+    cb:suEndTime "9:00 p.m." .
 
 <#Daskalakis-Center>
     cb:name "Daskalakis Athletic Center" ; 
@@ -753,15 +749,15 @@
     cb:wStartTime "5:30 a.m." ; 
     cb:thStartTime "5:30 a.m." ; 
     cb:fStartTime "5:30 a.m." ; 
-    cb:saStartTime "5:30 a.m." ; 
-    cb:suStartTime "5:30 a.m." ; 
+    cb:saStartTime "8:00 a.m." ; 
+    cb:suStartTime "10:00 a.m." ; 
     cb:mEndTime "12:00 a.m." ; 
     cb:tEndTime "12:00 a.m." ; 
     cb:wEndTime "12:00 a.m." ; 
     cb:thEndTime "12:00 a.m." ; 
-    cb:fEndTime "12:00 a.m." ; 
-    cb:saEndTime "12:00 a.m." ; 
-    cb:suEndTime "12:00 a.m." .
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
 
 <#General-Parking>
     cb:name "General Services and Parking" ; 
@@ -856,15 +852,15 @@
     cb:wStartTime "4:00 p.m." ; 
     cb:thStartTime "4:00 p.m." ; 
     cb:fStartTime "4:00 p.m." ; 
-    cb:saStartTime "4:00 p.m." ; 
-    cb:suStartTime "4:00 p.m." ; 
+    cb:saStartTime "12:00 p.m." ; 
+    cb:suStartTime "12:00 p.m." ; 
     cb:mEndTime "11:00 p.m." ; 
     cb:tEndTime "11:00 p.m." ; 
     cb:wEndTime "11:00 p.m." ; 
     cb:thEndTime "11:00 p.m." ; 
-    cb:fEndTime "11:00 p.m." ; 
-    cb:saEndTime "11:00 p.m." ; 
-    cb:suEndTime "11:00 p.m." .
+    cb:fEndTime "8:00 p.m." ; 
+    cb:saEndTime "6:00 p.m." ; 
+    cb:suEndTime "8:00 p.m." .
 
 <#Race-Residences>
     cb:name "Race Street Residences" ; 
@@ -973,15 +969,15 @@
     cb:wStartTime "5:30 a.m." ; 
     cb:thStartTime "5:30 a.m." ; 
     cb:fStartTime "5:30 a.m." ; 
-    cb:saStartTime "5:30 a.m." ; 
-    cb:suStartTime "5:30 a.m." ; 
+    cb:saStartTime "8:00 a.m." ; 
+    cb:suStartTime "10:00 a.m." ; 
     cb:mEndTime "12:00 a.m." ; 
     cb:tEndTime "12:00 a.m." ; 
     cb:wEndTime "12:00 a.m." ; 
     cb:thEndTime "12:00 a.m." ; 
-    cb:fEndTime "12:00 a.m." ; 
-    cb:saEndTime "12:00 a.m." ; 
-    cb:suEndTime "12:00 a.m." .
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
 
 <#Perelman-Life>
     cb:name "Perelman Center for Jewish Life" ; 
@@ -1015,15 +1011,15 @@
     cb:wStartTime "5:30 a.m." ; 
     cb:thStartTime "5:30 a.m." ; 
     cb:fStartTime "5:30 a.m." ; 
-    cb:saStartTime "5:30 a.m." ; 
-    cb:suStartTime "5:30 a.m." ; 
+    cb:saStartTime "8:00 a.m." ; 
+    cb:suStartTime "10:00 a.m." ; 
     cb:mEndTime "12:00 a.m." ; 
     cb:tEndTime "12:00 a.m." ; 
     cb:wEndTime "12:00 a.m." ; 
     cb:thEndTime "12:00 a.m." ; 
-    cb:fEndTime "12:00 a.m." ; 
-    cb:saEndTime "12:00 a.m." ; 
-    cb:suEndTime "12:00 a.m." .
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
 
 <#Buckley-Green>
     cb:name "Buckley Green" ; 
@@ -1036,15 +1032,15 @@
     cb:wStartTime "5:30 a.m." ; 
     cb:thStartTime "5:30 a.m." ; 
     cb:fStartTime "5:30 a.m." ; 
-    cb:saStartTime "5:30 a.m." ; 
-    cb:suStartTime "5:30 a.m." ; 
+    cb:saStartTime "8:00 a.m." ; 
+    cb:suStartTime "10:00 a.m." ; 
     cb:mEndTime "12:00 a.m." ; 
     cb:tEndTime "12:00 a.m." ; 
     cb:wEndTime "12:00 a.m." ; 
     cb:thEndTime "12:00 a.m." ; 
-    cb:fEndTime "12:00 a.m." ; 
-    cb:saEndTime "12:00 a.m." ; 
-    cb:suEndTime "12:00 a.m." .
+    cb:fEndTime "10:00 p.m." ; 
+    cb:saEndTime "10:00 p.m." ; 
+    cb:suEndTime "10:00 p.m." .
 
 <#Dornsife-Partnerships>
     cb:name "Dornsife Center for Neighborhood Partnerships" ; 
@@ -1093,15 +1089,11 @@
     cb:wStartTime "11:00 AM" ; 
     cb:thStartTime "11:00 AM" ; 
     cb:fStartTime "11:00 AM" ; 
-    cb:saStartTime "11:00 AM" ; 
-    cb:suStartTime "11:00 AM" ; 
     cb:mEndTime "7:00 PM" ; 
     cb:tEndTime "7:00 PM" ; 
     cb:wEndTime "7:00 PM" ; 
     cb:thEndTime "7:00 PM" ; 
-    cb:fEndTime "7:00 PM" ; 
-    cb:saEndTime "7:00 PM" ; 
-    cb:suEndTime "7:00 PM" .
+    cb:fEndTime "2:00 PM" .
 
 <#Drexel-Center>
     cb:name "Drexel Health Center" ; 
