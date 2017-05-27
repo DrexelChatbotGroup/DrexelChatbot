@@ -15,6 +15,10 @@ body {
   height: 100%;
 }
 
+a {
+    color: hotpink;
+}
+
 body {
   background: -webkit-linear-gradient(315deg, #044f48, #2a7561);
   background: linear-gradient(135deg, #044f48, #2a7561);
