@@ -11,7 +11,7 @@ class ErrorHandler():
                 returned_dict = ex.db.query(new_query)
                 if returned_dict is not None and 'website' in returned_dict:
                     website = returned_dict['website']
-                    print("Sorry I don't have an answer for that. But I found ", ex.dictionary[key], "'s website: ", '<a href="', website, '">', website, '</a>')
+                    print("Sorry I don't have an answer for that. But I found ", ex.dictionary[key], "'s website: ", website)
                 else:
                     print("Sorry I don't have an answer for that. I also could not find the website for %s" % ex.dictionary[key])
         else:
