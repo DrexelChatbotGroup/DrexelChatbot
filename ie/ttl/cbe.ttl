@@ -1,0 +1,185 @@
+@base <http://drexelchatbot.com/rdf/> .
+@prefix cb: <http://drexelchatbot.com/rdf/> .
+
+<#Cameron-Abrams>
+    cb:name "Cameron Abrams" ; 
+    cb:name "Abrams" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor and Department Head; Professor (by courtesy), Drexel University College of Medicine, Department of Biochemistry and Molecular Biology" ; 
+    cb:room "CAT 483" ; 
+    cb:email "cfabrams@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/abrams.ashx?h=184&la=en&w=168&hash=5726B427D2530D31BAD003731902024894C46DAD" ; 
+    cb:phone "215-895-2231" ; 
+    cb:interests "Molecular Simulations in Biophysics and Materials HIV-1 Envelope Structure and Function Protein-Ligand Binding Thermodynamics and Kinetics" .
+
+<#Nicolas-Alvarez>
+    cb:name "Nicolas Alvarez" ; 
+    cb:name "Alvarez" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "CAT 380-B" ; 
+    cb:email "Nja49@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/alvarez.ashx?h=184&la=en&w=168&hash=6683E1AEA63F41DB14DB98BEEABF84D92C9F326F" ; 
+    cb:phone "215-571-4120" ; 
+    cb:interests "Photonic Crystal Defect Chromatography Extensional rheology of polymer/polymer composites Surfactant/polymer transport to fluid and solid interfaces Aqueous lubrication Interfacial Instabilities" .
+
+<#Jason-Baxter>
+    cb:name "Jason Baxter" ; 
+    cb:name "Baxter" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "CAT 481" ; 
+    cb:email "jbaxter@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/baxter.ashx?h=184&la=en&w=168&hash=41C2CD878F9E7B3B073F98DEA59E3C4594505C13" ; 
+    cb:phone "215-895-2240" ; 
+    cb:interests "Solar cells Semiconductor thin films and nanomaterials Ultrafast spectroscopy" .
+
+<#Richard-Cairncross>
+    cb:name "Richard Cairncross" ; 
+    cb:name "Cairncross" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "CAT 381-B" ; 
+    cb:email "cairncross@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/cairncross.ashx?h=184&la=en&w=168&hash=4236D7ECC3B0C4C200D3EC2867071F8E67B38DC3" ; 
+    cb:phone "215-895-2230" ; 
+    cb:interests "Biodiesel Production Sustainability Waste to Energy Systems Biodegradable Polymers and Composites" .
+
+<#Nily-Dan>
+    cb:name "Nily Dan" ; 
+    cb:name "Dan" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "CAT 477" ; 
+    cb:email "dan@coe.drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/dan.ashx?h=184&la=en&w=168&hash=B459593D9381D34BC2E92498D7DA5EF6DBF39712" ; 
+    cb:phone "215-895-6624" ; 
+    cb:interests "Self assembly in amphiphilic and polymeric systems Controlled drug release from polymer-based carriers" .
+
+<#Aaron-Fafarman>
+    cb:name "Aaron Fafarman" ; 
+    cb:name "Fafarman" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "CAT 482" ; 
+    cb:email "fafarman@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/fafarman.ashx?h=184&la=en&w=168&hash=DFEE99AA1073AB236266F3776E9ED92C9135A2B8" ; 
+    cb:phone "215-895-5818" ; 
+    cb:interests "Photovoltaic energy conversion Solution-based synthesis of semiconductor thin films Colloidal nanocrystals Electromodulation and photomodulation spectroscopy" .
+
+<#Vibha-Kalra>
+    cb:name "Vibha Kalra" ; 
+    cb:name "Kalra" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "CAT 479" ; 
+    cb:email "vibha.kalra@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/kalra.ashx?h=184&la=en&w=168&hash=5A3DD40E13BAA8926E65437CBEF1FF7B18382D79" ; 
+    cb:phone "215-895-2233" ; 
+    cb:interests "Electrodes for Energy Storage and Conversion Supercapacitors, Li-S Batteries, Fuel Cells, Flow Batteries Electrospinning of Nanofibers Molecular Dynamics Simulations" .
+
+<#Kenneth-Lau>
+    cb:name "Kenneth Lau" ; 
+    cb:name "Lau" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "CAT 278" ; 
+    cb:email "klau@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/lau.ashx?h=184&la=en&w=168&hash=3E76DF1C04CA49BEC986CE7A2A2036F236CBB0D2" ; 
+    cb:phone "215-895-6049" ; 
+    cb:interests "Polymer thin films and devices Energy capture (solar cells) Energy storage (supercapacitors, batteries) Surface engineering (superhydrophobicity, superhydrophilicity)" .
+
+<#Raj-Mutharasan>
+    cb:name "Raj Mutharasan" ; 
+    cb:name "Mutharasan" ; 
+    cb:property "faculty" ; 
+    cb:title "Frank A. Fletcher Professor" ; 
+    cb:room "CAT 281" ; 
+    cb:email "mutharasan@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/mutharasan1.ashx?h=184&la=en&w=168&hash=E3DB97FE986852A4FC6978FE6335068981ED3F44" ; 
+    cb:phone "215-895-2236" ; 
+    cb:interests "Cantilever sensors for biological detection Modeling of resonance Dynamics of fluid-solid interactions Mechanics and related phenomena in biological binding and interaction" .
+
+<#Giuseppe-Palmese>
+    cb:name "Giuseppe Palmese" ; 
+    cb:name "Palmese" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor and Interim Dean, College of Engineering" ; 
+    cb:room "CAT 170" ; 
+    cb:email "grp27@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/palmese-2016.ashx?h=184&la=en&w=168&hash=2C745BCD5F4AA269E2F12F9A6420405612A09126" ; 
+    cb:phone "215-895-5814" ; 
+    cb:interests "Thermosetting polymers and biomaterials Composites and interfaces Processing-Structure-Property relationships" .
+
+<#George-Rowell>
+    cb:name "George Rowell" ; 
+    cb:name "Rowell" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor; Undergraduate Laboratory Supervisor" ; 
+    cb:email "rowellgf@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/rowell.ashx?h=184&la=en&w=168&hash=70FDFE17FC658CC69020A1E8740C18E5B8997E85" .
+
+<#Joshua-Snyder>
+    cb:name "Joshua Snyder" ; 
+    cb:name "Snyder" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "CAT 381-C" ; 
+    cb:email "Jds43@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/snyder-sm.ashx?h=184&la=en&w=168&hash=EA2624E2DCB926B87CE5F418CB9CDBCCBA41F265" ; 
+    cb:phone "215-571-4623" ; 
+    cb:interests "Electrocatalysis (Energy Conversion/Storage) Heterogeneous Catalysis Corrosion (Dealloying, Nanoporous Metals) Interfacial Electrochemical Phenomena in Nanostructured Materials Colloidal Synthesis" .
+
+<#Masoud-Soroush>
+    cb:name "Masoud Soroush" ; 
+    cb:name "Soroush" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor" ; 
+    cb:room "CAT 484" ; 
+    cb:email "masoud.soroush@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/soroush.ashx?h=184&la=en&w=168&hash=6A10252DD22AB360C836D98F9258281691C5141F" ; 
+    cb:phone "215-895-1710" ; 
+    cb:interests "Modeling, control and optimization of solar cell, fuel cell and power storage systems Probabilistic risk assessment and mitigation Polymerization reaction engineering Process systems engineering Polymer membranes Multiscale mathematical modeling" .
+
+<#John-Speidel>
+    cb:name "John Speidel" ; 
+    cb:name "Speidel" ; 
+    cb:property "faculty" ; 
+    cb:title "Teaching Professor" ; 
+    cb:room "CAT 279" ; 
+    cb:email "speidel@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/speidel.ashx?h=184&la=en&w=168&hash=05278AEA566EA29819D9C26A85623758AAD42FD0" ; 
+    cb:phone "(215) 895-4980" .
+
+<#Maureen-Tang>
+    cb:name "Maureen Tang" ; 
+    cb:name "Tang" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Professor" ; 
+    cb:room "CAT 380-A" ; 
+    cb:email "Mht38@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/Tang.ashx?h=184&la=en&w=168&hash=8519AE7827B6119756B397ACB6E14213AB27E513" ; 
+    cb:phone "215-571-4092" ; 
+    cb:interests "Batteries and fuel cells Nonaqueous electrochemistry Charge transport at interfaces" .
+
+<#Michael-Walters>
+    cb:name "Michael Walters" ; 
+    cb:name "Walters" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Teaching Professor" ; 
+    cb:room "CAT 379" ; 
+    cb:email "mjw45@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/walters.ashx?h=184&la=en&w=168&hash=7EDE3E1B75F762646212CA848877C0109A3A79BA" ; 
+    cb:phone "(215) 895-2235" .
+
+<#Steven-Wrenn>
+    cb:name "Steven Wrenn" ; 
+    cb:name "Wrenn" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor" ; 
+    cb:room "CAT 480" ; 
+    cb:email "spw22@drexel.edu" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cbe/people/faculty/wrenn.ashx?h=184&la=en&w=168&hash=FDE8FE82C9D7CC3FAD7AE91E17A6D9A9EB3448EE" ; 
+    cb:phone "215-895-6694" ; 
+    cb:interests "Biological Colloids Membrane/Ultrasound Interactions Theranostic Applications of Microbubbles" .
+
