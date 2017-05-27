@@ -105,7 +105,7 @@ function sendMessage() {
       			a.content = a.content.replace(exp,"<img src='$1'></img>");
       			console.log(a.content); 
 			} else if(!a.content.includes("is an image of")) {
-				a.content = a.content.replace(exp,"<a href='$1'>Link</a>"); 
+				a.content = a.content.replace(exp,"<a href='$1'>$1</a>"); 
 				console.log(a.content); 
 			}
 			$('.message.loading').remove();
