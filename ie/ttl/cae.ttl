@@ -5,6 +5,10 @@
     cb:name "A. Emin Aktan" ; 
     cb:name "Aktan" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "John Roebling Professor of Infrastructure Studies" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-D" ; 
     cb:email "aaktan@drexel.edu" ; 
     cb:phone "215.895.6135" .
@@ -13,6 +17,10 @@
     cb:name "Abieyuwa Aghayere" ; 
     cb:name "Aghayere" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 273-C" ; 
     cb:email "abi@drexel.edu" ; 
     cb:phone "215.571.3899" .
@@ -21,6 +29,10 @@
     cb:name "Ivan Bartoli" ; 
     cb:name "Bartoli" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 273-B" ; 
     cb:email "ib77@drexel.edu" ; 
     cb:phone "215.895.2087" .
@@ -29,6 +41,10 @@
     cb:name "Robert Brehm" ; 
     cb:name "Brehm" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Teaching Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 273-G" ; 
     cb:email "rfb23@drexel.edu" ; 
     cb:phone "215.895.2835" .
@@ -37,6 +53,10 @@
     cb:name "Shannon Capps" ; 
     cb:name "Capps" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Bossone 503" ; 
     cb:email "sc3623@drexel.edu" ; 
     cb:phone "215-895-6726" .
@@ -45,6 +65,10 @@
     cb:name "Jonathan Cheng" ; 
     cb:name "Cheng" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor; BS/MS Advisor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 280-B" ; 
     cb:email "chengsc@drexel.edu" ; 
     cb:phone "215.895.2996" .
@@ -53,6 +77,10 @@
     cb:name "Peter DeCarlo" ; 
     cb:name "DeCarlo" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor; Graduate Studies Advisor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 280-C" ; 
     cb:email "pfd33@drexel.edu" ; 
     cb:phone "215.895.2345" .
@@ -61,6 +89,10 @@
     cb:name "Eugenia Victoria Ellis" ; 
     cb:name "Ellis" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "URBN 134Alumni Engineering Labs (AEL) 270-K" ; 
     cb:email "genaellis@drexel.edu" ; 
     cb:phone "215.895.2392" .
@@ -69,6 +101,10 @@
     cb:name "Yaghoob Farnam" ; 
     cb:name "Farnam" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Bossone 602" ; 
     cb:email "yfarnam@coe.drexel.edu" ; 
     cb:phone "215-895-6152" .
@@ -77,6 +113,10 @@
     cb:name "Patricia Gallagher" ; 
     cb:name "Gallagher" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-C" ; 
     cb:email "pmg@drexel.edu" ; 
     cb:phone "215.895.6426" .
@@ -85,6 +125,10 @@
     cb:name "Patrick Gurian" ; 
     cb:name "Gurian" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 280-G" ; 
     cb:email "pgurian@drexel.edu" ; 
     cb:phone "215.895.2889" .
@@ -93,6 +137,10 @@
     cb:name "Charles Haas" ; 
     cb:name "Haas" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Department Head, LD Betz Professor of Environmental Engineering; Director of Environmental Engineering Program" ; 
+>>>>>>> Stashed changes
     cb:room "Curtis 251" ; 
     cb:email "haas@drexel.edu" ; 
     cb:phone "215.895.2283" .
@@ -101,6 +149,10 @@
     cb:name "Ahmad Hamid" ; 
     cb:name "Hamid" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 280-F" ; 
     cb:email "hamidaa@drexel.edu" ; 
     cb:phone "215.895.2342" .
@@ -109,6 +161,10 @@
     cb:name "Simi Hoque" ; 
     cb:name "Hoque" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-J" ; 
     cb:email "simi@coe.drexel.edu" ; 
     cb:phone "215-895-2254" .
@@ -117,6 +173,10 @@
     cb:name "Grace Hsuan" ; 
     cb:name "Hsuan" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-E" ; 
     cb:email "ghsuan@coe.drexel.edu" ; 
     cb:phone "215.895.2785" .
@@ -125,6 +185,10 @@
     cb:name "Joseph Hughes" ; 
     cb:name "Hughes" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Distinguished University Professor" ; 
+>>>>>>> Stashed changes
     cb:room "3101 Market Street, Room 201" ; 
     cb:email "jhughes@coe.drexel.edu" ; 
     cb:phone "215.895.2210" .
@@ -133,6 +197,10 @@
     cb:name "L. James Lo" ; 
     cb:name "Lo" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 273-E" ; 
     cb:email "ljl55@drexel.edu" ; 
     cb:phone "215.571.3540" .
@@ -141,6 +209,10 @@
     cb:name "Roger Marino" ; 
     cb:name "Marino" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Teaching Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Bossone 413E" ; 
     cb:email "rm88@drexel.edu" ; 
     cb:phone "215.895.2346" .
@@ -149,6 +221,10 @@
     cb:name "Joseph Martin" ; 
     cb:name "Martin" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-B" ; 
     cb:email "martinjp@drexel.edu" ; 
     cb:phone "215.895.2363" .
@@ -157,6 +233,10 @@
     cb:name "James Mitchell" ; 
     cb:name "Mitchell" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor; Associate Dean for Undergraduate Affairs" ; 
+>>>>>>> Stashed changes
     cb:room "University Crossings – COE – Student Services, 3175 JFK Blvd" ; 
     cb:email "jmitchell@coe.Drexel.edu" ; 
     cb:phone "215.895.1374" .
@@ -165,6 +245,10 @@
     cb:name "Franco Montalto" ; 
     cb:name "Montalto" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 273-F" ; 
     cb:email "fam26@drexel.edu" ; 
     cb:phone "215.895.1385" .
@@ -173,6 +257,10 @@
     cb:name "Joseph Mullin" ; 
     cb:name "Mullin" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Teaching Professor; Associate Department Head" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-I" ; 
     cb:email "joseph.v.mullin@drexel.edu" ; 
     cb:phone "215.895.2350" .
@@ -181,6 +269,10 @@
     cb:name "Mira Olson" ; 
     cb:name "Olson" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "3101 Market Street - Room 203" ; 
     cb:email "mso28@drexel.edu" ; 
     cb:phone "215.895.2987" .
@@ -189,6 +281,10 @@
     cb:name "Michael Ryan" ; 
     cb:name "Ryan" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Teaching Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Curtis Hall 354" ; 
     cb:email "mor23@drexel.edu" ; 
     cb:phone "215.571.4779" .
@@ -197,6 +293,10 @@
     cb:name "Christopher Sales" ; 
     cb:name "Sales" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Curtis 251" ; 
     cb:email "cms566@drexel.edu" ; 
     cb:phone "215.895.2155" .
@@ -205,6 +305,10 @@
     cb:name "Yared Shifferaw Bayleyegn" ; 
     cb:name "Bayleyegn" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL)273-D" ; 
     cb:email "yaredshi@drexel.edu" ; 
     cb:phone "215.571.3786" .
@@ -213,6 +317,10 @@
     cb:name "Kurt Sjoblom" ; 
     cb:name "Sjoblom" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Assistant Professor" ; 
+>>>>>>> Stashed changes
     cb:email "kjs64@drexel.edu" ; 
     cb:phone "215.895.6425" .
 
@@ -220,6 +328,10 @@
     cb:name "Sabrina Spatari" ; 
     cb:name "Spatari" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-G" ; 
     cb:email "spatari@drexel.edu" ; 
     cb:phone "215.571.3557" .
@@ -228,6 +340,10 @@
     cb:name "Robert Swan, Jr." ; 
     cb:name "Jr." ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Teaching Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 273-A" ; 
     cb:email "rhs53@drexel.edu" ; 
     cb:phone "215.571.4561" .
@@ -236,6 +352,10 @@
     cb:name "Michael Waring" ; 
     cb:name "Waring" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Associate Professor; Associate Department Head for Undergraduate Programs; Director of Architectural Engineering Program" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-H" ; 
     cb:email "msw59@drexel.edu" ; 
     cb:phone "215.895.1502" .
@@ -244,6 +364,10 @@
     cb:name "Jin Wen" ; 
     cb:name "Wen" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-A" ; 
     cb:email "jinwen@drexel.edu" ; 
     cb:phone "215.895.4911" .
@@ -252,6 +376,10 @@
     cb:name "Aspasia Zerva" ; 
     cb:name "Zerva" ; 
     cb:property "faculty" ; 
+<<<<<<< Updated upstream
+=======
+    cb:title "Professor" ; 
+>>>>>>> Stashed changes
     cb:room "Alumni Engineering Labs (AEL) 270-F" ; 
     cb:email "zervaa@drexel.edu" ; 
     cb:phone "215.895.2340" .
