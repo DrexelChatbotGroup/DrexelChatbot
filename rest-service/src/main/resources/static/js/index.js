@@ -110,7 +110,7 @@ function sendMessage() {
 			}
 			
 			if(a.content.indexOf("Sorry") != -1 || a.content.indexOf("sorry") != -1){
-				a.content = a.content + "\nAn example of a valid question would be \"What is Vokolos's email address?\"";
+				//a.content = a.content + "\nAn example of a valid question would be \"What is Vokolos's email address?\"";
 			}
 			
 			$('.message.loading').remove();
