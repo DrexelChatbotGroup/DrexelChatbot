@@ -27,13 +27,14 @@
             android:id="@+id/msg"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2" />
+            android:layout_weight="2.2"
+            android:hint="What is Vokolos's email address?"/>
 
         <Button
             android:id="@+id/send"
             android:layout_width="0dp"
             android:layout_height="fill_parent"
-            android:layout_weight="1"
+            android:layout_weight=".8"
             android:text="Send" />
 
     </LinearLayout>
