@@ -104,6 +104,12 @@ public class ApplicationController {
 		                .creator(new PhoneNumber(sender),  // to
 		                         new PhoneNumber(rec),  // from
 		                         ret).create();
+				if(ret.contains("Sorry") || ret.contains("sorry")){
+					Message suggestion = Message
+		                .creator(new PhoneNumber(sender),  // to
+		                         new PhoneNumber(rec),  // from
+		                         "An example of a valid question is \"What is Vokolos's email address?\"").create();
+				}
 				
 			} catch (IOException | InterruptedException e) {
 

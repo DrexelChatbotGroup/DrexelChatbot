@@ -108,6 +108,11 @@ function sendMessage() {
 				a.content = a.content.replace(exp,"<a href='$1'>$1</a>"); 
 				console.log(a.content); 
 			}
+			
+			if(a.content.indexOf("Sorry") != -1 || a.content.indexOf("sorry") != -1){
+				a.content = a.content + "\nAn example of a valid question would be \"What is Vokolos's email address?\"";
+			}
+			
 			$('.message.loading').remove();
    			$('<div class="message new"><figure class="avatar"><img src="../drexel.png" /></figure>' + a.content.replace("null", "") + '</div>').appendTo($('.mCSB_container')).addClass('new');
     		setDate();
