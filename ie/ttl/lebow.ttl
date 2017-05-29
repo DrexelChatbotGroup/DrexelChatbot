@@ -404,11 +404,11 @@
     cb:property "faculty" ; 
     cb:title "Assistant Clinical Professor" ; 
     cb:department "Marketing" ; 
-    cb:room "Gerri C. LeBow Hall 581" ; 
+    cb:room "Gerri C. LeBow Hall 539" ; 
     cb:education "PhD" ; 
     cb:email "bd328@drexel.edu" ; 
     cb:phone "215.571.3509" ; 
-    cb:interests "Global Marketing, Inter-Organizational, Marketing channels, Retailing and Retail Management" .
+    cb:interests "Global Marketing, Inter-Organizational, Marketing channels" .
 
 <#Daniel-Dorn>
     cb:name "Daniel Dorn" ; 
@@ -747,7 +747,7 @@
     cb:department "Accounting" ; 
     cb:room "Gerri C. LeBow Hall 920" ; 
     cb:education "CPA" ; 
-    cb:email "Klinesa@drexel.edu" ; 
+    cb:email "klinesa@drexel.edu" ; 
     cb:phone "215.895.5866" ; 
     cb:interests "Business Entity Taxation, Individual Taxation, Managerial Accounting" .
 
@@ -927,7 +927,7 @@
     cb:education "PhD" ; 
     cb:email "cl998@drexel.edu" ; 
     cb:phone "215.895.2132" ; 
-    cb:interests "Computational Finance, Data Mining, Health Informatics, Knowledge Management, Recommender Systems, Sequential Pattern Analysis, social mining, Spatio-temporal Data Analysis, text mining" .
+    cb:interests "Computational Finance, Data Mining, Health Informatics, Knowledge Management, Recommender Systems, Sequential Pattern Analysis, Social Mining, Spatio-temporal Data Analysis, Text Mining" .
 
 <#Yu-Chieh-Lo>
     cb:name "Yu-Chieh Lo" ; 
@@ -984,7 +984,7 @@
     cb:department "Decision Sciences and MIS" ; 
     cb:room "Gerri C. LeBow Hall 728" ; 
     cb:education "PhD" ; 
-    cb:email "Maragahh@drexel.edu" ; 
+    cb:email "maragahh@drexel.edu" ; 
     cb:phone "215.895.6996" ; 
     cb:interests "Management Statistics, Statistical Process Control (SPC), Statistical Quality Control, Strategic Quality Control" .
 
@@ -1058,7 +1058,7 @@
     cb:education "PhD" ; 
     cb:email "rn362@drexel.edu" ; 
     cb:phone "215.571.4675" ; 
-    cb:interests "Organizational Knowledge and Identity, Organizational learning and change, Strategic Leadership, Strategic Performativity" .
+    cb:interests "Organizational Knowledge and Identity, Social Processes of Innovation and Strategic Change, Strategic Leadership, Strategic Performativity" .
 
 <#Vadake-Narayanan>
     cb:name "Vadake Narayanan" ; 
@@ -1115,7 +1115,7 @@
     cb:department "Economics" ; 
     cb:room "Gerri C. LeBow Hall 1045" ; 
     cb:education "PhD" ; 
-    cb:email "maria.p.olivero@drexel.edu" ; 
+    cb:email "mpo25@drexel.edu" ; 
     cb:phone "215.895.4908" ; 
     cb:interests "International Economics, Macroeconomics and Monetary Economics, Mathematical and Quantitative Methods, Open Economy Macroeconomics" .
 
@@ -1219,7 +1219,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Clinical Professor" ; 
     cb:department "Decision Sciences and MIS" ; 
-    cb:room "Gerri C. LeBow Hall 577" ; 
+    cb:room "Gerri C. LeBow Hall 536" ; 
     cb:education "PhD" ; 
     cb:email "mjr424@drexel.edu" ; 
     cb:phone "215.571.4671" ; 
@@ -1562,7 +1562,7 @@
     cb:education "PhD" ; 
     cb:email "cw578@drexel.edu" ; 
     cb:phone "215.571.4590" ; 
-    cb:interests "Computational Statistics, Data Analytics, Data Mining, Knowledge Management, Multivariate Statistics" .
+    cb:interests "Computational Statistics, Data Analytics, Data Mining, Decision Models, Knowledge Management" .
 
 <#Yoto-Yotov>
     cb:name "Yoto Yotov" ; 

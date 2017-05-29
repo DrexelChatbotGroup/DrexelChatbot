@@ -69,9 +69,12 @@ class CciIEAgent(IEAgent):
         bio_block = divs[3]
         edu_block = divs[4].find("ul")
         #if that isnt the block, the next is 
+        educations = ''
         if not edu_block:
             edu_block = divs[5].find("ul")
-        educations = edu_block.findAll("li")
+        if edu_block:
+            educations = edu_block.findAll("li")
+
         edu_str = ""
         for e in educations:
             edu_str += e.getText() + ". \n"

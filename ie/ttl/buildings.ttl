@@ -144,7 +144,7 @@
     cb:name "Disque" ; 
     cb:property "building" ; 
     cb:department "College of Science" ; 
-    cb:address "3141 Chestnut St" ; 
+    cb:address "32 S 32nd St" ; 
     cb:picture "http://biomed.drexel.edu/labs/biocirc-lab/images/facilities_disquehall.jpg" ; 
     cb:mStartTime "7:00 a.m." ; 
     cb:tStartTime "7:00 a.m." ; 
@@ -646,7 +646,7 @@
     cb:name "Stratn" ; 
     cb:property "building" ; 
     cb:department "Biological Sciences" ; 
-    cb:address "3141 Chestnut St" ; 
+    cb:address "3201 Chestnut St" ; 
     cb:mStartTime "7:00 a.m." ; 
     cb:tStartTime "7:00 a.m." ; 
     cb:wStartTime "7:00 a.m." ; 

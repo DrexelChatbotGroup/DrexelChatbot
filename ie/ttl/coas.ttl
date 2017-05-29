@@ -126,7 +126,8 @@
     cb:title "Department Head; Provost Emeritus; Distinguished Professor of English" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "astro@drexel.edu" ; 
-    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/astro.ashx?h=150&la=en&w=125&hash=DFC4B135C0A43B913EFC4E6AABCCF3E3A1A2A004" .
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/astro.ashx?h=150&la=en&w=125&hash=DFC4B135C0A43B913EFC4E6AABCCF3E3A1A2A004" ; 
+    cb:phone "215.895.2583" .
 
 <#Phillip-Ayoub>
     cb:name "Phillip Ayoub" ; 
@@ -225,7 +226,7 @@
     cb:department "Department of English and Philosophy" ; 
     cb:email "kenneth.bingham@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/bingham.ashx?h=150&la=en&w=125&hash=DC230387D8A9801377E6D67EB9461865234B1B56" ; 
-    cb:phone "215.895.1961" .
+    cb:phone "215.895.2441" .
 
 <#Ronald-Bishop>
     cb:name "Ronald Bishop" ; 
@@ -295,7 +296,7 @@
     cb:department "Department of Physics" ; 
     cb:email "bose@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/shyamalendu_bose.ashx?h=166&la=en&w=125&hash=A6D9AE24AA63CFC8EFA90DA1017014A608028867" ; 
-    cb:phone "215.895.2718" .
+    cb:phone "215.895.2043" .
 
 <#Robert-Boyer>
     cb:name "Robert P. Boyer" ; 
@@ -356,6 +357,15 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Brosepic.ashx?h=150&la=en&w=123&hash=340630B673BF49B56931F73C24BBC38217B441BF" ; 
     cb:phone "(215) 895-6789" .
 
+<#Michael-Brown>
+    cb:name "Michael Brown" ; 
+    cb:name "Brown" ; 
+    cb:property "faculty" ; 
+    cb:title "Research Faculty, Courtesy Appointment" ; 
+    cb:department "Center for Science, Technology and Society" ; 
+    cb:email "mpb96@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/michael_brown125x150.ashx?h=149&la=en&w=125&hash=B20FCA830B1871D10A9679F488D7D6AC468FA7C9" .
+
 <#Robert-Brulle>
     cb:name "Robert Brulle" ; 
     cb:name "Brulle" ; 
@@ -378,7 +388,7 @@
     cb:name "Meghan Butryn" ; 
     cb:name "Butryn" ; 
     cb:property "faculty" ; 
-    cb:title "Associate Research Professor" ; 
+    cb:title "Associate Professor" ; 
     cb:department "Department of Psychology" ; 
     cb:email "mlb34@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/butryn_meghan.ashx?h=150&la=en&w=125&hash=D7014F562093FDA651D246E996B6D7723BCB4AEA" ; 
@@ -393,6 +403,14 @@
     cb:email "zib23@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Buzas_Zoltan.ashx?h=139&la=en&w=125&hash=5C844F0A8AE0F418B5E3DFC1E118CD3242563EC9" ; 
     cb:phone "215.895.2477" .
+
+<#James-Calkins>
+    cb:name "James Calkins" ; 
+    cb:name "Calkins" ; 
+    cb:property "faculty" ; 
+    cb:title "Professor Emeritus" ; 
+    cb:department "Department of Psychology" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/calkins-james.ashx?h=150&la=en&w=125&hash=16BB3E2CF771DF3B6D2BC1A8E048B2F3F891D322" .
 
 <#André-Carrington>
     cb:name "André Carrington" ; 
@@ -690,13 +708,13 @@
     cb:department "Department of English and Philosophy" ; 
     cb:email "dwd27@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/driscoll.ashx?h=150&la=en&w=125&hash=DB5BE3411E174DCAA12FA3F42BB62BE881F87C07" ; 
-    cb:phone "215.571.3793" .
+    cb:phone "215.571.6778" .
 
 <#Daniel-Duran>
     cb:name "Daniel Duran" ; 
     cb:name "Duran" ; 
     cb:property "faculty" ; 
-    cb:title "Assistant Teaching Professor, Department of Biodiversity, Earth & Environmental Science" ; 
+    cb:title "Associate Teaching Professor, Department of Biodiversity, Earth & Environmental Science" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
     cb:email "dpd56@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Duran.ashx?h=150&la=en&w=125&hash=7885954A985341619A2BB743C30E27D4189B1CAD" ; 
@@ -817,7 +835,7 @@
     cb:department "Department of English and Philosophy" ; 
     cb:email "fineganr@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/finegandirectory.ashx?h=150&la=en&w=125&hash=6438D3B51168BCA27582BEF5851AD3B2159FA711" ; 
-    cb:phone "215.895.1961" .
+    cb:phone "215.895.2441" .
 
 <#Leonard-Finegold>
     cb:name "Leonard Finegold" ; 
@@ -893,11 +911,11 @@
     cb:name "Valerie Fox" ; 
     cb:name "Fox" ; 
     cb:property "faculty" ; 
-    cb:title "Founding Editor, Press 1; Teaching Professor of English" ; 
+    cb:title "Teaching Professor of English; Founding Editor, Press 1" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "valerie.fox@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/fox.ashx?h=150&la=en&w=125&hash=AD73A8192CB3A9C20F97069A7AECD64087CDF50E" ; 
-    cb:phone "215.895.4364" .
+    cb:phone "215.571.4364" .
 
 <#Alexander-Friedlander>
     cb:name "Alexander Friedlander" ; 
@@ -1016,8 +1034,7 @@
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
     cb:email "robert.gilmore@drexel.edu" ; 
-    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robert_gilmore.ashx?h=166&la=en&w=125&hash=B2214A19FDB8FF7BB15E52EAF650AEBA252A197D" ; 
-    cb:phone "215.895.2779" .
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/robert_gilmore.ashx?h=166&la=en&w=125&hash=B2214A19FDB8FF7BB15E52EAF650AEBA252A197D" .
 
 <#William-Goh>
     cb:name "William Goh" ; 
@@ -1185,8 +1202,7 @@
     cb:title "Professor Emeritus" ; 
     cb:department "Department of Physics" ; 
     cb:email "haraczrd@drexel.edu" ; 
-    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richard_haracz.ashx?h=166&la=en&w=125&hash=EFBF695BE6466D281DFF95D34774C2029A5BD5F1" ; 
-    cb:phone "215.895.2043" .
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/richard_haracz.ashx?h=166&la=en&w=125&hash=EFBF695BE6466D281DFF95D34774C2029A5BD5F1" .
 
 <#Maher-Harb>
     cb:name "Maher Harb" ; 
@@ -1314,7 +1330,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor, Department of Biodiversity, Earth & Environmental Science; Senior Scientist, Fisheries Section Leader, Ruth Patrick Chair of Environmental Sciences, Academy of Natural Sciences of Drexel University" ; 
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
-    cb:email "richard.j.horwit@drexel.edu" ; 
+    cb:email "richard.j.horwitz@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/horwitz_richard_web.ashx?h=150&la=en&w=125&hash=30AEB210B0264247F0408FA901163CF9924459CF" ; 
     cb:phone "215.299.1092" .
 
@@ -1396,7 +1412,7 @@
     cb:department "Department of English and Philosophy" ; 
     cb:email "hpi22@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/henryisraeli.ashx?h=150&la=en&w=125&hash=5DD5A684B2F80939DCB2F5EFCFF974D41EE3F0B2" ; 
-    cb:phone "(215) 571-4364" .
+    cb:phone "215.571.3436" .
 
 <#Kirk-Jalbert>
     cb:name "Kirk Jalbert" ; 
@@ -1452,7 +1468,7 @@
     cb:property "faculty" ; 
     cb:title "Director, Center for Science, Technology & Society; Professor of Sociology" ; 
     cb:department "Center for Science, Technology and Society" ; 
-    cb:email "kelly.a.joyce@drexel.edu" ; 
+    cb:email "kaj68@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/joyce_kelly_062813.ashx?h=150&la=en&w=125&hash=B5347341EDE9651B567AC50C88673F33CA4715C1" ; 
     cb:phone "215.571.4449" .
 
@@ -1460,7 +1476,7 @@
     cb:name "Adrienne Juarascio" ; 
     cb:name "Juarascio" ; 
     cb:property "faculty" ; 
-    cb:title "Director, Practicum Training; Assistant Research Professor" ; 
+    cb:title "Director, Practicum Training; Assistant Professor" ; 
     cb:department "Department of Psychology" ; 
     cb:email "asj32@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/juarascio_adrienne.ashx?h=150&la=en&w=125&hash=44622E626EDD0D5E15534B40F0C1A4A70AB5B6E2" ; 
@@ -1514,7 +1530,7 @@
     cb:department "Department of English and Philosophy" ; 
     cb:email "kjk42@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kaschock.ashx?h=150&la=en&w=125&hash=67B18B1F1D7ED7F2A0394E2A01F8C541CBF75B78" ; 
-    cb:phone "215.895.2441" .
+    cb:phone "215.571.3446" .
 
 <#Frank-Kelley>
     cb:name "Frank Kelley" ; 
@@ -1620,7 +1636,7 @@
     cb:name "Emmanuel Koku" ; 
     cb:name "Koku" ; 
     cb:property "faculty" ; 
-    cb:title "Associate Professor of Communication; Graduate Faculty Member, Communication, Culture & Media" ; 
+    cb:title "Associate Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Department of Sociology" ; 
     cb:email "emmanuelkoku@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Koku_Emmanuel.ashx?h=150&la=en&w=125&hash=F0205622A2E7184A8C55403339D7B480D1D1298D" ; 
@@ -1684,7 +1700,7 @@
     cb:department "Department of Biodiversity, Earth and Environmental Science" ; 
     cb:email "dak29@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/kreeger.ashx?h=150&la=en&w=125&hash=0C02EDFEEB175D32979030C4C7D9286A5789F83F" ; 
-    cb:phone "215.895.1270" .
+    cb:phone "215.895.1270Lab: PISB 301 B1Lab Phone: 215.895.1270" .
 
 <#Stefanie-Kroll>
     cb:name "Stefanie A. Kroll" ; 
@@ -2324,7 +2340,7 @@
     cb:name "Joel Oestreich" ; 
     cb:name "Oestreich" ; 
     cb:property "faculty" ; 
-    cb:title "Director, Global Studies Major; Associate Professor" ; 
+    cb:title "Director, Global Studies Major; Professor" ; 
     cb:department "Department of Global Studies and Modern Languages" ; 
     cb:email "jeo25@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Oestreichpic.ashx?h=150&la=en&w=125&hash=DF4FB32047F88730A2A2F32101390023EB2DC3B6" ; 
@@ -2822,6 +2838,16 @@
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Tiago.ashx?h=150&la=en&w=125&hash=A3CCBC2F49F8ABDA9D980F2F1B4CD6056BE6821B" ; 
     cb:phone "215.895.6870" .
 
+<#Valerie-Sarris>
+    cb:name "Valerie Sarris" ; 
+    cb:name "Sarris" ; 
+    cb:property "faculty" ; 
+    cb:title "Adjunct Instructor" ; 
+    cb:department "Department of Mathematics" ; 
+    cb:email "vs487@drexel.edu" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/valerie-sarris.ashx?h=180&la=en&w=150&hash=69FC20682236EDF0B72AF3E45E569655AC03FFBD" ; 
+    cb:phone "215.895.2668" .
+
 <#Aleister-Saunders>
     cb:name "Aleister Saunders" ; 
     cb:name "Saunders" ; 
@@ -2927,7 +2953,7 @@
     cb:title "Director, Center for Mobilities Research and Policy; Professor of Sociology; Graduate Faculty Member, Communication, Culture & Media" ; 
     cb:department "Center for Mobilities, Research and Policy" ; 
     cb:email "mimi.sheller@drexel.edu" ; 
-    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/sheller_mimi.ashx?h=150&la=en&w=125&hash=4CFB0F6364E452401B28A4B7DE7FF30F9FA33F0B" ; 
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/mimi-sheller-125x150.ashx?h=150&la=en&w=125&hash=B1CD9C576FAD2990A1004A03245EF32EE0B7F577" ; 
     cb:phone "215.571.3652" .
 
 <#Li-Sheng>
@@ -3413,7 +3439,8 @@
     cb:title "Associate Director, First-Year Writing Program; ESL Coordinator; Assistant Teaching Professor" ; 
     cb:department "Department of English and Philosophy" ; 
     cb:email "mv396@drexel.edu" ; 
-    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Maria Volynsky.ashx?h=150&la=en&w=125&hash=A8621AAD2F46053CA63473F06D60EF6C7008BF50" .
+    cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/Maria Volynsky.ashx?h=150&la=en&w=125&hash=A8621AAD2F46053CA63473F06D60EF6C7008BF50" ; 
+    cb:phone "215.895.1638" .
 
 <#Peter-Wade>
     cb:name "Peter A. Wade" ; 
@@ -3493,7 +3520,7 @@
     cb:department "Department of English and Philosophy" ; 
     cb:email "rw346@drexel.edu" ; 
     cb:picture "http://drexel.edu/~/media/Images/coas2/profiles/wenrick-rachel.ashx?h=150&la=en&w=125&hash=E34BB941FAD7B181CB387E6AC845C3B1DE2925EF" ; 
-    cb:phone "215.895.4364" .
+    cb:phone "215.895.6778" .
 
 <#Richard-White>
     cb:name "Richard D. White" ; 

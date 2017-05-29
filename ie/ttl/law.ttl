@@ -392,7 +392,7 @@
     cb:property "faculty" ; 
     cb:title "Associate Professor of Law" ; 
     cb:room "School of Law, Room 275" ; 
-    cb:email "lisa.t.mcelroy@drexel.edu" ; 
+    cb:email "ltm35@drexel.edu" ; 
     cb:website "http://drexel.edu/law/faculty/fulltime_fac/Lisa%20Tucker/" ; 
     cb:picture "http://drexel.edu/~/media/Images/law/Faculty/lisa-tucker.ashx?h=140&la=en&w=120&hash=9CE710DAB8702C298C804D47CA3BD61A967FBCE8" ; 
     cb:phone "215.571.4787" .
@@ -412,7 +412,7 @@
     cb:name "Emily B. Zimmerman" ; 
     cb:name "Zimmerman" ; 
     cb:property "faculty" ; 
-    cb:title "Director of the Criminal Law Program; Associate Professor of Law" ; 
+    cb:title "Director of the Criminal Law Program; Professor of Law" ; 
     cb:room "School of Law, Room 231" ; 
     cb:email "emily.b.zimmerman@drexel.edu" ; 
     cb:website "http://drexel.edu/law/faculty/fulltime_fac/Emily%20Zimmerman/" ; 

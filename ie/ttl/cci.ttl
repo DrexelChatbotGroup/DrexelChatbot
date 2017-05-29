@@ -26,6 +26,7 @@
     cb:room "Rush 405B" ; 
     cb:education "PhD, Systems Engineering, University of Pennsylvania. MS, Electrical Engineering, Rensselaer Polytechnic Institute. BS, Electrical Engineering, Rensselaer Polytechnic Institute." ; 
     cb:email "lda26@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Alexander-Larry/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/larry_alexander.ashx?h=160&la=en&w=125&hash=80423F2A609F85D22136059D8833B5B131F1661C" ; 
     cb:publications "The Information Technology Challenge for the Next Millennium, L.D. Alexander - 10/98. GE Internal Publication.. Intellectual Property Technology Implementation – The R&D Management Process, L.D. Alexander – 5/97. GE Internal Publication.. Design of a Self-Tasking System, L.D. Alexander - 1/89. GE Internal Publication.." ; 
     cb:phone "215.895.6628" ; 
@@ -169,6 +170,7 @@
     cb:room "University Crossings 137" ; 
     cb:education "PhD, Computer Science, Stevens Institute of Technology. MS, Computer Science, Stevens Institute of Technology. BS, Electrical Engineering (with a concentration in Computer Engineering), University of Delaware." ; 
     cb:email "mjb528@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Burlick-Matthew/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Burlick_Matt.ashx?h=160&la=en&w=125&hash=7AB93C7BD1052A5818E93E69058796B97EAF60C0" ; 
     cb:publications "George Kamberov, Matt Burlick, Lazaros Karydas, Olga Koteogou (2014). Unsupervised Detection of Video Sub-scenes. Pattern Recognition (ICPR), Pages 1934-1939. Matt Burlick, Olga Koteoglou, Lazaros Karydas, George Kamberov (2013). Leveraging Crowdsourced Data for Creating Temporal Segmentation Ground Truths of Subjective Tasks. Computer Vision and Pattern Recognition Workshops (CVPRW), pages 743-750.. Matt Burlick, Dimitrios Dimitriadis, Eric Zavesky (2013). On Improving a Multi-modal Voice Activity Detector. InterSpeech.." ; 
     cb:phone "215.571.4468" ; 
@@ -194,11 +196,12 @@
     cb:name "Chris Carroll" ; 
     cb:name "Carroll" ; 
     cb:property "faculty" ; 
-    cb:title "Assistant Teaching Professor" ; 
+    cb:title "Assistant Teaching Professor and BSCST Program Director" ; 
     cb:department "Information Science" ; 
-    cb:room "Rush 134" ; 
+    cb:room "Rush 421" ; 
     cb:education "MS, Computer Science, Drexel University. BA, Mathematics, Minor in Computer Science, Saint Michael’s College." ; 
     cb:email "christopher.john.carroll@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Carroll-Chris/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/carroll-chris.ashx?h=160&la=en&w=125&hash=3B4F32299942BF566C15F18C07C47794327484F6" ; 
     cb:publications "Member of Upsilon Pi Epsilon, Honor Society for the Computing Sciences. Member of IEEE. Member of Internet Society." ; 
     cb:phone "215.571.4306" ; 
@@ -276,11 +279,12 @@
     cb:room "Rush 306" ; 
     cb:education "1992: PhD (Doctor of Philosophy in Computer Science) University of Pittsburgh. . 1983: BS (Bachelor of Science in Computer Science & Technology) University of Science and Technology of China.." ; 
     cb:email "yd362@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Deng-Yi/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Yi_Deng.ashx?h=160&la=en&w=124&hash=795A0B5D9EDC3A714FA728A5E9E09541D96CC22A" ; 
     cb:publications "Member, Board of Directors, North Carolina Technology Association. Member, Steering Committee, Envision: Charlotte." ; 
     cb:phone "215.895.2474" ; 
     cb:interests "Computing & Informatics" ; 
-    cb:bio "Dr. Deng serves as dean and Isaac L. Auerbach professor at the College of Computing & Informatics (CCI) at Drexel University. He holds a doctoral degree in computer science from the University of Pittsburgh and a bachelor of science degree in computer science & technology from the University of Science and Technology of China. He joined Drexel's faculty in September 2016, previously serving as dean of the College of Computing and Informatics at the University of North Carolina at Charlotte, and as dean and professor at the School of Computing & Information Sciences at Florida International University. He is a respected leader in interdisciplinary computing research with 21 research awards as PI or co-PI totaling over $21 million. He also founded and directed four major research centers." .
+    cb:bio "Yi Deng, PhD serves as dean and Isaac L. Auerbach Professor at the College of Computing & Informatics (CCI) at Drexel University. Deng came to Drexel in September 2016 after a seven-year tenure as dean of the College of Computing and Informatics at the University of North Carolina at Charlotte, where his leadership helped to transform the college leading to dramatic growth in academic programming, enrollment, and research funding. His leadership also helped to shape the university’s direction and priorities, and to establish the college as a powerhouse in the region’s economic development efforts. Prior to his post at UNC Charlotte, Deng served as professor and dean at the School of Computing and Information Sciences at Florida International University (FIU). During his tenure at UNC Charlotte, the College of Computing and Informatics launched six new interdisciplinary bachelor’s, master’s and doctoral degree programs and established an international educational partnership with China. The College saw its undergraduate enrollment double to 1,480 and its graduate enrollment increase by 140 percent to 870 students — making UNC Charlotte one of the largest computing and informatics programs in the nation. Under Deng’s leadership, the College’s annual extramural research funding nearly tripled to $14.8 million. This was accompanied by improvements in research quality, productivity and a sustained increase in the doctoral graduation rate. He also led the development of overarching industry and community partnerships and established the College as a pillar in the region for talent, innovation and economic development. Part of Deng’s success as a leader comes from his time as a researcher and teacher. He authored or co-authored more than 100 research papers in peer-reviewed journals and proceedings and was awarded more than $21 million in research funding as a principal or co-principal investigator. Deng has initiated, led and managed many research projects in areas of software engineering, modeling and design, as well as large scale interdisciplinary research & education projects and their applications in healthcare, cyberinfrastructure, disaster management, and other areas. Deng founded or directed several major research centers or partnerships, including the Latin American (LA Grid) Consortium, the Consortium of Partnership for International Research and Education (PIRE) — whose partners include leading institutions and research centers in the United States, Mexico, Argentina, Spain, France, China, India and Japan. He is a leader in implementing large-scale diversity initiatives with sustained organizational changes. At FIU, he established the School of Computing and Information Sciences as a national leader for educating under-represented minorities in computing at all levels. He spearheaded and led an ambitious Women-in-Computing initiative at UNC Charlotte to improve gender balance in IT at the national scale. Deng received his PhD in Computer Science from the University of Pittsburgh and a Bachelor of Engineering degree in Computer Science & Technology from the University of Science and Technology of China." .
 
 <#M.-Drott>
     cb:name "M. Carl Drott" ; 
@@ -602,6 +606,17 @@
     cb:interests "Formal and informal communication, bibliometric studies of scholarly communication, diffusion of information, information use in the social sciences, academic and public libraries, information science education" ; 
     cb:bio "Marion's major teaching areas comprise core courses in the MSLIS program. Her background is in the social sciences, and her professional experience includes academic and corporate libraries. Prior to joining the library and information science profession, Marion was a licensed psychologist. Her primary research interests focus on aspects of formal and informal communication including bibliometric studies of scholarly literatures and analysis of the LIS and IS/IT job market. She is also interested in services to urban and rural populations." .
 
+<#Joseph-McGarvey>
+    cb:name "Joseph McGarvey" ; 
+    cb:name "McGarvey" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Teaching Professor" ; 
+    cb:room "Rush 419" ; 
+    cb:email "jjm532@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/McGarvey-Joseph/" ; 
+    cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/unavailable.ashx?h=188&la=en&w=125&hash=5F75E9213285FE89655E526EAA4E55DE48FE1421" ; 
+    cb:phone "215.895.6136" .
+
 <#Adelaida-Medlock>
     cb:name "Adelaida Alban Medlock" ; 
     cb:name "Medlock" ; 
@@ -642,6 +657,7 @@
     cb:room "3401 Market Street, Rm. 319" ; 
     cb:education "BS/MS, Computer Engineering, Drexel University." ; 
     cb:email "gn23@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Naik-Gaurav/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/naikgaurav.ashx?h=160&la=en&w=125&hash=2FD300E5FFB814022A762F2208816091D5105F96" ; 
     cb:phone "215.571.4512" ; 
     cb:interests "Computer network security, Internet architectures and services" .
@@ -671,6 +687,7 @@
     cb:room "W.W. Hagerty Library" ; 
     cb:education "PhD, University of Maryland College Park, Library and Information Science [dissertation: An Assessment of the Applicability of SERVQUAL Dimensions as Customer-Based Criteria for Evaluating Quality of Services in an Academic Library. 1995] . [dissertation: An Assessment of the Applicability of SERVQUAL Dimensions as Customer-Based Criteria for Evaluating Quality of Services in an Academic Library. 1995]. MS, Univerity of Tennessee, Knoxville, Communications. MS, Drexel University, Library Science. BA, Senior Honors, University of Wisconsin, Milwaukee, Art History." ; 
     cb:email "danuta.nitecki@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Nitecki-Danuta/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/nitecki-danuta.ashx?h=160&la=en&w=125&hash=028A49BF49BDADC2F025CC39F8E266065581823E" ; 
     cb:publications "Modeling information diffusion in university libraries: managing peer engagement as a complex dynamic system [co-authored with W. Michael Johnson] Proceedings of Reinventing Libraries, Reinventing Assessment Innovative Practices and Ideas that Challenge the Status Quo. City University of New York, 2014 [in press]. Exploring the cause and effect of library value [co-authored with Eileen G. Abels] Performance Measurement and Metrics. 14:1, 2013, 17-24 . Viewing Library Metrics from Different Perspectives: Inputs, Outputs, and Outcomes. [co-authored with Robert E. Dugan and Peter Hernon] ABC-CLIO, Santa Barbara CA. 2009." ; 
     cb:phone "215.895.2750" ; 
@@ -686,6 +703,7 @@
     cb:room "University Crossings 109" ; 
     cb:education "Ph.D. in Mathematics, Washington University, St. Louis, 1991 . M.A. in Mathematics, University of Wroclaw Poland, 1986 . M.S.C. in Computer Science and Management, Technical University of Wroclaw, Poland, 1983 ." ; 
     cb:email "kn33@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Nowak-Krzysztof/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/nowak-krzysztof.ashx?h=160&la=en&w=124&hash=7F90662594DC84B5E7F7854A1AE6AB76A4AA3296" ; 
     cb:publications "With E. Cordero, F. De Mari, A. Tabacco, A dimensional bound for admissible subgroups of the symplectic group, Mathematische Nachrichten 283 (7): 982-993, 2010.. With E. Cordero, F. De Mari, A. Tabacco, Analytic features of reproducing groups for the metaplectic representation, J. Fourier Anal. Appl., 12 (2): 157-180, 2006.. With E. Cordero, F. De Mari, A. Tabacco, Reproducing subgroups for the metaplectic representation, Operator Theory: Advances and Applications, Vol. 164: 227-244, 2006.." ; 
     cb:phone "215.895.6826" ; 
@@ -733,6 +751,7 @@
     cb:room "Rush 410" ; 
     cb:education "PhD, Library and Information Science (dissertation title: “Forging Our Cultural Commonwealth: the Importance of Digital Curation in the Digital Humanities”), University of North Carolina (UNC) at Chapel Hill. MS, Library Science (Beta Phi Mu), UNC at Chapel Hill. MA, History, Brown University. BA, History (with highest honors), Williams College." ; 
     cb:email "ahp56@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Poole-Alex/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Poole.ashx?h=160&la=en&w=125&hash=D4FA45E2A665D2956637649D1687A4958052388E" ; 
     cb:phone "215.895.6275" ; 
     cb:interests "Archives and records, digital curation, digital humanities, and diversity, inclusivity, and social justice." ; 
@@ -777,6 +796,7 @@
     cb:room "Rush 405" ; 
     cb:education "PhD, Information Science, 2014 School of Information and Library Science (SILS), University of North Carolina, Chapel Hill Dissertation Title: “Evidence-as-a-Service: State Government Recordkeeping in the Cloud” Advisor: Christopher A. Lee . School of Information and Library Science (SILS), University of North Carolina, Chapel Hill . Dissertation Title: “Evidence-as-a-Service: State Government Recordkeeping in the Cloud” . Advisor: Christopher A. Lee. 1994-1998, The Committee on Social Thought University of Chicago. MA, Economics, 1992 Department of Economics California State University, East Bay Awarded “Best Graduate Student,” 1992. . Department of Economics California State University, East Bay. Awarded “Best Graduate Student,” 1992.. BA, Economics, 1983 Department of Economics University of California, Santa Cruz Awarded “Honors in the Major.” . Department of Economics University of California, Santa Cruz. Awarded “Honors in the Major.”." ; 
     cb:email "llr43@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Richards-Lorraine/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Richards Lori.ashx?h=160&la=en&w=125&hash=1B3EFC0CBC80830E34E4843AC9C978811BD9CB21" ; 
     cb:publications "Hawthorne, Kisha and Lorraine L. Richards. (forthcoming, 2016). \"Personal Health Records: A New Type of Electronic Medical Record.\" Records Management Journal [Refereed Journal Article]. Richards, Lorraine L. (December 2016). \"Teaching Data Creators How to Develop an OAIS-Compliant Digital Curation System: Co-Learning and Breakdowns in Support of Requirements Analysis.\" In American Archivist 79(2) (Fall/Winter 2016). [Refereed Journal Article]. Richards, Lorraine. (2016). \"Collaborative Access Development Strategies in a Big Data Aviation Research Environment.\" In Creating Trustworthy Repositories for Digital Records: Theory and Practice. Edited by Philip Bantin. [Invited Book Chapter] (5240 words)." ; 
     cb:phone "215.895.1903" ; 
@@ -935,6 +955,7 @@
     cb:room "University Crossings 100K" ; 
     cb:education "PhD, Computer Science, Purdue University . MS, Electrical Engineering, Notre Dame University. BS (cum laude), Computer Science and Electrical Engineering, Rose-Hulman Institute of Technology." ; 
     cb:email "brian.l.stuart@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Stuart-Brian/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/Stuart_Brian.ashx?h=160&la=en&w=125&hash=29689F98813F9E6A9C342AFA967E17C5BA006622" ; 
     cb:publications "“Inferno in Embedded Space: Porting to the Sun SPOT,” Proceedings of the 8th International Workshop on Plan 9, 2013.. “A File System for Laptops,” Proceedings of the 4th International Workshop on Plan 9, 2009.. “Two Enhancements for Native Inferno,” Proceedings of the 4th International Workshop on Plan 9, 2009.." ; 
     cb:phone "215.895.3921" ; 
@@ -982,6 +1003,7 @@
     cb:room "University Crossings 131" ; 
     cb:education "PhD, Computer Science, Polytechnic University. MS, Computer Science, New Jersey Institute of Technology. BS, Computer Science, New Jersey Institute of Technology." ; 
     cb:email "filippos.i.vokolos@drexel.edu" ; 
+    cb:website "http://drexel.edu//cci/contact/Faculty/Vokolos-Filippos/" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/vokolos-filippos.ashx?h=147&la=en&w=121&hash=D3B1E4F6D20BA9D90F3A1E0A5FC145D24A570813" ; 
     cb:publications "“Scenariographer: A Tool for Reverse Engineering Class Usage Scenarios from Method Invocation Sequences”, Proceedings 21st IEEE International Conference on Software Maintenance (ICSM 2005), Budapest, Hungary, Sept. 2005. [Co-authors: M. Salah, T. Denton, S. Mancoridis, and A. Shokoufandeh] . “An AGENDA for Testing Relational Database Applications”, Journal of Software Testing, Verification, and Reliability, 14:17‐44, March 2004. [Co‐authors: D. Chays, Y. Deng, P.G. Frankl, and E. J. Weyuker] . “An Empirical Comparison of Two Safe Regression Test Selection Techniques”, Proc. IEEE International Symposium on Empirical Software Engineering (ISESE 2003), Rome, Italy, Sept. 2003. [Co‐authors: P.G. Frankl, G. Rothermel, and K. Sayre] ." ; 
     cb:phone "215.895.3935" ; 
@@ -1047,10 +1069,10 @@
     cb:email "chris.yang@drexel.edu" ; 
     cb:website "http://cci.drexel.edu/faculty/cyang" ; 
     cb:picture "http://drexel.edu//~/media/Images/cci/Faculty/yang-chris.ashx?h=160&la=en&w=125&hash=516D70BF32E1B2E9403DE11F7D20095270829882" ; 
-    cb:publications "C. C. Yang, H. Yang, and L. Jiang, “Postmarketing Drug Safety Surveillance using Publicly Available Health Consumer Contributed Content in Social Media,” ACM Transactions on Management Information Systems, vol.5, no.1, April, 2014.. Z. Hai, K. Chang, J. Ki, and C. C. Yang, “Identifying Features in Opinion Mining via Intrinsic and Extrinsic Domain Relevance,” IEEE Transactions on Knowledge and Data Engineering, Vol.26, Issue.3, March, 2014, pp.623-634.. C. C. Yang, X. Tang, H. Yang, and L. Jiang, “Identifying Implicit and Explicit Relationships in Social Commerce Activities,” International Journal of Electronic Commerce, vol.18, no.2, Winter, 2013-2014, pp.73-96.." ; 
+    cb:publications "Q. Ping, C. C. Yang, S. Marshall, N. Avis, and E. H. Ip, “Breast Cancer Symptom Clusters Derived from Social Media and Research Study Data Using Improved K-Medoid Clustering,” IEEE Transactions on Computational Social Systems, vol.3, no.2, 2016, pp. 63 – 74.. H. Yang and C. C. Yang, “Using Health Consumer Contributed Data to Detect Adverse Drug Reactions by Association Mining with Temporal Analysis,” ACM Transactions on Intelligent Systems and Technology, vol.6, no.4, August, 2015.. Z. Hai, K. Chang, G. Cong, and C. C. Yang, “An Association-based Unified Framework for Mining Features and Opinion Words,” ACM Transactions on Intelligent Systems and Technology, vol.6, no. 2, May 2015, 26:1-21.." ; 
     cb:phone "215.895.1631" ; 
     cb:interests "Healthcare informatics, social media analytics, knowledge discovery, Web search and mining, recommendation systems, pharmacovigilance, drug repositioning, electronic commerce, intelligence and security informatics" ; 
-    cb:bio "Dr. Yang's research interests include Web search and mining, security informatics, knowledge management, cross-lingual information retrieval, text summarization, multimedia retrieval, information visualization, information sharing and privacy, digital library, and electronic commerce. His teaching interests include data mining, artificial intelligence, information retrieval, information systems analysis and design." .
+    cb:bio "Dr. Yang's research interests include Web search and mining, security informatics, knowledge management, cross-lingual information retrieval, text summarization, multimedia retrieval, information visualization, information sharing and privacy, digital library, and electronic commerce. His teaching interests include data mining, artificial intelligence, information retrieval, information systems analysis and design. He is the program director of the MS in Health Informatics." .
 
 <#Valerie-Yonker>
     cb:name "Valerie Ann Yonker" ; 

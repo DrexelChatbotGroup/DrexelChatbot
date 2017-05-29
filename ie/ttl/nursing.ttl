@@ -1,6 +1,19 @@
 @base <http://drexelchatbot.com/rdf/> .
 @prefix cb: <http://drexelchatbot.com/rdf/> .
 
+<#Rita-Adeniran>
+    cb:name "Rita K. Adeniran" ; 
+    cb:name "Adeniran" ; 
+    cb:property "faculty" ; 
+    cb:title "Assistant Clinical Professor" ; 
+    cb:room "rka32@drexel.edu" ; 
+    cb:education "DrNP, RN, NEA-BC, FAAN" ; 
+    cb:website "http://drexel.edu/cnhp/faculty/profiles/AdeniranRita/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/cnhp/V2/writer-female-placeholderLIST.ashx?h=150&la=en&w=150&hash=DD722D94CF4C701D68433CABE95510158635C2FF" ; 
+    cb:phone "; 267.359.5791 P" ; 
+    cb:interests "Build and integrate culturally sensitivity knowledge, principles, and solutions to advance equity, eliminate disparities, and develop leaders from traditionally underrepresented groups." ; 
+    cb:bio "Rita K. Adeniran, DrNP, has a compelling record of leadership and advocacy for diversity, inclusivity, and cultural competency in healthcare. Previously, she served as Director of Diversity and Inclusion for the University of Pennsylvania Health System, where she provided strategic leadership and direction for diversity, inclusion, and culturally competent health care. As the Global Nurse Ambassador for the Hospital of the University of Pennsylvania (HUP) for over a decade; she led the scalable Global Nurse Program to bring recognition to the HUP as a leader in cultural competence education and inclusive practice environments, as well as becoming a global resource and clinical education center for nurses worldwide." .
+
 <#Lisa-Aiello>
     cb:name "Lisa B. Aiello" ; 
     cb:name "Aiello" ; 
@@ -2664,6 +2677,20 @@
     cb:phone "585.361.3703 P ; 237.359.5576 F" ; 
     cb:interests "Dr. Willgens conducts research using grounded theory and phenomenology to more fully understand student learning, clinician stress and burn out, and family centered care." ; 
     cb:bio "Annette Willgens is an associate clinical professor, board certified specialist in pediatric physical therapy, and Director of the Clinical Education Program in the Department of Physical therapy and Rehabilitation Sciences. She received her Doctor of Education with a concentration in Higher Education Leadership. She has a graduate certificate in Qualitative Research Methods. Scholarly interests include exploring student centered teaching and learning while on clinical internships, clinician stress and prevention of burnout/compassion fatigue, mindfulness theory, creative curricular design, infant-maternal bonding and its impact on development, and she is currently completing a methodological congruence tool to improve rigor in qualitative inquiry." .
+
+<#Glenn-Williams>
+    cb:name "Glenn Williams" ; 
+    cb:name "Williams" ; 
+    cb:property "faculty" ; 
+    cb:title "Associate Professor & Department Chair" ; 
+    cb:department "Physical Therapy and Rehabilitation Sciences Department" ; 
+    cb:room "Three Parkway, Room 735" ; 
+    cb:education "PT, PhD, ATC" ; 
+    cb:email "glennwms@drexel.edu" ; 
+    cb:website "http://drexel.edu/cnhp/faculty/profiles/WilliamsGlenn/" ; 
+    cb:picture "http://drexel.edu/~/media/Images/cnhp/V2/writer-male-placeholderLIST.ashx?h=150&la=en&w=150&hash=36EDCD1CFB2A776CBF566D355746A35D9AEFC95E" ; 
+    cb:phone "267.359.5544 P ; 267.359.5576 F" ; 
+    cb:bio "Glenn Williams, PT, PhD is an Associate Professor and the Chairman of the Department of Physical Therapy & Rehabilitation Sciences. His entry-level physical therapy training occurred at the US Army-Baylor University program. He received his PhD in Biomechanics & Movement Science from the University of Delaware with mentors Lynn Snyder-Mackler, PT, Distinguished Alumni Professor of Physical Therapy, & Thomas Buchanan, PhD, George W. Laird Professor of Mechanical Engineering." .
 
 <#Linda-Wilson>
     cb:name "Linda Wilson" ; 

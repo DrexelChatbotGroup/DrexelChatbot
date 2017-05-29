@@ -125,11 +125,10 @@
     cb:name "Andres Kriete" ; 
     cb:name "Kriete" ; 
     cb:property "faculty" ; 
-    cb:title "Associate Director for Graduate Studies and Academic Operations, Associate Teaching Professor" ; 
-    cb:room "Bossone 718-B" ; 
+    cb:title "Associate Dean for Academic Affairs" ; 
+    cb:room "Associate Teaching Professor" ; 
     cb:education "PhD" ; 
-    cb:email "ak3652@drexel.edu" ; 
-    cb:interests "Systems biology of aging, control theory, aging physiome, and high-content cellular bioimaging." .
+    cb:interests "Bossone 718-B" .
 
 <#Steven-Kurtz>
     cb:name "Steven Kurtz" ; 
@@ -245,7 +244,7 @@
     cb:name "Rahamim Seliktar" ; 
     cb:name "Seliktar" ; 
     cb:property "faculty" ; 
-    cb:title "Professor and Vice Director" ; 
+    cb:title "Professor" ; 
     cb:room "Bossone 718-A" ; 
     cb:education "PhD" ; 
     cb:email "seliktar@drexel.edu" ; 
@@ -269,7 +268,7 @@
     cb:room "Bossone 710" ; 
     cb:education "PhD" ; 
     cb:email "adrian.c.shieh@drexel.edu" ; 
-    cb:interests "Biomechanics, cancer, cellular engineering, extracellular matrix, fibroblasts, interstitial flow, mechanobiology, tissue engineering, tumor invasion and metastasis, and tumor microenvironment." .
+    cb:interests "3-D cell culture, cancer, cell and tissue engineering, extracellular matrix, fibroblasts, interstitial flow, mechanobiology, mechanotransduction, tumor invasion and metastasis, tumor microenvironment" .
 
 <#Wan-Shih>
     cb:name "Wan Shih" ; 
@@ -523,6 +522,15 @@
     cb:education "PhD" ; 
     cb:email "pilelkes@temple.edu" ; 
     cb:interests "3-D Tissue Engineering: scaffolds, solid-free-form fabrication, smart biomaterials, decelluarized matrices,tissue-specific differentiation, vascularization of engineered tissues,bioreactors. Stem Cell Research: Target differentiation of embryonic and adult stem cells for lung, cardiac, spinal cord and musculoskeletal tisue engineering and regenerative medicine. Space biology: (simulated) microgravity, space flight, NASA Other interests: neurodegenerative diseases, cardiovascular pathophysiology, biomatrices, cell-biomaterials interactions, artificial internal organs, endothelial cell biology, hemodynamic forces, atherosclerosis, genomics, signal transduction." .
+
+<#Vandana-Miller>
+    cb:name "Vandana Miller" ; 
+    cb:name "Miller" ; 
+    cb:property "faculty" ; 
+    cb:title "Director of Plasma Medicine Laboratory and Associate Research Professor" ; 
+    cb:room "C. & J. Nyheim Plasma Institute" ; 
+    cb:education "MD" ; 
+    cb:interests "200 Federal Street, Suite 500" .
 
 <#Alisa-Clyne>
     cb:name "Alisa Morss Clyne" ; 

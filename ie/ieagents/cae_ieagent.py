@@ -44,7 +44,7 @@ class CaeIEAgent(IEAgent):
         for i in range(2, len(elems)-6):
             #print (elems[i])
             nameStr = elems[i].find('strong').getText()
-            print (nameStr)
+            #print (nameStr)
             titleStr = elems[i].br.next_sibling.strip()
             #print (titleStr)
             emailStr = elems[i].select('p')[2].getText()

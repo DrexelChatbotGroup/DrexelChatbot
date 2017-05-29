@@ -29,7 +29,6 @@ class MedicineIEAgent(IEAgent):
         except Exception as exc:
             print('There was a problem: %s' % (exc))
         soup = BeautifulSoup(webpage.text, "html.parser")
-        writeHTMLFile(soup, "medicine.html")
 
         elems = soup.findAll('h3', {"class" : "profile-name"})
         for i in range(0, len(elems)):
@@ -53,7 +52,6 @@ class MedicineIEAgent(IEAgent):
         except Exception as exc:
             print('There was a problem: %s' % (exc))
         soup = BeautifulSoup(webpage.text, "html.parser")
-        writeHTMLFile(soup, "medicine_prof.html")
 
         prof_div = soup.find('div', {"class" : "profile-col1"})
         img = prof_div.select('img')
