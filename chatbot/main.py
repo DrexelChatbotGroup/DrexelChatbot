@@ -15,7 +15,7 @@ def _main(question):
         config = "/home/DrexelChatbot/chatbot/trained_model.m5"
         logfile = "/home/DrexelChatbot/chatbot/chatbot.log"
         
-        logging.basicConfig(filename=logfile, level=logging.DEBUG)
+        logging.basicConfig(filename=logfile, level=logging.INFO)
         logging.info('New call at: ' + time.strftime("%c"))
         logging.info('Recieved input question: ' + question)
 
