@@ -731,6 +731,7 @@
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quartrr?,0,no
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quartee?,0,no
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quartet?,0,no
+,,,,
 ,Where is Augenblick's office?,Where is (Faculty)'s office?,1,yes
 ,Where is Augenblick's office?,Qhere is (Faculty)'s office?,1,yes
 ,Where is Augenblick's office?,Ehere is (Faculty)'s office?,1,yes
@@ -1117,6 +1118,7 @@
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s offive?,1,yes
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s officw?,1,yes
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s officr?,1,yes
+,,,,
 ,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Qhat is Professor (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Ehat is Professor (Faculty)'s email address?,2,yes
@@ -1689,6 +1691,7 @@
 ,,What's (Faculty)'s e-mail addreds?,2,yes
 ,,What's (Faculty)'s e-mail addresa?,2,yes
 ,,What's (Faculty)'s e-mail addresd?,2,yes
+,,,,
 ,Who's office is at Rush 233C?,Who's office is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Qho's office is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Eho's office is at (Building) (Room)?,3,no
@@ -1921,6 +1924,7 @@
 ,,What should I expect to be on (Building) (Room)?,3,no
 ,,What should I expect to be ib (Building) (Room)?,3,no
 ,,What should I expect to be im (Building) (Room)?,3,no
+,,,,
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd from?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Qhere did Professor (Faculty) get his P.hd from?,4,yes
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Ehere did Professor (Faculty) get his P.hd from?,4,yes
@@ -2287,6 +2291,7 @@
 ,,When did (Faculty) graduaye?,4,yes
 ,,When did (Faculty) graduatw?,4,yes
 ,,When did (Faculty) graduatr?,4,yes
+,,,,
 ,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Soes Professor (Faculty) have a website?,5,yes
 ,Does Professor Marcello Balduccinni have a website?,Foes Professor (Faculty) have a website?,5,yes
@@ -2660,6 +2665,7 @@
 ,,Give me professor (Faculty)'s websiye.,5,yes
 ,,Give me professor (Faculty)'s websitw.,5,yes
 ,,Give me professor (Faculty)'s websitr.,5,yes
+,,,,
 ,Who is head of Computer Science Department?,Who is head of (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Qho is head of (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Eho is head of (Department) Department?,6,no
@@ -2997,6 +3003,364 @@
 ,,What is the name of (Department) Department's hesd?,6,no
 ,,What is the name of (Department) Department's heas?,6,no
 ,,What is the name of (Department) Department's heaf?,6,no
+,,,,
+,in what department is marcello balduccini,In what department is (Faculty),6,yes
+,in what department is marcello balduccini,Un what department is (Faculty),6,yes
+,in what department is marcello balduccini,On what department is (Faculty),6,yes
+,in what department is marcello balduccini,Ib what department is (Faculty),6,yes
+,in what department is marcello balduccini,Im what department is (Faculty),6,yes
+,in what department is marcello balduccini,In qhat department is (Faculty),6,yes
+,in what department is marcello balduccini,In ehat department is (Faculty),6,yes
+,in what department is marcello balduccini,In wgat department is (Faculty),6,yes
+,in what department is marcello balduccini,In wjat department is (Faculty),6,yes
+,in what department is marcello balduccini,In whst department is (Faculty),6,yes
+,in what department is marcello balduccini,In whar department is (Faculty),6,yes
+,in what department is marcello balduccini,In whay department is (Faculty),6,yes
+,in what department is marcello balduccini,In what separtment is (Faculty),6,yes
+,in what department is marcello balduccini,In what fepartment is (Faculty),6,yes
+,in what department is marcello balduccini,In what dwpartment is (Faculty),6,yes
+,in what department is marcello balduccini,In what drpartment is (Faculty),6,yes
+,in what department is marcello balduccini,In what deoartment is (Faculty),6,yes
+,in what department is marcello balduccini,In what depsrtment is (Faculty),6,yes
+,in what department is marcello balduccini,In what depaetment is (Faculty),6,yes
+,in what department is marcello balduccini,In what depattment is (Faculty),6,yes
+,in what department is marcello balduccini,In what deparrment is (Faculty),6,yes
+,in what department is marcello balduccini,In what deparyment is (Faculty),6,yes
+,in what department is marcello balduccini,In what departnent is (Faculty),6,yes
+,in what department is marcello balduccini,In what departmwnt is (Faculty),6,yes
+,in what department is marcello balduccini,In what departmrnt is (Faculty),6,yes
+,in what department is marcello balduccini,In what departmebt is (Faculty),6,yes
+,in what department is marcello balduccini,In what departmemt is (Faculty),6,yes
+,in what department is marcello balduccini,In what departmenr is (Faculty),6,yes
+,in what department is marcello balduccini,In what departmeny is (Faculty),6,yes
+,in what department is marcello balduccini,In what department us (Faculty),6,yes
+,in what department is marcello balduccini,In what department os (Faculty),6,yes
+,in what department is marcello balduccini,In what department ia (Faculty),6,yes
+,in what department is marcello balduccini,In what department id (Faculty),6,yes
+,,What department is (Faculty) in?,6,yes
+,,Qhat department is (Faculty) in?,6,yes
+,,Ehat department is (Faculty) in?,6,yes
+,,Wgat department is (Faculty) in?,6,yes
+,,Wjat department is (Faculty) in?,6,yes
+,,Whst department is (Faculty) in?,6,yes
+,,Whar department is (Faculty) in?,6,yes
+,,Whay department is (Faculty) in?,6,yes
+,,What separtment is (Faculty) in?,6,yes
+,,What fepartment is (Faculty) in?,6,yes
+,,What dwpartment is (Faculty) in?,6,yes
+,,What drpartment is (Faculty) in?,6,yes
+,,What deoartment is (Faculty) in?,6,yes
+,,What depsrtment is (Faculty) in?,6,yes
+,,What depaetment is (Faculty) in?,6,yes
+,,What depattment is (Faculty) in?,6,yes
+,,What deparrment is (Faculty) in?,6,yes
+,,What deparyment is (Faculty) in?,6,yes
+,,What departnent is (Faculty) in?,6,yes
+,,What departmwnt is (Faculty) in?,6,yes
+,,What departmrnt is (Faculty) in?,6,yes
+,,What departmebt is (Faculty) in?,6,yes
+,,What departmemt is (Faculty) in?,6,yes
+,,What departmenr is (Faculty) in?,6,yes
+,,What departmeny is (Faculty) in?,6,yes
+,,What department us (Faculty) in?,6,yes
+,,What department os (Faculty) in?,6,yes
+,,What department ia (Faculty) in?,6,yes
+,,What department id (Faculty) in?,6,yes
+,,What department is (Faculty) un?,6,yes
+,,What department is (Faculty) on?,6,yes
+,,What department is (Faculty) ib?,6,yes
+,,What department is (Faculty) im?,6,yes
+,,Whats (Faculty)'s department?,6,yes
+,,Qhats (Faculty)'s department?,6,yes
+,,Ehats (Faculty)'s department?,6,yes
+,,Wgats (Faculty)'s department?,6,yes
+,,Wjats (Faculty)'s department?,6,yes
+,,Whsts (Faculty)'s department?,6,yes
+,,Whars (Faculty)'s department?,6,yes
+,,Whays (Faculty)'s department?,6,yes
+,,Whata (Faculty)'s department?,6,yes
+,,Whatd (Faculty)'s department?,6,yes
+,,Whats (Faculty)'a department?,6,yes
+,,Whats (Faculty)'d department?,6,yes
+,,Whats (Faculty)'s separtment?,6,yes
+,,Whats (Faculty)'s fepartment?,6,yes
+,,Whats (Faculty)'s dwpartment?,6,yes
+,,Whats (Faculty)'s drpartment?,6,yes
+,,Whats (Faculty)'s deoartment?,6,yes
+,,Whats (Faculty)'s depsrtment?,6,yes
+,,Whats (Faculty)'s depaetment?,6,yes
+,,Whats (Faculty)'s depattment?,6,yes
+,,Whats (Faculty)'s deparrment?,6,yes
+,,Whats (Faculty)'s deparyment?,6,yes
+,,Whats (Faculty)'s departnent?,6,yes
+,,Whats (Faculty)'s departmwnt?,6,yes
+,,Whats (Faculty)'s departmrnt?,6,yes
+,,Whats (Faculty)'s departmebt?,6,yes
+,,Whats (Faculty)'s departmemt?,6,yes
+,,Whats (Faculty)'s departmenr?,6,yes
+,,Whats (Faculty)'s departmeny?,6,yes
+,,Do you know (Faculy)'s department?,6,yes
+,,So you know (Faculy)'s department?,6,yes
+,,Fo you know (Faculy)'s department?,6,yes
+,,Di you know (Faculy)'s department?,6,yes
+,,Dp you know (Faculy)'s department?,6,yes
+,,Do tou know (Faculy)'s department?,6,yes
+,,Do uou know (Faculy)'s department?,6,yes
+,,Do yiu know (Faculy)'s department?,6,yes
+,,Do ypu know (Faculy)'s department?,6,yes
+,,Do yoy know (Faculy)'s department?,6,yes
+,,Do yoi know (Faculy)'s department?,6,yes
+,,Do you jnow (Faculy)'s department?,6,yes
+,,Do you lnow (Faculy)'s department?,6,yes
+,,Do you kbow (Faculy)'s department?,6,yes
+,,Do you kmow (Faculy)'s department?,6,yes
+,,Do you kniw (Faculy)'s department?,6,yes
+,,Do you knpw (Faculy)'s department?,6,yes
+,,Do you knoq (Faculy)'s department?,6,yes
+,,Do you knoe (Faculy)'s department?,6,yes
+,,Do you know (Faculy)'a department?,6,yes
+,,Do you know (Faculy)'d department?,6,yes
+,,Do you know (Faculy)'s separtment?,6,yes
+,,Do you know (Faculy)'s fepartment?,6,yes
+,,Do you know (Faculy)'s dwpartment?,6,yes
+,,Do you know (Faculy)'s drpartment?,6,yes
+,,Do you know (Faculy)'s deoartment?,6,yes
+,,Do you know (Faculy)'s depsrtment?,6,yes
+,,Do you know (Faculy)'s depaetment?,6,yes
+,,Do you know (Faculy)'s depattment?,6,yes
+,,Do you know (Faculy)'s deparrment?,6,yes
+,,Do you know (Faculy)'s deparyment?,6,yes
+,,Do you know (Faculy)'s departnent?,6,yes
+,,Do you know (Faculy)'s departmwnt?,6,yes
+,,Do you know (Faculy)'s departmrnt?,6,yes
+,,Do you know (Faculy)'s departmebt?,6,yes
+,,Do you know (Faculy)'s departmemt?,6,yes
+,,Do you know (Faculy)'s departmenr?,6,yes
+,,Do you know (Faculy)'s departmeny?,6,yes
+,,Which department is (Faculty),6,yes
+,,Qhich department is (Faculty),6,yes
+,,Ehich department is (Faculty),6,yes
+,,Wgich department is (Faculty),6,yes
+,,Wjich department is (Faculty),6,yes
+,,Whuch department is (Faculty),6,yes
+,,Whoch department is (Faculty),6,yes
+,,Whixh department is (Faculty),6,yes
+,,Whivh department is (Faculty),6,yes
+,,Whicg department is (Faculty),6,yes
+,,Whicj department is (Faculty),6,yes
+,,Which separtment is (Faculty),6,yes
+,,Which fepartment is (Faculty),6,yes
+,,Which dwpartment is (Faculty),6,yes
+,,Which drpartment is (Faculty),6,yes
+,,Which deoartment is (Faculty),6,yes
+,,Which depsrtment is (Faculty),6,yes
+,,Which depaetment is (Faculty),6,yes
+,,Which depattment is (Faculty),6,yes
+,,Which deparrment is (Faculty),6,yes
+,,Which deparyment is (Faculty),6,yes
+,,Which departnent is (Faculty),6,yes
+,,Which departmwnt is (Faculty),6,yes
+,,Which departmrnt is (Faculty),6,yes
+,,Which departmebt is (Faculty),6,yes
+,,Which departmemt is (Faculty),6,yes
+,,Which departmenr is (Faculty),6,yes
+,,Which departmeny is (Faculty),6,yes
+,,Which department us (Faculty),6,yes
+,,Which department os (Faculty),6,yes
+,,Which department ia (Faculty),6,yes
+,,Which department id (Faculty),6,yes
+,,In which department is (Faculty),6,yes
+,,Un which department is (Faculty),6,yes
+,,On which department is (Faculty),6,yes
+,,Ib which department is (Faculty),6,yes
+,,Im which department is (Faculty),6,yes
+,,In qhich department is (Faculty),6,yes
+,,In ehich department is (Faculty),6,yes
+,,In wgich department is (Faculty),6,yes
+,,In wjich department is (Faculty),6,yes
+,,In whuch department is (Faculty),6,yes
+,,In whoch department is (Faculty),6,yes
+,,In whixh department is (Faculty),6,yes
+,,In whivh department is (Faculty),6,yes
+,,In whicg department is (Faculty),6,yes
+,,In whicj department is (Faculty),6,yes
+,,In which separtment is (Faculty),6,yes
+,,In which fepartment is (Faculty),6,yes
+,,In which dwpartment is (Faculty),6,yes
+,,In which drpartment is (Faculty),6,yes
+,,In which deoartment is (Faculty),6,yes
+,,In which depsrtment is (Faculty),6,yes
+,,In which depaetment is (Faculty),6,yes
+,,In which depattment is (Faculty),6,yes
+,,In which deparrment is (Faculty),6,yes
+,,In which deparyment is (Faculty),6,yes
+,,In which departnent is (Faculty),6,yes
+,,In which departmwnt is (Faculty),6,yes
+,,In which departmrnt is (Faculty),6,yes
+,,In which departmebt is (Faculty),6,yes
+,,In which departmemt is (Faculty),6,yes
+,,In which departmenr is (Faculty),6,yes
+,,In which departmeny is (Faculty),6,yes
+,,In which department us (Faculty),6,yes
+,,In which department os (Faculty),6,yes
+,,In which department ia (Faculty),6,yes
+,,In which department id (Faculty),6,yes
+,,(Faculty)'s department?,6,yes
+,,(Faculty)'a department?,6,yes
+,,(Faculty)'d department?,6,yes
+,,(Faculty)'s separtment?,6,yes
+,,(Faculty)'s fepartment?,6,yes
+,,(Faculty)'s dwpartment?,6,yes
+,,(Faculty)'s drpartment?,6,yes
+,,(Faculty)'s deoartment?,6,yes
+,,(Faculty)'s depsrtment?,6,yes
+,,(Faculty)'s depaetment?,6,yes
+,,(Faculty)'s depattment?,6,yes
+,,(Faculty)'s deparrment?,6,yes
+,,(Faculty)'s deparyment?,6,yes
+,,(Faculty)'s departnent?,6,yes
+,,(Faculty)'s departmwnt?,6,yes
+,,(Faculty)'s departmrnt?,6,yes
+,,(Faculty)'s departmebt?,6,yes
+,,(Faculty)'s departmemt?,6,yes
+,,(Faculty)'s departmenr?,6,yes
+,,(Faculty)'s departmeny?,6,yes
+,,Tell me (Faculty)'s department.,6,yes
+,,Rell me (Faculty)'s department.,6,yes
+,,Yell me (Faculty)'s department.,6,yes
+,,Twll me (Faculty)'s department.,6,yes
+,,Trll me (Faculty)'s department.,6,yes
+,,Tekl me (Faculty)'s department.,6,yes
+,,Telk me (Faculty)'s department.,6,yes
+,,Tell ne (Faculty)'s department.,6,yes
+,,Tell mw (Faculty)'s department.,6,yes
+,,Tell mr (Faculty)'s department.,6,yes
+,,Tell me (Faculty)'a department.,6,yes
+,,Tell me (Faculty)'d department.,6,yes
+,,Tell me (Faculty)'s separtment.,6,yes
+,,Tell me (Faculty)'s fepartment.,6,yes
+,,Tell me (Faculty)'s dwpartment.,6,yes
+,,Tell me (Faculty)'s drpartment.,6,yes
+,,Tell me (Faculty)'s deoartment.,6,yes
+,,Tell me (Faculty)'s depsrtment.,6,yes
+,,Tell me (Faculty)'s depaetment.,6,yes
+,,Tell me (Faculty)'s depattment.,6,yes
+,,Tell me (Faculty)'s deparrment.,6,yes
+,,Tell me (Faculty)'s deparyment.,6,yes
+,,Tell me (Faculty)'s departnent.,6,yes
+,,Tell me (Faculty)'s departmwnt.,6,yes
+,,Tell me (Faculty)'s departmrnt.,6,yes
+,,Tell me (Faculty)'s departmebt.,6,yes
+,,Tell me (Faculty)'s departmemt.,6,yes
+,,Tell me (Faculty)'s departmenr.,6,yes
+,,Tell me (Faculty)'s departmeny.,6,yes
+,,What department does (Faculty) work in?,6,yes
+,,Qhat department does (Faculty) work in?,6,yes
+,,Ehat department does (Faculty) work in?,6,yes
+,,Wgat department does (Faculty) work in?,6,yes
+,,Wjat department does (Faculty) work in?,6,yes
+,,Whst department does (Faculty) work in?,6,yes
+,,Whar department does (Faculty) work in?,6,yes
+,,Whay department does (Faculty) work in?,6,yes
+,,What separtment does (Faculty) work in?,6,yes
+,,What fepartment does (Faculty) work in?,6,yes
+,,What dwpartment does (Faculty) work in?,6,yes
+,,What drpartment does (Faculty) work in?,6,yes
+,,What deoartment does (Faculty) work in?,6,yes
+,,What depsrtment does (Faculty) work in?,6,yes
+,,What depaetment does (Faculty) work in?,6,yes
+,,What depattment does (Faculty) work in?,6,yes
+,,What deparrment does (Faculty) work in?,6,yes
+,,What deparyment does (Faculty) work in?,6,yes
+,,What departnent does (Faculty) work in?,6,yes
+,,What departmwnt does (Faculty) work in?,6,yes
+,,What departmrnt does (Faculty) work in?,6,yes
+,,What departmebt does (Faculty) work in?,6,yes
+,,What departmemt does (Faculty) work in?,6,yes
+,,What departmenr does (Faculty) work in?,6,yes
+,,What departmeny does (Faculty) work in?,6,yes
+,,What department soes (Faculty) work in?,6,yes
+,,What department foes (Faculty) work in?,6,yes
+,,What department dies (Faculty) work in?,6,yes
+,,What department dpes (Faculty) work in?,6,yes
+,,What department dows (Faculty) work in?,6,yes
+,,What department dors (Faculty) work in?,6,yes
+,,What department doea (Faculty) work in?,6,yes
+,,What department doed (Faculty) work in?,6,yes
+,,What department does (Faculty) qork in?,6,yes
+,,What department does (Faculty) eork in?,6,yes
+,,What department does (Faculty) wirk in?,6,yes
+,,What department does (Faculty) wprk in?,6,yes
+,,What department does (Faculty) woek in?,6,yes
+,,What department does (Faculty) wotk in?,6,yes
+,,What department does (Faculty) worj in?,6,yes
+,,What department does (Faculty) worl in?,6,yes
+,,What department does (Faculty) work un?,6,yes
+,,What department does (Faculty) work on?,6,yes
+,,What department does (Faculty) work ib?,6,yes
+,,What department does (Faculty) work im?,6,yes
+,,What is the department of (Faculty)?,6,yes
+,,Qhat is the department of (Faculty)?,6,yes
+,,Ehat is the department of (Faculty)?,6,yes
+,,Wgat is the department of (Faculty)?,6,yes
+,,Wjat is the department of (Faculty)?,6,yes
+,,Whst is the department of (Faculty)?,6,yes
+,,Whar is the department of (Faculty)?,6,yes
+,,Whay is the department of (Faculty)?,6,yes
+,,What us the department of (Faculty)?,6,yes
+,,What os the department of (Faculty)?,6,yes
+,,What ia the department of (Faculty)?,6,yes
+,,What id the department of (Faculty)?,6,yes
+,,What is rhe department of (Faculty)?,6,yes
+,,What is yhe department of (Faculty)?,6,yes
+,,What is tge department of (Faculty)?,6,yes
+,,What is tje department of (Faculty)?,6,yes
+,,What is thw department of (Faculty)?,6,yes
+,,What is thr department of (Faculty)?,6,yes
+,,What is the separtment of (Faculty)?,6,yes
+,,What is the fepartment of (Faculty)?,6,yes
+,,What is the dwpartment of (Faculty)?,6,yes
+,,What is the drpartment of (Faculty)?,6,yes
+,,What is the deoartment of (Faculty)?,6,yes
+,,What is the depsrtment of (Faculty)?,6,yes
+,,What is the depaetment of (Faculty)?,6,yes
+,,What is the depattment of (Faculty)?,6,yes
+,,What is the deparrment of (Faculty)?,6,yes
+,,What is the deparyment of (Faculty)?,6,yes
+,,What is the departnent of (Faculty)?,6,yes
+,,What is the departmwnt of (Faculty)?,6,yes
+,,What is the departmrnt of (Faculty)?,6,yes
+,,What is the departmebt of (Faculty)?,6,yes
+,,What is the departmemt of (Faculty)?,6,yes
+,,What is the departmenr of (Faculty)?,6,yes
+,,What is the departmeny of (Faculty)?,6,yes
+,,What is the department if (Faculty)?,6,yes
+,,What is the department pf (Faculty)?,6,yes
+,,What is the department od (Faculty)?,6,yes
+,,What is the department og (Faculty)?,6,yes
+,,Department of (Faculty)?,6,yes
+,,Separtment of (Faculty)?,6,yes
+,,Fepartment of (Faculty)?,6,yes
+,,Dwpartment of (Faculty)?,6,yes
+,,Drpartment of (Faculty)?,6,yes
+,,Deoartment of (Faculty)?,6,yes
+,,Depsrtment of (Faculty)?,6,yes
+,,Depaetment of (Faculty)?,6,yes
+,,Depattment of (Faculty)?,6,yes
+,,Deparrment of (Faculty)?,6,yes
+,,Deparyment of (Faculty)?,6,yes
+,,Departnent of (Faculty)?,6,yes
+,,Departmwnt of (Faculty)?,6,yes
+,,Departmrnt of (Faculty)?,6,yes
+,,Departmebt of (Faculty)?,6,yes
+,,Departmemt of (Faculty)?,6,yes
+,,Departmenr of (Faculty)?,6,yes
+,,Departmeny of (Faculty)?,6,yes
+,,Department if (Faculty)?,6,yes
+,,Department pf (Faculty)?,6,yes
+,,Department od (Faculty)?,6,yes
+,,Department og (Faculty)?,6,yes
+,,,,
 ,Who is Augenblick?,Who is (Faculty)?,7,yes
 ,Who is Augenblick?,Qho is (Faculty)?,7,yes
 ,Who is Augenblick?,Eho is (Faculty)?,7,yes
@@ -3185,6 +3549,7 @@
 ,,Tell me abour (Faculty),7,yes
 ,,Tell me abouy (Faculty),7,yes
 ,,(Faculty)?,7,yes
+,,,,
 ,What does Mongan look like?,What does (Faculty) look like?,8,yes
 ,What does Mongan look like?,Qhat does (Faculty) look like?,8,yes
 ,What does Mongan look like?,Ehat does (Faculty) look like?,8,yes
@@ -3587,6 +3952,340 @@
 ,,What does professor (Faculty) face look lile?,8,yes
 ,,What does professor (Faculty) face look likw?,8,yes
 ,,What does professor (Faculty) face look likr?,8,yes
+,,Do you have (Faculty)'s picture?,8,yes
+,,So you have (Faculty)'s picture?,8,yes
+,,Fo you have (Faculty)'s picture?,8,yes
+,,Di you have (Faculty)'s picture?,8,yes
+,,Dp you have (Faculty)'s picture?,8,yes
+,,Do tou have (Faculty)'s picture?,8,yes
+,,Do uou have (Faculty)'s picture?,8,yes
+,,Do yiu have (Faculty)'s picture?,8,yes
+,,Do ypu have (Faculty)'s picture?,8,yes
+,,Do yoy have (Faculty)'s picture?,8,yes
+,,Do yoi have (Faculty)'s picture?,8,yes
+,,Do you gave (Faculty)'s picture?,8,yes
+,,Do you jave (Faculty)'s picture?,8,yes
+,,Do you hsve (Faculty)'s picture?,8,yes
+,,Do you hace (Faculty)'s picture?,8,yes
+,,Do you habe (Faculty)'s picture?,8,yes
+,,Do you havw (Faculty)'s picture?,8,yes
+,,Do you havr (Faculty)'s picture?,8,yes
+,,Do you have (Faculty)'a picture?,8,yes
+,,Do you have (Faculty)'d picture?,8,yes
+,,Do you have (Faculty)'s oicture?,8,yes
+,,Do you have (Faculty)'s pucture?,8,yes
+,,Do you have (Faculty)'s pocture?,8,yes
+,,Do you have (Faculty)'s pixture?,8,yes
+,,Do you have (Faculty)'s pivture?,8,yes
+,,Do you have (Faculty)'s picrure?,8,yes
+,,Do you have (Faculty)'s picyure?,8,yes
+,,Do you have (Faculty)'s pictyre?,8,yes
+,,Do you have (Faculty)'s pictire?,8,yes
+,,Do you have (Faculty)'s pictuee?,8,yes
+,,Do you have (Faculty)'s pictute?,8,yes
+,,Do you have (Faculty)'s picturw?,8,yes
+,,Do you have (Faculty)'s picturr?,8,yes
+,,Can you show me (Faculty)'s photo?,8,yes
+,,Xan you show me (Faculty)'s photo?,8,yes
+,,Van you show me (Faculty)'s photo?,8,yes
+,,Csn you show me (Faculty)'s photo?,8,yes
+,,Cab you show me (Faculty)'s photo?,8,yes
+,,Cam you show me (Faculty)'s photo?,8,yes
+,,Can tou show me (Faculty)'s photo?,8,yes
+,,Can uou show me (Faculty)'s photo?,8,yes
+,,Can yiu show me (Faculty)'s photo?,8,yes
+,,Can ypu show me (Faculty)'s photo?,8,yes
+,,Can yoy show me (Faculty)'s photo?,8,yes
+,,Can yoi show me (Faculty)'s photo?,8,yes
+,,Can you ahow me (Faculty)'s photo?,8,yes
+,,Can you dhow me (Faculty)'s photo?,8,yes
+,,Can you sgow me (Faculty)'s photo?,8,yes
+,,Can you sjow me (Faculty)'s photo?,8,yes
+,,Can you shiw me (Faculty)'s photo?,8,yes
+,,Can you shpw me (Faculty)'s photo?,8,yes
+,,Can you shoq me (Faculty)'s photo?,8,yes
+,,Can you shoe me (Faculty)'s photo?,8,yes
+,,Can you show ne (Faculty)'s photo?,8,yes
+,,Can you show mw (Faculty)'s photo?,8,yes
+,,Can you show mr (Faculty)'s photo?,8,yes
+,,Can you show me (Faculty)'a photo?,8,yes
+,,Can you show me (Faculty)'d photo?,8,yes
+,,Can you show me (Faculty)'s ohoto?,8,yes
+,,Can you show me (Faculty)'s pgoto?,8,yes
+,,Can you show me (Faculty)'s pjoto?,8,yes
+,,Can you show me (Faculty)'s phito?,8,yes
+,,Can you show me (Faculty)'s phpto?,8,yes
+,,Can you show me (Faculty)'s phoro?,8,yes
+,,Can you show me (Faculty)'s phoyo?,8,yes
+,,Can you show me (Faculty)'s photi?,8,yes
+,,Can you show me (Faculty)'s photp?,8,yes
+,,Show me (Faculty)'s picture.,8,yes
+,,Ahow me (Faculty)'s picture.,8,yes
+,,Dhow me (Faculty)'s picture.,8,yes
+,,Sgow me (Faculty)'s picture.,8,yes
+,,Sjow me (Faculty)'s picture.,8,yes
+,,Shiw me (Faculty)'s picture.,8,yes
+,,Shpw me (Faculty)'s picture.,8,yes
+,,Shoq me (Faculty)'s picture.,8,yes
+,,Shoe me (Faculty)'s picture.,8,yes
+,,Show ne (Faculty)'s picture.,8,yes
+,,Show mw (Faculty)'s picture.,8,yes
+,,Show mr (Faculty)'s picture.,8,yes
+,,Show me (Faculty)'a picture.,8,yes
+,,Show me (Faculty)'d picture.,8,yes
+,,Show me (Faculty)'s oicture.,8,yes
+,,Show me (Faculty)'s pucture.,8,yes
+,,Show me (Faculty)'s pocture.,8,yes
+,,Show me (Faculty)'s pixture.,8,yes
+,,Show me (Faculty)'s pivture.,8,yes
+,,Show me (Faculty)'s picrure.,8,yes
+,,Show me (Faculty)'s picyure.,8,yes
+,,Show me (Faculty)'s pictyre.,8,yes
+,,Show me (Faculty)'s pictire.,8,yes
+,,Show me (Faculty)'s pictuee.,8,yes
+,,Show me (Faculty)'s pictute.,8,yes
+,,Show me (Faculty)'s picturw.,8,yes
+,,Show me (Faculty)'s picturr.,8,yes
+,,Give me (Faculty)'s picture.,8,yes
+,,Five me (Faculty)'s picture.,8,yes
+,,Hive me (Faculty)'s picture.,8,yes
+,,Guve me (Faculty)'s picture.,8,yes
+,,Gove me (Faculty)'s picture.,8,yes
+,,Gice me (Faculty)'s picture.,8,yes
+,,Gibe me (Faculty)'s picture.,8,yes
+,,Givw me (Faculty)'s picture.,8,yes
+,,Givr me (Faculty)'s picture.,8,yes
+,,Give ne (Faculty)'s picture.,8,yes
+,,Give mw (Faculty)'s picture.,8,yes
+,,Give mr (Faculty)'s picture.,8,yes
+,,Give me (Faculty)'a picture.,8,yes
+,,Give me (Faculty)'d picture.,8,yes
+,,Give me (Faculty)'s oicture.,8,yes
+,,Give me (Faculty)'s pucture.,8,yes
+,,Give me (Faculty)'s pocture.,8,yes
+,,Give me (Faculty)'s pixture.,8,yes
+,,Give me (Faculty)'s pivture.,8,yes
+,,Give me (Faculty)'s picrure.,8,yes
+,,Give me (Faculty)'s picyure.,8,yes
+,,Give me (Faculty)'s pictyre.,8,yes
+,,Give me (Faculty)'s pictire.,8,yes
+,,Give me (Faculty)'s pictuee.,8,yes
+,,Give me (Faculty)'s pictute.,8,yes
+,,Give me (Faculty)'s picturw.,8,yes
+,,Give me (Faculty)'s picturr.,8,yes
+,,Show me (Faculty) photo.,8,yes
+,,Ahow me (Faculty) photo.,8,yes
+,,Dhow me (Faculty) photo.,8,yes
+,,Sgow me (Faculty) photo.,8,yes
+,,Sjow me (Faculty) photo.,8,yes
+,,Shiw me (Faculty) photo.,8,yes
+,,Shpw me (Faculty) photo.,8,yes
+,,Shoq me (Faculty) photo.,8,yes
+,,Shoe me (Faculty) photo.,8,yes
+,,Show ne (Faculty) photo.,8,yes
+,,Show mw (Faculty) photo.,8,yes
+,,Show mr (Faculty) photo.,8,yes
+,,Show me (Faculty) ohoto.,8,yes
+,,Show me (Faculty) pgoto.,8,yes
+,,Show me (Faculty) pjoto.,8,yes
+,,Show me (Faculty) phito.,8,yes
+,,Show me (Faculty) phpto.,8,yes
+,,Show me (Faculty) phoro.,8,yes
+,,Show me (Faculty) phoyo.,8,yes
+,,Show me (Faculty) photi.,8,yes
+,,Show me (Faculty) photp.,8,yes
+,,Give me (Faculty) photo.,8,yes
+,,Five me (Faculty) photo.,8,yes
+,,Hive me (Faculty) photo.,8,yes
+,,Guve me (Faculty) photo.,8,yes
+,,Gove me (Faculty) photo.,8,yes
+,,Gice me (Faculty) photo.,8,yes
+,,Gibe me (Faculty) photo.,8,yes
+,,Givw me (Faculty) photo.,8,yes
+,,Givr me (Faculty) photo.,8,yes
+,,Give ne (Faculty) photo.,8,yes
+,,Give mw (Faculty) photo.,8,yes
+,,Give mr (Faculty) photo.,8,yes
+,,Give me (Faculty) ohoto.,8,yes
+,,Give me (Faculty) pgoto.,8,yes
+,,Give me (Faculty) pjoto.,8,yes
+,,Give me (Faculty) phito.,8,yes
+,,Give me (Faculty) phpto.,8,yes
+,,Give me (Faculty) phoro.,8,yes
+,,Give me (Faculty) phoyo.,8,yes
+,,Give me (Faculty) photi.,8,yes
+,,Give me (Faculty) photp.,8,yes
+,,What is (Faculty)'s picture?,8,yes
+,,Qhat is (Faculty)'s picture?,8,yes
+,,Ehat is (Faculty)'s picture?,8,yes
+,,Wgat is (Faculty)'s picture?,8,yes
+,,Wjat is (Faculty)'s picture?,8,yes
+,,Whst is (Faculty)'s picture?,8,yes
+,,Whar is (Faculty)'s picture?,8,yes
+,,Whay is (Faculty)'s picture?,8,yes
+,,What us (Faculty)'s picture?,8,yes
+,,What os (Faculty)'s picture?,8,yes
+,,What ia (Faculty)'s picture?,8,yes
+,,What id (Faculty)'s picture?,8,yes
+,,What is (Faculty)'a picture?,8,yes
+,,What is (Faculty)'d picture?,8,yes
+,,What is (Faculty)'s oicture?,8,yes
+,,What is (Faculty)'s pucture?,8,yes
+,,What is (Faculty)'s pocture?,8,yes
+,,What is (Faculty)'s pixture?,8,yes
+,,What is (Faculty)'s pivture?,8,yes
+,,What is (Faculty)'s picrure?,8,yes
+,,What is (Faculty)'s picyure?,8,yes
+,,What is (Faculty)'s pictyre?,8,yes
+,,What is (Faculty)'s pictire?,8,yes
+,,What is (Faculty)'s pictuee?,8,yes
+,,What is (Faculty)'s pictute?,8,yes
+,,What is (Faculty)'s picturw?,8,yes
+,,What is (Faculty)'s picturr?,8,yes
+,,Do you have a picture of Vokolos?,8,yes
+,,So you have a picture of Vokolos?,8,yes
+,,Fo you have a picture of Vokolos?,8,yes
+,,Di you have a picture of Vokolos?,8,yes
+,,Dp you have a picture of Vokolos?,8,yes
+,,Do tou have a picture of Vokolos?,8,yes
+,,Do uou have a picture of Vokolos?,8,yes
+,,Do yiu have a picture of Vokolos?,8,yes
+,,Do ypu have a picture of Vokolos?,8,yes
+,,Do yoy have a picture of Vokolos?,8,yes
+,,Do yoi have a picture of Vokolos?,8,yes
+,,Do you gave a picture of Vokolos?,8,yes
+,,Do you jave a picture of Vokolos?,8,yes
+,,Do you hsve a picture of Vokolos?,8,yes
+,,Do you hace a picture of Vokolos?,8,yes
+,,Do you habe a picture of Vokolos?,8,yes
+,,Do you havw a picture of Vokolos?,8,yes
+,,Do you havr a picture of Vokolos?,8,yes
+,,Do you have s picture of Vokolos?,8,yes
+,,Do you have a oicture of Vokolos?,8,yes
+,,Do you have a pucture of Vokolos?,8,yes
+,,Do you have a pocture of Vokolos?,8,yes
+,,Do you have a pixture of Vokolos?,8,yes
+,,Do you have a pivture of Vokolos?,8,yes
+,,Do you have a picrure of Vokolos?,8,yes
+,,Do you have a picyure of Vokolos?,8,yes
+,,Do you have a pictyre of Vokolos?,8,yes
+,,Do you have a pictire of Vokolos?,8,yes
+,,Do you have a pictuee of Vokolos?,8,yes
+,,Do you have a pictute of Vokolos?,8,yes
+,,Do you have a picturw of Vokolos?,8,yes
+,,Do you have a picturr of Vokolos?,8,yes
+,,Do you have a picture if Vokolos?,8,yes
+,,Do you have a picture pf Vokolos?,8,yes
+,,Do you have a picture od Vokolos?,8,yes
+,,Do you have a picture og Vokolos?,8,yes
+,,Do you have a picture of Cokolos?,8,yes
+,,Do you have a picture of Bokolos?,8,yes
+,,Do you have a picture of Vikolos?,8,yes
+,,Do you have a picture of Vpkolos?,8,yes
+,,Do you have a picture of Vojolos?,8,yes
+,,Do you have a picture of Vololos?,8,yes
+,,Do you have a picture of Vokilos?,8,yes
+,,Do you have a picture of Vokplos?,8,yes
+,,Do you have a picture of Vokokos?,8,yes
+,,Do you have a picture of Vokolis?,8,yes
+,,Do you have a picture of Vokolps?,8,yes
+,,Do you have a picture of Vokoloa?,8,yes
+,,Do you have a picture of Vokolod?,8,yes
+,,Do you have (Faculty)'s photo?,8,yes
+,,So you have (Faculty)'s photo?,8,yes
+,,Fo you have (Faculty)'s photo?,8,yes
+,,Di you have (Faculty)'s photo?,8,yes
+,,Dp you have (Faculty)'s photo?,8,yes
+,,Do tou have (Faculty)'s photo?,8,yes
+,,Do uou have (Faculty)'s photo?,8,yes
+,,Do yiu have (Faculty)'s photo?,8,yes
+,,Do ypu have (Faculty)'s photo?,8,yes
+,,Do yoy have (Faculty)'s photo?,8,yes
+,,Do yoi have (Faculty)'s photo?,8,yes
+,,Do you gave (Faculty)'s photo?,8,yes
+,,Do you jave (Faculty)'s photo?,8,yes
+,,Do you hsve (Faculty)'s photo?,8,yes
+,,Do you hace (Faculty)'s photo?,8,yes
+,,Do you habe (Faculty)'s photo?,8,yes
+,,Do you havw (Faculty)'s photo?,8,yes
+,,Do you havr (Faculty)'s photo?,8,yes
+,,Do you have (Faculty)'a photo?,8,yes
+,,Do you have (Faculty)'d photo?,8,yes
+,,Do you have (Faculty)'s ohoto?,8,yes
+,,Do you have (Faculty)'s pgoto?,8,yes
+,,Do you have (Faculty)'s pjoto?,8,yes
+,,Do you have (Faculty)'s phito?,8,yes
+,,Do you have (Faculty)'s phpto?,8,yes
+,,Do you have (Faculty)'s phoro?,8,yes
+,,Do you have (Faculty)'s phoyo?,8,yes
+,,Do you have (Faculty)'s photi?,8,yes
+,,Do you have (Faculty)'s photp?,8,yes
+,,Do you have (Faculty)'s picture?,8,yes
+,,So you have (Faculty)'s picture?,8,yes
+,,Fo you have (Faculty)'s picture?,8,yes
+,,Di you have (Faculty)'s picture?,8,yes
+,,Dp you have (Faculty)'s picture?,8,yes
+,,Do tou have (Faculty)'s picture?,8,yes
+,,Do uou have (Faculty)'s picture?,8,yes
+,,Do yiu have (Faculty)'s picture?,8,yes
+,,Do ypu have (Faculty)'s picture?,8,yes
+,,Do yoy have (Faculty)'s picture?,8,yes
+,,Do yoi have (Faculty)'s picture?,8,yes
+,,Do you gave (Faculty)'s picture?,8,yes
+,,Do you jave (Faculty)'s picture?,8,yes
+,,Do you hsve (Faculty)'s picture?,8,yes
+,,Do you hace (Faculty)'s picture?,8,yes
+,,Do you habe (Faculty)'s picture?,8,yes
+,,Do you havw (Faculty)'s picture?,8,yes
+,,Do you havr (Faculty)'s picture?,8,yes
+,,Do you have (Faculty)'a picture?,8,yes
+,,Do you have (Faculty)'d picture?,8,yes
+,,Do you have (Faculty)'s oicture?,8,yes
+,,Do you have (Faculty)'s pucture?,8,yes
+,,Do you have (Faculty)'s pocture?,8,yes
+,,Do you have (Faculty)'s pixture?,8,yes
+,,Do you have (Faculty)'s pivture?,8,yes
+,,Do you have (Faculty)'s picrure?,8,yes
+,,Do you have (Faculty)'s picyure?,8,yes
+,,Do you have (Faculty)'s pictyre?,8,yes
+,,Do you have (Faculty)'s pictire?,8,yes
+,,Do you have (Faculty)'s pictuee?,8,yes
+,,Do you have (Faculty)'s pictute?,8,yes
+,,Do you have (Faculty)'s picturw?,8,yes
+,,Do you have (Faculty)'s picturr?,8,yes
+,,(Faculty)'s picture?,8,yes
+,,(Faculty)'a picture?,8,yes
+,,(Faculty)'d picture?,8,yes
+,,(Faculty)'s oicture?,8,yes
+,,(Faculty)'s pucture?,8,yes
+,,(Faculty)'s pocture?,8,yes
+,,(Faculty)'s pixture?,8,yes
+,,(Faculty)'s pivture?,8,yes
+,,(Faculty)'s picrure?,8,yes
+,,(Faculty)'s picyure?,8,yes
+,,(Faculty)'s pictyre?,8,yes
+,,(Faculty)'s pictire?,8,yes
+,,(Faculty)'s pictuee?,8,yes
+,,(Faculty)'s pictute?,8,yes
+,,(Faculty)'s picturw?,8,yes
+,,(Faculty)'s picturr?,8,yes
+,,(Faculty)'s picture?,8,yes
+,,(Faculty)'a picture?,8,yes
+,,(Faculty)'d picture?,8,yes
+,,(Faculty)'s oicture?,8,yes
+,,(Faculty)'s pucture?,8,yes
+,,(Faculty)'s pocture?,8,yes
+,,(Faculty)'s pixture?,8,yes
+,,(Faculty)'s pivture?,8,yes
+,,(Faculty)'s picrure?,8,yes
+,,(Faculty)'s picyure?,8,yes
+,,(Faculty)'s pictyre?,8,yes
+,,(Faculty)'s pictire?,8,yes
+,,(Faculty)'s pictuee?,8,yes
+,,(Faculty)'s pictute?,8,yes
+,,(Faculty)'s picturw?,8,yes
+,,(Faculty)'s picturr?,8,yes
+,,,,
 ,What is Mongan's research interestr?,What is (Faculty)'s research interest? ,9,yes
 ,What is Mongan's research interestr?,Qhat is (Faculty)'s research interest? ,9,yes
 ,What is Mongan's research interestr?,Ehat is (Faculty)'s research interest? ,9,yes
@@ -3841,6 +4540,54 @@
 ,,What is (Faculty)'s interested on? ,9,yes
 ,,What is (Faculty)'s interested ib? ,9,yes
 ,,What is (Faculty)'s interested im? ,9,yes
+,,What are (Faculty)'s research interests? ,9,yes
+,,Qhat are (Faculty)'s research interests? ,9,yes
+,,Ehat are (Faculty)'s research interests? ,9,yes
+,,Wgat are (Faculty)'s research interests? ,9,yes
+,,Wjat are (Faculty)'s research interests? ,9,yes
+,,Whst are (Faculty)'s research interests? ,9,yes
+,,Whar are (Faculty)'s research interests? ,9,yes
+,,Whay are (Faculty)'s research interests? ,9,yes
+,,What sre (Faculty)'s research interests? ,9,yes
+,,What aee (Faculty)'s research interests? ,9,yes
+,,What ate (Faculty)'s research interests? ,9,yes
+,,What arw (Faculty)'s research interests? ,9,yes
+,,What arr (Faculty)'s research interests? ,9,yes
+,,What are (Faculty)'a research interests? ,9,yes
+,,What are (Faculty)'d research interests? ,9,yes
+,,What are (Faculty)'s eesearch interests? ,9,yes
+,,What are (Faculty)'s tesearch interests? ,9,yes
+,,What are (Faculty)'s rwsearch interests? ,9,yes
+,,What are (Faculty)'s rrsearch interests? ,9,yes
+,,What are (Faculty)'s reaearch interests? ,9,yes
+,,What are (Faculty)'s redearch interests? ,9,yes
+,,What are (Faculty)'s reswarch interests? ,9,yes
+,,What are (Faculty)'s resrarch interests? ,9,yes
+,,What are (Faculty)'s resesrch interests? ,9,yes
+,,What are (Faculty)'s reseaech interests? ,9,yes
+,,What are (Faculty)'s reseatch interests? ,9,yes
+,,What are (Faculty)'s researxh interests? ,9,yes
+,,What are (Faculty)'s researvh interests? ,9,yes
+,,What are (Faculty)'s researcg interests? ,9,yes
+,,What are (Faculty)'s researcj interests? ,9,yes
+,,What are (Faculty)'s research unterests? ,9,yes
+,,What are (Faculty)'s research onterests? ,9,yes
+,,What are (Faculty)'s research ibterests? ,9,yes
+,,What are (Faculty)'s research imterests? ,9,yes
+,,What are (Faculty)'s research inrerests? ,9,yes
+,,What are (Faculty)'s research inyerests? ,9,yes
+,,What are (Faculty)'s research intwrests? ,9,yes
+,,What are (Faculty)'s research intrrests? ,9,yes
+,,What are (Faculty)'s research inteeests? ,9,yes
+,,What are (Faculty)'s research intetests? ,9,yes
+,,What are (Faculty)'s research interwsts? ,9,yes
+,,What are (Faculty)'s research interrsts? ,9,yes
+,,What are (Faculty)'s research intereats? ,9,yes
+,,What are (Faculty)'s research interedts? ,9,yes
+,,What are (Faculty)'s research interesrs? ,9,yes
+,,What are (Faculty)'s research interesys? ,9,yes
+,,What are (Faculty)'s research interesta? ,9,yes
+,,What are (Faculty)'s research interestd? ,9,yes
 ,,What does (Faculty) research? ,9,yes
 ,,Qhat does (Faculty) research? ,9,yes
 ,,Ehat does (Faculty) research? ,9,yes
@@ -3952,6 +4699,37 @@
 ,,What does (Faculty) currently researvh? ,9,yes
 ,,What does (Faculty) currently researcg? ,9,yes
 ,,What does (Faculty) currently researcj? ,9,yes
+,,What is (Faculty)'s interest? ,9,yes
+,,Qhat is (Faculty)'s interest? ,9,yes
+,,Ehat is (Faculty)'s interest? ,9,yes
+,,Wgat is (Faculty)'s interest? ,9,yes
+,,Wjat is (Faculty)'s interest? ,9,yes
+,,Whst is (Faculty)'s interest? ,9,yes
+,,Whar is (Faculty)'s interest? ,9,yes
+,,Whay is (Faculty)'s interest? ,9,yes
+,,What us (Faculty)'s interest? ,9,yes
+,,What os (Faculty)'s interest? ,9,yes
+,,What ia (Faculty)'s interest? ,9,yes
+,,What id (Faculty)'s interest? ,9,yes
+,,What is (Faculty)'a interest? ,9,yes
+,,What is (Faculty)'d interest? ,9,yes
+,,What is (Faculty)'s unterest? ,9,yes
+,,What is (Faculty)'s onterest? ,9,yes
+,,What is (Faculty)'s ibterest? ,9,yes
+,,What is (Faculty)'s imterest? ,9,yes
+,,What is (Faculty)'s inrerest? ,9,yes
+,,What is (Faculty)'s inyerest? ,9,yes
+,,What is (Faculty)'s intwrest? ,9,yes
+,,What is (Faculty)'s intrrest? ,9,yes
+,,What is (Faculty)'s inteeest? ,9,yes
+,,What is (Faculty)'s intetest? ,9,yes
+,,What is (Faculty)'s interwst? ,9,yes
+,,What is (Faculty)'s interrst? ,9,yes
+,,What is (Faculty)'s intereat? ,9,yes
+,,What is (Faculty)'s interedt? ,9,yes
+,,What is (Faculty)'s interesr? ,9,yes
+,,What is (Faculty)'s interesy? ,9,yes
+,,,,
 ,What is Mongan's position?,What is (Faculty)'s position?,10,yes
 ,What is Mongan's position?,Qhat is (Faculty)'s position?,10,yes
 ,What is Mongan's position?,Ehat is (Faculty)'s position?,10,yes
@@ -4270,6 +5048,7 @@
 ,,Give me professor (Faculty)'s positipn.,10,yes
 ,,Give me professor (Faculty)'s positiob.,10,yes
 ,,Give me professor (Faculty)'s positiom.,10,yes
+,,,,
 ,What is Mongan's phone number?,What is (faculty)'s phone number? ,11,yes
 ,What is Mongan's phone number?,Qhat is (faculty)'s phone number? ,11,yes
 ,What is Mongan's phone number?,Ehat is (faculty)'s phone number? ,11,yes
@@ -4729,149 +5508,209 @@
 ,What is the number to use for Professor Mongan?,What is the number to use for Professpr (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,What is the number to use for Professoe (faculty)?,11,yes
 ,What is the number to use for Professor Mongan?,What is the number to use for Professot (faculty)?,11,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Qhat are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Ehat are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Wgat are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Wjat are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Whst are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Whar are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,Whay are some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What sre some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What aee some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What ate some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What arw some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What arr some (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are aome (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are dome (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are sime (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are spme (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are sone (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are somw (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are somr (Publications) of Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) if Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) pf Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) od Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) og Professor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Orofessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Peofessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Ptofessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Prifessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Prpfessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Prodessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Progessor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Profwssor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Profrssor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Profeasor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Profedsor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Profesaor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Profesdor (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professir (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professpr (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professoe (Faculty)?,12,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professot (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Qhat is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Ehat is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Wgat is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Wjat is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Whst is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Whar is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,Whay is the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What us the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What os the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What ia the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What id the most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is rhe most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is yhe most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is tge most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is tje most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is thw most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is thr most recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the nost recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the mist recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the mpst recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the moat recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the modt recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the mosr recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the mosy recent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most eecent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most tecent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most rwcent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most rrcent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most rexent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most revent (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recwnt (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recrnt (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recebt (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recemt (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recenr (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most receny (Publication) authored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) suthored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) aythored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) aithored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) aurhored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) auyhored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) autgored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) autjored by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authired by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authpred by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authoeed by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authoted by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authorwd by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authorrd by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authores by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authoref by (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored vy (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored ny (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored bt (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored bu (Faculty)?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Qhat are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Ehat are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Wgat are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Wjat are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Whst are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Whar are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,Whay are some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What sre some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What aee some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What ate some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What arw some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What arr some (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are aome (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are dome (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are sime (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are spme (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are sone (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are somw (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are somr (Publications) about (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) sbout (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) avout (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) anout (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) abiut (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) abput (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) aboyt (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) aboit (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) abour (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) abouy (Faculty)'s research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'a research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'d research?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s eesearch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s tesearch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s rwsearch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s rrsearch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s reaearch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s redearch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s reswarch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s resrarch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s resesrch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s reseaech?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s reseatch?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researxh?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researvh?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researcg?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s researcj?,12,yes
+,,,,
+,What are some publications of Professor Mongan?,What are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Qhat are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Ehat are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Wgat are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Wjat are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Whst are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Whar are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,Whay are some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What sre some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What aee some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What ate some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What arw some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What arr some publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are aome publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are dome publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are sime publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are spme publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are sone publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are somw publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are somr publications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some oublications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some pyblications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some piblications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some puvlications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some punlications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some pubkications of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publucations of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publocations of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publixations of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publivations of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicstions of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicarions of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicayions of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicatuons of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicatoons of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicatiins of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicatipns of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicatiobs of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicatioms of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicationa of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publicationd of Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications if Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications pf Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications od Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications og Professor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Orofessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Peofessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Ptofessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Prifessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Prpfessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Prodessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Progessor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Profwssor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Profrssor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Profeasor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Profedsor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Profesaor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Profesdor (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Professir (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Professpr (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Professoe (Faculty)?,12,yes
+,What are some publications of Professor Mongan?,What are some publications of Professot (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Qhat is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Ehat is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Wgat is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Wjat is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Whst is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Whar is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,Whay is the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What us the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What os the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What ia the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What id the most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is rhe most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is yhe most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is tge most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is tje most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is thw most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is thr most recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the nost recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the mist recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the mpst recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the moat recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the modt recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the mosr recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the mosy recent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most eecent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most tecent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most rwcent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most rrcent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most rexent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most revent publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recwnt publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recrnt publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recebt publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recemt publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recenr publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most receny publication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent oublication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent pyblication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent piblication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent puvlication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent punlication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent pubkication authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publucation authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publocation authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publixation authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publivation authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicstion authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicarion authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicayion authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicatuon authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicatoon authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicatiin authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicatipn authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicatiob authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publicatiom authored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication suthored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication aythored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication aithored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication aurhored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication auyhored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication autgored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication autjored by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authired by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authpred by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authoeed by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authoted by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authorwd by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authorrd by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authores by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authoref by (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authored vy (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authored ny (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authored bt (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authored bu (Faculty)?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Qhat are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Ehat are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Wgat are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Wjat are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Whst are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Whar are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,Whay are some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What sre some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What aee some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What ate some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What arw some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What arr some publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are aome publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are dome publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are sime publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are spme publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are sone publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are somw publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are somr publication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some oublication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some pyblication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some piblication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some puvlication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some punlication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some pubkication  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publucation  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publocation  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publixation  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publivation  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicstion  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicarion  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicayion  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicatuon  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicatoon  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicatiin  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicatipn  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicatiob  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publicatiom  about (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  sbout (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  avout (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  anout (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  abiut (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  abput (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  aboyt (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  aboit (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  abour (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  abouy (Faculty)'s research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'a research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'d research?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s eesearch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s tesearch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s rwsearch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s rrsearch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s reaearch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s redearch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s reswarch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s resrarch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s resesrch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s reseaech?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s reseatch?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s researxh?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s researvh?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s researcg?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s researcj?,12,yes
 ,I want to read a paper from Vokolos.,I want to read a paper from (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,U want to read a paper from (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,O want to read a paper from (Faculty).,12,yes
@@ -4908,135 +5747,237 @@
 ,I want to read a paper from Vokolos.,I want to read a paper frim (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,I want to read a paper frpm (Faculty).,12,yes
 ,I want to read a paper from Vokolos.,I want to read a paper fron (Faculty).,12,yes
-,,What is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Qhat is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Ehat is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Wgat is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Wjat is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Whst is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Whar is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,Whay is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What us the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What os the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What ia the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What id the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is rhe most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is yhe most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is tge most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is tje most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is thw most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is thr most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the nost recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the mist recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the mpst recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the moat recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the modt recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the mosr recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the mosy recent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most eecent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most tecent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most rwcent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most rrcent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most rexent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most revent (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most recwnt (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most recrnt (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most recebt (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most recemt (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most recenr (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most receny (Publication) authored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) suthored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) aythored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) aithored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) aurhored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) auyhored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) autgored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) autjored by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authired by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authpred by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authoeed by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authoted by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authorwd by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authorrd by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authores by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authoref by professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored vy professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored ny professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored bt professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored bu professor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by orofessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by peofessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by ptofessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by prifessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by prpfessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by prodessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by progessor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by profwssor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by profrssor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by profeasor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by profedsor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by profesaor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by profesdor (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by professir (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by professpr (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by professoe (Faculty)?,12,yes
-,,What is the most recent (Publication) authored by professot (Faculty)?,12,yes
-,,What are some (Publications) of (Faculty)?,12,yes
-,,Qhat are some (Publications) of (Faculty)?,12,yes
-,,Ehat are some (Publications) of (Faculty)?,12,yes
-,,Wgat are some (Publications) of (Faculty)?,12,yes
-,,Wjat are some (Publications) of (Faculty)?,12,yes
-,,Whst are some (Publications) of (Faculty)?,12,yes
-,,Whar are some (Publications) of (Faculty)?,12,yes
-,,Whay are some (Publications) of (Faculty)?,12,yes
-,,What sre some (Publications) of (Faculty)?,12,yes
-,,What aee some (Publications) of (Faculty)?,12,yes
-,,What ate some (Publications) of (Faculty)?,12,yes
-,,What arw some (Publications) of (Faculty)?,12,yes
-,,What arr some (Publications) of (Faculty)?,12,yes
-,,What are aome (Publications) of (Faculty)?,12,yes
-,,What are dome (Publications) of (Faculty)?,12,yes
-,,What are sime (Publications) of (Faculty)?,12,yes
-,,What are spme (Publications) of (Faculty)?,12,yes
-,,What are sone (Publications) of (Faculty)?,12,yes
-,,What are somw (Publications) of (Faculty)?,12,yes
-,,What are somr (Publications) of (Faculty)?,12,yes
-,,What are some (Publications) if (Faculty)?,12,yes
-,,What are some (Publications) pf (Faculty)?,12,yes
-,,What are some (Publications) od (Faculty)?,12,yes
-,,What are some (Publications) og (Faculty)?,12,yes
-,,Give me (Publications) of (Faculty).,12,yes
-,,Five me (Publications) of (Faculty).,12,yes
-,,Hive me (Publications) of (Faculty).,12,yes
-,,Guve me (Publications) of (Faculty).,12,yes
-,,Gove me (Publications) of (Faculty).,12,yes
-,,Gice me (Publications) of (Faculty).,12,yes
-,,Gibe me (Publications) of (Faculty).,12,yes
-,,Givw me (Publications) of (Faculty).,12,yes
-,,Givr me (Publications) of (Faculty).,12,yes
-,,Give ne (Publications) of (Faculty).,12,yes
-,,Give mw (Publications) of (Faculty).,12,yes
-,,Give mr (Publications) of (Faculty).,12,yes
-,,Give me (Publications) if (Faculty).,12,yes
-,,Give me (Publications) pf (Faculty).,12,yes
-,,Give me (Publications) od (Faculty).,12,yes
-,,Give me (Publications) og (Faculty).,12,yes
-,,Show me (Publications) of (Faculty).,12,yes
-,,Ahow me (Publications) of (Faculty).,12,yes
-,,Dhow me (Publications) of (Faculty).,12,yes
-,,Sgow me (Publications) of (Faculty).,12,yes
-,,Sjow me (Publications) of (Faculty).,12,yes
-,,Shiw me (Publications) of (Faculty).,12,yes
-,,Shpw me (Publications) of (Faculty).,12,yes
-,,Shoq me (Publications) of (Faculty).,12,yes
-,,Shoe me (Publications) of (Faculty).,12,yes
-,,Show ne (Publications) of (Faculty).,12,yes
-,,Show mw (Publications) of (Faculty).,12,yes
-,,Show mr (Publications) of (Faculty).,12,yes
-,,Show me (Publications) if (Faculty).,12,yes
-,,Show me (Publications) pf (Faculty).,12,yes
-,,Show me (Publications) od (Faculty).,12,yes
-,,Show me (Publications) og (Faculty).,12,yes
+,,What is the most recent publication authored by professor (Faculty)?,12,yes
+,,Qhat is the most recent publication authored by professor (Faculty)?,12,yes
+,,Ehat is the most recent publication authored by professor (Faculty)?,12,yes
+,,Wgat is the most recent publication authored by professor (Faculty)?,12,yes
+,,Wjat is the most recent publication authored by professor (Faculty)?,12,yes
+,,Whst is the most recent publication authored by professor (Faculty)?,12,yes
+,,Whar is the most recent publication authored by professor (Faculty)?,12,yes
+,,Whay is the most recent publication authored by professor (Faculty)?,12,yes
+,,What us the most recent publication authored by professor (Faculty)?,12,yes
+,,What os the most recent publication authored by professor (Faculty)?,12,yes
+,,What ia the most recent publication authored by professor (Faculty)?,12,yes
+,,What id the most recent publication authored by professor (Faculty)?,12,yes
+,,What is rhe most recent publication authored by professor (Faculty)?,12,yes
+,,What is yhe most recent publication authored by professor (Faculty)?,12,yes
+,,What is tge most recent publication authored by professor (Faculty)?,12,yes
+,,What is tje most recent publication authored by professor (Faculty)?,12,yes
+,,What is thw most recent publication authored by professor (Faculty)?,12,yes
+,,What is thr most recent publication authored by professor (Faculty)?,12,yes
+,,What is the nost recent publication authored by professor (Faculty)?,12,yes
+,,What is the mist recent publication authored by professor (Faculty)?,12,yes
+,,What is the mpst recent publication authored by professor (Faculty)?,12,yes
+,,What is the moat recent publication authored by professor (Faculty)?,12,yes
+,,What is the modt recent publication authored by professor (Faculty)?,12,yes
+,,What is the mosr recent publication authored by professor (Faculty)?,12,yes
+,,What is the mosy recent publication authored by professor (Faculty)?,12,yes
+,,What is the most eecent publication authored by professor (Faculty)?,12,yes
+,,What is the most tecent publication authored by professor (Faculty)?,12,yes
+,,What is the most rwcent publication authored by professor (Faculty)?,12,yes
+,,What is the most rrcent publication authored by professor (Faculty)?,12,yes
+,,What is the most rexent publication authored by professor (Faculty)?,12,yes
+,,What is the most revent publication authored by professor (Faculty)?,12,yes
+,,What is the most recwnt publication authored by professor (Faculty)?,12,yes
+,,What is the most recrnt publication authored by professor (Faculty)?,12,yes
+,,What is the most recebt publication authored by professor (Faculty)?,12,yes
+,,What is the most recemt publication authored by professor (Faculty)?,12,yes
+,,What is the most recenr publication authored by professor (Faculty)?,12,yes
+,,What is the most receny publication authored by professor (Faculty)?,12,yes
+,,What is the most recent oublication authored by professor (Faculty)?,12,yes
+,,What is the most recent pyblication authored by professor (Faculty)?,12,yes
+,,What is the most recent piblication authored by professor (Faculty)?,12,yes
+,,What is the most recent puvlication authored by professor (Faculty)?,12,yes
+,,What is the most recent punlication authored by professor (Faculty)?,12,yes
+,,What is the most recent pubkication authored by professor (Faculty)?,12,yes
+,,What is the most recent publucation authored by professor (Faculty)?,12,yes
+,,What is the most recent publocation authored by professor (Faculty)?,12,yes
+,,What is the most recent publixation authored by professor (Faculty)?,12,yes
+,,What is the most recent publivation authored by professor (Faculty)?,12,yes
+,,What is the most recent publicstion authored by professor (Faculty)?,12,yes
+,,What is the most recent publicarion authored by professor (Faculty)?,12,yes
+,,What is the most recent publicayion authored by professor (Faculty)?,12,yes
+,,What is the most recent publicatuon authored by professor (Faculty)?,12,yes
+,,What is the most recent publicatoon authored by professor (Faculty)?,12,yes
+,,What is the most recent publicatiin authored by professor (Faculty)?,12,yes
+,,What is the most recent publicatipn authored by professor (Faculty)?,12,yes
+,,What is the most recent publicatiob authored by professor (Faculty)?,12,yes
+,,What is the most recent publicatiom authored by professor (Faculty)?,12,yes
+,,What is the most recent publication suthored by professor (Faculty)?,12,yes
+,,What is the most recent publication aythored by professor (Faculty)?,12,yes
+,,What is the most recent publication aithored by professor (Faculty)?,12,yes
+,,What is the most recent publication aurhored by professor (Faculty)?,12,yes
+,,What is the most recent publication auyhored by professor (Faculty)?,12,yes
+,,What is the most recent publication autgored by professor (Faculty)?,12,yes
+,,What is the most recent publication autjored by professor (Faculty)?,12,yes
+,,What is the most recent publication authired by professor (Faculty)?,12,yes
+,,What is the most recent publication authpred by professor (Faculty)?,12,yes
+,,What is the most recent publication authoeed by professor (Faculty)?,12,yes
+,,What is the most recent publication authoted by professor (Faculty)?,12,yes
+,,What is the most recent publication authorwd by professor (Faculty)?,12,yes
+,,What is the most recent publication authorrd by professor (Faculty)?,12,yes
+,,What is the most recent publication authores by professor (Faculty)?,12,yes
+,,What is the most recent publication authoref by professor (Faculty)?,12,yes
+,,What is the most recent publication authored vy professor (Faculty)?,12,yes
+,,What is the most recent publication authored ny professor (Faculty)?,12,yes
+,,What is the most recent publication authored bt professor (Faculty)?,12,yes
+,,What is the most recent publication authored bu professor (Faculty)?,12,yes
+,,What is the most recent publication authored by orofessor (Faculty)?,12,yes
+,,What is the most recent publication authored by peofessor (Faculty)?,12,yes
+,,What is the most recent publication authored by ptofessor (Faculty)?,12,yes
+,,What is the most recent publication authored by prifessor (Faculty)?,12,yes
+,,What is the most recent publication authored by prpfessor (Faculty)?,12,yes
+,,What is the most recent publication authored by prodessor (Faculty)?,12,yes
+,,What is the most recent publication authored by progessor (Faculty)?,12,yes
+,,What is the most recent publication authored by profwssor (Faculty)?,12,yes
+,,What is the most recent publication authored by profrssor (Faculty)?,12,yes
+,,What is the most recent publication authored by profeasor (Faculty)?,12,yes
+,,What is the most recent publication authored by profedsor (Faculty)?,12,yes
+,,What is the most recent publication authored by profesaor (Faculty)?,12,yes
+,,What is the most recent publication authored by profesdor (Faculty)?,12,yes
+,,What is the most recent publication authored by professir (Faculty)?,12,yes
+,,What is the most recent publication authored by professpr (Faculty)?,12,yes
+,,What is the most recent publication authored by professoe (Faculty)?,12,yes
+,,What is the most recent publication authored by professot (Faculty)?,12,yes
+,,What are some publication  of (Faculty)?,12,yes
+,,Qhat are some publication  of (Faculty)?,12,yes
+,,Ehat are some publication  of (Faculty)?,12,yes
+,,Wgat are some publication  of (Faculty)?,12,yes
+,,Wjat are some publication  of (Faculty)?,12,yes
+,,Whst are some publication  of (Faculty)?,12,yes
+,,Whar are some publication  of (Faculty)?,12,yes
+,,Whay are some publication  of (Faculty)?,12,yes
+,,What sre some publication  of (Faculty)?,12,yes
+,,What aee some publication  of (Faculty)?,12,yes
+,,What ate some publication  of (Faculty)?,12,yes
+,,What arw some publication  of (Faculty)?,12,yes
+,,What arr some publication  of (Faculty)?,12,yes
+,,What are aome publication  of (Faculty)?,12,yes
+,,What are dome publication  of (Faculty)?,12,yes
+,,What are sime publication  of (Faculty)?,12,yes
+,,What are spme publication  of (Faculty)?,12,yes
+,,What are sone publication  of (Faculty)?,12,yes
+,,What are somw publication  of (Faculty)?,12,yes
+,,What are somr publication  of (Faculty)?,12,yes
+,,What are some oublication  of (Faculty)?,12,yes
+,,What are some pyblication  of (Faculty)?,12,yes
+,,What are some piblication  of (Faculty)?,12,yes
+,,What are some puvlication  of (Faculty)?,12,yes
+,,What are some punlication  of (Faculty)?,12,yes
+,,What are some pubkication  of (Faculty)?,12,yes
+,,What are some publucation  of (Faculty)?,12,yes
+,,What are some publocation  of (Faculty)?,12,yes
+,,What are some publixation  of (Faculty)?,12,yes
+,,What are some publivation  of (Faculty)?,12,yes
+,,What are some publicstion  of (Faculty)?,12,yes
+,,What are some publicarion  of (Faculty)?,12,yes
+,,What are some publicayion  of (Faculty)?,12,yes
+,,What are some publicatuon  of (Faculty)?,12,yes
+,,What are some publicatoon  of (Faculty)?,12,yes
+,,What are some publicatiin  of (Faculty)?,12,yes
+,,What are some publicatipn  of (Faculty)?,12,yes
+,,What are some publicatiob  of (Faculty)?,12,yes
+,,What are some publicatiom  of (Faculty)?,12,yes
+,,What are some publication  if (Faculty)?,12,yes
+,,What are some publication  pf (Faculty)?,12,yes
+,,What are some publication  od (Faculty)?,12,yes
+,,What are some publication  og (Faculty)?,12,yes
+,,Give me publication of (Faculty).,12,yes
+,,Five me publication of (Faculty).,12,yes
+,,Hive me publication of (Faculty).,12,yes
+,,Guve me publication of (Faculty).,12,yes
+,,Gove me publication of (Faculty).,12,yes
+,,Gice me publication of (Faculty).,12,yes
+,,Gibe me publication of (Faculty).,12,yes
+,,Givw me publication of (Faculty).,12,yes
+,,Givr me publication of (Faculty).,12,yes
+,,Give ne publication of (Faculty).,12,yes
+,,Give mw publication of (Faculty).,12,yes
+,,Give mr publication of (Faculty).,12,yes
+,,Give me oublication of (Faculty).,12,yes
+,,Give me pyblication of (Faculty).,12,yes
+,,Give me piblication of (Faculty).,12,yes
+,,Give me puvlication of (Faculty).,12,yes
+,,Give me punlication of (Faculty).,12,yes
+,,Give me pubkication of (Faculty).,12,yes
+,,Give me publucation of (Faculty).,12,yes
+,,Give me publocation of (Faculty).,12,yes
+,,Give me publixation of (Faculty).,12,yes
+,,Give me publivation of (Faculty).,12,yes
+,,Give me publicstion of (Faculty).,12,yes
+,,Give me publicarion of (Faculty).,12,yes
+,,Give me publicayion of (Faculty).,12,yes
+,,Give me publicatuon of (Faculty).,12,yes
+,,Give me publicatoon of (Faculty).,12,yes
+,,Give me publicatiin of (Faculty).,12,yes
+,,Give me publicatipn of (Faculty).,12,yes
+,,Give me publicatiob of (Faculty).,12,yes
+,,Give me publicatiom of (Faculty).,12,yes
+,,Give me publication if (Faculty).,12,yes
+,,Give me publication pf (Faculty).,12,yes
+,,Give me publication od (Faculty).,12,yes
+,,Give me publication og (Faculty).,12,yes
+,,Show me publication of (Faculty).,12,yes
+,,Ahow me publication of (Faculty).,12,yes
+,,Dhow me publication of (Faculty).,12,yes
+,,Sgow me publication of (Faculty).,12,yes
+,,Sjow me publication of (Faculty).,12,yes
+,,Shiw me publication of (Faculty).,12,yes
+,,Shpw me publication of (Faculty).,12,yes
+,,Shoq me publication of (Faculty).,12,yes
+,,Shoe me publication of (Faculty).,12,yes
+,,Show ne publication of (Faculty).,12,yes
+,,Show mw publication of (Faculty).,12,yes
+,,Show mr publication of (Faculty).,12,yes
+,,Show me oublication of (Faculty).,12,yes
+,,Show me pyblication of (Faculty).,12,yes
+,,Show me piblication of (Faculty).,12,yes
+,,Show me puvlication of (Faculty).,12,yes
+,,Show me punlication of (Faculty).,12,yes
+,,Show me pubkication of (Faculty).,12,yes
+,,Show me publucation of (Faculty).,12,yes
+,,Show me publocation of (Faculty).,12,yes
+,,Show me publixation of (Faculty).,12,yes
+,,Show me publivation of (Faculty).,12,yes
+,,Show me publicstion of (Faculty).,12,yes
+,,Show me publicarion of (Faculty).,12,yes
+,,Show me publicayion of (Faculty).,12,yes
+,,Show me publicatuon of (Faculty).,12,yes
+,,Show me publicatoon of (Faculty).,12,yes
+,,Show me publicatiin of (Faculty).,12,yes
+,,Show me publicatipn of (Faculty).,12,yes
+,,Show me publicatiob of (Faculty).,12,yes
+,,Show me publicatiom of (Faculty).,12,yes
+,,Show me publication if (Faculty).,12,yes
+,,Show me publication pf (Faculty).,12,yes
+,,Show me publication od (Faculty).,12,yes
+,,Show me publication og (Faculty).,12,yes
+,,Publications of (Faculty)?,12,yes
+,,Oublications of (Faculty)?,12,yes
+,,Pyblications of (Faculty)?,12,yes
+,,Piblications of (Faculty)?,12,yes
+,,Puvlications of (Faculty)?,12,yes
+,,Punlications of (Faculty)?,12,yes
+,,Pubkications of (Faculty)?,12,yes
+,,Publucations of (Faculty)?,12,yes
+,,Publocations of (Faculty)?,12,yes
+,,Publixations of (Faculty)?,12,yes
+,,Publivations of (Faculty)?,12,yes
+,,Publicstions of (Faculty)?,12,yes
+,,Publicarions of (Faculty)?,12,yes
+,,Publicayions of (Faculty)?,12,yes
+,,Publicatuons of (Faculty)?,12,yes
+,,Publicatoons of (Faculty)?,12,yes
+,,Publicatiins of (Faculty)?,12,yes
+,,Publicatipns of (Faculty)?,12,yes
+,,Publicatiobs of (Faculty)?,12,yes
+,,Publicatioms of (Faculty)?,12,yes
+,,Publicationa of (Faculty)?,12,yes
+,,Publicationd of (Faculty)?,12,yes
+,,Publications if (Faculty)?,12,yes
+,,Publications pf (Faculty)?,12,yes
+,,Publications od (Faculty)?,12,yes
+,,Publications og (Faculty)?,12,yes
 ,,What are some papers published by (Faculty)?,12,yes
 ,,Qhat are some papers published by (Faculty)?,12,yes
 ,,Ehat are some papers published by (Faculty)?,12,yes
@@ -5168,6 +6109,7 @@
 ,,Show me papers published ny (Faculty).,12,yes
 ,,Show me papers published bt (Faculty).,12,yes
 ,,Show me papers published bu (Faculty).,12,yes
+,,,,
 ,What is Rush's address?,What is (Building) address?,13,yes
 ,What is Rush's address?,Qhat is (Building) address?,13,yes
 ,What is Rush's address?,Ehat is (Building) address?,13,yes
@@ -5608,6 +6550,7 @@
 ,Give me Rush's address.,Give me (Building)'s addreds.,13,yes
 ,Give me Rush's address.,Give me (Building)'s addresa.,13,yes
 ,Give me Rush's address.,Give me (Building)'s addresd.,13,yes
+,,,,
 ,,When does (Building) close on (Day)?,14,yes
 ,,Qhen does (Building) close on (Day)?,14,yes
 ,,Ehen does (Building) close on (Day)?,14,yes
@@ -5942,6 +6885,7 @@
 ,,What time does Rush clode (Day)?,14,yes
 ,,What time does Rush closw (Day)?,14,yes
 ,,What time does Rush closr (Day)?,14,yes
+,,,,
 ,When does Rush open on Monday?,When does (Building) open on (Day)?,15,yes
 ,When does Rush open on Monday?,Qhen does (Building) open on (Day)?,15,yes
 ,When does Rush open on Monday?,Ehen does (Building) open on (Day)?,15,yes
@@ -5970,48 +6914,40 @@
 ,When does Rush open on Monday?,When does (Building) open pn (Day)?,15,yes
 ,When does Rush open on Monday?,When does (Building) open ob (Day)?,15,yes
 ,When does Rush open on Monday?,When does (Building) open om (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Qhat time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Ehat time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Wgat time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Wjat time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Whst time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Whar time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,Whay time does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What rime does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What yime does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What tume does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What tome does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What tine does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What timw does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What timr does Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time soes Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time foes Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time dies Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time dpes Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time dows Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time dors Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time doea Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time doed Rush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Eush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Tush open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rysh open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rish open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Ruah open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rudh open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rusg open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rusj open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush ipen on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush ppen on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush ooen on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush opwn on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush oprn on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush opeb on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush opem on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open in (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open pn (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open ob (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open om (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Qhat time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Ehat time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Wgat time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Wjat time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Whst time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Whar time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,Whay time does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What rime does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What yime does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What tume does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What tome does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What tine does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What timw does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What timr does (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time soes (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time foes (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time dies (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time dpes (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time dows (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time dors (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time doea (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time doed (Building) open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) ipen on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) ppen on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) ooen on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) opwn on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) oprn on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) opeb on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) opem on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) open in (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) open pn (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) open ob (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) open om (Day)?,15,yes
 ,What's Rush's open time on Monday?,What's (Building)'s open time on (Day)?,15,yes
 ,What's Rush's open time on Monday?,Qhat's (Building)'s open time on (Day)?,15,yes
 ,What's Rush's open time on Monday?,Ehat's (Building)'s open time on (Day)?,15,yes
@@ -6100,44 +7036,36 @@
 ,When does Rush open?,When does (Building) oprn?,15,yes
 ,When does Rush open?,When does (Building) opeb?,15,yes
 ,When does Rush open?,When does (Building) opem?,15,yes
-,What time does Rush open?,What time does Rush open?,15,yes
-,What time does Rush open?,Qhat time does Rush open?,15,yes
-,What time does Rush open?,Ehat time does Rush open?,15,yes
-,What time does Rush open?,Wgat time does Rush open?,15,yes
-,What time does Rush open?,Wjat time does Rush open?,15,yes
-,What time does Rush open?,Whst time does Rush open?,15,yes
-,What time does Rush open?,Whar time does Rush open?,15,yes
-,What time does Rush open?,Whay time does Rush open?,15,yes
-,What time does Rush open?,What rime does Rush open?,15,yes
-,What time does Rush open?,What yime does Rush open?,15,yes
-,What time does Rush open?,What tume does Rush open?,15,yes
-,What time does Rush open?,What tome does Rush open?,15,yes
-,What time does Rush open?,What tine does Rush open?,15,yes
-,What time does Rush open?,What timw does Rush open?,15,yes
-,What time does Rush open?,What timr does Rush open?,15,yes
-,What time does Rush open?,What time soes Rush open?,15,yes
-,What time does Rush open?,What time foes Rush open?,15,yes
-,What time does Rush open?,What time dies Rush open?,15,yes
-,What time does Rush open?,What time dpes Rush open?,15,yes
-,What time does Rush open?,What time dows Rush open?,15,yes
-,What time does Rush open?,What time dors Rush open?,15,yes
-,What time does Rush open?,What time doea Rush open?,15,yes
-,What time does Rush open?,What time doed Rush open?,15,yes
-,What time does Rush open?,What time does Eush open?,15,yes
-,What time does Rush open?,What time does Tush open?,15,yes
-,What time does Rush open?,What time does Rysh open?,15,yes
-,What time does Rush open?,What time does Rish open?,15,yes
-,What time does Rush open?,What time does Ruah open?,15,yes
-,What time does Rush open?,What time does Rudh open?,15,yes
-,What time does Rush open?,What time does Rusg open?,15,yes
-,What time does Rush open?,What time does Rusj open?,15,yes
-,What time does Rush open?,What time does Rush ipen?,15,yes
-,What time does Rush open?,What time does Rush ppen?,15,yes
-,What time does Rush open?,What time does Rush ooen?,15,yes
-,What time does Rush open?,What time does Rush opwn?,15,yes
-,What time does Rush open?,What time does Rush oprn?,15,yes
-,What time does Rush open?,What time does Rush opeb?,15,yes
-,What time does Rush open?,What time does Rush opem?,15,yes
+,What time does Rush open?,What time does (Building) open?,15,yes
+,What time does Rush open?,Qhat time does (Building) open?,15,yes
+,What time does Rush open?,Ehat time does (Building) open?,15,yes
+,What time does Rush open?,Wgat time does (Building) open?,15,yes
+,What time does Rush open?,Wjat time does (Building) open?,15,yes
+,What time does Rush open?,Whst time does (Building) open?,15,yes
+,What time does Rush open?,Whar time does (Building) open?,15,yes
+,What time does Rush open?,Whay time does (Building) open?,15,yes
+,What time does Rush open?,What rime does (Building) open?,15,yes
+,What time does Rush open?,What yime does (Building) open?,15,yes
+,What time does Rush open?,What tume does (Building) open?,15,yes
+,What time does Rush open?,What tome does (Building) open?,15,yes
+,What time does Rush open?,What tine does (Building) open?,15,yes
+,What time does Rush open?,What timw does (Building) open?,15,yes
+,What time does Rush open?,What timr does (Building) open?,15,yes
+,What time does Rush open?,What time soes (Building) open?,15,yes
+,What time does Rush open?,What time foes (Building) open?,15,yes
+,What time does Rush open?,What time dies (Building) open?,15,yes
+,What time does Rush open?,What time dpes (Building) open?,15,yes
+,What time does Rush open?,What time dows (Building) open?,15,yes
+,What time does Rush open?,What time dors (Building) open?,15,yes
+,What time does Rush open?,What time doea (Building) open?,15,yes
+,What time does Rush open?,What time doed (Building) open?,15,yes
+,What time does Rush open?,What time does (Building) ipen?,15,yes
+,What time does Rush open?,What time does (Building) ppen?,15,yes
+,What time does Rush open?,What time does (Building) ooen?,15,yes
+,What time does Rush open?,What time does (Building) opwn?,15,yes
+,What time does Rush open?,What time does (Building) oprn?,15,yes
+,What time does Rush open?,What time does (Building) opeb?,15,yes
+,What time does Rush open?,What time does (Building) opem?,15,yes
 ,What's Rush open time?,What's (Building)'s open time?,15,yes
 ,What's Rush open time?,Qhat's (Building)'s open time?,15,yes
 ,What's Rush open time?,Ehat's (Building)'s open time?,15,yes
@@ -6218,44 +7146,37 @@
 ,When does Rush open today?,When does (Building) oprn (Day)?,15,yes
 ,When does Rush open today?,When does (Building) opeb (Day)?,15,yes
 ,When does Rush open today?,When does (Building) opem (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Qhat time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Ehat time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Wgat time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Wjat time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Whst time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Whar time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,Whay time does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What rime does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What yime does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What tume does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What tome does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What tine does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What timw does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What timr does Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time soes Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time foes Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time dies Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time dpes Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time dows Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time dors Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time doea Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time doed Rush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Eush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Tush open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rysh open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rish open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Ruah open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rudh open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rusg open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rusj open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush ipen (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush ppen (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush ooen (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush opwn (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush oprn (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush opeb (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush opem (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Qhat time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Ehat time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Wgat time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Wjat time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Whst time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Whar time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,Whay time does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What rime does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What yime does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What tume does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What tome does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What tine does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What timw does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What timr does (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time soes (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time foes (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time dies (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time dpes (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time dows (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time dors (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time doea (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time doed (Building) open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) ipen (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) ppen (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) ooen (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) opwn (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) oprn (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) opeb (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) opem (Day)?,15,yes
+,,,,
 ,What is Rush's website?,What is (Building) website?,16,yes
 ,What is Rush's website?,Qhat is (Building) website?,16,yes
 ,What is Rush's website?,Ehat is (Building) website?,16,yes
@@ -6695,6 +7616,7 @@
 ,,What's (Building)'s addreds?,16,yes
 ,,What's (Building)'s addresa?,16,yes
 ,,What's (Building)'s addresd?,16,yes
+,,,,
 ,What is Rush's phone number?,What is (Building)'s phone number?,17,no
 ,What is Rush's phone number?,Qhat is (Building)'s phone number?,17,no
 ,What is Rush's phone number?,Ehat is (Building)'s phone number?,17,no
@@ -6865,6 +7787,7 @@
 ,Can I talk to someone at Rush?,Can I talk to someone st (Building)?,17,no
 ,Can I talk to someone at Rush?,Can I talk to someone ar (Building)?,17,no
 ,Can I talk to someone at Rush?,Can I talk to someone ay (Building)?,17,no
+,,,,
 ,Show me Rush building,Show me (Building) building,18,yes
 ,Show me Rush building,Ahow me (Building) building,18,yes
 ,Show me Rush building,Dhow me (Building) building,18,yes
@@ -7259,3 +8182,322 @@
 ,,How does (Building) look lile?,18,yes
 ,,How does (Building) look likw?,18,yes
 ,,How does (Building) look likr?,18,yes
+,,,,
+,,When is (Building) available on (Day)?,19,yes
+,,Qhen is (Building) available on (Day)?,19,yes
+,,Ehen is (Building) available on (Day)?,19,yes
+,,Wgen is (Building) available on (Day)?,19,yes
+,,Wjen is (Building) available on (Day)?,19,yes
+,,Whwn is (Building) available on (Day)?,19,yes
+,,Whrn is (Building) available on (Day)?,19,yes
+,,Wheb is (Building) available on (Day)?,19,yes
+,,Whem is (Building) available on (Day)?,19,yes
+,,When us (Building) available on (Day)?,19,yes
+,,When os (Building) available on (Day)?,19,yes
+,,When ia (Building) available on (Day)?,19,yes
+,,When id (Building) available on (Day)?,19,yes
+,,When is (Building) svailable on (Day)?,19,yes
+,,When is (Building) acailable on (Day)?,19,yes
+,,When is (Building) abailable on (Day)?,19,yes
+,,When is (Building) avsilable on (Day)?,19,yes
+,,When is (Building) avaulable on (Day)?,19,yes
+,,When is (Building) avaolable on (Day)?,19,yes
+,,When is (Building) avaikable on (Day)?,19,yes
+,,When is (Building) availsble on (Day)?,19,yes
+,,When is (Building) availavle on (Day)?,19,yes
+,,When is (Building) availanle on (Day)?,19,yes
+,,When is (Building) availabke on (Day)?,19,yes
+,,When is (Building) availablw on (Day)?,19,yes
+,,When is (Building) availablr on (Day)?,19,yes
+,,When is (Building) available in (Day)?,19,yes
+,,When is (Building) available pn (Day)?,19,yes
+,,When is (Building) available ob (Day)?,19,yes
+,,When is (Building) available om (Day)?,19,yes
+,,What time is (Building) available on (Day)?,19,yes
+,,Qhat time is (Building) available on (Day)?,19,yes
+,,Ehat time is (Building) available on (Day)?,19,yes
+,,Wgat time is (Building) available on (Day)?,19,yes
+,,Wjat time is (Building) available on (Day)?,19,yes
+,,Whst time is (Building) available on (Day)?,19,yes
+,,Whar time is (Building) available on (Day)?,19,yes
+,,Whay time is (Building) available on (Day)?,19,yes
+,,What rime is (Building) available on (Day)?,19,yes
+,,What yime is (Building) available on (Day)?,19,yes
+,,What tume is (Building) available on (Day)?,19,yes
+,,What tome is (Building) available on (Day)?,19,yes
+,,What tine is (Building) available on (Day)?,19,yes
+,,What timw is (Building) available on (Day)?,19,yes
+,,What timr is (Building) available on (Day)?,19,yes
+,,What time us (Building) available on (Day)?,19,yes
+,,What time os (Building) available on (Day)?,19,yes
+,,What time ia (Building) available on (Day)?,19,yes
+,,What time id (Building) available on (Day)?,19,yes
+,,What time is (Building) svailable on (Day)?,19,yes
+,,What time is (Building) acailable on (Day)?,19,yes
+,,What time is (Building) abailable on (Day)?,19,yes
+,,What time is (Building) avsilable on (Day)?,19,yes
+,,What time is (Building) avaulable on (Day)?,19,yes
+,,What time is (Building) avaolable on (Day)?,19,yes
+,,What time is (Building) avaikable on (Day)?,19,yes
+,,What time is (Building) availsble on (Day)?,19,yes
+,,What time is (Building) availavle on (Day)?,19,yes
+,,What time is (Building) availanle on (Day)?,19,yes
+,,What time is (Building) availabke on (Day)?,19,yes
+,,What time is (Building) availablw on (Day)?,19,yes
+,,What time is (Building) availablr on (Day)?,19,yes
+,,What time is (Building) available in (Day)?,19,yes
+,,What time is (Building) available pn (Day)?,19,yes
+,,What time is (Building) available ob (Day)?,19,yes
+,,What time is (Building) available om (Day)?,19,yes
+,,What's (Building)'s schedule on (Day)?,19,yes
+,,Qhat's (Building)'s schedule on (Day)?,19,yes
+,,Ehat's (Building)'s schedule on (Day)?,19,yes
+,,Wgat's (Building)'s schedule on (Day)?,19,yes
+,,Wjat's (Building)'s schedule on (Day)?,19,yes
+,,Whst's (Building)'s schedule on (Day)?,19,yes
+,,Whar's (Building)'s schedule on (Day)?,19,yes
+,,Whay's (Building)'s schedule on (Day)?,19,yes
+,,What'a (Building)'s schedule on (Day)?,19,yes
+,,What'd (Building)'s schedule on (Day)?,19,yes
+,,What's (Building)'a schedule on (Day)?,19,yes
+,,What's (Building)'d schedule on (Day)?,19,yes
+,,What's (Building)'s achedule on (Day)?,19,yes
+,,What's (Building)'s dchedule on (Day)?,19,yes
+,,What's (Building)'s sxhedule on (Day)?,19,yes
+,,What's (Building)'s svhedule on (Day)?,19,yes
+,,What's (Building)'s scgedule on (Day)?,19,yes
+,,What's (Building)'s scjedule on (Day)?,19,yes
+,,What's (Building)'s schwdule on (Day)?,19,yes
+,,What's (Building)'s schrdule on (Day)?,19,yes
+,,What's (Building)'s schesule on (Day)?,19,yes
+,,What's (Building)'s schefule on (Day)?,19,yes
+,,What's (Building)'s schedyle on (Day)?,19,yes
+,,What's (Building)'s schedile on (Day)?,19,yes
+,,What's (Building)'s scheduke on (Day)?,19,yes
+,,What's (Building)'s schedulw on (Day)?,19,yes
+,,What's (Building)'s schedulr on (Day)?,19,yes
+,,What's (Building)'s schedule in (Day)?,19,yes
+,,What's (Building)'s schedule pn (Day)?,19,yes
+,,What's (Building)'s schedule ob (Day)?,19,yes
+,,What's (Building)'s schedule om (Day)?,19,yes
+,,What is (Building) schedule on (Day)?,19,yes
+,,Qhat is (Building) schedule on (Day)?,19,yes
+,,Ehat is (Building) schedule on (Day)?,19,yes
+,,Wgat is (Building) schedule on (Day)?,19,yes
+,,Wjat is (Building) schedule on (Day)?,19,yes
+,,Whst is (Building) schedule on (Day)?,19,yes
+,,Whar is (Building) schedule on (Day)?,19,yes
+,,Whay is (Building) schedule on (Day)?,19,yes
+,,What us (Building) schedule on (Day)?,19,yes
+,,What os (Building) schedule on (Day)?,19,yes
+,,What ia (Building) schedule on (Day)?,19,yes
+,,What id (Building) schedule on (Day)?,19,yes
+,,What is (Building) achedule on (Day)?,19,yes
+,,What is (Building) dchedule on (Day)?,19,yes
+,,What is (Building) sxhedule on (Day)?,19,yes
+,,What is (Building) svhedule on (Day)?,19,yes
+,,What is (Building) scgedule on (Day)?,19,yes
+,,What is (Building) scjedule on (Day)?,19,yes
+,,What is (Building) schwdule on (Day)?,19,yes
+,,What is (Building) schrdule on (Day)?,19,yes
+,,What is (Building) schesule on (Day)?,19,yes
+,,What is (Building) schefule on (Day)?,19,yes
+,,What is (Building) schedyle on (Day)?,19,yes
+,,What is (Building) schedile on (Day)?,19,yes
+,,What is (Building) scheduke on (Day)?,19,yes
+,,What is (Building) schedulw on (Day)?,19,yes
+,,What is (Building) schedulr on (Day)?,19,yes
+,,What is (Building) schedule in (Day)?,19,yes
+,,What is (Building) schedule pn (Day)?,19,yes
+,,What is (Building) schedule ob (Day)?,19,yes
+,,What is (Building) schedule om (Day)?,19,yes
+,,What is the schedule of (Buidling) on (Day)?,19,yes
+,,Qhat is the schedule of (Buidling) on (Day)?,19,yes
+,,Ehat is the schedule of (Buidling) on (Day)?,19,yes
+,,Wgat is the schedule of (Buidling) on (Day)?,19,yes
+,,Wjat is the schedule of (Buidling) on (Day)?,19,yes
+,,Whst is the schedule of (Buidling) on (Day)?,19,yes
+,,Whar is the schedule of (Buidling) on (Day)?,19,yes
+,,Whay is the schedule of (Buidling) on (Day)?,19,yes
+,,What us the schedule of (Buidling) on (Day)?,19,yes
+,,What os the schedule of (Buidling) on (Day)?,19,yes
+,,What ia the schedule of (Buidling) on (Day)?,19,yes
+,,What id the schedule of (Buidling) on (Day)?,19,yes
+,,What is rhe schedule of (Buidling) on (Day)?,19,yes
+,,What is yhe schedule of (Buidling) on (Day)?,19,yes
+,,What is tge schedule of (Buidling) on (Day)?,19,yes
+,,What is tje schedule of (Buidling) on (Day)?,19,yes
+,,What is thw schedule of (Buidling) on (Day)?,19,yes
+,,What is thr schedule of (Buidling) on (Day)?,19,yes
+,,What is the achedule of (Buidling) on (Day)?,19,yes
+,,What is the dchedule of (Buidling) on (Day)?,19,yes
+,,What is the sxhedule of (Buidling) on (Day)?,19,yes
+,,What is the svhedule of (Buidling) on (Day)?,19,yes
+,,What is the scgedule of (Buidling) on (Day)?,19,yes
+,,What is the scjedule of (Buidling) on (Day)?,19,yes
+,,What is the schwdule of (Buidling) on (Day)?,19,yes
+,,What is the schrdule of (Buidling) on (Day)?,19,yes
+,,What is the schesule of (Buidling) on (Day)?,19,yes
+,,What is the schefule of (Buidling) on (Day)?,19,yes
+,,What is the schedyle of (Buidling) on (Day)?,19,yes
+,,What is the schedile of (Buidling) on (Day)?,19,yes
+,,What is the scheduke of (Buidling) on (Day)?,19,yes
+,,What is the schedulw of (Buidling) on (Day)?,19,yes
+,,What is the schedulr of (Buidling) on (Day)?,19,yes
+,,What is the schedule if (Buidling) on (Day)?,19,yes
+,,What is the schedule pf (Buidling) on (Day)?,19,yes
+,,What is the schedule od (Buidling) on (Day)?,19,yes
+,,What is the schedule og (Buidling) on (Day)?,19,yes
+,,What is the schedule of (Buidling) in (Day)?,19,yes
+,,What is the schedule of (Buidling) pn (Day)?,19,yes
+,,What is the schedule of (Buidling) ob (Day)?,19,yes
+,,What is the schedule of (Buidling) om (Day)?,19,yes
+,,When is (Building) available?,19,yes
+,,Qhen is (Building) available?,19,yes
+,,Ehen is (Building) available?,19,yes
+,,Wgen is (Building) available?,19,yes
+,,Wjen is (Building) available?,19,yes
+,,Whwn is (Building) available?,19,yes
+,,Whrn is (Building) available?,19,yes
+,,Wheb is (Building) available?,19,yes
+,,Whem is (Building) available?,19,yes
+,,When us (Building) available?,19,yes
+,,When os (Building) available?,19,yes
+,,When ia (Building) available?,19,yes
+,,When id (Building) available?,19,yes
+,,When is (Building) svailable?,19,yes
+,,When is (Building) acailable?,19,yes
+,,When is (Building) abailable?,19,yes
+,,When is (Building) avsilable?,19,yes
+,,When is (Building) avaulable?,19,yes
+,,When is (Building) avaolable?,19,yes
+,,When is (Building) avaikable?,19,yes
+,,When is (Building) availsble?,19,yes
+,,When is (Building) availavle?,19,yes
+,,When is (Building) availanle?,19,yes
+,,When is (Building) availabke?,19,yes
+,,When is (Building) availablw?,19,yes
+,,When is (Building) availablr?,19,yes
+,,What time is (Building) available?,19,yes
+,,Qhat time is (Building) available?,19,yes
+,,Ehat time is (Building) available?,19,yes
+,,Wgat time is (Building) available?,19,yes
+,,Wjat time is (Building) available?,19,yes
+,,Whst time is (Building) available?,19,yes
+,,Whar time is (Building) available?,19,yes
+,,Whay time is (Building) available?,19,yes
+,,What rime is (Building) available?,19,yes
+,,What yime is (Building) available?,19,yes
+,,What tume is (Building) available?,19,yes
+,,What tome is (Building) available?,19,yes
+,,What tine is (Building) available?,19,yes
+,,What timw is (Building) available?,19,yes
+,,What timr is (Building) available?,19,yes
+,,What time us (Building) available?,19,yes
+,,What time os (Building) available?,19,yes
+,,What time ia (Building) available?,19,yes
+,,What time id (Building) available?,19,yes
+,,What time is (Building) svailable?,19,yes
+,,What time is (Building) acailable?,19,yes
+,,What time is (Building) abailable?,19,yes
+,,What time is (Building) avsilable?,19,yes
+,,What time is (Building) avaulable?,19,yes
+,,What time is (Building) avaolable?,19,yes
+,,What time is (Building) avaikable?,19,yes
+,,What time is (Building) availsble?,19,yes
+,,What time is (Building) availavle?,19,yes
+,,What time is (Building) availanle?,19,yes
+,,What time is (Building) availabke?,19,yes
+,,What time is (Building) availablw?,19,yes
+,,What time is (Building) availablr?,19,yes
+,,What's (Building)'s schedule?,19,yes
+,,Qhat's (Building)'s schedule?,19,yes
+,,Ehat's (Building)'s schedule?,19,yes
+,,Wgat's (Building)'s schedule?,19,yes
+,,Wjat's (Building)'s schedule?,19,yes
+,,Whst's (Building)'s schedule?,19,yes
+,,Whar's (Building)'s schedule?,19,yes
+,,Whay's (Building)'s schedule?,19,yes
+,,What'a (Building)'s schedule?,19,yes
+,,What'd (Building)'s schedule?,19,yes
+,,What's (Building)'a schedule?,19,yes
+,,What's (Building)'d schedule?,19,yes
+,,What's (Building)'s achedule?,19,yes
+,,What's (Building)'s dchedule?,19,yes
+,,What's (Building)'s sxhedule?,19,yes
+,,What's (Building)'s svhedule?,19,yes
+,,What's (Building)'s scgedule?,19,yes
+,,What's (Building)'s scjedule?,19,yes
+,,What's (Building)'s schwdule?,19,yes
+,,What's (Building)'s schrdule?,19,yes
+,,What's (Building)'s schesule?,19,yes
+,,What's (Building)'s schefule?,19,yes
+,,What's (Building)'s schedyle?,19,yes
+,,What's (Building)'s schedile?,19,yes
+,,What's (Building)'s scheduke?,19,yes
+,,What's (Building)'s schedulw?,19,yes
+,,What's (Building)'s schedulr?,19,yes
+,,What is (Building) schedule?,19,yes
+,,Qhat is (Building) schedule?,19,yes
+,,Ehat is (Building) schedule?,19,yes
+,,Wgat is (Building) schedule?,19,yes
+,,Wjat is (Building) schedule?,19,yes
+,,Whst is (Building) schedule?,19,yes
+,,Whar is (Building) schedule?,19,yes
+,,Whay is (Building) schedule?,19,yes
+,,What us (Building) schedule?,19,yes
+,,What os (Building) schedule?,19,yes
+,,What ia (Building) schedule?,19,yes
+,,What id (Building) schedule?,19,yes
+,,What is (Building) achedule?,19,yes
+,,What is (Building) dchedule?,19,yes
+,,What is (Building) sxhedule?,19,yes
+,,What is (Building) svhedule?,19,yes
+,,What is (Building) scgedule?,19,yes
+,,What is (Building) scjedule?,19,yes
+,,What is (Building) schwdule?,19,yes
+,,What is (Building) schrdule?,19,yes
+,,What is (Building) schesule?,19,yes
+,,What is (Building) schefule?,19,yes
+,,What is (Building) schedyle?,19,yes
+,,What is (Building) schedile?,19,yes
+,,What is (Building) scheduke?,19,yes
+,,What is (Building) schedulw?,19,yes
+,,What is (Building) schedulr?,19,yes
+,,What is the schedule of (Buidling)?,19,yes
+,,Qhat is the schedule of (Buidling)?,19,yes
+,,Ehat is the schedule of (Buidling)?,19,yes
+,,Wgat is the schedule of (Buidling)?,19,yes
+,,Wjat is the schedule of (Buidling)?,19,yes
+,,Whst is the schedule of (Buidling)?,19,yes
+,,Whar is the schedule of (Buidling)?,19,yes
+,,Whay is the schedule of (Buidling)?,19,yes
+,,What us the schedule of (Buidling)?,19,yes
+,,What os the schedule of (Buidling)?,19,yes
+,,What ia the schedule of (Buidling)?,19,yes
+,,What id the schedule of (Buidling)?,19,yes
+,,What is rhe schedule of (Buidling)?,19,yes
+,,What is yhe schedule of (Buidling)?,19,yes
+,,What is tge schedule of (Buidling)?,19,yes
+,,What is tje schedule of (Buidling)?,19,yes
+,,What is thw schedule of (Buidling)?,19,yes
+,,What is thr schedule of (Buidling)?,19,yes
+,,What is the achedule of (Buidling)?,19,yes
+,,What is the dchedule of (Buidling)?,19,yes
+,,What is the sxhedule of (Buidling)?,19,yes
+,,What is the svhedule of (Buidling)?,19,yes
+,,What is the scgedule of (Buidling)?,19,yes
+,,What is the scjedule of (Buidling)?,19,yes
+,,What is the schwdule of (Buidling)?,19,yes
+,,What is the schrdule of (Buidling)?,19,yes
+,,What is the schesule of (Buidling)?,19,yes
+,,What is the schefule of (Buidling)?,19,yes
+,,What is the schedyle of (Buidling)?,19,yes
+,,What is the schedile of (Buidling)?,19,yes
+,,What is the scheduke of (Buidling)?,19,yes
+,,What is the schedulw of (Buidling)?,19,yes
+,,What is the schedulr of (Buidling)?,19,yes
+,,What is the schedule if (Buidling)?,19,yes
+,,What is the schedule pf (Buidling)?,19,yes
+,,What is the schedule od (Buidling)?,19,yes
+,,What is the schedule og (Buidling)?,19,yes

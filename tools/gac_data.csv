@@ -16,6 +16,7 @@
 ,Who is the best professor in CS department?,Who is the best professor in (Department) department?,0,no
 ,Which professors went to the same school?,Which professors went to the same school?,0,no
 ,What class does Professor Moriety teach this quarter?,What class does Professor (Faculty) teach this quarter?,0,no
+,,,,
 ,Where is Augenblick's office?,Where is (Faculty)'s office?,1,yes
 ,Where is Professor Marcello Balduccinni's office?,Where is Professor (Faculty)'s office?,1,yes
 ,Can I get the address of Marcello Balduccinni's office?,Can I get the address of (Faculty)'s office?,1,yes
@@ -26,6 +27,7 @@
 ,Can I get the address of Professor Marcello Balduccinni's office?,How do I get to (Faculty)'s office?,1,yes
 ,What is David Augenblick's office?,How do I find (Faculty)'s office?,1,yes
 ,Where is David Augenblicks' office?,How do I get to (Faculty)'s office?,1,yes
+,,,,
 ,What is Professor Marcello Balduccinni's email address?,What is Professor (Faculty)'s email address?,2,yes
 ,What is Professor Marcello Balduccinni's email address?,Can you give me (Faculty)'s email address?,2,yes
 ,,Do you know (Faculty)'s email address?,2,yes
@@ -42,6 +44,7 @@
 ,,Do you know (Faculty)'s e-mail?,2,yes
 ,,What's (Faculty)'s email address?,2,yes
 ,,What's (Faculty)'s e-mail address?,2,yes
+,,,,
 ,Who's office is at Rush 233C?,Who's office is at (Building) (Room)?,3,no
 ,Who's office is at Rush 233C?,Who is at (Building) (Room)?,3,no
 ,,What is at (Building) (Room)?,3,no
@@ -52,6 +55,7 @@
 ,,What is in (Room) of (Building)?,3,no
 ,,What will I find in (Building) (Room)?,3,no
 ,,What should I expect to be in (Building) (Room)?,3,no
+,,,,
 ,Where did Professor Marcello Balduccinni get his P.hd from?,Where did Professor (Faculty) get his P.hd from?,4,yes
 ,Where did Marcello Balduccinni get his P.hd from?,Where did (Faculty) get his P.hd from?,4,yes
 ,Does Augenblick have a PhD,Does (Faculty) have a PhD?,4,yes
@@ -62,6 +66,7 @@
 ,What is the education of Mongan?,What is the education of (Faculty)?,4,yes
 ,,How smart is (Faculty),4,yes
 ,,When did (Faculty) graduate?,4,yes
+,,,,
 ,Does Professor Marcello Balduccinni have a website?,Does Professor (Faculty) have a website?,5,yes
 ,Do you have Professor Marcello Balduccinni's website?,Do you have Professor (Faculty)'s website?,5,yes
 ,Does Mongan have a website?,Does (Faculty) have a website?,5,yes
@@ -72,6 +77,7 @@
 ,,What is the website of (Faculty)?,5,yes
 ,,What's the website of (Faculty)?,5,yes
 ,,Give me professor (Faculty)'s website.,5,yes
+,,,,
 ,Who is head of Computer Science Department?,Who is head of (Department) Department?,6,no
 ,Who is head of Computer Science Department?,Who leads the (Department) Department?,6,no
 ,Who is dean of Computer Science Department?,Who is dean of the (Department) Department?,6,no
@@ -81,6 +87,19 @@
 ,,Tell me who is head of (Department) Department?,6,no
 ,,What is the name of (Department) Department's dean?,6,no
 ,,What is the name of (Department) Department's head?,6,no
+,,,,
+,in what department is marcello balduccini,In what department is (Faculty),6,yes
+,,What department is (Faculty) in?,6,yes
+,,Whats (Faculty)'s department?,6,yes
+,,Do you know (Faculy)'s department?,6,yes
+,,Which department is (Faculty),6,yes
+,,In which department is (Faculty),6,yes
+,,(Faculty)'s department?,6,yes
+,,Tell me (Faculty)'s department.,6,yes
+,,What department does (Faculty) work in?,6,yes
+,,What is the department of (Faculty)?,6,yes
+,,Department of (Faculty)?,6,yes
+,,,,
 ,Who is Augenblick?,Who is (Faculty)?,7,yes
 ,Who is Dr. Exel?,Who is Dr. (Faculty)?,7,yes
 ,,What do you know about (Faculty)?,7,yes
@@ -91,6 +110,7 @@
 ,,What is (Faculty)'s bio?,7,yes
 ,,Tell me about (Faculty),7,yes
 ,,(Faculty)?,7,yes
+,,,,
 ,What does Mongan look like?,What does (Faculty) look like?,8,yes
 ,Show me Mongan's face.,Show me (Faculty)'s face.,8,yes
 ,What does Mongan's face look like?,What does (Faculty)'s face look like?,8,yes
@@ -102,6 +122,19 @@
 ,,What does professor (Faculty)'s face look like?,8,yes
 ,,Show me professor (Faculty). ,8,yes
 ,,What does professor (Faculty) face look like?,8,yes
+,,Do you have (Faculty)'s picture?,8,yes
+,,Can you show me (Faculty)'s photo?,8,yes
+,,Show me (Faculty)'s picture.,8,yes
+,,Give me (Faculty)'s picture.,8,yes
+,,Show me (Faculty) photo.,8,yes
+,,Give me (Faculty) photo.,8,yes
+,,What is (Faculty)'s picture?,8,yes
+,,Do you have a picture of Vokolos?,8,yes
+,,Do you have (Faculty)'s photo?,8,yes
+,,Do you have (Faculty)'s picture?,8,yes
+,,(Faculty)'s picture?,8,yes
+,,(Faculty)'s picture?,8,yes
+,,,,
 ,What is Mongan's research interestr?,What is (Faculty)'s research interest? ,9,yes
 ,,What is (Faculty)'s area of research?,9,yes
 ,,What does (Faculty) research?,9,yes
@@ -109,9 +142,12 @@
 ,,Where does (Faculty) specialize?,9,yes
 ,,What is (Faculty)'s interest? ,9,yes
 ,,What is (Faculty)'s interested in? ,9,yes
+,,What are (Faculty)'s research interests? ,9,yes
 ,,What does (Faculty) research? ,9,yes
 ,,What is the focus of (Faculty) ? ,9,yes
 ,,What does (Faculty) currently research? ,9,yes
+,,What is (Faculty)'s interest? ,9,yes
+,,,,
 ,What is Mongan's position?,What is (Faculty)'s position?,10,yes
 ,What is Mongan's title?,What is (Faculty)'s title?,10,yes
 ,,Is (Faculty) full-time?,10,yes
@@ -122,6 +158,7 @@
 ,,What is (Faculty)?,10,yes
 ,,Give me (Faculty)'s position.,10,yes
 ,,Give me professor (Faculty)'s position.,10,yes
+,,,,
 ,What is Mongan's phone number?,What is (faculty)'s phone number? ,11,yes
 ,What number should I use to call Mongan?,What number should I use to call (faculty)?,11,yes
 ,How can I call Mongan?,How can I call (faculty)?,11,yes
@@ -132,17 +169,20 @@
 ,What number does Professor Mongan want me to call to find him?,What number does Professor (faculty) want me to call to find him?,11,yes
 ,What is listed for Professor Mongan's phone number?,What is listed for Professor (faculty)'s phone number?,11,yes
 ,What is the number to use for Professor Mongan?,What is the number to use for Professor (faculty)?,11,yes
-,What are some publications of Professor Mongan?,What are some (Publications) of Professor (Faculty)?,12,yes
-,What is the most recent paper authored by Vokolos?,What is the most recent (Publication) authored by (Faculty)?,12,yes
-,What are some publications about Mongan's research?,What are some (Publications) about (Faculty)'s research?,12,yes
+,,,,
+,What are some publications of Professor Mongan?,What are some publications of Professor (Faculty)?,12,yes
+,What is the most recent paper authored by Vokolos?,What is the most recent publication authored by (Faculty)?,12,yes
+,What are some publications about Mongan's research?,What are some publication  about (Faculty)'s research?,12,yes
 ,I want to read a paper from Vokolos.,I want to read a paper from (Faculty).,12,yes
-,,What is the most recent (Publication) authored by professor (Faculty)?,12,yes
-,,What are some (Publications) of (Faculty)?,12,yes
-,,Give me (Publications) of (Faculty).,12,yes
-,,Show me (Publications) of (Faculty).,12,yes
+,,What is the most recent publication authored by professor (Faculty)?,12,yes
+,,What are some publication  of (Faculty)?,12,yes
+,,Give me publication of (Faculty).,12,yes
+,,Show me publication of (Faculty).,12,yes
+,,Publications of (Faculty)?,12,yes
 ,,What are some papers published by (Faculty)?,12,yes
 ,,Give me papers published by (Faculty).,12,yes
 ,,Show me papers published by (Faculty).,12,yes
+,,,,
 ,What is Rush's address?,What is (Building) address?,13,yes
 ,Where is Rush Building?,Where is (Building) building?,13,yes
 ,How do I get to Rush Building?,How do I get to (Building) Building?,13,yes
@@ -153,6 +193,7 @@
 ,I want Rush's address.,I want (Building)'s address.,13,yes
 ,What address should I use for Rush Building?,What address should I use for (Building) Building?,13,yes
 ,Give me Rush's address.,Give me (Building)'s address.,13,yes
+,,,,
 ,,When does (Building) close on (Day)?,14,yes
 ,,What time does Rush close on (Day)?,14,yes
 ,,What's (Building)'s close time on (Day)?,14,yes
@@ -163,16 +204,18 @@
 ,,What time does (Building) close?,14,yes
 ,,When does (Building) close (Day)?,14,yes
 ,,What time does Rush close (Day)?,14,yes
+,,,,
 ,When does Rush open on Monday?,When does (Building) open on (Day)?,15,yes
-,What time does Rush open on Monday?,What time does Rush open on (Day)?,15,yes
+,What time does Rush open on Monday?,What time does (Building) open on (Day)?,15,yes
 ,What's Rush's open time on Monday?,What's (Building)'s open time on (Day)?,15,yes
 ,When's Rush open on Monday?,What time does (Building) open on (Day)?,15,yes
 ,When does Rush open?,When does (Building) open?,15,yes
-,What time does Rush open?,What time does Rush open?,15,yes
+,What time does Rush open?,What time does (Building) open?,15,yes
 ,What's Rush open time?,What's (Building)'s open time?,15,yes
 ,When's Rush open?,What time does (Building) open?,15,yes
 ,When does Rush open today?,When does (Building) open (Day)?,15,yes
-,What time does Rush open tomorrow?,What time does Rush open (Day)?,15,yes
+,What time does Rush open tomorrow?,What time does (Building) open (Day)?,15,yes
+,,,,
 ,What is Rush's website?,What is (Building) website?,16,yes
 ,What is Rush's site?,What is (Building) site?,16,yes
 ,Where can I get more information about Rush?,Where can I get more information about (Building)?,16,yes
@@ -183,11 +226,13 @@
 ,How can I go to Rush's website?,How can I go to (Building)'s website?,16,yes
 ,What is the address of Rush's website?,What is the address of (Building)'s website?,16,yes
 ,,What's (Building)'s address?,16,yes
+,,,,
 ,What is Rush's phone number?,What is (Building)'s phone number?,17,no
 ,Where can I contact Rush?,Where can I contact (Building)?,17,no
 ,How can I contact Rush?,How can I contact (Building)?,17,no
 ,What number can Rush be reached at?,What number can (Building) be reached at?,17,no
 ,Can I talk to someone at Rush?,Can I talk to someone at (Building)?,17,no
+,,,,
 ,Show me Rush building,Show me (Building) building,18,yes
 ,Can you show me a picture of Rush?,Can you show me a picture of (Building)?,18,yes
 ,Can I see what Rush looks like?,Can I see what (Building) looks like?,18,yes
@@ -199,3 +244,14 @@
 ,,Can you show me a picture of (Building) building?,18,yes
 ,,What does (Building) look like?,18,yes
 ,,How does (Building) look like?,18,yes
+,,,,
+,,When is (Building) available on (Day)?,19,yes
+,,What time is (Building) available on (Day)?,19,yes
+,,What's (Building)'s schedule on (Day)?,19,yes
+,,What is (Building) schedule on (Day)?,19,yes
+,,What is the schedule of (Buidling) on (Day)?,19,yes
+,,When is (Building) available?,19,yes
+,,What time is (Building) available?,19,yes
+,,What's (Building)'s schedule?,19,yes
+,,What is (Building) schedule?,19,yes
+,,What is the schedule of (Buidling)?,19,yes
