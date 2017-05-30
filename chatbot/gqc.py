@@ -17,7 +17,7 @@ class GenericQuestionConstruction():
         #'Yuan An'). Also, it considers 'Does' to be a proper noun
         self.tag_list = postag_class.getpostag(self.question)
         logging.debug("tag_list: " + str(self.tag_list))
-        rep_list = self.findrepresentation()
+        rep_list = self.__findrepresentation()
         logging.debug("rep_list: " + str(rep_list))
 
         #if database does not have information about nouns in the question, stop 
@@ -41,7 +41,7 @@ class GenericQuestionConstruction():
         returnedobject.rep_list = rep_list
         return returnedobject
 
-    def findrepresentation(self):
+    def __findrepresentation(self):
         #retrieve all nouns
         noun_list = []
         count = 0
