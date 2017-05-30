@@ -1,7 +1,7 @@
 #file_name = "gac_data.csv"
 file_name = "gac_data_combined.csv"
 out_name = "trained_model.m5"
-num_of_gas = 19
+num_of_gas = 20 
 max_question_length = 25 #used to be 100
 top_words = 5000
 filt = '.?"\/!,<>@#$%^&*_-+=|}{][:;~`'
