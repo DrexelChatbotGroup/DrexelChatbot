@@ -102,7 +102,7 @@ function sendMessage() {
 			console.log(a);
 			var exp = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
 			if(a.content.includes("is an image of") || a.content.includes("is a picture of")){
-      			a.content = a.content.replace(exp,"<img src='$1'></img>");
+      			a.content = a.content.replace(exp,"<img height=\"250px\" src='$1'></img>");
       			console.log(a.content); 
 			} else if(!a.content.includes("is an image of") || !a.content.includes("is a picture of")) {
 				a.content = a.content.replace(exp,"<a href='$1'>$1</a>"); 
