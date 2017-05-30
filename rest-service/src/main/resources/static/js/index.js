@@ -53,7 +53,7 @@ $(window).on('keydown', function(e) {
 });
 
 var Fake = [
-  'zzz...'
+  'We are sorry, but the Drexel Chatbot services cannot be reached at the moment.  Sorry for the inconvenience.'
 ]
 
 function welcomeMessage(){
