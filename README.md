@@ -16,8 +16,7 @@ http://129.25.4.145:8080/chatbot
 2157918946
 
 ##### How to run the Spring Rest Service:
-1. Navigate to the rest-service directory
-2. Run command "mvn clean spring-boot:run"
+[Aaron]
 
 ##### How to start gac Python Server for gac:
 1. Navigate to chatbot directory.
@@ -30,6 +29,11 @@ http://129.25.4.145:8080/chatbot
 3. Run `sudo python3 gac_training.py`
 4. Move the newly created "trained_model.m5" file to the chatbot directory.
 5. Restart the gac Python Server.
+
+#### How start the database server:
+1. Navigate to the stardog/bin directory.
+2. Run the command `stardog-admin server stop` to be sure there isn't a server already running. 
+3. Run the command `stardog-admin server start --disable-security`
 
 #### How to run the information extraction:
 1. Navigate to the ie directory.
@@ -44,3 +48,4 @@ http://129.25.4.145:8080/chatbot
 * NLTK(http://www.nltk.org/install.html),
 * Keras (https://keras.io/#installation)
 * Tensor Flow (https://www.tensorflow.org/install/install_linux)
+* Stardog (http://www.stardog.com/#download)
