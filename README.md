@@ -15,7 +15,7 @@ http://129.25.4.145:8080/chatbot
 #### Service sms number 
 2157918946
 
-##### How to run the Spring Rest Service:
+##### How to run the Spring Services (API, SMS interface, and Web interface):
 1. Navigate to the rest-service directory
 2. Run command `mvn clean spring-boot:run`
 
