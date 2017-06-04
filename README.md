@@ -16,7 +16,8 @@ http://129.25.4.145:8080/chatbot
 2157918946
 
 ##### How to run the Spring Rest Service:
-[Aaron]
+1. Navigate to the rest-service directory
+2. Run command "mvn clean spring-boot:run"
 
 ##### How to start gac Python Server for gac:
 1. Navigate to chatbot directory.
