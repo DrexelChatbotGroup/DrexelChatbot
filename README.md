@@ -45,8 +45,8 @@ http://129.25.4.145:8080/chatbot
 #### Dependencies:
 * BeautifulSoup (installation: pip install bs4),
 * Requests (installation: pip install Requests),
-* SPARQLWrapper(installation: pip install SPARQLWrapper),
-* NLTK(http://www.nltk.org/install.html),
+* SPARQLWrapper (installation: pip install SPARQLWrapper),
+* NLTK (http://www.nltk.org/install.html),
 * Keras (https://keras.io/#installation)
 * Tensor Flow (https://www.tensorflow.org/install/install_linux)
 * Stardog (http://www.stardog.com/#download)
