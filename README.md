@@ -43,9 +43,9 @@ http://129.25.4.145:8080/chatbot
 4. If you want to do both 2. and 3., you can run the command `python3 iemain.py`
 
 #### Dependencies:
-* BeautifulSoup (installation: pip install bs4),
-* Requests (installation: pip install Requests),
-* SPARQLWrapper (installation: pip install SPARQLWrapper),
+* BeautifulSoup (installation: `pip install bs4`),
+* Requests (installation: `pip install Requests`),
+* SPARQLWrapper (installation: `pip install SPARQLWrapper`),
 * NLTK (http://www.nltk.org/install.html),
 * Keras (https://keras.io/#installation)
 * Tensor Flow (https://www.tensorflow.org/install/install_linux)
