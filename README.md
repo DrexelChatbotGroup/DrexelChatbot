@@ -36,6 +36,7 @@ http://129.25.4.145:8080/chatbot
 3. If you want to recreate the database using the ttl files, run the command `python3 iemain.py -d`
 4. If you want to do both 2. and 3., you can run the command `python3 iemain.py`
 
-#### IE prototype libraries:
+#### Dependencies:
 BeautifulSoup (installation: pip install bs4),
 Requests (installation: pip install Requests)
+NLTK(http://www.nltk.org/install.html)
