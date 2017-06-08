@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">ChatBotClient</string>
-
-    <string name="dummy_button">Send</string>
-    <string name="texthint">Type a question here!</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-</resources>
